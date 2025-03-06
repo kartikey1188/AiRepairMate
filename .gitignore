@@ -34,3 +34,9 @@ yarn-error.*
 
 # typescript
 *.tsbuildinfo
+
+# miscellaneous
+backend/data/raw_data
+.env
+service-account.json
+backend/.venv
