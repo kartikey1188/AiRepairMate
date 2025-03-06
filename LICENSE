@@ -1,0 +1,50 @@
+Repository Owner Controlled License (ROCL) v1.0
+1. Ownership and Copyright
+All rights to the software, including copyright, patents, and intellectual property, are exclusively owned by the Licensor (repository owner).
+
+No rights are granted except as explicitly stated below.
+
+2. Permitted Usage
+You may use the software for personal, non-commercial purposes.
+
+You may view and fork the repository for archival or backup purposes.
+
+3. Restrictions
+No Modification: You may not modify, adapt, or create derivative works without explicit written permission from the Licensor.
+
+No Distribution: You may not distribute, publish, or share the software (original or modified) without prior approval.
+
+No Commercial Use: Commercial use, including monetization, integration, or resale, is prohibited unless negotiated with the Licensor.
+
+No Sublicensing: You may not grant others rights to the software beyond what is permitted in this license.
+
+4. Contributions
+Any contributions (code, documentation, etc.) submitted to the repository automatically become the exclusive property of the Licensor.
+
+Contributors waive all moral rights and agree to sign additional agreements if requested by the Licensor.
+
+5. Termination
+The Licensor may terminate your rights to use the software at any time, for any reason, without notice.
+
+Upon termination, you must destroy all copies of the software and cease all use.
+
+6. No Warranty
+The software is provided “as is” without warranties of any kind. The Licensor disclaims all liability for damages arising from its use.
+
+7. Updates and Changes
+The Licensor reserves the right to modify this license at any time. Continued use of the software constitutes acceptance of the revised terms.
+
+8. Enforcement
+Violations of this license may result in legal action.
+
+Jurisdiction for disputes is the Licensor’s local legal system.
+
+9. Explicit Permission Requirement
+To request permissions beyond this license (e.g., modification, commercial use), contact:
+Email: rastmanas@gmail.com
+Terms: The Licensor may impose additional conditions or fees at their sole discretion.
+
+Example Scenarios:
+Allowed: Viewing code, running the software privately.
+
+Prohibited: Forking to create a competing project, using the software in a SaaS product, redistributing binaries.
