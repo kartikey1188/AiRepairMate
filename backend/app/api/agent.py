@@ -92,6 +92,9 @@ class MainAgent(Resource):
 
             chat_history.add_ai_message(final_response)
 
+            if not isinstance(final_response, (dict, str, list)):
+                final_response = str(final_response)  
+
             return jsonify({"response": final_response}), 200
 
         except Exception as e:
