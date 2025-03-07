@@ -15,9 +15,15 @@ from langchain_chroma import Chroma
 from langchain_huggingface import HuggingFaceEmbeddings
 from langchain.agents import create_react_agent, AgentExecutor
 from langchain.prompts import ChatPromptTemplate, SystemMessagePromptTemplate, HumanMessagePromptTemplate
+from langchain_google_firestore import FirestoreChatMessageHistory
+from google.cloud import firestore
 
 # Load environment variables
 load_dotenv()
+
+# Firestore setup
+COLLECTION_NAME = "ai_repair_chat_history"
+client = firestore.Client()
 
 # Vector DB setup
 current_dir = os.path.dirname(os.path.abspath(__file__))
@@ -59,6 +65,14 @@ class MainAgent(Resource):
             image_bytes = convert_to_bytes(image_file) if image_file else None
             audio_bytes = convert_to_bytes(audio_file) if audio_file else None
 
+            # Firestore chat history setup
+            chat_history = FirestoreChatMessageHistory(
+                session_id=str(user_id), collection=COLLECTION_NAME, client=client
+            )
+            
+            if query:
+                chat_history.add_user_message(query)
+            
             # Prepare agent input
             agent_input = {
                 "user_id": user_id,
@@ -70,8 +84,13 @@ class MainAgent(Resource):
             # Call agent
             agent_response = agent_executor.invoke(agent_input)
             
-            # Final processing
-            final_response = extract_final_data(agent_response)
+            # If response is metadata, process it; otherwise, return as-is
+            if isinstance(agent_response, dict) and "filename" in agent_response:
+                final_response = extract_final_data(agent_response)
+            else:
+                final_response = clean_text(agent_response) if agent_response else "No response from AI."
+
+            chat_history.add_ai_message(final_response)
 
             return jsonify({"response": final_response}), 200
 

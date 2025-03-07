@@ -17,7 +17,7 @@ def clean_text(text):
 
 @tool
 def describe_audio(audio: bytes):
-    """Takes an audio file as input and returns a detailed description using Gemini-2.0-Flash-Exp-Audio."""
+    """Takes an audio file as input and returns a detailed description using Gemini-2.0-Flash-Exp-Audio. Focus on finding and describing what the particular appliance/thing is, what its exact model is, and what the issue is."""
     
     encoded_audio = base64.b64encode(audio).decode("utf-8")
     

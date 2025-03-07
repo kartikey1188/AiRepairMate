@@ -26,7 +26,7 @@ def extract_text_from_image(image_bytes):
 
 @tool
 def describe_image(image: bytes):
-    """Takes an image as input, extracts text using OCR, then generates a detailed description using Gemini-2.0-Flash-Exp-Image."""
+    """Takes an image as input, extracts text using OCR, then generates a detailed description using Gemini-2.0-Flash-Exp-Image. Focus on finding and describing what the particular appliance/thing is, what its exact model is, and what the issue is."""
     
     # Step 1: Extract and clean text using OCR
     ocr_text = extract_text_from_image(image)
