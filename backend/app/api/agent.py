@@ -7,7 +7,7 @@ from dotenv import load_dotenv
 from . import *
 
 from backend.app.api.agent_tools import *
-from backend.app.utils.strings import system_text44
+from backend.app.utils.strings import *
 from backend.app.utils.finalizer import extract_final_data
 
 from langchain_google_genai import ChatGoogleGenerativeAI
@@ -37,11 +37,13 @@ llm_general = ChatGoogleGenerativeAI(model="gemini-2.0-flash")
 # Define tools
 tools = [describe_audio, find_closest_match, describe_image, get_chat_history]
 
+#print("Registered tools:", tools)
+
 custom_prompt = ChatPromptTemplate.from_messages([
     SystemMessagePromptTemplate.from_template(system_text44),
     HumanMessagePromptTemplate.from_template(
         "User ID: {user_id}, Query: {input}, Image_Description: {image_description}, Audio_Description: {audio_description}"
-    ),
+    )
 ])
 
 # Create Agent
@@ -83,24 +85,32 @@ class MainAgent(Resource):
 
             # Call agent
             agent_response = agent_executor.invoke(agent_input)
-            
-            # If response is metadata, process it; otherwise, return as-is
-            if isinstance(agent_response, dict) and "filename" in agent_response:
-                final_response = extract_final_data(agent_response)
+
+            print("Agent response:", agent_response)
+
+            # Extract text response from the agent's output dictionary
+            output_text = agent_response.get("output", "")  # Get text or empty string
+
+            print("Output_text:", output_text)
+
+            # Process the response
+            if isinstance(output_text, dict) and "filename" in output_text:
+                final_response = extract_final_data(output_text)
             else:
-                final_response = clean_text(agent_response) if agent_response else "No response from AI."
+                # Clean the extracted text output
+                final_response = clean_text(output_text) if output_text else "No response from AI."
 
             chat_history.add_ai_message(final_response)
 
             if not isinstance(final_response, (dict, str, list)):
                 final_response = str(final_response)  
 
-            return jsonify({"response": final_response}), 200
+            return {"response": final_response}, 200
 
         except Exception as e:
             app.logger.error(f"Exception occurred: {e}")
             app.logger.error(traceback.format_exc())
-            return jsonify({"Error": "Failed to process request"}), 500
+            return {"Error": "Failed to process request"}, 500
 
 
 api.add_resource(MainAgent, "/main_agent")
