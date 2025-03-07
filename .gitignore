@@ -40,4 +40,3 @@ backend/data/raw_data
 .env
 service-account.json
 backend/.venv
-backend/data/clean_data
