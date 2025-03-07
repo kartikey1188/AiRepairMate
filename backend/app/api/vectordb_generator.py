@@ -20,29 +20,36 @@ load_dotenv()
 
 # Configurations
 current_dir = os.path.dirname(os.path.abspath(__file__))
-json_dir = os.path.abspath(os.path.join(current_dir, "..", "..", "data", "raw_data"))
+json_dir = os.path.abspath(os.path.join(current_dir, "..", "..", "data", "clean_data"))
 persistent_directory = os.path.abspath(os.path.join(current_dir, "..", "..", "data", "vector_database"))
 
 # Initialize embeddings & vector database
 embeddings = HuggingFaceEmbeddings(model_name="BAAI/bge-small-en")
-vector_db = Chroma(persist_directory=persistent_directory, embedding_function=embeddings)
 
 # Initialize Gemini model
 llm_general = ChatGoogleGenerativeAI(model="gemini-2.0-flash")
 
 
-def extract_urls(data):
-    """Recursively extract all URLs from JSON."""
-    urls = []
+def extract_url_metadata(data, parent_key=""):
+    """Recursively extract all URLs from JSON and keep their associated keys."""
+    url_metadata = {}
+
     if isinstance(data, dict):
-        for value in data.values():
-            urls.extend(extract_urls(value))
+        for key, value in data.items():
+            full_key = f"{parent_key}.{key}" if parent_key else key
+            url_metadata.update(extract_url_metadata(value, full_key))
+
     elif isinstance(data, list):
-        for item in data:
-            urls.extend(extract_urls(item))
+        for index, item in enumerate(data):
+            full_key = f"{parent_key}[{index}]"
+            url_metadata.update(extract_url_metadata(item, full_key))
+
     elif isinstance(data, str):
-        urls.extend(re.findall(r"https?://[^\s<>\"']+", data))  # Regex for URLs
-    return list(set(urls))  # Remove duplicates
+        urls = re.findall(r"https?://[^\s<>\"']+", data)
+        if urls:
+            url_metadata[parent_key] = urls  # Store URLs under their respective keys
+
+    return url_metadata
 
 
 def generate_gemini_summary(text):
@@ -61,6 +68,8 @@ class GenerateVectorDB(Resource):
             if not os.path.exists(json_dir):
                 raise FileNotFoundError(f"The directory {json_dir} does not exist.")
 
+            vector_db = Chroma(persist_directory=persistent_directory, embedding_function=embeddings)
+            
             json_files = [f for f in os.listdir(json_dir) if f.endswith(".json")]
             documents = []
             count = 0
@@ -76,9 +85,9 @@ class GenerateVectorDB(Resource):
                         print(f"Skipping {file}: Invalid JSON format.")
                         continue
 
-                # Extract URLs
-                urls = extract_urls(data)
-                if not urls:
+                # Extract URLs with their keys
+                url_metadata = extract_url_metadata(data)
+                if not url_metadata:
                     print(f"No URLs found in {file}, skipping.")
                     continue
 
@@ -87,8 +96,8 @@ class GenerateVectorDB(Resource):
                 context_summary = generate_gemini_summary(json_text)
 
                 # Create final chunk with URLs + LLM context
-                final_text = f"Context: {context_summary}\n\nRelevant URLs:\n" + "\n".join(urls)
-                metadata = {"source_file": file, "urls": urls}
+                final_text = f"Context: {context_summary}\n\nRelevant URLs:\n" + json.dumps(url_metadata, indent=2)
+                metadata = {"source_file": file, "url_metadata": url_metadata}  # Store URLs as key-value pairs
 
                 documents.append((final_text, metadata))
                 count += 1
