@@ -1,26 +1,22 @@
 import os
-from . import *
 import traceback
-
-from flask import current_app as app
-from flask_restful import Resource, reqparse
-
+import base64
+from flask import request, jsonify, current_app as app
+from flask_restful import Resource
 from dotenv import load_dotenv
+from . import *
 
 from backend.app.api.agent_tools import *
 from backend.app.utils.strings import system_text44
+from backend.app.utils.finalizer import extract_final_data
 
 from langchain_google_genai import ChatGoogleGenerativeAI
 from langchain_chroma import Chroma
 from langchain_huggingface import HuggingFaceEmbeddings
-from langchain_google_firestore import FirestoreChatMessageHistory
-from langchain_core.prompts import PromptTemplate
-from langchain.agents import tool, create_react_agent, AgentExecutor
-from langchain import hub
+from langchain.agents import create_react_agent, AgentExecutor
 from langchain.prompts import ChatPromptTemplate, SystemMessagePromptTemplate, HumanMessagePromptTemplate
 
-
-# Loading environment variables
+# Load environment variables
 load_dotenv()
 
 # Vector DB setup
@@ -32,69 +28,57 @@ vector_db = Chroma(persist_directory=persistent_directory, embedding_function=em
 
 llm_general = ChatGoogleGenerativeAI(model="gemini-2.0-flash")
 
-# Defining Syllabus Search Tool
-@tool
-def search_syllabus(query):
-    """Using the user's input, searches the syllabus vector database for relevant content."""
-    retriever = vector_db.as_retriever(
-        search_type="similarity_score_threshold",
-        search_kwargs={"k": 3, "score_threshold": 0.7},
-    )
-    relevant_chunks = retriever.invoke(query)
-    
-    if not relevant_chunks:
-        return "The query is not relevant to the syllabus."
-    
-    return "\n\n".join([chunk.page_content for chunk in relevant_chunks])  # Converts list to string (easier for the AI Agent to use)
-
-# Defining Tools
-tools = [search_syllabus, get_chat_history]
+# Define tools
+tools = [describe_audio, find_closest_match, describe_image, get_chat_history]
 
 custom_prompt = ChatPromptTemplate.from_messages([
     SystemMessagePromptTemplate.from_template(system_text44),
-    HumanMessagePromptTemplate.from_template("User ID: {user_id}, Question: {input}")
+    HumanMessagePromptTemplate.from_template(
+        "User ID: {user_id}, Query: {input}, Image_Description: {image_description}, Audio_Description: {audio_description}"
+    ),
 ])
 
-
-# Creating Agent
+# Create Agent
 agent = create_react_agent(llm_general, tools, custom_prompt)
 agent_executor = AgentExecutor(agent=agent, tools=tools, verbose=True, handle_parsing_errors=True)
+
+
+def convert_to_bytes(file):
+    """Converts uploaded file to bytes."""
+    return base64.b64encode(file.read()).decode("utf-8")
+
 
 class MainAgent(Resource):
     def post(self):
         try:
-            parser = reqparse.RequestParser()
-            parser.add_argument("user_id", type=int, required=True, help="The user is required")
-            parser.add_argument("quest", type=str, required=True, help="A query is required")
-            args = parser.parse_args()
-            quest = args["quest"].strip()
-            user_id = args["user_id"]
+            user_id = request.form.get("user_id", "Unknown User")
+            query = request.form.get("query", "")
+            image_file = request.files.get("image")
+            audio_file = request.files.get("audio")
 
-            if not quest:
-                return {"Error": "A query is required"}, 400
+            image_bytes = convert_to_bytes(image_file) if image_file else None
+            audio_bytes = convert_to_bytes(audio_file) if audio_file else None
+
+            # Prepare agent input
+            agent_input = {
+                "user_id": user_id,
+                "input": query if query else "No Query Provided",
+                "image_description": image_bytes if image_bytes else "No Image Provided",
+                "audio_description": audio_bytes if audio_bytes else "No Audio Provided",
+            }
+
+            # Call agent
+            agent_response = agent_executor.invoke(agent_input)
             
-            chat_history = FirestoreChatMessageHistory(
-            session_id=str(user_id), collection=COLLECTION_NAME, client=client
-            )
-            
-            chat_history.add_user_message(quest)
+            # Final processing
+            final_response = extract_final_data(agent_response)
 
-            response = agent_executor.invoke({"input": quest, "user_id": user_id})
-
-            if isinstance(response, dict) and "output" in response:
-                response_text = response["output"]  # Extracting response text if it's inside a dict
-            else:
-                response_text = str(response)  # Converting to string as a fallback
-
-            chat_history.add_ai_message(response_text)  # Saving as a proper string
-
-            return {"query": quest, "response": response_text}, 200
+            return jsonify({"response": final_response}), 200
 
         except Exception as e:
             app.logger.error(f"Exception occurred: {e}")
             app.logger.error(traceback.format_exc())
-            return {"Error": "Failed to process request"}, 500
+            return jsonify({"Error": "Failed to process request"}), 500
 
 
 api.add_resource(MainAgent, "/main_agent")
-
