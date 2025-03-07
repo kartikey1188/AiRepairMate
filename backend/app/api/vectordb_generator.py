@@ -2,9 +2,9 @@ import os
 import traceback
 import json
 import re
+import time 
 
 from . import *
-
 from flask import current_app as app
 from flask_restful import Resource
 from dotenv import load_dotenv
@@ -12,8 +12,7 @@ from dotenv import load_dotenv
 from langchain_google_genai import ChatGoogleGenerativeAI
 from langchain_chroma import Chroma
 from langchain_huggingface import HuggingFaceEmbeddings
-from langchain.text_splitter import CharacterTextSplitter
-
+from langchain_community.llms import HuggingFaceHub
 
 # Load environment variables
 load_dotenv()
@@ -27,107 +26,133 @@ persistent_directory = os.path.abspath(os.path.join(current_dir, "..", "..", "da
 embeddings = HuggingFaceEmbeddings(model_name="BAAI/bge-small-en")
 
 # Initialize Gemini model
-llm_general = ChatGoogleGenerativeAI(model="gemini-2.0-flash")
+llm_general = ChatGoogleGenerativeAI(model="gemini-1.5-flash")
+
+#llm_general = HuggingFaceHub(repo_id="meta-llama/Llama-3-8B-Instruct")
 
 
-def extract_url_metadata(data, parent_key=""):
-    """Recursively extract all URLs from JSON and keep their associated keys."""
-    url_metadata = {}
+def clean_text(text):
+    """Cleans LLM-generated text while preserving actual content."""
+    text = re.sub(r"\*\*(.*?)\*\*", r"\1", text)  # Remove bold (**bold** → bold)
+    text = re.sub(r"\*(.*?)\*", r"\1", text)  # Remove italics (*italics* → italics)
+    text = re.sub(r"_(.*?)_", r"\1", text)  # Remove underlines (_underline_ → underline)
+    text = re.sub(r"`(.*?)`", r"\1", text)  # Remove inline code (`code` → code)
+    text = re.sub(r"<.*?>", "", text)  # Remove HTML tags (if any)
+    return text.strip()
 
-    if isinstance(data, dict):
-        for key, value in data.items():
-            full_key = f"{parent_key}.{key}" if parent_key else key
-            url_metadata.update(extract_url_metadata(value, full_key))
+def extract_title(data):
+    """Extracts title from JSON data with fallback logic."""
+    title = ""
+    
+    # Check metadata section first
+    if "metadata" in data:
+        metadata = data["metadata"]
+        if "title" in metadata:
+            title = metadata["title"]
+        elif "guide_title" in metadata:
+            title = metadata["guide_title"]
+    
+    # Fallback to root level title
+    if not title and "title" in data:
+        title = data["title"]
+    
+    return title.strip() if title else ""
 
-    elif isinstance(data, list):
-        for index, item in enumerate(data):
-            full_key = f"{parent_key}[{index}]"
-            url_metadata.update(extract_url_metadata(item, full_key))
 
-    elif isinstance(data, str):
-        urls = re.findall(r"https?://[^\s<>\"']+", data)
-        if urls:
-            url_metadata[parent_key] = urls  # Store URLs under their respective keys
+def generate_gemini_summary(text, delay=2):
+    """Generate structured context using Gemini 2.0 Flash with infinite retries and attempt logging."""
+    attempt = 1  # Track attempt count
 
-    return url_metadata
+    while True:  # Keep retrying indefinitely
+        try:
+            response = llm_general.invoke(
+                "Generate a concise repair guide summary. Include: "
+                "- Appliance type\n"
+                "- Model names\n"
+                "- Repair title\n"
+                "- Key steps\n"
+                "- Critical components\n\n"
+                f"Guide content:\n{text}"
+            )
+            if response and response.content:
+                app.logger.info(f"Success on attempt {attempt}")
+                return clean_text(response.content)
+            
+            app.logger.warning(f"Attempt {attempt}: Empty response received, retrying...")
+        except Exception as e:
+            app.logger.error(f"Gemini API Error (Attempt {attempt}): {e}")
 
-
-def generate_gemini_summary(text):
-    """Generate structured context using Gemini 2.0 Flash."""
-    try:
-        response = llm_general.invoke(f"Summarize this repair guide while preserving context:\n\n{text}")
-        return response.content if response and response.content else "No summary available."
-    except Exception as e:
-        app.logger.error(f"Gemini API Error: {e}")
-        return "Failed to generate summary."
+        attempt += 1  # Increment attempt counter
+        time.sleep(delay)  # Wait before retrying
 
 
 class GenerateVectorDB(Resource):
     def get(self):
         try:
+            app.logger.info("Starting vector DB generation process")
             if not os.path.exists(json_dir):
-                raise FileNotFoundError(f"The directory {json_dir} does not exist.")
+                app.logger.error(f"JSON directory {json_dir} not found")
+                raise FileNotFoundError(f"JSON directory {json_dir} not found")
 
-            vector_db = Chroma(persist_directory=persistent_directory, embedding_function=embeddings)
-            
             json_files = [f for f in os.listdir(json_dir) if f.endswith(".json")]
+            app.logger.info(f"Found {len(json_files)} JSON files in directory {json_dir}")
             documents = []
             count = 0
 
             for file in json_files:
                 file_path = os.path.join(json_dir, file)
-
-                # Read JSON data
-                with open(file_path, "r", encoding="utf-8") as f:
-                    try:
+                app.logger.info(f"Processing file: {file_path}")
+                
+                try:
+                    with open(file_path, "r", encoding="utf-8") as f:
                         data = json.load(f)
-                    except json.JSONDecodeError:
-                        print(f"Skipping {file}: Invalid JSON format.")
-                        continue
-
-                # Extract URLs with their keys
-                url_metadata = extract_url_metadata(data)
-                if not url_metadata:
-                    print(f"No URLs found in {file}, skipping.")
+                    app.logger.info(f"Successfully loaded JSON file: {file_path}")
+                except (json.JSONDecodeError, UnicodeDecodeError) as e:
+                    app.logger.error(f"Skipping invalid JSON file: {file} due to error: {e}")
                     continue
 
-                # Convert JSON to text & generate LLM summary
+                # Extract filename and title
+                filename = os.path.basename(file_path)
+                title = extract_title(data)
+                app.logger.info(f"Extracted title: '{title}' from file: {filename}")
+                
+                # Generate summary
                 json_text = json.dumps(data, indent=2)
-                context_summary = generate_gemini_summary(json_text)
-
-                # Create final chunk with URLs + LLM context
-                final_text = f"Context: {context_summary}\n\nRelevant URLs:\n" + json.dumps(url_metadata, indent=2)
-                metadata = {"source_file": file, "url_metadata": url_metadata}  # Store URLs as key-value pairs
-
-                documents.append((final_text, metadata))
+                summary = generate_gemini_summary(json_text)
+                app.logger.info(f"Generated summary for file: {filename}")
+                
+                # Create document with metadata
+                metadata = {"filename": filename, "title": title}
+                documents.append((summary, metadata))
                 count += 1
 
-            print(f"Processed {count} JSON files.")
+            app.logger.info(f"Processed {count} JSON files with {len(documents)} valid entries")
 
-            # Split documents into chunks
-            text_splitter = CharacterTextSplitter(chunk_size=1000, chunk_overlap=20)
-            texts, metadatas = zip(*documents)
-            chunks = text_splitter.split_text("\n".join(texts))
+            if not documents:
+                app.logger.warning("No valid documents found for vectorization")
+                return {"error": "No valid documents found for vectorization"}, 400
 
-            if not chunks:
-                print("No valid chunks to store! Exiting.")
-                return {"Error": "No data to store in vector DB"}, 500
+            # Split into texts and metadata
+            texts = [doc[0] for doc in documents]
+            metadatas = [doc[1] for doc in documents]
 
-            print("\n--- Creating embeddings ---")
-            embeddings = HuggingFaceEmbeddings(model_name="BAAI/bge-small-en")
-
-            print("\n--- Creating and persisting vector store ---")
-            vector_db = Chroma.from_texts(
-                chunks, embeddings, metadatas=[{"source": "json_data"}] * len(chunks),
+            # Create and persist vector store
+            Chroma.from_texts(
+                texts=texts,
+                embedding=embeddings,
+                metadatas=metadatas,
                 persist_directory=persistent_directory
             )
-
-            print("Vector database saved successfully.")
+            app.logger.info(f"Vector DB created successfully with {len(texts)} entries at {persistent_directory}")
+            return {
+                "message": f"Vector DB created successfully with {len(texts)} entries",
+                "persist_dir": persistent_directory,
+                "files_added": len(texts)
+            }, 200
 
         except Exception as e:
-            app.logger.error(f"Exception occurred: {e}")
+            app.logger.error(f"Vector DB creation failed: {str(e)}")
             app.logger.error(traceback.format_exc())
-            return {"Error": "Failed to create the vector database"}, 500
-
+            return {"error": "Vector DB creation failed - check server logs"}, 500
 
 api.add_resource(GenerateVectorDB, "/generate_vectordb")
