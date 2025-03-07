@@ -1,0 +1,120 @@
+{
+    "guide_title": "EOS Chapstick Repair",
+    "last_updated": "May 23, 2024",
+    "estimated_time": "40 minutes",
+    "difficulty": "Easy",
+    "introduction": "Prior to beginning this fix, you will need to gather necessary materials and supplies. Also take precaution when handling hot, melted chapstick!",
+    "tools_needed": [
+        {
+            "name": "melted EOS chapstick"
+        },
+        {
+            "name": "Butter Knife"
+        },
+        {
+            "name": "Spoon",
+            "product_url": "https://www.amazon.com/AmazonBasics-Stainless-Dinner-Spoons-Pearled/dp/B0736W5C31/ref=sr_1_5?crid=JGHUWGOEVC2B&keywords=spoon&qid=1684950346&sprefix=spoon%2Caps%2C227&sr=8-5&tag=ifixitam-20",
+            "affiliate_link": "https://www.amazon.com/AmazonBasics-Stainless-Dinner-Spoons-Pearled/dp/B0736W5C31/ref=sr_1_5?crid=JGHUWGOEVC2B&keywords=spoon&qid=1684950346&sprefix=spoon%2Caps%2C227&sr=8-5&tag=ifixitam-20",
+            "amazon_link": "https://www.amazon.com/AmazonBasics-Stainless-Dinner-Spoons-Pearled/dp/B0736W5C31/ref=sr_1_5?crid=JGHUWGOEVC2B&keywords=spoon&qid=1684950346&sprefix=spoon%2Caps%2C227&sr=8-5&tag=ifixitam-20"
+        },
+        {
+            "name": "microwaveable bowl"
+        },
+        {
+            "name": "Microwave",
+            "product_url": "https://www.amazon.com/AmazonBasics-Microwave-Small-Works-Alexa/dp/B07894S727/?tag=ifixitam-20",
+            "affiliate_link": "https://www.amazon.com/AmazonBasics-Microwave-Small-Works-Alexa/dp/B07894S727/?tag=ifixitam-20",
+            "amazon_link": "https://www.amazon.com/AmazonBasics-Microwave-Small-Works-Alexa/dp/B07894S727/?tag=ifixitam-20"
+        },
+        {
+            "name": "freezer"
+        }
+    ],
+    "steps": [
+        {
+            "step_number": 1,
+            "title": "EOS Chapstick Repair",
+            "step_id": "s156695",
+            "image_url": "https://guide-images.cdn.ifixit.com/igi/MheUvPLMtY2CKWxy.medium",
+            "image_alt_text": "EOS Chapstick Repair, EOS Chapstick Repair: step 1, image 1 of 1",
+            "instructions": [
+                "Open your broken/melted EOS chapstick."
+            ],
+            "links": {
+                "edit_step_link": "https://www.ifixit.com/Guide/edit/78427/156695"
+            }
+        },
+        {
+            "step_number": 2,
+            "title": "",
+            "step_id": "s156697",
+            "image_url": "https://guide-images.cdn.ifixit.com/igi/eb63txWKDV6n2jlY.medium",
+            "image_alt_text": "EOS Chapstick Repair: step 2, image 1 of 1",
+            "instructions": [
+                "Use a spudger to scrape out the chap stick pieces.",
+                "Pry out the middle divider."
+            ],
+            "links": {
+                "edit_step_link": "https://www.ifixit.com/Guide/edit/78427/156697"
+            }
+        },
+        {
+            "step_number": 3,
+            "title": "",
+            "step_id": "s156698",
+            "instructions": [
+                "Place the chapstick pieces into a microwavable bowl."
+            ],
+            "links": {
+                "edit_step_link": "https://www.ifixit.com/Guide/edit/78427/156698"
+            }
+        },
+        {
+            "step_number": 4,
+            "title": "",
+            "step_id": "s156700",
+            "instructions": [
+                "Melt the chap stick pieces in a microwave for 30 second increments or until completely liquid.",
+                "CAUTION: the heated liquid may be hot to the touch."
+            ],
+            "links": {
+                "edit_step_link": "https://www.ifixit.com/Guide/edit/78427/156700"
+            }
+        },
+        {
+            "step_number": 5,
+            "title": "",
+            "step_id": "s156701",
+            "instructions": [
+                "Pour the liquid chapstick into the top of the EOS container and screw on the divider."
+            ],
+            "links": {
+                "edit_step_link": "https://www.ifixit.com/Guide/edit/78427/156701"
+            }
+        },
+        {
+            "step_number": 6,
+            "title": "",
+            "step_id": "s156702",
+            "instructions": [
+                "Freeze the liquid in the EOS container for 20-30 minutes or until solid."
+            ],
+            "links": {
+                "edit_step_link": "https://www.ifixit.com/Guide/edit/78427/156702"
+            }
+        },
+        {
+            "step_number": 7,
+            "title": "",
+            "step_id": "s156704",
+            "instructions": [
+                "Screw the EOS container back together and enjoy your chapstick!"
+            ],
+            "links": {
+                "edit_step_link": "https://www.ifixit.com/Guide/edit/78427/156704"
+            }
+        }
+    ],
+    "conclusion": "To reassemble your device, follow these instructions in reverse order.",
+    "embed_code": "<iframe id=\"dozuki-embed-78427\" src=\"https://www.ifixit.com/Guide/embed/78427/full\" width=\"800\" allowfullscreen frameborder=\"0\"></iframe> <script>window.addEventListener(\"message\",function(a){var b=document.getElementById(\"dozuki-embed-78427\"),c=a.data[0],d=a.data[1];switch(c){case\"setHeight\":b.style.height=d+\"px\"}},!1);</script> <iframe src=\"https://www.ifixit.com/Guide/embed/78427\" width=\"800\" height=\"584\" allowfullscreen frameborder=\"0\"></iframe>"
+}

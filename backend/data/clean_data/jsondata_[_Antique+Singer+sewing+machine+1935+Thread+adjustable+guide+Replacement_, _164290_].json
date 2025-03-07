@@ -1,0 +1,73 @@
+{
+    "metadata": {
+        "title": "Antique Singer sewing machine 1935 Thread adjustable guide Replacement",
+        "last_updated": "July 26, 2024",
+        "guide_image": "https://guide-images.cdn.ifixit.com/igi/YbaTOkGZMHC5LgfS.140x105",
+        "estimated_time": "4 hours",
+        "difficulty": "Difficult",
+        "community_guide": true,
+        "device_links": [
+            {
+                "text": "Antique Singer Sewing Machine 1935",
+                "url": "https://www.ifixit.com/Device/Antique_Singer_sewing_machine_1935"
+            },
+            {
+                "text": "Sewing Machine",
+                "url": "https://www.ifixit.com/Device/Sewing_Machine"
+            },
+            {
+                "text": "Arts, Crafts & Sewing",
+                "url": "https://www.ifixit.com/Device/Arts_Crafts_and_Sewing"
+            },
+            {
+                "text": "Household",
+                "url": "https://www.ifixit.com/Device/Household"
+            },
+            {
+                "text": "Home",
+                "url": "https://www.ifixit.com/Guide"
+            }
+        ],
+        "parts_links": [
+            {
+                "text": "Guides",
+                "url": "https://www.ifixit.com/Device/Antique_Singer_sewing_machine_1935#Section_Guides"
+            },
+            {
+                "text": "Answers",
+                "url": "https://www.ifixit.com/Answers/Device/Antique_Singer_sewing_machine_1935"
+            }
+        ],
+        "edit_link": "https://www.ifixit.com/Guide/edit/164290"
+    },
+    "introduction": "This antique 1935 Singer machine is missing the adjustable thread guide.",
+    "steps": [
+        {
+            "step_number": 1,
+            "title": "Missing thread guide",
+            "text": "The machine is missing the thread guide as shown here. Otherwise, it is operational.",
+            "image": "https://guide-images.cdn.ifixit.com/igi/YbaTOkGZMHC5LgfS.medium",
+            "image_links": [],
+            "edit_link": "https://www.ifixit.com/Guide/edit/164290/346043",
+            "comment_links": []
+        },
+        {
+            "step_number": 2,
+            "title": "Machining the elements",
+            "text": "You will need a lathe to machine appropriately sized elements to replace the mechanism.\nI used alumunium for the machined elements. Use high speed to obtain smooth surface as you need the thread to slide correctly.\nThe assembly may be done used an M5 screw and a cone spring as shown.",
+            "image": "https://guide-images.cdn.ifixit.com/igi/NXEPNX6TuECS6EUI.medium",
+            "image_links": [
+                "https://guide-images.cdn.ifixit.com/igi/NXEPNX6TuECS6EUI.200x150",
+                "https://guide-images.cdn.ifixit.com/igi/rldJbuONQcth2I4Y.200x150"
+            ],
+            "edit_link": "https://www.ifixit.com/Guide/edit/164290/346044",
+            "comment_links": []
+        }
+    ],
+    "conclusion": {
+        "text": "To reassemble your device, follow these instructions in reverse order.",
+        "author_points": 30,
+        "cancel_link": "https://www.ifixit.com/Guide/Antique+Singer+sewing+machine+1935+Thread+adjustable+guide+Replacement/<#>"
+    },
+    "embed_code": "<iframe id=\"dozuki-embed-164290\" src=\"https://www.ifixit.com/Guide/embed/164290/full\" width=\"800\" allowfullscreen frameborder=\"0\"></iframe> <script>window.addEventListener(\"message\",function(a){var b=document.getElementById(\"dozuki-embed-164290\"),c=a.data[0],d=a.data[1];switch(c){case\"setHeight\":b.style.height=d+\"px\"}},!1);</script> <iframe src=\"https://www.ifixit.com/Guide/embed/164290\" width=\"800\" height=\"584\" allowfullscreen frameborder=\"0\"></iframe>"
+}

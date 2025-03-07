@@ -1,0 +1,86 @@
+{
+    "metadata": {
+        "title": "AcuRite 02032 Battery Replacement",
+        "last_updated": "December 20, 2016",
+        "guide_image": "https://guide-images.cdn.ifixit.com/igi/ZIRUuTBsxcO3BkDR.140x105",
+        "estimated_time": "1 minute",
+        "difficulty": "Very easy",
+        "community_guide": true,
+        "device_links": [
+            {
+                "text": "AcuRite 02032",
+                "url": "https://www.ifixit.com/Device/AcuRite_02032"
+            },
+            {
+                "text": "Weather Station",
+                "url": "https://www.ifixit.com/Device/Weather_Station"
+            },
+            {
+                "text": "Patio, Lawn & Garden",
+                "url": "https://www.ifixit.com/Device/Lawn_and_Garden"
+            },
+            {
+                "text": "Household",
+                "url": "https://www.ifixit.com/Device/Household"
+            },
+            {
+                "text": "Home",
+                "url": "https://www.ifixit.com/Guide"
+            }
+        ],
+        "parts_links": [
+            {
+                "text": "Guides",
+                "url": "https://www.ifixit.com/Device/AcuRite_02032#Section_Guides"
+            },
+            {
+                "text": "Answers",
+                "url": "https://www.ifixit.com/Answers/Device/AcuRite_02032"
+            }
+        ],
+        "edit_link": "https://www.ifixit.com/Guide/edit/72140"
+    },
+    "introduction": "Teaching the user how to remove the batteries properly to ensure safety before proceeding onto other replacement guides.",
+    "steps": [
+        {
+            "step_number": 1,
+            "title": "Battery",
+            "text": "Remove the battery compartment lid by lifting upward.",
+            "image": "https://guide-images.cdn.ifixit.com/igi/ZNsNxWNdq2HbfSGU.medium",
+            "image_links": [
+                "https://guide-images.cdn.ifixit.com/igi/ZNsNxWNdq2HbfSGU.200x150",
+                "https://guide-images.cdn.ifixit.com/igi/vD6w2suZwYLiK5Xb.200x150",
+                "https://guide-images.cdn.ifixit.com/igi/TOoRScvG6KuJ452O.200x150"
+            ],
+            "edit_link": "https://www.ifixit.com/Guide/edit/72140/143974",
+            "comment_links": [],
+            "additional_images": [
+                "https://guide-images.cdn.ifixit.com/igi/vD6w2suZwYLiK5Xb.medium",
+                "https://guide-images.cdn.ifixit.com/igi/TOoRScvG6KuJ452O.medium"
+            ]
+        },
+        {
+            "step_number": 2,
+            "title": "",
+            "text": "Pull the ribbon to eject the 2 X AA alkaline batteries.",
+            "image": "https://guide-images.cdn.ifixit.com/igi/aZgwxARfltbU1Wi5.medium",
+            "image_links": [],
+            "edit_link": "https://www.ifixit.com/Guide/edit/72140/143976",
+            "comment_links": []
+        },
+        {
+            "step_number": 3,
+            "title": "",
+            "text": "Once the batteries are removed, it is safe to proceed.",
+            "image_links": [],
+            "edit_link": "https://www.ifixit.com/Guide/edit/72140/143980",
+            "comment_links": []
+        }
+    ],
+    "conclusion": {
+        "text": "To reassemble your device, follow these instructions in reverse order.",
+        "author_points": 30,
+        "cancel_link": "https://www.ifixit.com/Guide/AcuRite+02032+Battery+Replacement/<#>"
+    },
+    "embed_code": "<iframe id=\"dozuki-embed-72140\" src=\"https://www.ifixit.com/Guide/embed/72140/full\" width=\"800\" allowfullscreen frameborder=\"0\"></iframe> <script>window.addEventListener(\"message\",function(a){var b=document.getElementById(\"dozuki-embed-72140\"),c=a.data[0],d=a.data[1];switch(c){case\"setHeight\":b.style.height=d+\"px\"}},!1);</script> <iframe src=\"https://www.ifixit.com/Guide/embed/72140\" width=\"800\" height=\"584\" allowfullscreen frameborder=\"0\"></iframe>"
+}

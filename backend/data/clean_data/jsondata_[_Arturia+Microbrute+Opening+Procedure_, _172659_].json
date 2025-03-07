@@ -1,0 +1,107 @@
+{
+    "title": "Arturia Microbrute Opening Procedure",
+    "last_updated": "July 26, 2024",
+    "time_estimate": "20 - 35 minutes",
+    "difficulty": "Moderate",
+    "introduction": "This guide shows you how to open up the Arturia Microbrute and remove the bottom plate including the keyboard.",
+    "tools": [
+        {
+            "name": "Phillips #0 Screwdriver",
+            "url": "https://www.ifixit.com/products/phillips-0-screwdriver",
+            "image_url": "https://cart-products.cdn.ifixit.com/cart-products/iHsH13ZerBV42IXL.thumbnail",
+            "price": [
+                "$5.49 New / iFixit",
+                "$8.99 New / Moody - Made in USA"
+            ],
+            "add_to_cart_url": "https://www.ifixit.com/products/phillips-0-screwdriver"
+        },
+        {
+            "name": "Spudger",
+            "url": "https://www.ifixit.com/products/spudger",
+            "image_url": "https://cart-products.cdn.ifixit.com/cart-products/vy2elt3YPAXL1LmZ.thumbnail",
+            "price": [
+                "$3.99 New / Fixite Carbon Fiber",
+                "$2.99 New / Glass Fiber",
+                "$149.99 New / Glass Fiber Bundle of 100"
+            ],
+            "add_to_cart_url": "https://www.ifixit.com/products/spudger"
+        }
+    ],
+    "steps": [
+        {
+            "step_number": 1,
+            "title": "Arturia Microbrute Opening Procedure",
+            "image_url": [
+                "https://guide-images.cdn.ifixit.com/igi/6bauFr2dJXpuX2fT.medium",
+                "https://guide-images.cdn.ifixit.com/igi/cPMeKj5uUftwQMVo.medium"
+            ],
+            "image_alt": [
+                "https://guide-images.cdn.ifixit.com/igi/6bauFr2dJXpuX2fT.200x150",
+                "https://guide-images.cdn.ifixit.com/igi/cPMeKj5uUftwQMVo.200x150"
+            ],
+            "instructions": [
+                "Switch off the Microbrute and make sure to disconnect any cables.",
+                "Don’t forget the mini patch bay on the top right."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/172659/368591",
+            "comment_count": 0
+        },
+        {
+            "step_number": 2,
+            "image_url": "https://guide-images.cdn.ifixit.com/igi/PrBmMf5Wskno5lIe.medium",
+            "instructions": [
+                "Flip the Microbrute over and put it on a soft surface to not damage the knobs and faders.",
+                "Use a screwdriver to remove the twelve Philips screws on the bottom plate."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/172659/368592",
+            "comment_count": 0
+        },
+        {
+            "step_number": 3,
+            "instructions": [
+                "Put the Microbrute on its front edge and carefully tilt open the bottom plate including the keyboard.",
+                "Be aware of the ribbon cable connecting the keyboard to the PCB.",
+                "The cable should give you enough slack to put the top section over the keyboard section for better handling."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/172659/368593",
+            "comment_count": 0
+        },
+        {
+            "step_number": 4,
+            "instructions": [
+                "Next, focus on the connector of the keyboard."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/172659/368594",
+            "comment_count": 0
+        },
+        {
+            "step_number": 5,
+            "instructions": [
+                "Use a spudger to unlock the connector by pushing both left and right locking tabs tabs towards the cable."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/172659/368595",
+            "comment_count": 0
+        },
+        {
+            "step_number": 6,
+            "instructions": [
+                "Grab the ribbon cable with your fingers and pull it out of the connector."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/172659/368596",
+            "comment_count": 0
+        },
+        {
+            "step_number": 7,
+            "instructions": [
+                "Now the Microbrute is open and the bottom plate with the keyboard is separated from the rest of the device."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/172659/368597",
+            "comment_count": 0
+        }
+    ],
+    "conclusion": "To reassemble your device, follow these instructions in reverse order.",
+    "completed_message": "",
+    "embed_code": "<iframe id=\"dozuki-embed-172659\" src=\"https://www.ifixit.com/Guide/embed/172659/full\" width=\"800\" allowfullscreen frameborder=\"0\"></iframe> <script>window.addEventListener(\"message\",function(a){var b=document.getElementById(\"dozuki-embed-172659\"),c=a.data[0],d=a.data[1];switch(c){case\"setHeight\":b.style.height=d+\"px\"}},!1);</script> <iframe src=\"https://www.ifixit.com/Guide/embed/172659\" width=\"800\" height=\"584\" allowfullscreen frameborder=\"0\"></iframe>",
+    "repair_is_noble_url": "https://www.ifixit.com/Manifesto",
+    "license_url": "https://www.ifixit.com/Info/Licensing"
+}

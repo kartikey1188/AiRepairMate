@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "title": "Beachwaver S1 Clamp Spring Replacement",
+        "last_updated": "December 13, 2024",
+        "estimated_time": "5 - 10 minutes",
+        "difficulty": "Very easy",
+        "introduction": "Use this guide to replace the spring in the clamp of your **Beachwaver S1 Dual Voltage Ceramic Rotating Curling Iron**. If the clamp is no longer functioning effectively, the spring may be damaged and require replacement.\nBefore starting this repair, ensure the curling iron is turned off and unplugged. If you’ve recently used the curling iron, allow it to cool completely to avoid the risk of burns.",
+        "grammar_police": true,
+        "confusing_text": true
+    },
+    "tools": [
+        {
+            "name": "Phillips #000 Screwdriver",
+            "url": "https://www.ifixit.com/products/phillips-000-screwdriver",
+            "image_url": "https://cart-products.cdn.ifixit.com/cart-products/TItFgnV21b3m5DCU.thumbnail",
+            "price": "$5.49 New / iFixit$9.99 New / Moody - Made in USA",
+            "add_to_cart": true
+        }
+    ],
+    "steps": [
+        {
+            "step_number": 1,
+            "title": "Clamp Spring",
+            "instructions": [
+                "Using a Phillips Screwdriver in the size 000, insert it into the hole that attaches the pin to the clamp to push the clamp out."
+            ],
+            "image_url": "https://guide-images.cdn.ifixit.com/igi/jHGeUkVYRvJmrtZS.medium",
+            "additional_images": [
+                "https://guide-images.cdn.ifixit.com/igi/jHGeUkVYRvJmrtZS.200x150",
+                "https://guide-images.cdn.ifixit.com/igi/6TtlmYQTY2NCICZE.200x150",
+                "https://guide-images.cdn.ifixit.com/igi/AZB3N2SEnqOtmPZs.200x150"
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/177729/378037",
+            "add_comment_url": "https://www.ifixit.com/Guide/Beachwaver+S1+Clamp+Spring+Replacement/#",
+            "links": []
+        },
+        {
+            "step_number": 2,
+            "instructions": [
+                "Once the pin is pushed out and removed, one can remove the clamp."
+            ],
+            "image_url": "https://guide-images.cdn.ifixit.com/igi/TFuPOsgPoft4NdCS.medium",
+            "additional_images": [
+                "https://guide-images.cdn.ifixit.com/igi/TFuPOsgPoft4NdCS.200x150",
+                "https://guide-images.cdn.ifixit.com/igi/ZjSlnbcwWVWAhatV.200x150",
+                "https://guide-images.cdn.ifixit.com/igi/J2UKMGNEZJJVohhP.200x150"
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/177729/378038",
+            "add_comment_url": "https://www.ifixit.com/Guide/Beachwaver+S1+Clamp+Spring+Replacement/#",
+            "links": []
+        },
+        {
+            "step_number": 3,
+            "instructions": [
+                "Use your hand to remove the spring and your Beachwaver S1 is completely dissembled."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/177729/378039",
+            "add_comment_url": "https://www.ifixit.com/Guide/Beachwaver+S1+Clamp+Spring+Replacement/#",
+            "links": []
+        }
+    ],
+    "embed_guide": {
+        "single_step_url": "https://www.ifixit.com/Guide/embed/177729",
+        "full_guide_url": "https://www.ifixit.com/Guide/embed/177729/full",
+        "sizes": {
+            "small": 600,
+            "medium": 800,
+            "large": 1200
+        }
+    },
+    "repair_is_noble_url": "https://www.ifixit.com/Manifesto",
+    "license_url": "https://www.ifixit.com/Info/Licensing",
+    "guide_url": "https://www.ifixit.com/Guide/Beachwaver+S1+Clamp+Spring+Replacement/177729"
+}

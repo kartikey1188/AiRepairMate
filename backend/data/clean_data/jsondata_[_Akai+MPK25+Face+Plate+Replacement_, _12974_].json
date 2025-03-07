@@ -1,0 +1,142 @@
+{
+    "metadata": {
+        "title": "Akai MPK25 Face Plate Replacement",
+        "last_updated": "January 11, 2016",
+        "guide_image": "https://guide-images.cdn.ifixit.com/igi/aDinq1CRlSbmudCJ.140x105",
+        "estimated_time": "15 - 20 minutes",
+        "difficulty": "Moderate",
+        "featured_student_guide": true,
+        "device_links": [
+            {
+                "text": "Akai MPK25",
+                "url": "https://www.ifixit.com/Device/Akai_MPK25"
+            },
+            {
+                "text": "Synthesizer",
+                "url": "https://www.ifixit.com/Device/Synthesizers"
+            },
+            {
+                "text": "Musical Instrument",
+                "url": "https://www.ifixit.com/Device/Musical_Instrument"
+            },
+            {
+                "text": "Household",
+                "url": "https://www.ifixit.com/Device/Household"
+            },
+            {
+                "text": "Home",
+                "url": "https://www.ifixit.com/Guide"
+            }
+        ],
+        "parts_links": [
+            {
+                "text": "Guides",
+                "url": "https://www.ifixit.com/Device/Akai_MPK25#Section_Guides"
+            },
+            {
+                "text": "Answers",
+                "url": "https://www.ifixit.com/Answers/Device/Akai_MPK25"
+            }
+        ],
+        "edit_link": "https://www.ifixit.com/Guide/edit/12974"
+    },
+    "introduction": "Use this guide to properly remove the face plate from the chassis without damaging any of the components on the inside.",
+    "what_you_need": {
+        "tools": [
+            {
+                "text": "8\" Needle Nose Plier",
+                "url": "https://www.ifixit.com/products/large-needle-nose-pliers",
+                "image": "https://cart-products.cdn.ifixit.com/cart-products/xsuUhWaHMfDB6FnN.thumbnail",
+                "price": "$4.99"
+            },
+            {
+                "text": "Phillips #2 Screwdriver",
+                "url": "https://www.ifixit.com/products/6-in-1-screwdriver",
+                "image": "https://cart-products.cdn.ifixit.com/cart-products/LYcK13TjejldWD5Y.thumbnail",
+                "price": "$6.99"
+            }
+        ]
+    },
+    "steps": [
+        {
+            "step_number": 1,
+            "title": "Face Plate",
+            "text": "Remove all the selector knob covers by pulling them off.",
+            "image": "https://guide-images.cdn.ifixit.com/igi/aDinq1CRlSbmudCJ.medium",
+            "image_links": [],
+            "edit_link": "https://www.ifixit.com/Guide/edit/12974/44419",
+            "comment_links": []
+        },
+        {
+            "step_number": 2,
+            "title": "",
+            "text": "Using needle nose pliers, remove the washers from the four corner selector knobs.",
+            "image": "https://guide-images.cdn.ifixit.com/igi/B3pRLtGKy5BYEjpC.medium",
+            "image_links": [],
+            "edit_link": "https://www.ifixit.com/Guide/edit/12974/44420",
+            "comment_links": []
+        },
+        {
+            "step_number": 3,
+            "title": "",
+            "text": "Flip the device over. Using a Philips #2 screw driver, remove the fourteen 10.3 mm black screws holding the back panel in place.",
+            "image_links": [],
+            "edit_link": "https://www.ifixit.com/Guide/edit/12974/44421",
+            "comment_links": []
+        },
+        {
+            "step_number": 4,
+            "title": "",
+            "text": "Carefully flip the device to the front making sure you secure the face plate and the chassis together.\nPlease use care in following the step above to avoid ripping the ribbon cables connecting the two sides.",
+            "image_links": [],
+            "edit_link": "https://www.ifixit.com/Guide/edit/12974/44422",
+            "comment_links": []
+        },
+        {
+            "step_number": 5,
+            "title": "",
+            "text": "Rotate the device 180 degrees and carefully remove the face plate by slightly lifting the screen side towards you and then sliding the bottom out from under the keys.\nUse care when doing the step above so that the ribbon connectors which connect the top of the chassis to the top of the face plate are not damaged.",
+            "image_links": [],
+            "edit_link": "https://www.ifixit.com/Guide/edit/12974/44423",
+            "comment_links": []
+        },
+        {
+            "step_number": 6,
+            "title": "Beat Pad",
+            "text": "Using a Phillips #2 screwdriver, remove the thirteen 9.8 mm silver screws holding the mother board to the face plate.",
+            "image_links": [],
+            "edit_link": "https://www.ifixit.com/Guide/edit/12979/44440",
+            "comment_links": []
+        },
+        {
+            "step_number": 7,
+            "title": "",
+            "text": "Using a Phillips #2 screwdriver, remove the four 9.8mm screws holding in the base of the beat pad.",
+            "image_links": [],
+            "edit_link": "https://www.ifixit.com/Guide/edit/12979/44441",
+            "comment_links": []
+        },
+        {
+            "step_number": 8,
+            "title": "",
+            "text": "Slightly lift the mother board near the edge of the beat pads and wiggle the beat pad ribbon connector free.",
+            "image_links": [],
+            "edit_link": "https://www.ifixit.com/Guide/edit/12979/44442",
+            "comment_links": []
+        },
+        {
+            "step_number": 9,
+            "title": "",
+            "text": "Remove the beat pad sensor from the face plate.",
+            "image_links": [],
+            "edit_link": "https://www.ifixit.com/Guide/edit/12979/44930",
+            "comment_links": []
+        }
+    ],
+    "conclusion": {
+        "text": "To reassemble your device, follow these instructions in reverse order.",
+        "author_points": 30,
+        "cancel_link": "https://www.ifixit.com/Guide/Akai+MPK25+Face+Plate+Replacement/<#>"
+    },
+    "embed_code": "<iframe id=\"dozuki-embed-12974\" src=\"https://www.ifixit.com/Guide/embed/12974/full\" width=\"800\" allowfullscreen frameborder=\"0\"></iframe> <script>window.addEventListener(\"message\",function(a){var b=document.getElementById(\"dozuki-embed-12974\"),c=a.data[0],d=a.data[1];switch(c){case\"setHeight\":b.style.height=d+\"px\"}},!1);</script> <iframe src=\"https://www.ifixit.com/Guide/embed/12974\" width=\"800\" height=\"584\" allowfullscreen frameborder=\"0\"></iframe>"
+}

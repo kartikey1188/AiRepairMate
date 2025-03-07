@@ -1,0 +1,84 @@
+{
+    "guide_title": "Boss RC-1 Loop Station-Pedal Battery Replacement",
+    "last_updated": "June 7, 2021",
+    "estimated_time": "5 - 10 minutes",
+    "difficulty": "Easy",
+    "introduction": "Use this guide if your Boss RC-1 Loop Station is not turning on (indicated by the red light at the top of the device). This guide will go through taking apart the device to access, remove, and replace the battery.\n**Disconnect all power sources.** Remove any cables connected to the ports (also known as jacks) of the device. Never work on a device that is plugged into a power outlet.",
+    "tools": [
+        {
+            "name": "Phillips #0 Screwdriver",
+            "image": "https://cart-products.cdn.ifixit.com/cart-products/iHsH13ZerBV42IXL.thumbnail",
+            "link": "https://www.ifixit.com/products/phillips-0-screwdriver",
+            "price": "$5.49 New / iFixit$8.99 New / Moody - Made in USA",
+            "add_to_cart_link": "https://www.ifixit.com/Guide/Boss+RC-1+Loop+Station-Pedal+Battery+Replacement/<https:/www.ifixit.com/products/phillips-0-screwdriver>"
+        }
+    ],
+    "steps": [
+        {
+            "step_number": 1,
+            "title": "Battery",
+            "image": "https://guide-images.cdn.ifixit.com/igi/w5LoYZfoDKSODSSm.medium",
+            "description": "Push down on the pedal in order to relieve pressure on the thumbscrew.",
+            "edit_link": "https://www.ifixit.com/Guide/Boss+RC-1+Loop+Station-Pedal+Battery+Replacement//Guide/edit/141705/283904",
+            "add_comment_link": "https://www.ifixit.com/Guide/Boss+RC-1+Loop+Station-Pedal+Battery+Replacement/",
+            "links": []
+        },
+        {
+            "step_number": 2,
+            "title": null,
+            "image": "https://guide-images.cdn.ifixit.com/igi/2JqAdDQnirlkl6Ev.medium",
+            "description": "Remove the thumb screw at the bottom of the device.\nLoosening the thumb screw far enough will also allow the pedal to open.",
+            "edit_link": "https://www.ifixit.com/Guide/Boss+RC-1+Loop+Station-Pedal+Battery+Replacement//Guide/edit/141705/283905",
+            "add_comment_link": "https://www.ifixit.com/Guide/Boss+RC-1+Loop+Station-Pedal+Battery+Replacement/",
+            "links": []
+        },
+        {
+            "step_number": 3,
+            "title": null,
+            "image": null,
+            "description": "Using the Phillips #0 screwdriver, remove the two screws that secure the pedal to the device.",
+            "edit_link": "https://www.ifixit.com/Guide/Boss+RC-1+Loop+Station-Pedal+Battery+Replacement//Guide/edit/141705/283906",
+            "add_comment_link": "https://www.ifixit.com/Guide/Boss+RC-1+Loop+Station-Pedal+Battery+Replacement/",
+            "links": []
+        },
+        {
+            "step_number": 4,
+            "title": null,
+            "image": null,
+            "description": "Take the battery out of the device.",
+            "edit_link": "https://www.ifixit.com/Guide/Boss+RC-1+Loop+Station-Pedal+Battery+Replacement//Guide/edit/141705/283907",
+            "add_comment_link": "https://www.ifixit.com/Guide/Boss+RC-1+Loop+Station-Pedal+Battery+Replacement/",
+            "links": []
+        },
+        {
+            "step_number": 5,
+            "title": null,
+            "image": null,
+            "description": "Disconnect the snap chord from the battery.",
+            "edit_link": "https://www.ifixit.com/Guide/Boss+RC-1+Loop+Station-Pedal+Battery+Replacement//Guide/edit/141705/283908",
+            "add_comment_link": "https://www.ifixit.com/Guide/Boss+RC-1+Loop+Station-Pedal+Battery+Replacement/",
+            "links": []
+        },
+        {
+            "step_number": 6,
+            "title": null,
+            "image": null,
+            "description": "Reassemble the device in the opposite order.\nWhen tightening the thumbscrew back in the device, apply force to the pedal first (Do step 1 before step 2).",
+            "edit_link": "https://www.ifixit.com/Guide/Boss+RC-1+Loop+Station-Pedal+Battery+Replacement//Guide/edit/141705/283909",
+            "add_comment_link": "https://www.ifixit.com/Guide/Boss+RC-1+Loop+Station-Pedal+Battery+Replacement/",
+            "links": []
+        }
+    ],
+    "conclusion": "To check if the batter replacement was successful, plug in a guitar cable into the “Output A” jack. If the red light turns on below the “check” (top of the device), then the looper pedal is working.",
+    "finish_line": {
+        "text": "Give the author +30 points! You're Finished!",
+        "cancel_link": "https://www.ifixit.com/Guide/Boss+RC-1+Loop+Station-Pedal+Battery+Replacement/<#>",
+        "completed_count": "One other person completed this guide."
+    },
+    "embed_code": {
+        "small": "<iframe id=\"dozuki-embed-141705\" src=\"https://www.ifixit.com/Guide/embed/141705/full\" width=\"600\" allowfullscreen frameborder=\"0\"></iframe> <script>window.addEventListener(\"message\",function(a){var b=document.getElementById(\"dozuki-embed-141705\"),c=a.data[0],d=a.data[1];switch(c){case\"setHeight\":b.style.height=d+\"px\"}},!1);</script> <iframe src=\"https://www.ifixit.com/Guide/embed/141705\" width=\"600\" height=\"584\" allowfullscreen frameborder=\"0\"></iframe>",
+        "medium": "<iframe id=\"dozuki-embed-141705\" src=\"https://www.ifixit.com/Guide/embed/141705/full\" width=\"800\" allowfullscreen frameborder=\"0\"></iframe> <script>window.addEventListener(\"message\",function(a){var b=document.getElementById(\"dozuki-embed-141705\"),c=a.data[0],d=a.data[1];switch(c){case\"setHeight\":b.style.height=d+\"px\"}},!1);</script> <iframe src=\"https://www.ifixit.com/Guide/embed/141705\" width=\"800\" height=\"584\" allowfullscreen frameborder=\"0\"></iframe>",
+        "large": "<iframe id=\"dozuki-embed-141705\" src=\"https://www.ifixit.com/Guide/embed/141705/full\" width=\"1200\" allowfullscreen frameborder=\"0\"></iframe> <script>window.addEventListener(\"message\",function(a){var b=document.getElementById(\"dozuki-embed-141705\"),c=a.data[0],d=a.data[1];switch(c){case\"setHeight\":b.style.height=d+\"px\"}},!1);</script> <iframe src=\"https://www.ifixit.com/Guide/embed/141705\" width=\"1200\" height=\"584\" allowfullscreen frameborder=\"0\"></iframe>"
+    },
+    "repair_is_noble": "https://www.ifixit.com/Manifesto"
+}

@@ -1,0 +1,195 @@
+{
+    "metadata": {
+        "title": "Bernina 350 PE L-Board D5 Capacitor Replacement",
+        "last_updated": "July 12, 2024",
+        "time_estimate": "1 hour",
+        "difficulty": "Moderate",
+        "introduction": "For Bernina sewing machines that no longer turn on or the sewing machine takes 10 to 60 minutes for it's display and light to illuminate after turning the switch on, the l-board may have a defective capacitor - follow this guide to replace the l-board's D5 capacitor.\nNote: for the soldering step, I accidentally had my soldering gun set to 400 and burned through the trace, but there's plenty of room on the board and I was able to add a new wire to link repair the burned trace. Setting your soldering gun to 340 C and using more flux may avoid what I did.",
+        "community_contributed_guide": true
+    },
+    "parts": [
+        {
+            "name": "100uF 25V Electrolytic Capacitor",
+            "url": "https://www.ifixit.com/Item/100uF_25V_Electrolytic_Capacitor"
+        },
+        {
+            "name": "Solder Wick Braid",
+            "image": "https://cart-products.cdn.ifixit.com/cart-products/31NUpXxSfQ6lHPgT.thumbnail",
+            "url": "https://www.ifixit.com/products/solder-wick-braid",
+            "price": "$4.99",
+            "add_to_cart": true,
+            "options": [
+                "New / ChipQuick / 0.060\" / 1.5 mm",
+                "New / ChipQuick / 0.080\" / 2.0 mm",
+                "New / ChipQuick / 0.110\" / 2.8 mm"
+            ]
+        },
+        {
+            "name": "Lead‑Free Solder",
+            "image": "https://cart-products.cdn.ifixit.com/cart-products/cRwXlE2fiAlXJAhE.thumbnail",
+            "url": "https://www.ifixit.com/products/lead-free-solder",
+            "price": "$4.99",
+            "add_to_cart": true
+        }
+    ],
+    "tools": [
+        {
+            "name": "Tweezers",
+            "image": "https://cart-products.cdn.ifixit.com/cart-products/eQGTt3iN1MmOAQDy.thumbnail",
+            "url": "https://www.ifixit.com/products/tweezers",
+            "price": "$4.99",
+            "add_to_cart": true
+        },
+        {
+            "name": "TR10 Torx Security Screwdriver",
+            "image": "https://cart-products.cdn.ifixit.com/cart-products/2FRUt2RZHWVJCFi3.thumbnail",
+            "url": "https://www.ifixit.com/products/tr10-torx-security-screwdriver",
+            "price": "$5.99",
+            "add_to_cart": true
+        },
+        {
+            "name": "Torx T20 Screwdriver",
+            "url": "https://www.amazon.com/Wera-05028052001-Kraftform-Screwdriver-Function/dp/B00365EYI0/ref=sr_1_36?crid=3SOM46DZYNAOX&keywords=torx%2Bt20%2Bscrewdriver&qid=1705532628&sprefix=torx%2Bt20%2Caps%2C190&sr=8-36&th=1&tag=ifixitam-20",
+            "availability": "Available for sale on Amazon",
+            "affiliate_link": true
+        },
+        {
+            "name": "Soldering Gun / Iron and Solder",
+            "image": "https://cart-products.cdn.ifixit.com/cart-products/hOQIO4xmAx3kj2LV.thumbnail",
+            "url": "https://www.ifixit.com/products/fixhub-power-series-smart-soldering-iron",
+            "price": "$79.95",
+            "add_to_cart": true
+        },
+        {
+            "name": "Wire Cutters/Side Cutters",
+            "image": "https://guide-images.cdn.ifixit.com/igi/DiTSjGCNA5rUZxVB.thumbnail",
+            "url": "https://www.amazon.com/dp/B007HGNTTY/?tag=ifixitam-20",
+            "availability": "Available for sale on Amazon",
+            "affiliate_link": true
+        }
+    ],
+    "steps": [
+        {
+            "step_number": 1,
+            "title": "Loosen and Remove L-Board Screw",
+            "images": [
+                {
+                    "url": "https://guide-images.cdn.ifixit.com/igi/WZ2nODAunBndrqRt.medium",
+                    "thumbnail_url": "https://guide-images.cdn.ifixit.com/igi/WZ2nODAunBndrqRt.200x150"
+                },
+                {
+                    "url": "https://guide-images.cdn.ifixit.com/igi/1gOkPLLDXw2aaYVj.medium",
+                    "thumbnail_url": "https://guide-images.cdn.ifixit.com/igi/1gOkPLLDXw2aaYVj.200x150"
+                },
+                {
+                    "url": "https://guide-images.cdn.ifixit.com/igi/1K2XMkhr1BxgNiDJ.medium",
+                    "thumbnail_url": "https://guide-images.cdn.ifixit.com/igi/1K2XMkhr1BxgNiDJ.200x150"
+                }
+            ],
+            "instructions": [
+                "Remove the sewing machine's L-Board by removing this screw with a Torx T-20 driver."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/168487/357144",
+            "add_comment_url": "https://www.ifixit.com/Guide/Bernina+350+PE+L-Board+D5+Capacitor+Replacement/<#>",
+            "links": []
+        },
+        {
+            "step_number": 2,
+            "title": "Detach L-Board Cable and Remove L-Board",
+            "images": [
+                {
+                    "url": "https://guide-images.cdn.ifixit.com/igi/LCYDYdGDyTgUk1TS.medium",
+                    "thumbnail_url": "https://guide-images.cdn.ifixit.com/igi/LCYDYdGDyTgUk1TS.200x150"
+                },
+                {
+                    "url": "https://guide-images.cdn.ifixit.com/igi/XjrsVNeP12qsarrR.medium",
+                    "thumbnail_url": "https://guide-images.cdn.ifixit.com/igi/XjrsVNeP12qsarrR.200x150"
+                },
+                {
+                    "url": "https://guide-images.cdn.ifixit.com/igi/IwKCMM4LwNnK1LIq.medium",
+                    "thumbnail_url": "https://guide-images.cdn.ifixit.com/igi/IwKCMM4LwNnK1LIq.200x150"
+                }
+            ],
+            "instructions": [
+                "Place fingers above and beyond Bear Quilting Patch and pull l-board gently toward you.",
+                "Rotate left side of l-board toward you and to the right to access cable.",
+                "Gently remove yellow cable."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/168487/357145",
+            "add_comment_url": "https://www.ifixit.com/Guide/Bernina+350+PE+L-Board+D5+Capacitor+Replacement/<#>",
+            "links": []
+        },
+        {
+            "step_number": 3,
+            "title": "Remove L-Board's Cover",
+            "images": [],
+            "instructions": [
+                "Remove 4 screws with Torx T-10 driver.",
+                "Foreground is the base, pull it toward you and cover (background/closest to table) stays behind.",
+                "Base, with l-board attached, is shown in last picture."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/168487/357146",
+            "add_comment_url": "https://www.ifixit.com/Guide/Bernina+350+PE+L-Board+D5+Capacitor+Replacement/<#>",
+            "links": []
+        },
+        {
+            "step_number": 4,
+            "title": "Examine L-Board Capacitors",
+            "images": [],
+            "instructions": [
+                "Capacitor attached to D5 is bulging out the top and is pushing its innards out the bottom.",
+                "If damaged like the one in photograph, obtain a replacement capacitor for D5 that is rated for long-life, 25 volts, and 100 µF, I found one at MicroCenter for $0.99."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/168487/357149",
+            "add_comment_url": "https://www.ifixit.com/Guide/Bernina+350+PE+L-Board+D5+Capacitor+Replacement/<#>",
+            "links": []
+        },
+        {
+            "step_number": 5,
+            "title": "Remove D5 Capacitor",
+            "images": [],
+            "instructions": [
+                "I used a soldering gun to wick and to remove as much solder from back side of board where D5 is marked.",
+                "After solder is removed, I gently bent the capacitors pins so they were straightened and ready to remove from hole.",
+                "Add flux to the board, heat the capacitor's pins, and use a [tweezers](https://www.ifixit.com/Guide/Bernina+350+PE+L-Board+D5+Capacitor+Replacement/<https:/www.ifixit.com/products/tweezers>) to pull on the D5 capacitor."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/168487/357150",
+            "add_comment_url": "https://www.ifixit.com/Guide/Bernina+350+PE+L-Board+D5+Capacitor+Replacement/<#>",
+            "links": [
+                {
+                    "name": "Tweezers",
+                    "url": "https://www.ifixit.com/products/tweezers",
+                    "image": "https://cart-products.cdn.ifixit.com/cart-products/eQGTt3iN1MmOAQDy.thumbnail"
+                }
+            ]
+        },
+        {
+            "step_number": 6,
+            "title": "Install Replacement Capacitor",
+            "images": [],
+            "instructions": [
+                "Slide the replacement capacitor into the D5 board holes.",
+                "Heat the board and apply solder.",
+                "Replacement capacitor looks like pictures to the left."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/168487/357151",
+            "add_comment_url": "https://www.ifixit.com/Guide/Bernina+350+PE+L-Board+D5+Capacitor+Replacement/<#>",
+            "links": []
+        },
+        {
+            "step_number": 7,
+            "title": "",
+            "images": [],
+            "instructions": [
+                "Replace cover on l-board and reinsert 4 screws.",
+                "Gently place extra slack from yellow l-board cable back inside sewing machine body.",
+                "In reverse, return to Step 2, complete, and conclude with Step 1 to continue reassembling sewing machine and test."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/168487/357152",
+            "add_comment_url": "https://www.ifixit.com/Guide/Bernina+350+PE+L-Board+D5+Capacitor+Replacement/<#>",
+            "links": []
+        }
+    ],
+    "conclusion": "To reassemble your device, follow these instructions in reverse order beginning with Step 2.",
+    "embed_code": "<iframe id=\"dozuki-embed-168487\" src=\"https://www.ifixit.com/Guide/embed/168487/full\" width=\"800\" allowfullscreen frameborder=\"0\"></iframe> <script>window.addEventListener(\"message\",function(a){var b=document.getElementById(\"dozuki-embed-168487\"),c=a.data[0],d=a.data[1];switch(c){case\"setHeight\":b.style.height=d+\"px\"}},!1);</script> <iframe src=\"https://www.ifixit.com/Guide/embed/168487\" width=\"800\" height=\"584\" allowfullscreen frameborder=\"0\"></iframe>"
+}

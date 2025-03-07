@@ -1,0 +1,148 @@
+{
+    "metadata": {
+        "title": "Christmas Lights Not Lighting Up Fix with Lightkeeper Pro",
+        "last_updated": "June 3, 2024",
+        "team": {
+            "name": "UC Davis, Team 1-8, Morris Winter 2024",
+            "link": "https://www.ifixit.com/Team/48191/UC+Davis%2C+Team+1-8%2C+Morris+Winter+2024",
+            "member_of": "UC Davis, Team 1-8, Morris Winter 2024",
+            "team_id": "UCD-MORRIS-W24S1G8",
+            "members": 3,
+            "guides_authored": 1
+        },
+        "time_estimate": "2 - 4 minutes",
+        "difficulty": "Moderate",
+        "introduction": "If a section of your string lights are not lighting up, this is likely caused by only one or two bulbs that have been damaged. The LightKeeper Pro repair tool makes it easy to determine the culprit and replace the broken bulb.\nAlthough there is a low risk of shock, we recommend that you unplug the lights whenever handling the bulb sockets directly during this guide. Shock will happen if you manage to put your fingers inside the socket, connecting the two metal plates inside, which is fairly difficult to do even on purpose. Additionally, be sure to act carefully and thoughtfully if a bulb is clearly shattered. The broken glass can be sharp and will cut you if you don't act with caution.",
+        "tools_needed": [
+            {
+                "name": "LightKeeper Pro",
+                "image": "https://cart-products.cdn.ifixit.com/cart-products/FVteTRdk1Cq2VA5u.thumbnail",
+                "link": "https://www.ifixit.com/products/lightkeeper-pro",
+                "price": "$24.99"
+            }
+        ],
+        "categories": [
+            {
+                "name": "Christmas Lights",
+                "link": "https://www.ifixit.com/Device/Christmas_Lights"
+            },
+            {
+                "name": "Lighting",
+                "link": "https://www.ifixit.com/Device/Lighting"
+            },
+            {
+                "name": "Household",
+                "link": "https://www.ifixit.com/Device/Household"
+            },
+            {
+                "name": "Home",
+                "link": "https://www.ifixit.com/Guide"
+            }
+        ],
+        "guide_links": {
+            "guides_link": "https://www.ifixit.com/Device/Christmas_Lights#Section_Guides",
+            "troubleshooting_link": "https://www.ifixit.com/Troubleshooting/Christmas_Lights",
+            "edit_link": "https://www.ifixit.com/Guide/edit/169883"
+        }
+    },
+    "steps": [
+        {
+            "step_number": 1,
+            "title": "Step 1",
+            "step_link": "https://www.ifixit.com/Guide/Christmas+Lights+Not+Lighting+Up+Fix+with+Lightkeeper+Pro/<#s360219>",
+            "edit_link": "https://www.ifixit.com/Guide/edit/169883/360219",
+            "images": [
+                {
+                    "original": "https://guide-images.cdn.ifixit.com/igi/QSEiuDaXvT4QXoZp.medium",
+                    "thumbnail": "https://guide-images.cdn.ifixit.com/igi/QSEiuDaXvT4QXoZp.200x150"
+                },
+                {
+                    "original": "https://guide-images.cdn.ifixit.com/igi/GXSAhfweD1s42dyt.medium",
+                    "thumbnail": "https://guide-images.cdn.ifixit.com/igi/GXSAhfweD1s42dyt.200x150"
+                }
+            ],
+            "text": "Plug in your lights at a power outlet.",
+            "comments_link": "https://www.ifixit.com/Guide/Christmas+Lights+Not+Lighting+Up+Fix+with+Lightkeeper+Pro/#comments"
+        },
+        {
+            "step_number": 2,
+            "title": "Step 2",
+            "step_link": "https://www.ifixit.com/Guide/Christmas+Lights+Not+Lighting+Up+Fix+with+Lightkeeper+Pro/<#s360220>",
+            "edit_link": "https://www.ifixit.com/Guide/edit/169883/360220",
+            "images": [
+                {
+                    "original": "https://guide-images.cdn.ifixit.com/igi/ydioOVPhWZy36LKQ.medium",
+                    "thumbnail": "https://guide-images.cdn.ifixit.com/igi/ydioOVPhWZy36LKQ.200x150"
+                },
+                {
+                    "original": "https://guide-images.cdn.ifixit.com/igi/SgYQpDnjnxXPFcaj.medium",
+                    "thumbnail": "https://guide-images.cdn.ifixit.com/igi/SgYQpDnjnxXPFcaj.200x150"
+                },
+                {
+                    "original": "https://guide-images.cdn.ifixit.com/igi/vNlwKLU1uDEElkWA.medium",
+                    "thumbnail": "https://guide-images.cdn.ifixit.com/igi/vNlwKLU1uDEElkWA.200x150"
+                }
+            ],
+            "text": "Press the button on the top side of the repair tool to activate the voltmeter.\nPressing this button will tell you if electricity is running through a section of your lights.\nThe repair tool will beep when it detects running electricity. If it is silent, then one of the bulbs on that specific wire is keeping the electricity from flowing.",
+            "comments_link": "https://www.ifixit.com/Guide/Christmas+Lights+Not+Lighting+Up+Fix+with+Lightkeeper+Pro/#comments"
+        },
+        {
+            "step_number": 3,
+            "title": "Step 3",
+            "step_link": "https://www.ifixit.com/Guide/Christmas+Lights+Not+Lighting+Up+Fix+with+Lightkeeper+Pro/<#s360221>",
+            "edit_link": "https://www.ifixit.com/Guide/edit/169883/360221",
+            "text": "Identify the first lightbulb from the plug point that is not lighting up.\nRemove this bulb by sticking it through the metal opening on the front of the tool. Stick the pronged piece under the plastic cap and pull gently.",
+            "comments_link": "https://www.ifixit.com/Guide/Christmas+Lights+Not+Lighting+Up+Fix+with+Lightkeeper+Pro/#comments"
+        },
+        {
+            "step_number": 4,
+            "title": "Step 4",
+            "step_link": "https://www.ifixit.com/Guide/Christmas+Lights+Not+Lighting+Up+Fix+with+Lightkeeper+Pro/<#s360222>",
+            "edit_link": "https://www.ifixit.com/Guide/edit/169883/360222",
+            "text": "Place the bulb into the bulb test socket located on the top side of the repair tool.\nIf the bulb does not light up, get a replacement bulb and move onto the next step.\nIf the new bulb lights up, skip to the final step. If not, move on the next step.",
+            "comments_link": "https://www.ifixit.com/Guide/Christmas+Lights+Not+Lighting+Up+Fix+with+Lightkeeper+Pro/#comments"
+        },
+        {
+            "step_number": 5,
+            "title": "Step 5",
+            "step_link": "https://www.ifixit.com/Guide/Christmas+Lights+Not+Lighting+Up+Fix+with+Lightkeeper+Pro/<#s360223>",
+            "edit_link": "https://www.ifixit.com/Guide/edit/169883/360223",
+            "text": "Insert the empty socket into the socket connector of the repair tool.\nMake sure the socket is securely connected.",
+            "comments_link": "https://www.ifixit.com/Guide/Christmas+Lights+Not+Lighting+Up+Fix+with+Lightkeeper+Pro/#comments"
+        },
+        {
+            "step_number": 6,
+            "title": "Step 6",
+            "step_link": "https://www.ifixit.com/Guide/Christmas+Lights+Not+Lighting+Up+Fix+with+Lightkeeper+Pro/<#s360225>",
+            "edit_link": "https://www.ifixit.com/Guide/edit/169883/360225",
+            "text": "Click the trigger on the repair tool 20 times rapidly.\nIf your lights do not turn on, skip to the final step.",
+            "comments_link": "https://www.ifixit.com/Guide/Christmas+Lights+Not+Lighting+Up+Fix+with+Lightkeeper+Pro/#comments"
+        },
+        {
+            "step_number": 7,
+            "title": "Step 7",
+            "step_link": "https://www.ifixit.com/Guide/Christmas+Lights+Not+Lighting+Up+Fix+with+Lightkeeper+Pro/<#s360224>",
+            "edit_link": "https://www.ifixit.com/Guide/edit/169883/360224",
+            "text": "Before reinserting the bulb, check the socket and the bulb to ensure that the copper wire on the bulb is touching the metal on the socket.\nWhen the bulb is correctly oriented, gently set it into the socket.\n**Caution: do not touch the metal plates inside the sockets to avoid risk of shock**",
+            "comments_link": "https://www.ifixit.com/Guide/Christmas+Lights+Not+Lighting+Up+Fix+with+Lightkeeper+Pro/#comments"
+        },
+        {
+            "step_number": 8,
+            "title": "Step 8",
+            "step_link": "https://www.ifixit.com/Guide/Christmas+Lights+Not+Lighting+Up+Fix+with+Lightkeeper+Pro/<#s360234>",
+            "edit_link": "https://www.ifixit.com/Guide/edit/169883/360234",
+            "text": "Firmly insert the bulb into the socket.\nWhen complete, the bulb should light up.",
+            "comments_link": "https://www.ifixit.com/Guide/Christmas+Lights+Not+Lighting+Up+Fix+with+Lightkeeper+Pro/#comments"
+        },
+        {
+            "step_number": 9,
+            "title": "Step 9",
+            "step_link": "https://www.ifixit.com/Guide/Christmas+Lights+Not+Lighting+Up+Fix+with+Lightkeeper+Pro/<#s360240>",
+            "edit_link": "https://www.ifixit.com/Guide/edit/169883/360240",
+            "text": "This guide is only designed to fix lighting devices for broken bulbs\nIf the socket is frayed as in image 1, the tools in this guide will not be able to repair the device.\nHowever, if the socket is not damaged, as in image 2, the Lightkeeper Pro should be able to repair the device.",
+            "comments_link": "https://www.ifixit.com/Guide/Christmas+Lights+Not+Lighting+Up+Fix+with+Lightkeeper+Pro/#comments"
+        }
+    ],
+    "conclusion": "Repeat this guide for each dead bulb in the series.",
+    "embed_code": "<iframe id=\"dozuki-embed-169883\" src=\"https://www.ifixit.com/Guide/embed/169883/full\" width=\"800\" allowfullscreen frameborder=\"0\"></iframe> <script>window.addEventListener(\"message\",function(a){var b=document.getElementById(\"dozuki-embed-169883\"),c=a.data[0],d=a.data[1];switch(c){case\"setHeight\":b.style.height=d+\"px\"}},!1);</script> <iframe src=\"https://www.ifixit.com/Guide/embed/169883\" width=\"800\" height=\"584\" allowfullscreen frameborder=\"0\"></iframe>"
+}

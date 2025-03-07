@@ -1,0 +1,132 @@
+{
+    "metadata": {
+        "title": "Disassembling Weather Box Oregon BAR800",
+        "last_updated": "January 14, 2014",
+        "guide_image": "https://guide-images.cdn.ifixit.com/igi/BW2OD4EP1tLTdQes.140x105",
+        "estimated_time": "No estimate",
+        "difficulty": "Moderate",
+        "community_guide": true,
+        "device_links": [
+            {
+                "text": "Oregon Scientific Ultra Thin Weather Station",
+                "url": "https://www.ifixit.com/Device/Oregon_Scientific_Ultra_Thin_Weather_Station"
+            },
+            {
+                "text": "Weather Station",
+                "url": "https://www.ifixit.com/Device/Weather_Station"
+            },
+            {
+                "text": "Patio, Lawn & Garden",
+                "url": "https://www.ifixit.com/Device/Lawn_and_Garden"
+            },
+            {
+                "text": "Household",
+                "url": "https://www.ifixit.com/Device/Household"
+            },
+            {
+                "text": "Home",
+                "url": "https://www.ifixit.com/Guide"
+            }
+        ],
+        "parts_links": [
+            {
+                "text": "Guides",
+                "url": "https://www.ifixit.com/Device/Oregon_Scientific_Ultra_Thin_Weather_Station#Section_Guides"
+            },
+            {
+                "text": "Answers",
+                "url": "https://www.ifixit.com/Answers/Device/Oregon_Scientific_Ultra_Thin_Weather_Station"
+            }
+        ],
+        "edit_link": "https://www.ifixit.com/Guide/edit/21083"
+    },
+    "introduction": "Weather Box, front side",
+    "what_you_need": {
+        "tools": [
+            {
+                "text": "Phillips #0 Screwdriver",
+                "url": "https://www.ifixit.com/products/phillips-0-screwdriver",
+                "image": "https://cart-products.cdn.ifixit.com/cart-products/iHsH13ZerBV42IXL.thumbnail",
+                "price": "$5.49 New / iFixit$8.99 New / Moody - Made in USA"
+            },
+            {
+                "text": "Flathead 3/32\" or 2.5 mm Screwdriver",
+                "url": "https://www.ifixit.com/products/flathead-3-32-or-2-5-mm-screwdriver",
+                "image": "https://cart-products.cdn.ifixit.com/cart-products/JsCoFJUVWU2hrkes.thumbnail",
+                "price": "$5.49"
+            },
+            {
+                "text": "iFixit Tech Knife",
+                "url": "https://www.ifixit.com/products/precision-utility-knife",
+                "image": "https://cart-products.cdn.ifixit.com/cart-products/ZgcT1BcBvqTMcFAU.thumbnail",
+                "price": "$4.99"
+            }
+        ]
+    },
+    "steps": [
+        {
+            "step_number": 1,
+            "title": "Disassembling Weather Box Oregon BAR800",
+            "text": "Weather Box, front side",
+            "image": "https://guide-images.cdn.ifixit.com/igi/BW2OD4EP1tLTdQes.medium",
+            "image_links": [],
+            "edit_link": "https://www.ifixit.com/Guide/edit/21083/56997",
+            "comment_links": []
+        },
+        {
+            "step_number": 2,
+            "title": "",
+            "text": "Rear side",
+            "image": "https://guide-images.cdn.ifixit.com/igi/mVaqBt5U6IttE2YU.medium",
+            "image_links": [
+                "https://guide-images.cdn.ifixit.com/igi/mVaqBt5U6IttE2YU.200x150",
+                "https://guide-images.cdn.ifixit.com/igi/g1x1BUOgLbFsrRSh.200x150",
+                "https://guide-images.cdn.ifixit.com/igi/Vm62G111EIZXwyhr.200x150"
+            ],
+            "edit_link": "https://www.ifixit.com/Guide/edit/21083/56998",
+            "comment_links": [],
+            "additional_images": [
+                "https://guide-images.cdn.ifixit.com/igi/g1x1BUOgLbFsrRSh.medium",
+                "https://guide-images.cdn.ifixit.com/igi/Vm62G111EIZXwyhr.medium"
+            ]
+        },
+        {
+            "step_number": 3,
+            "title": "",
+            "text": "External front side is a a plastic screen glued to the equipment. To disassembly it, insert a knife to cut the glue. It is soft glue, silicone, probably.\nBe carefull to not damage external plastic with knife",
+            "image_links": [],
+            "edit_link": "https://www.ifixit.com/Guide/edit/21083/56999",
+            "comment_links": []
+        },
+        {
+            "step_number": 4,
+            "title": "",
+            "text": "After plastic screen removed, it can see the screws.\nWith a small screw driver, take them off. There are eight screws.",
+            "image_links": [],
+            "edit_link": "https://www.ifixit.com/Guide/edit/21083/57000",
+            "comment_links": []
+        },
+        {
+            "step_number": 5,
+            "title": "",
+            "text": "After screws removed, it is posible disassembly equipment by inserting a flat screw in the sides. It is strong enough to resist some efforts. Be carefull anyway.",
+            "image_links": [],
+            "edit_link": "https://www.ifixit.com/Guide/edit/21083/57001",
+            "comment_links": []
+        },
+        {
+            "step_number": 6,
+            "title": "",
+            "text": "Internal view",
+            "image_links": [],
+            "edit_link": "https://www.ifixit.com/Guide/edit/21083/57006",
+            "comment_links": []
+        }
+    ],
+    "conclusion": {
+        "text": "To reassemble your device, follow these instructions in reverse order.",
+        "author_points": 30,
+        "cancel_link": "https://www.ifixit.com/Guide/Disassembling+Weather+Box+Oregon+BAR800/<#>"
+    },
+    "embed_code": "<iframe id=\"dozuki-embed-21083\" src=\"https://www.ifixit.com/Teardown/embed/21083/full\" width=\"800\" allowfullscreen frameborder=\"0\"></iframe> <script>window.addEventListener(\"message\",function(a){var b=document.getElementById(\"dozuki-embed-21083\"),c=a.data[0],d=a.data[1];switch(c){case\"setHeight\":b.style.height=d+\"px\"}},!1);</script> <iframe src=\"https://www.ifixit.com/Guide/embed/21083\" width=\"800\" height=\"584\" allowfullscreen frameborder=\"0\"></iframe>"
+}

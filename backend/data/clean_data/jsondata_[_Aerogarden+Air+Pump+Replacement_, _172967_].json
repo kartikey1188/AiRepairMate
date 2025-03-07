@@ -1,0 +1,116 @@
+{
+    "title": "Aerogarden Air Pump Replacement",
+    "last_updated": "January 10, 2025",
+    "time_estimate": "No estimate",
+    "difficulty": "Moderate",
+    "featured_guide": "An awesome member of our community made this guide. It was not created by iFixit staff.",
+    "introduction": "Want to replace an Aerogarden Air Pump?",
+    "additional_information": {
+        "manufacturer_website": "https://www.weatherstationexperts.com/acurite-02081m-weather-station-review/"
+    },
+    "tools": [
+        {
+            "name": "Tweezers",
+            "url": "https://www.ifixit.com/products/tweezers",
+            "price": "$4.99"
+        }
+    ],
+    "steps": [
+        {
+            "step_number": 1,
+            "title": "Aerogarden Air Pump",
+            "images": [
+                "https://guide-images.cdn.ifixit.com/igi/lIpfNi3gHUVgRLOh.medium",
+                "https://guide-images.cdn.ifixit.com/igi/6KjhkdXtgxoN1EVf.medium"
+            ],
+            "thumbnails": [
+                "https://guide-images.cdn.ifixit.com/igi/lIpfNi3gHUVgRLOh.200x150",
+                "https://guide-images.cdn.ifixit.com/igi/6KjhkdXtgxoN1EVf.200x150"
+            ],
+            "instructions": [
+                "Remove the water and seed pod container and set it to the side."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/172967/369412",
+            "add_comment_url": "https://www.ifixit.com/Guide/Household+Item+AcuRite+02081M+Observer+Repair+Replacement/<#>",
+            "comment_section": "https://www.ifixit.com/Guide/Household+Item+AcuRite+02081M+Observer+Repair+Replacement/<#>"
+        },
+        {
+            "step_number": 2,
+            "title": null,
+            "images": [
+                "https://guide-images.cdn.ifixit.com/igi/WWva4kxHIohmgU14.medium"
+            ],
+            "thumbnails": [
+                "https://guide-images.cdn.ifixit.com/igi/WWva4kxHIohmgU14.200x150",
+                "https://guide-images.cdn.ifixit.com/igi/LDYWpM3gL2xBpPcU.200x150"
+            ],
+            "instructions": [
+                "Peel back the footpads, which are located at the bottom of the Aerogarden.",
+                "Unscrew the eight screws on the bottom to remove the base."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/172967/369413",
+            "add_comment_url": "https://www.ifixit.com/Guide/Household+Item+AcuRite+02081M+Observer+Repair+Replacement/<#>",
+            "comment_section": "https://www.ifixit.com/Guide/Household+Item+AcuRite+02081M+Observer+Repair+Replacement/<#>"
+        },
+        {
+            "step_number": 3,
+            "title": null,
+            "images": [],
+            "instructions": [
+                "Disconnect the wires for the lights so the base can be fully opened."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/172967/369415",
+            "add_comment_url": "https://www.ifixit.com/Guide/Household+Item+AcuRite+02081M+Observer+Repair+Replacement/<#>",
+            "comment_section": "https://www.ifixit.com/Guide/Household+Item+AcuRite+02081M+Observer+Repair+Replacement/<#>"
+        },
+        {
+            "step_number": 4,
+            "title": null,
+            "images": [],
+            "instructions": [
+                "Remove the four screws holding the pump down on the plastic."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/172967/369416",
+            "add_comment_url": "https://www.ifixit.com/Guide/Household+Item+AcuRite+02081M+Observer+Repair+Replacement/<#>",
+            "comment_section": "https://www.ifixit.com/Guide/Household+Item+AcuRite+02081M+Observer+Repair+Replacement/<#>"
+        },
+        {
+            "step_number": 5,
+            "title": null,
+            "images": [],
+            "instructions": [
+                "Cut the wires as close to the pump as possible to preserve the length of the wire. The wire connections are covered with glue.",
+                "Strip the plastic that covers the wire about 1/8 inch down from the ends until the end of the wire is exposed.",
+                "On the circuit board, note which wire is positive and which wire is negative."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/172967/369417",
+            "add_comment_url": "https://www.ifixit.com/Guide/Household+Item+AcuRite+02081M+Observer+Repair+Replacement/<#>",
+            "comment_section": "https://www.ifixit.com/Guide/Household+Item+AcuRite+02081M+Observer+Repair+Replacement/<#>"
+        },
+        {
+            "step_number": 6,
+            "title": null,
+            "images": [],
+            "instructions": [
+                "Connect the wires to the new pump and solder them in or affix them with heat shrink tubing for wires. The solder should be covered with the heat shrink tubing, as well, since it is a potentially wet environment."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/172967/369420",
+            "add_comment_url": "https://www.ifixit.com/Guide/Household+Item+AcuRite+02081M+Observer+Repair+Replacement/<#>",
+            "comment_section": "https://www.ifixit.com/Guide/Household+Item+AcuRite+02081M+Observer+Repair+Replacement/<#>"
+        },
+        {
+            "step_number": 7,
+            "title": null,
+            "images": [],
+            "instructions": [
+                "Assemble in reverse order."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/172967/369422",
+            "add_comment_url": "https://www.ifixit.com/Guide/Household+Item+AcuRite+02081M+Observer+Repair+Replacement/<#>",
+            "comment_section": "https://www.ifixit.com/Guide/Household+Item+AcuRite+02081M+Observer+Repair+Replacement/<#>"
+        }
+    ],
+    "conclusion": "To reassemble your device, follow these instructions in reverse order.",
+    "completed_guide_text": null,
+    "embed_code": "<iframe id=\"dozuki-embed-172967\" src=\"https://www.ifixit.com/Guide/embed/172967/full\" width=\"800\" allowfullscreen frameborder=\"0\"></iframe> <script>window.addEventListener(\"message\",function(a){var b=document.getElementById(\"dozuki-embed-172967\"),c=a.data[0],d=a.data[1];switch(c){case\"setHeight\":b.style.height=d+\"px\"}},!1);</script> <iframe src=\"https://www.ifixit.com/Guide/embed/172967\" width=\"800\" height=\"584\" allowfullscreen frameborder=\"0\"></iframe>"
+}

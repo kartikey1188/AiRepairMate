@@ -1,0 +1,100 @@
+{
+    "title": "1922 GE AOU Fan Power cord Replacement",
+    "last_updated": "August 9, 2019",
+    "estimated_time": "15 minutes",
+    "difficulty": "Easy",
+    "introduction": "Use this guide to replace the power cord on a 1922 GE AOU fan.",
+    "parts": [
+        {
+            "name": "Cloth Wire Power Cord",
+            "url": "http://vintagewireandsupply.com/custom-cordset/",
+            "for_sale_from_another_site": true,
+            "view_link": "http://vintagewireandsupply.com/custom-cordset/"
+        }
+    ],
+    "tools": [
+        {
+            "name": "6‑in-1 Screwdriver",
+            "url": "https://www.ifixit.com/products/6-in-1-screwdriver",
+            "image": "https://cart-products.cdn.ifixit.com/cart-products/LYcK13TjejldWD5Y.thumbnail",
+            "price": "$6.99",
+            "add_to_cart_url": "https://www.ifixit.com/products/6-in-1-screwdriver"
+        }
+    ],
+    "steps": [
+        {
+            "step_number": 1,
+            "title": "Power cord",
+            "content": [
+                "Tip the fan to its side and remove the three size 8 screws using a 9/32 flat-head screwdriver.",
+                "The screws may be brittle from age, so be careful.",
+                "Take the bottom plate off the fan and set it aside."
+            ],
+            "images": [
+                "https://guide-images.cdn.ifixit.com/igi/HfEWGEh4CNaAfPT2.medium",
+                "https://guide-images.cdn.ifixit.com/igi/LZBxgpCDMiCQUKVN.medium"
+            ],
+            "images_200x150": [
+                "https://guide-images.cdn.ifixit.com/igi/HfEWGEh4CNaAfPT2.200x150",
+                "https://guide-images.cdn.ifixit.com/igi/LZBxgpCDMiCQUKVN.200x150"
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/64228/134256",
+            "comments_count": 0,
+            "add_comment_url": null
+        },
+        {
+            "step_number": 2,
+            "content": [
+                "Remove the three number 8 screws that hold the switch in place."
+            ],
+            "image": "https://guide-images.cdn.ifixit.com/igi/HTMJXZZZCcdmT1Rc.medium",
+            "edit_url": "https://www.ifixit.com/Guide/edit/64228/134257",
+            "comments_count": 0,
+            "add_comment_url": null
+        },
+        {
+            "step_number": 3,
+            "content": [
+                "Remove the switch, carefully sliding the speed lever out of its slot.",
+                "Don't remove the switch too quickly or you can damage the head-wire."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/64228/134258",
+            "comments_count": 0,
+            "add_comment_url": null
+        },
+        {
+            "step_number": 4,
+            "content": [
+                "Once the switch is free, unscrew the two knurled nuts holding the wires in place."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/64228/134260",
+            "comments_count": 0,
+            "add_comment_url": null
+        },
+        {
+            "step_number": 5,
+            "content": [
+                "Turn the switch over and unscrew the nut securing the wire with the 5/16 crescent wrench."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/64228/134261",
+            "comments_count": 0,
+            "add_comment_url": null
+        },
+        {
+            "step_number": 6,
+            "content": [
+                "Remove the switch and set it aside, then pull the wire through the grommet."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/64228/134262",
+            "comments_count": 0,
+            "add_comment_url": null
+        }
+    ],
+    "conclusion": "To reassemble your device, follow these instructions in reverse order.",
+    "embed_code": {
+        "small": "<iframe id=\"dozuki-embed-64228\" src=\"https://www.ifixit.com/Guide/embed/64228/full\" width=\"600\" allowfullscreen frameborder=\"0\"></iframe> <script>window.addEventListener(\"message\",function(a){var b=document.getElementById(\"dozuki-embed-64228\"),c=a.data[0],d=a.data[1];switch(c){case\"setHeight\":b.style.height=d+\"px\"}},!1);</script>",
+        "medium": "<iframe id=\"dozuki-embed-64228\" src=\"https://www.ifixit.com/Guide/embed/64228/full\" width=\"800\" allowfullscreen frameborder=\"0\"></iframe> <script>window.addEventListener(\"message\",function(a){var b=document.getElementById(\"dozuki-embed-64228\"),c=a.data[0],d=a.data[1];switch(c){case\"setHeight\":b.style.height=d+\"px\"}},!1);</script>",
+        "large": "<iframe id=\"dozuki-embed-64228\" src=\"https://www.ifixit.com/Guide/embed/64228/full\" width=\"1200\" allowfullscreen frameborder=\"0\"></iframe> <script>window.addEventListener(\"message\",function(a){var b=document.getElementById(\"dozuki-embed-64228\"),c=a.data[0],d=a.data[1];switch(c){case\"setHeight\":b.style.height=d+\"px\"}},!1);</script>",
+        "full_guide": "<iframe src=\"https://www.ifixit.com/Guide/embed/64228\" width=\"800\" height=\"584\" allowfullscreen frameborder=\"0\"></iframe>"
+    }
+}

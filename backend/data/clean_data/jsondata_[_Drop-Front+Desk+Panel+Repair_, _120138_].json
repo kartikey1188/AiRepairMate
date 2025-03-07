@@ -1,0 +1,177 @@
+{
+    "guide_title": "Drop-Front Desk Panel Repair",
+    "last_updated": "June 2, 2022",
+    "time_estimate": "35 minutes",
+    "difficulty": "Easy",
+    "introduction": "Drop-front desks, also known as slant-front desks, have a drop-front hinged panel. Users can open the panel by lowering it down to use as a writing surface. However, the connection between the main desk and the drop-front panel can experience damaged. The force of slamming down the drop-front panel repetitively to access the main cubby inside the desk can loosen screws, destabilize hinges and eventually lead to detachment.\nIf the drop-front is damaged, the desk's function is lost. For example, the drop-front desk will not provide a flat yet accessible platform to write on. Also, the drop-front will not raise back up towards the desk to make more room.\nReading this guide informs an audience how to repair a broken drop-front panel to restore the completeness and functionality of the panel and the overall desk. This repair requires lifting the panel and having another person assist in certain parts of the repair.",
+    "tools_and_materials": {
+        "parts": [
+            {
+                "name": "Wood screw (stainless steel) length about 0.5in (1.5cm)",
+                "url": "https://www.ifixit.com/Guide/Drop-Front+Desk+Panel+Repair/Item/Wood_screw_%28stainless_steel%29_length_about_0.5in_%281.5cm%29",
+                "quantity": "x32"
+            }
+        ],
+        "tools": [
+            {
+                "name": "Phillips #2 Screwdriver",
+                "url": "https://www.ifixit.com/products/6-in-1-screwdriver",
+                "price": "$6.99",
+                "add_to_cart": true
+            }
+        ]
+    },
+    "steps": [
+        {
+            "step_number": 1,
+            "step_title": "Drop-Front Desk Panel",
+            "images": [
+                {
+                    "url": "https://guide-images.cdn.ifixit.com/igi/DcWfUnbtbfytxtmh.medium",
+                    "alt_text": "Drop-Front Desk Panel Repair, Drop-Front Desk Panel: step 1, image 1 of 3"
+                },
+                {
+                    "url": "https://guide-images.cdn.ifixit.com/igi/iDMacILefuaSRAF6.medium",
+                    "alt_text": "Drop-Front Desk Panel Repair, Drop-Front Desk Panel: step 1, image 2 of 3"
+                },
+                {
+                    "url": "https://guide-images.cdn.ifixit.com/igi/yAf2nV3gNCYDNyLg.medium",
+                    "alt_text": "Drop-Front Desk Panel Repair, Drop-Front Desk Panel: step 1, image 3 of 3"
+                }
+            ],
+            "text": "Place the drop front panel on a firm and flat surface.\nA firm surface minimizes the risk of the panel injuring one’s body or experiencing further damages.",
+            "links": [
+                {
+                    "type": "edit",
+                    "url": "https://www.ifixit.com/Guide/edit/120138/231428"
+                }
+            ]
+        },
+        {
+            "step_number": 2,
+            "step_title": null,
+            "images": [
+                {
+                    "url": "https://guide-images.cdn.ifixit.com/igi/6vadceEoNctkwbVn.medium",
+                    "alt_text": "Drop-Front Desk Panel Repair: step 2, image 1 of 3"
+                },
+                {
+                    "url": "https://guide-images.cdn.ifixit.com/igi/TFcHkGDvYZJNKK5b.200x150",
+                    "alt_text": "Drop-Front Desk Panel Repair: step 2, image 2 of 3"
+                },
+                {
+                    "url": "https://guide-images.cdn.ifixit.com/igi/NnqRextXhfDmFoMJ.200x150",
+                    "alt_text": "Drop-Front Desk Panel Repair: step 2, image 3 of 3"
+                }
+            ],
+            "text": "Position the rectangular plate over the Phillips #5 wood screw holes (15mm) on the left width.\nThere are six Phillips #5 wooden screw holes in total (15mm). Four wooden screw holes (15mm) are on the left width of the panel and two other screw holes are on the width's side.\nRepeat this step with the right width of the panel.\nThe rectangular plates that will later be fastened to the left and right width are connected to chains. The chains connect to another hinge piece that will later be connected to the main desk frame.",
+            "links": [
+                {
+                    "type": "edit",
+                    "url": "https://www.ifixit.com/Guide/edit/120138/231446"
+                }
+            ]
+        },
+        {
+            "step_number": 3,
+            "step_title": null,
+            "images": [],
+            "text": "Use the Phillips #2 screwdriver to turn the six Phillips #5 wood screws (15 mm) and secure the rectangular plates to the left width of the panel.\nRepeat this step with the right width of the panel.\nTurn the screwdriver to the right to tighten the screws. Turn the screwdriver to the left to loosen the screws.",
+            "links": [
+                {
+                    "type": "edit",
+                    "url": "https://www.ifixit.com/Guide/edit/120138/231455"
+                }
+            ]
+        },
+        {
+            "step_number": 4,
+            "step_title": null,
+            "images": [],
+            "text": "Position the hemispherical plates over the left hemispherical hole on the length of the panel.\nRepeat this step with the right length of the panel.\nA hemisphere is the half of a circle.\nUse the Phillips #2 screwdriver to turn the three #5 wood screws (15mm) and tighten the hemispherical plates along the length of the drop-front panel.",
+            "links": [
+                {
+                    "type": "edit",
+                    "url": "https://www.ifixit.com/Guide/edit/120138/231456"
+                }
+            ]
+        },
+        {
+            "step_number": 5,
+            "step_title": null,
+            "images": [],
+            "text": "Prevent dropping the drop-front panel by carrying the panel with each hand grasping both sides of the panel's width.\nCarry the panel from the flat surface to the main desk frame.",
+            "links": [
+                {
+                    "type": "edit",
+                    "url": "https://www.ifixit.com/Guide/edit/120138/231457"
+                }
+            ]
+        },
+        {
+            "step_number": 6,
+            "step_title": null,
+            "images": [],
+            "text": "Connect the panel to the bottom edge of the main desk frame.",
+            "links": [
+                {
+                    "type": "edit",
+                    "url": "https://www.ifixit.com/Guide/edit/120138/231459"
+                }
+            ]
+        },
+        {
+            "step_number": 7,
+            "step_title": null,
+            "images": [],
+            "text": "Position the panel's hemispherical plates over the hemispherical holes on the left and right side of the main desk frame.",
+            "links": [
+                {
+                    "type": "edit",
+                    "url": "https://www.ifixit.com/Guide/edit/120138/231460"
+                }
+            ]
+        },
+        {
+            "step_number": 8,
+            "step_title": null,
+            "images": [],
+            "text": "Have one person hold the drop-front panel in place and another person screw the hinges in place.\nUse the Phillips #2 screwdriver to turn the three Phillips #5 wood screws (15mm) and tighten the hemispherical hinges on the main desk frame.",
+            "links": [
+                {
+                    "type": "edit",
+                    "url": "https://www.ifixit.com/Guide/edit/120138/231461"
+                }
+            ]
+        },
+        {
+            "step_number": 9,
+            "step_title": null,
+            "images": [],
+            "text": "Position the second half of the rectangular plate over the four wood screw holes (15mm) on the left side of the inner desk frame.\nRepeat this step with the right side of the inner desk frame.\nUse the Phillips #2 screwdriver to screw the four #5 wood screws (15mm) and tighten the rectangular plate.\nRepeat this step with the right side of the inner desk frame.",
+            "links": [
+                {
+                    "type": "edit",
+                    "url": "https://www.ifixit.com/Guide/edit/120138/231462"
+                }
+            ]
+        },
+        {
+            "step_number": 10,
+            "step_title": null,
+            "images": [],
+            "text": "Test the connection between the main desk frame and the drop-front panel by raising the panel towards the inner desk frame and away from it.\nIf the connection is unsteady or makes noise as you raise and lower the panel, tighten all the screws on the panel and the main desk frame.",
+            "links": [
+                {
+                    "type": "edit",
+                    "url": "https://www.ifixit.com/Guide/edit/120138/231463"
+                }
+            ]
+        }
+    ],
+    "conclusion": "To disassemble your device, follow these instructions in reverse order.",
+    "embed_guide": {
+        "single_step_code": "<iframe id=\"dozuki-embed-120138\" src=\"https://www.ifixit.com/Guide/embed/120138/full\" width=\"800\" allowfullscreen frameborder=\"0\"></iframe> <script>window.addEventListener(\"message\",function(a){var b=document.getElementById(\"dozuki-embed-120138\"),c=a.data[0],d=a.data[1];switch(c){case\"setHeight\":b.style.height=d+\"px\"}},!1);</script>",
+        "full_guide_code": "<iframe src=\"https://www.ifixit.com/Guide/embed/120138\" width=\"800\" height=\"584\" allowfullscreen frameborder=\"0\"></iframe>"
+    }
+}

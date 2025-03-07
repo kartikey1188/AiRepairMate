@@ -1,0 +1,105 @@
+{
+    "guide_title": "Cello String Replacement",
+    "last_updated": "June 28, 2021",
+    "estimated_time": "7 minutes",
+    "difficulty": "Easy",
+    "introduction": "Replacing a string on an instrument can be scary. You always want to make sure that you don’t break the replacement! In this guide, we will show you how to remove and replace the string on a cello. These steps would also work perfectly for another orchestral string instrument, such as a violin, viola, or bass. Simply follow the steps and be back to playing your instrument in less than ten minutes!",
+    "parts": [
+        {
+            "name": "Mandolin Strings Gretsch New Yorker Mandolin",
+            "link": "https://www.ifixit.com/Guide/Cello+String+Replacement//Item/Mandolin_Strings_Gretsch_New_Yorker_Mandolin"
+        }
+    ],
+    "tools": [
+        {
+            "name": "Optional: Electronic Tuning Device",
+            "link": "https://www.ifixit.com/Guide/Cello+String+Replacement//Item/Optional_Electronic_Tuning_Device"
+        },
+        {
+            "name": "Pliers or Scissors",
+            "link": "https://www.ifixit.com/Guide/Cello+String+Replacement//Item/Pliers_or_Scissors"
+        }
+    ],
+    "steps": [
+        {
+            "step_number": 1,
+            "title": "String",
+            "images": [
+                "https://guide-images.cdn.ifixit.com/igi/3vLTN3SxvjhPKsTo.medium",
+                "https://guide-images.cdn.ifixit.com/igi/EbclQP2nMXPDbN5Y.medium"
+            ],
+            "thumbnails": [
+                "https://guide-images.cdn.ifixit.com/igi/3vLTN3SxvjhPKsTo.200x150",
+                "https://guide-images.cdn.ifixit.com/igi/EbclQP2nMXPDbN5Y.200x150"
+            ],
+            "description": "Follow the string up to the peg of the corresponding string. Grab it, and twist it towards you.",
+            "edit_link": "https://www.ifixit.com/Guide/Cello+String+Replacement//Guide/edit/120855/233017",
+            "add_comment_link": "https://www.ifixit.com/Guide/Cello+String+Replacement/",
+            "links": []
+        },
+        {
+            "step_number": 2,
+            "title": null,
+            "image": "https://guide-images.cdn.ifixit.com/igi/LCJ1kYoVRugGGwFL.medium",
+            "description": "Once the peg is loose, follow the string down to the fine tuner, and loosen that as well.",
+            "edit_link": "https://www.ifixit.com/Guide/Cello+String+Replacement//Guide/edit/120855/233018",
+            "add_comment_link": "https://www.ifixit.com/Guide/Cello+String+Replacement/",
+            "links": []
+        },
+        {
+            "step_number": 3,
+            "title": null,
+            "image": null,
+            "description": "Remove the string and take out your replacement. Insert the end of the string with the bead in it into the fine tuner slot.",
+            "edit_link": "https://www.ifixit.com/Guide/Cello+String+Replacement//Guide/edit/120855/233019",
+            "add_comment_link": "https://www.ifixit.com/Guide/Cello+String+Replacement/",
+            "links": []
+        },
+        {
+            "step_number": 4,
+            "title": null,
+            "image": null,
+            "description": "With the string in the fine tuner slot, line the string up with the rivet in the bridge.",
+            "edit_link": "https://www.ifixit.com/Guide/Cello+String+Replacement//Guide/edit/120855/233021",
+            "add_comment_link": "https://www.ifixit.com/Guide/Cello+String+Replacement/",
+            "links": []
+        },
+        {
+            "step_number": 5,
+            "title": null,
+            "image": null,
+            "description": "Place the string into the small hole in the peg. Make sure that it gets far enough in!\nAbout half an inch of string poking out the other side is optimal.",
+            "edit_link": "https://www.ifixit.com/Guide/Cello+String+Replacement//Guide/edit/120855/233022",
+            "add_comment_link": "https://www.ifixit.com/Guide/Cello+String+Replacement/",
+            "links": []
+        },
+        {
+            "step_number": 6,
+            "title": null,
+            "image": null,
+            "description": "Re-line the string with the bridge, in case it fell out.\nMake sure that the string is in the position you want it to be - evenly spaced between the strings between them.",
+            "edit_link": "https://www.ifixit.com/Guide/Cello+String+Replacement//Guide/edit/120855/233023",
+            "add_comment_link": "https://www.ifixit.com/Guide/Cello+String+Replacement/",
+            "links": []
+        },
+        {
+            "step_number": 7,
+            "title": null,
+            "image": null,
+            "description": "Twist the peg in the opposite direction that you did before. If the cello is facing towards you, then twist it away from you.\nMake sure that you do not twist too much! Pluck the string while twisting to make sure the string is not too loose or too tight. You don't want to snap it!\nWhen tightening the peg, make sure that the string is still aligned with the indent on the bridge.",
+            "edit_link": "https://www.ifixit.com/Guide/Cello+String+Replacement//Guide/edit/120855/233024",
+            "add_comment_link": "https://www.ifixit.com/Guide/Cello+String+Replacement/",
+            "links": []
+        }
+    ],
+    "finish_line": {
+        "text": "Give the author +30 points! You're Finished!",
+        "cancel_link": "https://www.ifixit.com/Guide/Cello+String+Replacement/<#>"
+    },
+    "embed_code": {
+        "small": "<iframe id=\"dozuki-embed-120855\" src=\"https://www.ifixit.com/Guide/embed/120855/full\" width=\"600\" allowfullscreen frameborder=\"0\"></iframe> <script>window.addEventListener(\"message\",function(a){var b=document.getElementById(\"dozuki-embed-120855\"),c=a.data[0],d=a.data[1];switch(c){case\"setHeight\":b.style.height=d+\"px\"}},!1);</script> <iframe src=\"https://www.ifixit.com/Guide/embed/120855\" width=\"600\" height=\"584\" allowfullscreen frameborder=\"0\"></iframe>",
+        "medium": "<iframe id=\"dozuki-embed-120855\" src=\"https://www.ifixit.com/Guide/embed/120855/full\" width=\"800\" allowfullscreen frameborder=\"0\"></iframe> <script>window.addEventListener(\"message\",function(a){var b=document.getElementById(\"dozuki-embed-120855\"),c=a.data[0],d=a.data[1];switch(c){case\"setHeight\":b.style.height=d+\"px\"}},!1);</script> <iframe src=\"https://www.ifixit.com/Guide/embed/120855\" width=\"800\" height=\"584\" allowfullscreen frameborder=\"0\"></iframe>",
+        "large": "<iframe id=\"dozuki-embed-120855\" src=\"https://www.ifixit.com/Guide/embed/120855/full\" width=\"1200\" allowfullscreen frameborder=\"0\"></iframe> <script>window.addEventListener(\"message\",function(a){var b=document.getElementById(\"dozuki-embed-120855\"),c=a.data[0],d=a.data[1];switch(c){case\"setHeight\":b.style.height=d+\"px\"}},!1);</script> <iframe src=\"https://www.ifixit.com/Guide/embed/120855\" width=\"1200\" height=\"584\" allowfullscreen frameborder=\"0\"></iframe>"
+    },
+    "repair_is_noble": "https://www.ifixit.com/Manifesto"
+}

@@ -1,0 +1,234 @@
+{
+    "metadata": {
+        "title": "Cabinet Magnetic Catch Replacement",
+        "last_updated": "September 14, 2021",
+        "estimated_time": "20 - 40 minutes",
+        "difficulty": "Easy",
+        "guide_url": "https://www.ifixit.com/Guide/Cabinet+Magnetic+Catch+Replacement/",
+        "guide_id": 143698,
+        "device_categories": [
+            {
+                "name": "Home Construction",
+                "url": "https://www.ifixit.com/Guide/Cabinet+Magnetic+Catch+Replacement/<https://www.ifixit.com/Device/Home_Construction>"
+            },
+            {
+                "name": "Household",
+                "url": "https://www.ifixit.com/Guide/Cabinet+Magnetic+Catch+Replacement/<https://www.ifixit.com/Device/Household>"
+            },
+            {
+                "name": "Home",
+                "url": "https://www.ifixit.com/Guide/Cabinet+Magnetic+Catch+Replacement/<https://www.ifixit.com/Guide>"
+            }
+        ],
+        "parts_url": "https://www.ifixit.com/Guide/Cabinet+Magnetic+Catch+Replacement/<https://www.ifixit.com/Device/Home_Construction#Section_Guides>",
+        "answers_url": "https://www.ifixit.com/Guide/Cabinet+Magnetic+Catch+Replacement/</Answers/Device/Home_Construction>",
+        "edit_url": "https://www.ifixit.com/Guide/Cabinet+Magnetic+Catch+Replacement/</Guide/edit/143698>",
+        "guide_image": "https://guide-images.cdn.ifixit.com/igi/3ASbPHjMT2xflEJw.140x105",
+        "embed_code": {
+            "small": "<iframe id=\"dozuki-embed-143698\" src=\"https://www.ifixit.com/Guide/embed/143698/full\" width=\"600\" allowfullscreen frameborder=\"0\"></iframe> <script>window.addEventListener(\"message\",function(a){var b=document.getElementById(\"dozuki-embed-143698\"),c=a.data[0],d=a.data[1];switch(c){case\"setHeight\":b.style.height=d+\"px\"}},!1);</script>",
+            "medium": "<iframe id=\"dozuki-embed-143698\" src=\"https://www.ifixit.com/Guide/embed/143698/full\" width=\"800\" allowfullscreen frameborder=\"0\"></iframe> <script>window.addEventListener(\"message\",function(a){var b=document.getElementById(\"dozuki-embed-143698\"),c=a.data[0],d=a.data[1];switch(c){case\"setHeight\":b.style.height=d+\"px\"}},!1);</script>",
+            "large": "<iframe id=\"dozuki-embed-143698\" src=\"https://www.ifixit.com/Guide/embed/143698/full\" width=\"1200\" allowfullscreen frameborder=\"0\"></iframe> <script>window.addEventListener(\"message\",function(a){var b=document.getElementById(\"dozuki-embed-143698\"),c=a.data[0],d=a.data[1];switch(c){case\"setHeight\":b.style.height=d+\"px\"}},!1);</script>",
+            "single_step_embed": "<iframe src=\"https://www.ifixit.com/Guide/embed/143698\" width=\"800\" height=\"584\" allowfullscreen frameborder=\"0\"></iframe>"
+        }
+    },
+    "introduction": {
+        "text": "Has your cabinet stopped closing after a long period of use? Your cabinets may be able to close but not completely. The cause might be your magnet catch.The cabinet magnet catch is an important component to ensure cabinets stay closed. Learn how to replace it using a screwdriver, a few screws, and a new magnetic catch that comes with new parts.",
+        "step_url": "https://www.ifixit.com/Guide/Cabinet+Magnetic+Catch+Replacement/<#s290728>"
+    },
+    "tools": [
+        {
+            "name": "64mm Double Magnetic Catch",
+            "url": "https://www.ifixit.com/Guide/Cabinet+Magnetic+Catch+Replacement/<https://www.homedepot.ca/product/richelieu-white-double-magnetic-latch-with-plate-and-screws/1000401270>",
+            "availability": "For sale from another site",
+            "view_url": "https://www.ifixit.com/Guide/Cabinet+Magnetic+Catch+Replacement/<https://www.homedepot.ca/product/richelieu-white-double-magnetic-latch-with-plate-and-screws/1000401270>",
+            "image_url": ""
+        },
+        {
+            "name": "10mm Phillips #0 screw",
+            "url": "https://www.ifixit.com/Guide/Cabinet+Magnetic+Catch+Replacement/<https://www.homedepot.ca/product/richelieu-white-double-magnetic-latch-with-plate-and-screws/1000401270>",
+            "quantity": "×2",
+            "availability": "For sale from another site",
+            "view_url": "https://www.ifixit.com/Guide/Cabinet+Magnetic+Catch+Replacement/<https://www.homedepot.ca/product/richelieu-white-double-magnetic-latch-with-plate-and-screws/1000401270>",
+            "image_url": ""
+        },
+        {
+            "name": "5mm Phillips #0 screw",
+            "url": "https://www.ifixit.com/Guide/Cabinet+Magnetic+Catch+Replacement/<https://www.homedepot.ca/product/richelieu-white-double-magnetic-latch-with-plate-and-screws/1000401270>",
+            "quantity": "×2",
+            "availability": "For sale from another site",
+            "view_url": "https://www.ifixit.com/Guide/Cabinet+Magnetic+Catch+Replacement/<https://www.homedepot.ca/product/richelieu-white-double-magnetic-latch-with-plate-and-screws/1000401270>",
+            "image_url": ""
+        },
+        {
+            "name": "32mm Magnetic plates",
+            "url": "https://www.ifixit.com/Guide/Cabinet+Magnetic+Catch+Replacement/<https://www.homedepot.ca/product/richelieu-white-double-magnetic-latch-with-plate-and-screws/1000401270>",
+            "quantity": "×2",
+            "availability": "For sale from another site",
+            "view_url": "https://www.ifixit.com/Guide/Cabinet+Magnetic+Catch+Replacement/<https://www.homedepot.ca/product/richelieu-white-double-magnetic-latch-with-plate-and-screws/1000401270>",
+            "image_url": ""
+        },
+        {
+            "name": "Graphite pencil",
+            "url": "https://www.ifixit.com/Guide/Cabinet+Magnetic+Catch+Replacement/<https://www.walmart.com/ip/Ticonderoga-Classic-Yellow-No-2-Pencils-Pre-Sharpened-30-Ct/19599042>",
+            "availability": "For sale from another site",
+            "view_url": "https://www.ifixit.com/Guide/Cabinet+Magnetic+Catch+Replacement/<https://www.walmart.com/ip/Ticonderoga-Classic-Yellow-No-2-Pencils-Pre-Sharpened-30-Ct/19599042>",
+            "image_url": ""
+        },
+        {
+            "name": "Phillips #0 Screwdriver",
+            "url": "https://www.ifixit.com/Guide/Cabinet+Magnetic+Catch+Replacement/<https://www.ifixit.com/products/phillips-0-screwdriver>",
+            "price_new_ifixit": "$5.49",
+            "price_new_moody": "$8.99",
+            "add_to_cart_url": "https://www.ifixit.com/Guide/Cabinet+Magnetic+Catch+Replacement/<https://www.ifixit.com/products/phillips-0-screwdriver>",
+            "image_url": "https://cart-products.cdn.ifixit.com/cart-products/iHsH13ZerBV42IXL.thumbnail"
+        }
+    ],
+    "steps": [
+        {
+            "step_number": 1,
+            "title": "Cabinet Magnet Catch",
+            "step_url": "https://www.ifixit.com/Guide/Cabinet+Magnetic+Catch+Replacement/<#s290728>",
+            "instructions": [
+                "Remove two screws from the the old magnetic catch using a Phillips #0 screwdriver.",
+                "Remove the magnetic catch from the shelf.",
+                "It is recommended you use a stubby screwdriver since you will be dealing with tight spaces of the cabinet shelf."
+            ],
+            "images": [
+                {
+                    "original": "https://guide-images.cdn.ifixit.com/igi/hgVV5xtcghGMyk4B.medium",
+                    "thumbnail": "https://guide-images.cdn.ifixit.com/igi/hgVV5xtcghGMyk4B.200x150"
+                },
+                {
+                    "original": "https://guide-images.cdn.ifixit.com/igi/kpRAQEKthWxtSHIi.medium",
+                    "thumbnail": "https://guide-images.cdn.ifixit.com/igi/kpRAQEKthWxtSHIi.200x150"
+                }
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/Cabinet+Magnetic+Catch+Replacement/</Guide/edit/143698/290728>",
+            "comments_section": {
+                "add_comment_url": null,
+                "max_length": 1024
+            }
+        },
+        {
+            "step_number": 2,
+            "title": "",
+            "step_url": "https://www.ifixit.com/Guide/Cabinet+Magnetic+Catch+Replacement/<#s290729>",
+            "instructions": [
+                "Remove the screws securing the plates to the cabinet doors using a Phillips #0 screwdriver. Remove the plates.",
+                "Do this on the both sides."
+            ],
+            "images": [
+                {
+                    "original": "https://guide-images.cdn.ifixit.com/igi/OxgGvgWEGhS3gnJI.medium",
+                    "thumbnail": ""
+                }
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/Cabinet+Magnetic+Catch+Replacement/</Guide/edit/143698/290729>",
+            "comments_section": {
+                "add_comment_url": null,
+                "max_length": 1024
+            }
+        },
+        {
+            "step_number": 3,
+            "title": "",
+            "step_url": "https://www.ifixit.com/Guide/Cabinet+Magnetic+Catch+Replacement/<#s290730>",
+            "instructions": [
+                "Place the new magnetic catch on the center of the shelf cabinet.",
+                "Ensure it is adjusted carefully by moving its width halfway out of the cabinet and aligned on each side."
+            ],
+            "images": [],
+            "edit_url": "https://www.ifixit.com/Guide/Cabinet+Magnetic+Catch+Replacement/</Guide/edit/143698/290730>",
+            "comments_section": {
+                "add_comment_url": null,
+                "max_length": 1024
+            }
+        },
+        {
+            "step_number": 4,
+            "title": "",
+            "step_url": "https://www.ifixit.com/Guide/Cabinet+Magnetic+Catch+Replacement/<#s290731>",
+            "instructions": [
+                "With your graphite pencil, mark the location of the screw holes so you know exactly where you placed it in case you get lost."
+            ],
+            "images": [],
+            "edit_url": "https://www.ifixit.com/Guide/Cabinet+Magnetic+Catch+Replacement/</Guide/edit/143698/290731>",
+            "comments_section": {
+                "add_comment_url": null,
+                "max_length": 1024
+            }
+        },
+        {
+            "step_number": 5,
+            "title": "",
+            "step_url": "https://www.ifixit.com/Guide/Cabinet+Magnetic+Catch+Replacement/<#s290732>",
+            "instructions": [
+                "Screw in two 10 mm screws on the new magnetic catch using a Phillips #0 screwdriver to secure it in place.",
+                "Ensure that you are maintaining alignment of the magnetic catch with the help of Step 4. Otherwise, you will repeat Step 3.",
+                "You may reuse the old screws from the removal in Step 1 to install the new magnetic catch."
+            ],
+            "images": [],
+            "edit_url": "https://www.ifixit.com/Guide/Cabinet+Magnetic+Catch+Replacement/</Guide/edit/143698/290732>",
+            "comments_section": {
+                "add_comment_url": null,
+                "max_length": 1024
+            }
+        },
+        {
+            "step_number": 6,
+            "title": "",
+            "step_url": "https://www.ifixit.com/Guide/Cabinet+Magnetic+Catch+Replacement/<#s290733>",
+            "instructions": [
+                "Close the cabinet and mark down the side of the cabinet door using a graphite pencil.",
+                "Do this on the other side."
+            ],
+            "images": [],
+            "edit_url": "https://www.ifixit.com/Guide/Cabinet+Magnetic+Catch+Replacement/</Guide/edit/143698/290733>",
+            "comments_section": {
+                "add_comment_url": null,
+                "max_length": 1024
+            }
+        },
+        {
+            "step_number": 7,
+            "title": "",
+            "step_url": "https://www.ifixit.com/Guide/Cabinet+Magnetic+Catch+Replacement/<#s290734>",
+            "instructions": [
+                "Screw in one 5mm screw on the new magnetic plate using a Phillips #0 screwdriver to secure it in place on one side of the cabinet door.",
+                "Ensure that you are maintaining alignment of the magnetic plates with the help of Step 6 and old screw holes.",
+                "Do this step on the other side with the second 5mm screw.",
+                "You may reuse the old screws from the removal in Step 2 to install the new magnetic plates."
+            ],
+            "images": [],
+            "edit_url": "https://www.ifixit.com/Guide/Cabinet+Magnetic+Catch+Replacement/</Guide/edit/143698/290734>",
+            "comments_section": {
+                "add_comment_url": null,
+                "max_length": 1024
+            }
+        },
+        {
+            "step_number": 8,
+            "title": "",
+            "step_url": "https://www.ifixit.com/Guide/Cabinet+Magnetic+Catch+Replacement/<#s290735>",
+            "instructions": [
+                "Test the cabinet magnetic catch by closing it.",
+                "You are finished when the cabinet stays closed after letting your hands go."
+            ],
+            "images": [],
+            "edit_url": "https://www.ifixit.com/Guide/Cabinet+Magnetic+Catch+Replacement/</Guide/edit/143698/290735>",
+            "comments_section": {
+                "add_comment_url": null,
+                "max_length": 1024
+            }
+        }
+    ],
+    "conclusion": {
+        "text": "You have finished the replacement of cabinet magnetic catch.",
+        "almost_done": "Almost done!"
+    },
+    "additional_info": {
+        "give_author_points": "Give the author +30 points!  You're Finished!",
+        "cancel_guide_completion_url": "https://www.ifixit.com/Guide/Cabinet+Magnetic+Catch+Replacement/<#>",
+        "completed_count": 1
+    }
+}

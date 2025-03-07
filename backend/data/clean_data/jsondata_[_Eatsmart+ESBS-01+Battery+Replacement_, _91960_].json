@@ -1,0 +1,83 @@
+{
+    "title": "Eatsmart ESBS-01 Battery Replacement",
+    "last_updated": "August 28, 2023",
+    "time_estimate": "2 - 5 minutes",
+    "difficulty": "Easy",
+    "introduction": "If your weight scale is showing the message LO on the display screen, this guide can help you to fix it. This step-by-step instruction teaches you how to replace the items on the device in order to make your device work again. You will need to prepare 4 AAA batteries in advance in order to complete this repair.",
+    "steps": [
+        {
+            "step_number": 1,
+            "title": "Battery",
+            "images": [
+                "https://guide-images.cdn.ifixit.com/igi/wJq2XqPFKoLJM6aa.medium",
+                "https://guide-images.cdn.ifixit.com/igi/SCPprsPQSYsWSUqr.medium"
+            ],
+            "thumbnails": [
+                "https://guide-images.cdn.ifixit.com/igi/wJq2XqPFKoLJM6aa.200x150",
+                "https://guide-images.cdn.ifixit.com/igi/SCPprsPQSYsWSUqr.200x150"
+            ],
+            "instructions": [
+                "The LO message on the screen indicates that your digital weight scale is running on low battery so you need to get the replacement battery.",
+                "This area is where the batteries located, top right corner of the scale."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/91960/172077",
+            "add_comment_url": "https://www.ifixit.com/Guide/Household+Item+AcuRite+02081M+Observer+Repair+Replacement/<#>",
+            "comment_section": "https://www.ifixit.com/Guide/Household+Item+AcuRite+02081M+Observer+Repair+Replacement/<#>"
+        },
+        {
+            "step_number": 2,
+            "title": null,
+            "images": [
+                "https://guide-images.cdn.ifixit.com/igi/cyWvR1trDUqXj14v.medium"
+            ],
+            "thumbnails": [
+                "https://guide-images.cdn.ifixit.com/igi/cyWvR1trDUqXj14v.200x150",
+                "https://guide-images.cdn.ifixit.com/igi/kGJlDltuT4vkXDr1.200x150"
+            ],
+            "instructions": [
+                "To open the battery compartment, use your finger to gentling push the tip to open the battery compartment."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/91960/172078",
+            "add_comment_url": "https://www.ifixit.com/Guide/Household+Item+AcuRite+02081M+Observer+Repair+Replacement/<#>",
+            "comment_section": "https://www.ifixit.com/Guide/Household+Item+AcuRite+02081M+Observer+Repair+Replacement/<#>"
+        },
+        {
+            "step_number": 3,
+            "title": null,
+            "images": [],
+            "instructions": [
+                "Remove the old batteries from the device by pushing the battery toward the wire side and gentling taking it out."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/91960/172079",
+            "add_comment_url": "https://www.ifixit.com/Guide/Household+Item+AcuRite+02081M+Observer+Repair+Replacement/<#>",
+            "comment_section": "https://www.ifixit.com/Guide/Household+Item+AcuRite+02081M+Observer+Repair+Replacement/<#>"
+        },
+        {
+            "step_number": 4,
+            "title": null,
+            "images": [],
+            "instructions": [
+                "Insert the new batteries in the device.",
+                "Be aware to place the batteries in the right charge. The positive (+) and negative (-) signs are labeled inside the battery compartment. Place the flat side of the battery to the negative side and the little lip side of the battery to the positive side on the device."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/91960/172080",
+            "add_comment_url": "https://www.ifixit.com/Guide/Household+Item+AcuRite+02081M+Observer+Repair+Replacement/<#>",
+            "comment_section": "https://www.ifixit.com/Guide/Household+Item+AcuRite+02081M+Observer+Repair+Replacement/<#>"
+        },
+        {
+            "step_number": 5,
+            "title": null,
+            "images": [],
+            "instructions": [
+                "Put the cover of the compartment back. You successfully replaced the batteries.",
+                "You should now see the weight displaying on the screen after the replacement."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/91960/172081",
+            "add_comment_url": "https://www.ifixit.com/Guide/Household+Item+AcuRite+02081M+Observer+Repair+Replacement/<#>",
+            "comment_section": "https://www.ifixit.com/Guide/Household+Item+AcuRite+02081M+Observer+Repair+Replacement/<#>"
+        }
+    ],
+    "conclusion": "To reassemble your device, follow these instructions in reverse order.",
+    "completed_guide_text": "One other person completed this guide.",
+    "embed_code": "<iframe id=\"dozuki-embed-91960\" src=\"https://www.ifixit.com/Guide/embed/91960/full\" width=\"800\" allowfullscreen frameborder=\"0\"></iframe> <script>window.addEventListener(\"message\",function(a){var b=document.getElementById(\"dozuki-embed-91960\"),c=a.data[0],d=a.data[1];switch(c){case\"setHeight\":b.style.height=d+\"px\"}},!1);</script> <iframe src=\"https://www.ifixit.com/Guide/embed/91960\" width=\"800\" height=\"584\" allowfullscreen frameborder=\"0\"></iframe>"
+}

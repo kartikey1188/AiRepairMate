@@ -1,0 +1,93 @@
+{
+    "metadata": {
+        "title": "Brother CS6000i Thread Cutter Replacement",
+        "last_updated": "December 31, 2024",
+        "guide_image": "https://guide-images.cdn.ifixit.com/igi/1IZPZxTtRONddY1G.140x105",
+        "estimated_time": "55 seconds - 6 minutes",
+        "difficulty": "Very easy",
+        "device_links": [
+            {
+                "text": "Brother CS6000i",
+                "url": "https://www.ifixit.com/Device/Brother_CS6000i"
+            },
+            {
+                "text": "Sewing Machine",
+                "url": "https://www.ifixit.com/Device/Sewing_Machine"
+            },
+            {
+                "text": "Arts, Crafts & Sewing",
+                "url": "https://www.ifixit.com/Device/Arts_Crafts_and_Sewing"
+            },
+            {
+                "text": "Household",
+                "url": "https://www.ifixit.com/Device/Household"
+            },
+            {
+                "text": "Home",
+                "url": "https://www.ifixit.com/Guide"
+            }
+        ],
+        "parts_links": [
+            {
+                "text": "Guides",
+                "url": "https://www.ifixit.com/Device/Brother_CS6000i#Section_Guides"
+            },
+            {
+                "text": "Troubleshooting",
+                "url": "https://www.ifixit.com/Troubleshooting/Brother_CS6000i"
+            }
+        ],
+        "edit_link": "https://www.ifixit.com/Guide/edit/179939"
+    },
+    "introduction": "This guide will be showing you how to remove and replace the thread cutter on a Brother CS6000i sewing machine. The thread cutter is a handy feature that allows the user to safely and easily cut the excess thread from the machine and workpiece. Some symptoms related to a faulty thread cutter are the thread not cutting when attempting to use the cutter (dull blade) or the thread cutter being overly exposed and no longer safe due to a broken blade enclosure.",
+    "what_you_need": {
+        "tools": [
+            {
+                "text": "Phillips #2 Screwdriver",
+                "url": "https://www.ifixit.com/products/6-in-1-screwdriver",
+                "image": "https://cart-products.cdn.ifixit.com/cart-products/LYcK13TjejldWD5Y.thumbnail",
+                "price": "$6.99"
+            }
+        ]
+    },
+    "steps": [
+        {
+            "step_number": 1,
+            "title": "Thread Cutter",
+            "text": "Take off the the white cover on the front left side.",
+            "image": "https://guide-images.cdn.ifixit.com/igi/CYCdZlVNwIRnll64.medium",
+            "image_links": [
+                "https://guide-images.cdn.ifixit.com/igi/CYCdZlVNwIRnll64.200x150",
+                "https://guide-images.cdn.ifixit.com/igi/Xn43wdTf5seGaNZM.200x150"
+            ],
+            "edit_link": "https://www.ifixit.com/Guide/edit/179939/384299",
+            "comment_links": [],
+            "additional_images": [
+                "https://guide-images.cdn.ifixit.com/igi/Xn43wdTf5seGaNZM.medium"
+            ]
+        },
+        {
+            "step_number": 2,
+            "title": "",
+            "text": "Remove the 8 mm Phillips #2 screw securing the thread cutter to the housing.",
+            "image": "https://guide-images.cdn.ifixit.com/igi/ksaUFcCrroVQfpou.medium",
+            "image_links": [
+                "https://guide-images.cdn.ifixit.com/igi/ksaUFcCrroVQfpou.200x150",
+                "https://guide-images.cdn.ifixit.com/igi/PEBHMQiOEefPxBNX.200x150",
+                "https://guide-images.cdn.ifixit.com/igi/XQDXDToBmoDX35Ct.200x150"
+            ],
+            "edit_link": "https://www.ifixit.com/Guide/edit/179939/384309",
+            "comment_links": [],
+            "additional_images": [
+                "https://guide-images.cdn.ifixit.com/igi/PEBHMQiOEefPxBNX.medium",
+                "https://guide-images.cdn.ifixit.com/igi/XQDXDToBmoDX35Ct.medium"
+            ]
+        }
+    ],
+    "conclusion": {
+        "text": "To reassemble your device, follow these instructions in reverse order.",
+        "author_points": 30,
+        "cancel_link": "https://www.ifixit.com/Guide/Brother+CS6000i+Thread+Cutter+Replacement/<#>"
+    },
+    "embed_code": "<iframe id=\"dozuki-embed-179939\" src=\"https://www.ifixit.com/Guide/embed/179939/full\" width=\"800\" allowfullscreen frameborder=\"0\"></iframe> <script>window.addEventListener(\"message\",function(a){var b=document.getElementById(\"dozuki-embed-179939\"),c=a.data[0],d=a.data[1];switch(c){case\"setHeight\":b.style.height=d+\"px\"}},!1);</script> <iframe src=\"https://www.ifixit.com/Guide/embed/179939\" width=\"800\" height=\"584\" allowfullscreen frameborder=\"0\"></iframe>"
+}

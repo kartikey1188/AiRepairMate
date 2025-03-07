@@ -1,0 +1,182 @@
+{
+    "guide_title": "Dog Bed Cushion Repair",
+    "last_updated": "June 13, 2024",
+    "estimated_time": "30 minutes - 2 hours",
+    "difficulty": "Moderate",
+    "needs_better_images": true,
+    "introduction": "In this guide, we will demonstrate how to repair and re-stuff a standard dog bed. This guide is meant to provide general instructions and should apply to a wide variety of similar products.\nThese repairs will require the use of a needle and thread. It is recommended that one reviews basic sewing before proceeding, as the procedure in this guide is not all-inclusive.",
+    "parts": [
+        {
+            "name": "Cotton canvas fabric",
+            "link": "https://www.joann.com/dogs-with-glasses-cotton-canvas-fabric/18321737.html",
+            "for_sale_from_another_site": "https://www.joann.com/dogs-with-glasses-cotton-canvas-fabric/18321737.html",
+            "view_link": "https://www.joann.com/dogs-with-glasses-cotton-canvas-fabric/18321737.html"
+        },
+        {
+            "name": "Foam Densified Batting",
+            "link": "https://www.joann.com/fairfield-nu-foam-densified-batting-27inx1%2F2in/12378253.html",
+            "for_sale_from_another_site": "https://www.joann.com/fairfield-nu-foam-densified-batting-27inx1%2F2in/12378253.html",
+            "view_link": "https://www.joann.com/fairfield-nu-foam-densified-batting-27inx1%2F2in/12378253.html"
+        },
+        {
+            "name": "Poly‑Fil Fiberfill",
+            "link": "https://www.joann.com/32oz-poly-fil-premium-polyester-fiberfill/7400203.html",
+            "for_sale_from_another_site": "https://www.joann.com/32oz-poly-fil-premium-polyester-fiberfill/7400203.html",
+            "view_link": "https://www.joann.com/32oz-poly-fil-premium-polyester-fiberfill/7400203.html"
+        }
+    ],
+    "tools": [
+        {
+            "name": "Universal sharps needle",
+            "link": "https://www.ifixit.com/Guide/Dog+Bed+Cushion+Repair//Item/Universal_sharps_needle"
+        },
+        {
+            "name": "Long Pin",
+            "link": "https://www.ifixit.com/Guide/Dog+Bed+Cushion+Repair/<https:/www.joann.com/dogs-with-glasses-cotton-canvas-fabric/18321737.html>",
+            "for_sale_from_another_site": "https://www.ifixit.com/Guide/Dog+Bed+Cushion+Repair/<https:/www.joann.com/dogs-with-glasses-cotton-canvas-fabric/18321737.html>",
+            "view_link": "https://www.ifixit.com/Guide/Dog+Bed+Cushion+Repair/<https:/www.joann.com/dogs-with-glasses-cotton-canvas-fabric/18321737.html>"
+        },
+        {
+            "name": "Upholstery sewing machine needle",
+            "link": "https://www.ifixit.com/Guide/Dog+Bed+Cushion+Repair/<https:/www.joann.com/dogs-with-glasses-cotton-canvas-fabric/18321737.html>",
+            "for_sale_from_another_site": "https://www.ifixit.com/Guide/Dog+Bed+Cushion+Repair/<https:/www.joann.com/dogs-with-glasses-cotton-canvas-fabric/18321737.html>",
+            "view_link": "https://www.ifixit.com/Guide/Dog+Bed+Cushion+Repair/<https:/www.joann.com/dogs-with-glasses-cotton-canvas-fabric/18321737.html>"
+        },
+        {
+            "name": "Seam Ripper",
+            "link": "http://www.amazon.com/Clover-463-Seam-Ripper/dp/B000YZ8MVU/ref=sr_1_1?ie=UTF8&qid=1346440445&sr=8-1&keywords=seam%2Bripper&tag=ifixitam-20",
+            "optional": true,
+            "affiliate_link": "http://www.amazon.com/Clover-463-Seam-Ripper/dp/B000YZ8MVU/ref=sr_1_1?ie=UTF8&qid=1346440445&sr=8-1&keywords=seam%2Bripper&tag=ifixitam-20",
+            "available_on_amazon": "http://www.amazon.com/Clover-463-Seam-Ripper/dp/B000YZ8MVU/ref=sr_1_1?ie=UTF8&qid=1346440445&sr=8-1&keywords=seam%2Bripper&tag=ifixitam-20>",
+            "view_link": "http://www.amazon.com/Clover-463-Seam-Ripper/dp/B000YZ8MVU/ref=sr_1_1?ie=UTF8&qid=1346440445&sr=8-1&keywords=seam%2Bripper&tag=ifixitam-20>"
+        },
+        {
+            "name": "Fabric Scissors",
+            "image": "https://guide-images.cdn.ifixit.com/igi/X6YchoNrn3JofSsY.thumbnail",
+            "link": "http://www.amazon.com/Gingher-8-Inch-Knife-Dressmakers-Shears/dp/B000UU6SR4/?tag=ifixitam-20",
+            "optional": true,
+            "affiliate_link": "http://www.amazon.com/Gingher-8-Inch-Knife-Dressmakers-Shears/dp/B000UU6SR4/?tag=ifixitam-20",
+            "available_on_amazon": "http://www.amazon.com/Gingher-8-Inch-Knife-Dressmakers-Shears/dp/B000UU6SR4/?tag=ifixitam-20>",
+            "view_link": "http://www.amazon.com/Gingher-8-Inch-Knife-Dressmakers-Shears/dp/B000UU6SR4/?tag=ifixitam-20>"
+        },
+        {
+            "name": "Soft Tape Measure",
+            "link": "https://www.amazon.com/Measure-Flexible-Measurement-Centimetre-60-inch%EF%BC%88White%EF%BC%89/dp/B07MT89MCW?tag=ifixitam-20",
+            "optional": true,
+            "affiliate_link": "https://www.amazon.com/Measure-Flexible-Measurement-Centimetre-60-inch%EF%BC%88White%EF%BC%89/dp/B07MT89MCW?tag=ifixitam-20",
+            "available_on_amazon": "https://www.amazon.com/Measure-Flexible-Measurement-Centimetre-60-inch%EF%BC%88White%EF%BC%89/dp/B07MT89MCW?tag=ifixitam-20",
+            "view_link": "https://www.amazon.com/Measure-Flexible-Measurement-Centimetre-60-inch%EF%BC%88White%EF%BC%89/dp/B07MT89MCW?tag=ifixitam-20>"
+        }
+    ],
+    "steps": [
+        {
+            "step_number": 1,
+            "title": "Base Fabric",
+            "images": [
+                "https://guide-images.cdn.ifixit.com/igi/46rlUqo5PKNTT5D1.medium",
+                "https://guide-images.cdn.ifixit.com/igi/5HGFInyRkGwQDrJj.medium"
+            ],
+            "thumbnails": [
+                "https://guide-images.cdn.ifixit.com/igi/46rlUqo5PKNTT5D1.200x150",
+                "https://guide-images.cdn.ifixit.com/igi/5HGFInyRkGwQDrJj.200x150"
+            ],
+            "description": "Open a hole in the base of the bed (or the fabric you intend to replace) using the scissors or seam ripper, or a combination of the two.",
+            "edit_link": "https://www.ifixit.com/Guide/Dog+Bed+Cushion+Repair//Guide/edit/142132/330597",
+            "add_comment_link": "https://www.ifixit.com/Guide/Dog+Bed+Cushion+Repair/",
+            "links": []
+        },
+        {
+            "step_number": 2,
+            "title": null,
+            "image": "https://guide-images.cdn.ifixit.com/igi/RdPpCBPLEuQNy3Hf.medium",
+            "description": "Remove all of the old stuffing from inside the bed.\nSet aside the stuffing you want to reuse; dispose of the rest in an appropriate manner.",
+            "edit_link": "https://www.ifixit.com/Guide/Dog+Bed+Cushion+Repair//Guide/edit/142132/330598",
+            "add_comment_link": "https://www.ifixit.com/Guide/Dog+Bed+Cushion+Repair/",
+            "links": []
+        },
+        {
+            "step_number": 3,
+            "title": null,
+            "image": null,
+            "description": "Remove the rest of the fabric being replaced with the scissors or seam rippers.\n**Optional:** You may want to wash the fabric you are keeping before moving on to Step 4. Make sure the fabric is dry before moving on.",
+            "edit_link": "https://www.ifixit.com/Guide/Dog+Bed+Cushion+Repair//Guide/edit/142132/330599",
+            "add_comment_link": "https://www.ifixit.com/Guide/Dog+Bed+Cushion+Repair/",
+            "links": []
+        },
+        {
+            "step_number": 4,
+            "title": null,
+            "image": null,
+            "description": "Lay the top fabric (or the fabric you are keeping) on top the new base fabric.\nTrim the new fabric to about one (1) inch longer in both height and width than the existing fabric.\nIf you have a soft tape measure, use it here for a more precise measurement.\n**Caution!** Do not trim the new fabric to the exact size of the existing fabric. You need overhang to create a strong seam.",
+            "edit_link": "https://www.ifixit.com/Guide/Dog+Bed+Cushion+Repair//Guide/edit/142132/330600",
+            "add_comment_link": "https://www.ifixit.com/Guide/Dog+Bed+Cushion+Repair/",
+            "links": []
+        },
+        {
+            "step_number": 5,
+            "title": null,
+            "image": null,
+            "description": "Line up the fabrics for pinning; center the smaller on top of the larger.\nYou always sew inside out, so the \"top\" side of the fabrics should be facing each other.\nPlace pins about one (1) inch apart, starting at the edge and going in towards the center of the fabric.",
+            "edit_link": "https://www.ifixit.com/Guide/Dog+Bed+Cushion+Repair//Guide/edit/142132/330601",
+            "add_comment_link": "https://www.ifixit.com/Guide/Dog+Bed+Cushion+Repair/",
+            "links": []
+        },
+        {
+            "step_number": 6,
+            "title": null,
+            "image": null,
+            "description": "If you are sewing by hand, here is the Wiki How for [hand sewn seams](https://www.wikihow.com/Sew).\nIf you are using a sewing machine, make sure the bobbin is filled with your chosen thread and line up the fabric for a 1/4\" seam.\nSew three (3) sides of your fabric, pulling out the pins as you go along.\nWhen you complete your three sides, backstitch about 1/2\", pull the fabric away from the sewing machine to give yourself a long tail of thread, and then snip the thread.",
+            "edit_link": "https://www.ifixit.com/Guide/Dog+Bed+Cushion+Repair//Guide/edit/142132/330604",
+            "add_comment_link": "https://www.ifixit.com/Guide/Dog+Bed+Cushion+Repair/",
+            "links": [
+                {
+                    "link_text": "hand sewn seams",
+                    "link_url": "https://www.ifixit.com/Guide/Dog+Bed+Cushion+Repair/<https:/www.wikihow.com/Sew>"
+                }
+            ]
+        },
+        {
+            "step_number": 7,
+            "title": null,
+            "image": null,
+            "description": "Flip the bed right-side out by pulling the fabric through the opening you have left.\nStart filling the bed with your chosen stuffing.\nWe're using poly-fil, old clothing with our scent, and the scraps from our new fabric.\nIf using the **optional** foam densified board, you need to factor in the height of your bed and trim it down to the appropriate length and width. Image 3 shows how you can use two (2) pieces to sandwich in the other stuffing.",
+            "edit_link": "https://www.ifixit.com/Guide/Dog+Bed+Cushion+Repair//Guide/edit/142132/330606",
+            "add_comment_link": "https://www.ifixit.com/Guide/Dog+Bed+Cushion+Repair/",
+            "links": []
+        },
+        {
+            "step_number": 8,
+            "title": null,
+            "image": null,
+            "description": "Sew the final side closed.\n**Optional:** To make this step easier, you can pin the edges closed together.\nIf you would like to use an invisible closure, usually called a pillow closure, here is the YouTube video on [how to do a pillow closure](https://www.youtube.com/watch?v=1PGtaQjFP7E).",
+            "edit_link": "https://www.ifixit.com/Guide/Dog+Bed+Cushion+Repair//Guide/edit/142132/330608",
+            "add_comment_link": "https://www.ifixit.com/Guide/Dog+Bed+Cushion+Repair/",
+            "links": [
+                {
+                    "link_text": "how to do a pillow closure",
+                    "link_url": "https://www.ifixit.com/Guide/Dog+Bed+Cushion+Repair/<https:/www.youtube.com/watch?v=1PGtaQjFP7E>"
+                }
+            ]
+        },
+        {
+            "step_number": 9,
+            "title": null,
+            "image": null,
+            "description": "Your dog bed repair is now complete!",
+            "edit_link": "https://www.ifixit.com/Guide/Dog+Bed+Cushion+Repair//Guide/edit/142132/331125",
+            "add_comment_link": "https://www.ifixit.com/Guide/Dog+Bed+Cushion+Repair/",
+            "links": []
+        }
+    ],
+    "conclusion": "You have now extended the longevity of your dog bed!",
+    "finish_line": {
+        "text": "You have now extended the longevity of your dog bed! Give the author +30 points! You're Finished!",
+        "cancel_link": "https://www.ifixit.com/Guide/Dog+Bed+Cushion+Repair/<#>"
+    },
+    "embed_code": {
+        "small": "<iframe id=\"dozuki-embed-142132\" src=\"https://www.ifixit.com/Guide/embed/142132/full\" width=\"600\" allowfullscreen frameborder=\"0\"></iframe> <script>window.addEventListener(\"message\",function(a){var b=document.getElementById(\"dozuki-embed-142132\"),c=a.data[0],d=a.data[1];switch(c){case\"setHeight\":b.style.height=d+\"px\"}},!1);</script> <iframe src=\"https://www.ifixit.com/Guide/embed/142132\" width=\"600\" height=\"584\" allowfullscreen frameborder=\"0\"></iframe>",
+        "medium": "<iframe id=\"dozuki-embed-142132\" src=\"https://www.ifixit.com/Guide/embed/142132/full\" width=\"800\" allowfullscreen frameborder=\"0\"></iframe> <script>window.addEventListener(\"message\",function(a){var b=document.getElementById(\"dozuki-embed-142132\"),c=a.data[0],d=a.data[1];switch(c){case\"setHeight\":b.style.height=d+\"px\"}},!1);</script> <iframe src=\"https://www.ifixit.com/Guide/embed/142132\" width=\"800\" height=\"584\" allowfullscreen frameborder=\"0\"></iframe>",
+        "large": "<iframe id=\"dozuki-embed-142132\" src=\"https://www.ifixit.com/Guide/embed/142132/full\" width=\"1200\" allowfullscreen frameborder=\"0\"></iframe> <script>window.addEventListener(\"message\",function(a){var b=document.getElementById(\"dozuki-embed-142132\"),c=a.data[0],d=a.data[1];switch(c){case\"setHeight\":b.style.height=d+\"px\"}},!1);</script> <iframe src=\"https://www.ifixit.com/Guide/embed/142132\" width=\"1200\" height=\"584\" allowfullscreen frameborder=\"0\"></iframe>"
+    },
+    "repair_is_noble": "https://www.ifixit.com/Manifesto"
+}

@@ -1,0 +1,89 @@
+{
+    "guide_title": "B-Flat Clarinet Key Pad Replacement",
+    "last_updated": "September 3, 2021",
+    "estimated_time": "10 minutes",
+    "difficulty": "Easy",
+    "introduction": "While a clarinet is used in this guide, this technique could be used on other woodwind instruments. A pad on a clarinet needs to be replaced if it falls off or becomes damaged. In this case, the protective film on the pad has fallen off.",
+    "tools": [
+        {
+            "name": "Phillips PH000 Screwdriver",
+            "image": "https://cart-products.cdn.ifixit.com/cart-products/TItFgnV21b3m5DCU.thumbnail",
+            "link": "https://www.ifixit.com/products/phillips-000-screwdriver",
+            "price": "$5.49 New / iFixit$9.99 New / Moody - Made in USA",
+            "add_to_cart_link": "https://www.ifixit.com/Guide/B-Flat+Clarinet+Key+Pad+Replacement/<https:/www.ifixit.com/products/phillips-000-screwdriver>"
+        },
+        {
+            "name": "E6000 Glue",
+            "image": "https://cart-products.cdn.ifixit.com/cart-products/1DwGfPPECLSS2uhS.thumbnail",
+            "link": "https://www.ifixit.com/products/e6000-adhesive-glue",
+            "price": "$2.99",
+            "add_to_cart_link": "https://www.ifixit.com/Guide/B-Flat+Clarinet+Key+Pad+Replacement/<https:/www.ifixit.com/products/e6000-adhesive-glue>"
+        }
+    ],
+    "steps": [
+        {
+            "step_number": 1,
+            "title": "Key Pad",
+            "image": "https://guide-images.cdn.ifixit.com/igi/nUUACOKoWgQ1wveM.medium",
+            "description": "Disassemble the clarinet until you are handling only the joint containing the missing or damaged pad.\nIf the pad is missing completely, skip to step 3.",
+            "edit_link": "https://www.ifixit.com/Guide/B-Flat+Clarinet+Key+Pad+Replacement//Guide/edit/98022/179700",
+            "add_comment_link": "https://www.ifixit.com/Guide/B-Flat+Clarinet+Key+Pad+Replacement/",
+            "links": []
+        },
+        {
+            "step_number": 2,
+            "title": null,
+            "image": "https://guide-images.cdn.ifixit.com/igi/Hc5g3NuAC1MSTHRO.medium",
+            "description": "Remove the damaged pad by inserting the screwdriver under the pad and peeling it off the key.",
+            "edit_link": "https://www.ifixit.com/Guide/B-Flat+Clarinet+Key+Pad+Replacement//Guide/edit/98022/179701",
+            "add_comment_link": "https://www.ifixit.com/Guide/B-Flat+Clarinet+Key+Pad+Replacement/",
+            "links": []
+        },
+        {
+            "step_number": 3,
+            "title": null,
+            "image": null,
+            "description": "Squeeze a dot of super glue into the empty key.\nTake care to not overfill the key or glue will ooze out and potentially bind the key to the instrument.",
+            "edit_link": "https://www.ifixit.com/Guide/B-Flat+Clarinet+Key+Pad+Replacement//Guide/edit/98022/179702",
+            "add_comment_link": "https://www.ifixit.com/Guide/B-Flat+Clarinet+Key+Pad+Replacement/",
+            "links": []
+        },
+        {
+            "step_number": 4,
+            "title": null,
+            "image": null,
+            "description": "Quickly insert the new pad into the key, taking care not to smear the glue.",
+            "edit_link": "https://www.ifixit.com/Guide/B-Flat+Clarinet+Key+Pad+Replacement//Guide/edit/98022/179703",
+            "add_comment_link": "https://www.ifixit.com/Guide/B-Flat+Clarinet+Key+Pad+Replacement/",
+            "links": []
+        },
+        {
+            "step_number": 5,
+            "title": null,
+            "image": null,
+            "description": "Using the screwdriver, press the pad down to secure it to the key\nHold the pad for 5 seconds to let the glue harden",
+            "edit_link": "https://www.ifixit.com/Guide/B-Flat+Clarinet+Key+Pad+Replacement//Guide/edit/98022/179704",
+            "add_comment_link": "https://www.ifixit.com/Guide/B-Flat+Clarinet+Key+Pad+Replacement/",
+            "links": []
+        },
+        {
+            "step_number": 6,
+            "title": null,
+            "image": null,
+            "description": "Place a small piece of paper between the key and the instrument to avoid residual glue binding the key to the instrument\nLet the instrument sit out for a few minutes to let the glue fully dry",
+            "edit_link": "https://www.ifixit.com/Guide/B-Flat+Clarinet+Key+Pad+Replacement//Guide/edit/98022/179705",
+            "add_comment_link": "https://www.ifixit.com/Guide/B-Flat+Clarinet+Key+Pad+Replacement/",
+            "links": []
+        }
+    ],
+    "finish_line": {
+        "text": "Give the author +30 points! You're Finished!",
+        "cancel_link": "https://www.ifixit.com/Guide/B-Flat+Clarinet+Key+Pad+Replacement/<#>"
+    },
+    "embed_code": {
+        "small": "<iframe id=\"dozuki-embed-98022\" src=\"https://www.ifixit.com/Guide/embed/98022/full\" width=\"600\" allowfullscreen frameborder=\"0\"></iframe> <script>window.addEventListener(\"message\",function(a){var b=document.getElementById(\"dozuki-embed-98022\"),c=a.data[0],d=a.data[1];switch(c){case\"setHeight\":b.style.height=d+\"px\"}},!1);</script> <iframe src=\"https://www.ifixit.com/Guide/embed/98022\" width=\"600\" height=\"584\" allowfullscreen frameborder=\"0\"></iframe>",
+        "medium": "<iframe id=\"dozuki-embed-98022\" src=\"https://www.ifixit.com/Guide/embed/98022/full\" width=\"800\" allowfullscreen frameborder=\"0\"></iframe> <script>window.addEventListener(\"message\",function(a){var b=document.getElementById(\"dozuki-embed-98022\"),c=a.data[0],d=a.data[1];switch(c){case\"setHeight\":b.style.height=d+\"px\"}},!1);</script> <iframe src=\"https://www.ifixit.com/Guide/embed/98022\" width=\"800\" height=\"584\" allowfullscreen frameborder=\"0\"></iframe>",
+        "large": "<iframe id=\"dozuki-embed-98022\" src=\"https://www.ifixit.com/Guide/embed/98022/full\" width=\"1200\" allowfullscreen frameborder=\"0\"></iframe> <script>window.addEventListener(\"message\",function(a){var b=document.getElementById(\"dozuki-embed-98022\"),c=a.data[0],d=a.data[1];switch(c){case\"setHeight\":b.style.height=d+\"px\"}},!1);</script> <iframe src=\"https://www.ifixit.com/Guide/embed/98022\" width=\"1200\" height=\"584\" allowfullscreen frameborder=\"0\"></iframe>"
+    },
+    "repair_is_noble": "https://www.ifixit.com/Manifesto"
+}

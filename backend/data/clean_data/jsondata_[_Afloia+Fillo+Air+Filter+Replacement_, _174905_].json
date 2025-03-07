@@ -1,0 +1,94 @@
+{
+    "title": "Afloia Fillo Air Filter Replacement",
+    "last_updated": "August 14, 2024",
+    "estimated_time": "5 minutes",
+    "difficulty": "Easy",
+    "introduction": "Maintaining clean and healthy air in your home is essential to your well-being, and your Afloia Fillo air purifier plays a role in making this happening. To ensure it's always working at its best, it is necessary to replace the air filter regularly. This guide will show you simple steps to replace the air filter in your Afloia Fillo, ensuring that your device continues to provide you with the freshest air possible. Whether you're a first-time user or just need a refresher, this step-by-step guide will make the process quick and easy!\nBefore using this guide, you will need to have your replacement filter ready to go.",
+    "parts": [],
+    "tools": [],
+    "steps": [
+        {
+            "step_number": 1,
+            "title": "Air Filter",
+            "content": [
+                "Turn off and unplug the air purifier."
+            ],
+            "images": [
+                "https://guide-images.cdn.ifixit.com/igi/EuwYdYdBXd2pwIuJ.medium",
+                "https://guide-images.cdn.ifixit.com/igi/uMUA2HeZ2I3jSeYa.medium"
+            ],
+            "images_200x150": [
+                "https://guide-images.cdn.ifixit.com/igi/EuwYdYdBXd2pwIuJ.200x150",
+                "https://guide-images.cdn.ifixit.com/igi/uMUA2HeZ2I3jSeYa.200x150"
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/174905/372508",
+            "comments_count": 0,
+            "add_comment_url": null
+        },
+        {
+            "step_number": 2,
+            "content": [
+                "Place the air purifier on its side.",
+                "Unscrew the base of the purifier to uncover the filter."
+            ],
+            "images": [
+                "https://guide-images.cdn.ifixit.com/igi/druiNXNVJwCfdZjm.medium",
+                "https://guide-images.cdn.ifixit.com/igi/TndVhhRiIL1n5LlO.medium"
+            ],
+            "images_200x150": [
+                "https://guide-images.cdn.ifixit.com/igi/druiNXNVJwCfdZjm.200x150",
+                "https://guide-images.cdn.ifixit.com/igi/TndVhhRiIL1n5LlO.200x150"
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/174905/372509",
+            "comments_count": 0,
+            "add_comment_url": null
+        },
+        {
+            "step_number": 3,
+            "content": [
+                "Take out the old filter.",
+                "The old filter can be thrown in the garbage."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/174905/372510",
+            "comments_count": 0,
+            "add_comment_url": null
+        },
+        {
+            "step_number": 4,
+            "content": [
+                "Remove the packaging of the new filter and place it into the purifier."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/174905/372511",
+            "comments_count": 0,
+            "add_comment_url": null
+        },
+        {
+            "step_number": 5,
+            "content": [
+                "Screw the base back on.",
+                "When putting the base on, make sure the arrow on cover matches the open arrow on the purifier, then turn the cover until the base arrow lines up with the close arrow."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/174905/372512",
+            "comments_count": 0,
+            "add_comment_url": null
+        },
+        {
+            "step_number": 6,
+            "content": [
+                "Plug in the purifier and turn it on.",
+                "Press and hold the power button for 7 seconds to reset the air purifier and begin using the new filter.",
+                "Once the green light comes on, your purifier is ready to go."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/174905/372513",
+            "comments_count": 0,
+            "add_comment_url": null
+        }
+    ],
+    "conclusion": "Finish Line",
+    "embed_code": {
+        "small": "<iframe id=\"dozuki-embed-174905\" src=\"https://www.ifixit.com/Guide/embed/174905/full\" width=\"600\" allowfullscreen frameborder=\"0\"></iframe> <script>window.addEventListener(\"message\",function(a){var b=document.getElementById(\"dozuki-embed-174905\"),c=a.data[0],d=a.data[1];switch(c){case\"setHeight\":b.style.height=d+\"px\"}},!1);</script>",
+        "medium": "<iframe id=\"dozuki-embed-174905\" src=\"https://www.ifixit.com/Guide/embed/174905/full\" width=\"800\" allowfullscreen frameborder=\"0\"></iframe> <script>window.addEventListener(\"message\",function(a){var b=document.getElementById(\"dozuki-embed-174905\"),c=a.data[0],d=a.data[1];switch(c){case\"setHeight\":b.style.height=d+\"px\"}},!1);</script>",
+        "large": "<iframe id=\"dozuki-embed-174905\" src=\"https://www.ifixit.com/Guide/embed/174905/full\" width=\"1200\" allowfullscreen frameborder=\"0\"></iframe> <script>window.addEventListener(\"message\",function(a){var b=document.getElementById(\"dozuki-embed-174905\"),c=a.data[0],d=a.data[1];switch(c){case\"setHeight\":b.style.height=d+\"px\"}},!1);</script>",
+        "full_guide": "<iframe src=\"https://www.ifixit.com/Guide/embed/174905\" width=\"800\" height=\"584\" allowfullscreen frameborder=\"0\"></iframe>"
+    }
+}

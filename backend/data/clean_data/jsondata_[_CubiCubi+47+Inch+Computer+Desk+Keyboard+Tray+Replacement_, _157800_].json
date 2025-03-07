@@ -1,0 +1,126 @@
+{
+    "guide_title": "CubiCubi 47 Inch Computer Desk Keyboard Tray Replacement",
+    "last_updated": "September 26, 2023",
+    "time_estimate": "15 - 30 minutes",
+    "difficulty": "Moderate",
+    "introduction": "It's important to keep your keyboard tray properly fastened to the desk to in order to maintain the integrity of the furniture and avoid any damage to your keyboard that is resting on the tray. This guide will show you how to tighten and reattach a keyboard tray to your CubiCubi 47 Inch Computer Desk.\nNo special skills are required to complete this repair. This repair is needed so you can have a sturdy desk while typing.",
+    "tools_and_materials": {
+        "tools": [
+            {
+                "name": "6‑in-1 Screwdriver",
+                "url": "https://www.ifixit.com/products/6-in-1-screwdriver",
+                "price": "$6.99",
+                "add_to_cart": true
+            }
+        ]
+    },
+    "steps": [
+        {
+            "step_number": 1,
+            "step_title": "Keyboard Tray",
+            "images": [
+                {
+                    "url": "https://guide-images.cdn.ifixit.com/igi/VhGCIN5AUe2XIZ4A.medium",
+                    "alt_text": "CubiCubi 47 Inch Computer Desk Keyboard Tray Replacement, Keyboard Tray: step 1, image 1 of 1"
+                }
+            ],
+            "text": "Pull out the desk tray so it's fully extended.",
+            "links": [
+                {
+                    "type": "edit",
+                    "url": "https://www.ifixit.com/Guide/edit/157800/330176"
+                }
+            ]
+        },
+        {
+            "step_number": 2,
+            "step_title": null,
+            "images": [
+                {
+                    "url": "https://guide-images.cdn.ifixit.com/igi/ElhkVphCNUPHG3SR.medium",
+                    "alt_text": "CubiCubi 47 Inch Computer Desk Keyboard Tray Replacement: step 2, image 1 of 3"
+                },
+                {
+                    "url": "https://guide-images.cdn.ifixit.com/igi/rESc6FpubErmg5yk.medium",
+                    "alt_text": "CubiCubi 47 Inch Computer Desk Keyboard Tray Replacement: step 2, image 2 of 3"
+                },
+                {
+                    "url": "https://guide-images.cdn.ifixit.com/igi/4PUFQR1I6432m2X5.medium",
+                    "alt_text": "CubiCubi 47 Inch Computer Desk Keyboard Tray Replacement: step 2, image 3 of 3"
+                }
+            ],
+            "text": "Remove each of the 1.5 mm hex socket tray pillar screws with your screwdriver. Repeat for each corner.\nSave these screws to reattach the tray later.",
+            "links": [
+                {
+                    "type": "edit",
+                    "url": "https://www.ifixit.com/Guide/edit/157800/330177"
+                }
+            ]
+        },
+        {
+            "step_number": 3,
+            "step_title": null,
+            "images": [],
+            "text": "Detach the tray from the desk.",
+            "links": [
+                {
+                    "type": "edit",
+                    "url": "https://www.ifixit.com/Guide/edit/157800/330179"
+                }
+            ]
+        },
+        {
+            "step_number": 4,
+            "step_title": null,
+            "images": [],
+            "text": "Tighten the four side screws on the tray.",
+            "links": [
+                {
+                    "type": "edit",
+                    "url": "https://www.ifixit.com/Guide/edit/157800/330180"
+                }
+            ]
+        },
+        {
+            "step_number": 5,
+            "step_title": null,
+            "images": [],
+            "text": "Tighten the four screws connecting the tray pillar and the tray track.",
+            "links": [
+                {
+                    "type": "edit",
+                    "url": "https://www.ifixit.com/Guide/edit/157800/330181"
+                }
+            ]
+        },
+        {
+            "step_number": 6,
+            "step_title": null,
+            "images": [],
+            "text": "Screw the tray pillars back on the desk with the 1.5 mm Hex socket screws. Repeat for each four corners.\nReattaching the screws alone may be difficult. Try using a small table to hold the tray up or you may need another person to help.",
+            "links": [
+                {
+                    "type": "edit",
+                    "url": "https://www.ifixit.com/Guide/edit/157800/330182"
+                }
+            ]
+        },
+        {
+            "step_number": 7,
+            "step_title": null,
+            "images": [],
+            "text": "Test the movement of the keyboard tray by pushing it all the way in and pulling it all the way out to ensure it works normally.",
+            "links": [
+                {
+                    "type": "edit",
+                    "url": "https://www.ifixit.com/Guide/edit/157800/330149"
+                }
+            ]
+        }
+    ],
+    "conclusion": "Now that the keyboard tray has been properly replaced, you can use your desk again.",
+    "embed_guide": {
+        "single_step_code": "<iframe id=\"dozuki-embed-157800\" src=\"https://www.ifixit.com/Guide/embed/157800/full\" width=\"800\" allowfullscreen frameborder=\"0\"></iframe> <script>window.addEventListener(\"message\",function(a){var b=document.getElementById(\"dozuki-embed-157800\"),c=a.data[0],d=a.data[1];switch(c){case\"setHeight\":b.style.height=d+\"px\"}},!1);</script>",
+        "full_guide_code": "<iframe src=\"https://www.ifixit.com/Guide/embed/157800\" width=\"800\" height=\"584\" allowfullscreen frameborder=\"0\"></iframe>"
+    }
+}

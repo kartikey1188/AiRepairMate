@@ -1,0 +1,232 @@
+{
+    "metadata": {
+        "title": "Antique Lamp Lampshade Hardware Replacement",
+        "contributors_link": "https://www.ifixit.com/Guide/history/85948",
+        "last_updated": "August 2, 2024",
+        "estimated_time": "1 hour",
+        "difficulty": "Moderate",
+        "introduction": "In this guide, users will learn about some of the internal workings of some older lamps. The lamp in this guide is actually a lamp from my grandmother. It was one of her favorite lamps for its unique patterns it throws on the room around it. It's a simple replacement of the threaded center support that just requires a bit of disassembly to get to it, once that is all done the lamp is reassembled the same way it came apart."
+    },
+    "parts": [
+        {
+            "name": "Wire Nut",
+            "link": "http://www.walmart.com/ip/Camco-63832-Wire-Nut-Connector-Gray-22-18-Gauge-Pack-Of-100/41818769",
+            "for_sale_from_another_site": "http://www.walmart.com/ip/Camco-63832-Wire-Nut-Connector-Gray-22-18-Gauge-Pack-Of-100/41818769",
+            "quantity": 2
+        }
+    ],
+    "tools": [
+        {
+            "name": "Cordless Driver/Drill",
+            "link": "https://www.amazon.com/DEWALT-DCK240C2-Lithium-Driver-Impact/dp/B00IJ0ALYS/ref=sr_1_11_sspa?crid=1SBK8NW5G0FF3&keywords=cordless%2Bdrill%2Bdriver&qid=1689101722&sprefix=cordless%2Bdrill%2Bdriver%2Caps%2C165&sr=8-11-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9tdGY&th=1&tag=ifixitam-20",
+            "affiliate_link": "https://www.amazon.com/DEWALT-DCK240C2-Lithium-Driver-Impact/dp/B00IJ0ALYS/ref=sr_1_11_sspa?crid=1SBK8NW5G0FF3&keywords=cordless%2Bdrill%2Bdriver&qid=1689101722&sprefix=cordless%2Bdrill%2Bdriver%2Caps%2C165&sr=8-11-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9tdGY&th=1&tag=ifixitam-20",
+            "available_on_amazon": "https://www.amazon.com/DEWALT-DCK240C2-Lithium-Driver-Impact/dp/B00IJ0ALYS/ref=sr_1_11_sspa?crid=1SBK8NW5G0FF3&keywords=cordless%2Bdrill%2Bdriver&qid=1689101722&sprefix=cordless%2Bdrill%2Bdriver%2Caps%2C165&sr=8-11-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9tdGY&th=1&tag=ifixitam-20"
+        },
+        {
+            "name": "Slip Joint Pliers",
+            "link": "https://amazon.com/Slip-Joint-Pliers/b?node=553324&tag=ifixitam-20",
+            "affiliate_link": "https://amazon.com/Slip-Joint-Pliers/b?node=553324&tag=ifixitam-20",
+            "available_on_amazon": "https://amazon.com/Slip-Joint-Pliers/b?node=553324&tag=ifixitam-20"
+        },
+        {
+            "name": "Wire Stripping/Crimping Tool",
+            "link": "https://www.ifixit.com/products/wire-stripper",
+            "price": {
+                "new_pa_06": "$29.99",
+                "new_pa_14": "$45.99"
+            }
+        },
+        {
+            "name": "Wire Cutters/Side Cutters",
+            "link": "https://www.amazon.com/dp/B007HGNTTY/?tag=ifixitam-20",
+            "affiliate_link": "https://www.amazon.com/dp/B007HGNTTY/?tag=ifixitam-20",
+            "available_on_amazon": "https://www.amazon.com/dp/B007HGNTTY/?tag=ifixitam-20"
+        },
+        {
+            "name": "stepped drill bit",
+            "link": "https://www.ifixit.com/Item/stepped_drill_bit"
+        },
+        {
+            "name": "Hack saw",
+            "link": "https://www.amazon.com/DEWALT-DWHT20547L-5-in-1-Hacksaw/dp/B0051QIIDO/ref=sr_1_2?s=power-hand-tools&ie=UTF8&qid=1518458648&sr=1-2&keywords=hacksaw&tag=ifixitam-20",
+            "affiliate_link": "https://www.amazon.com/DEWALT-DWHT20547L-5-in-1-Hacksaw/dp/B0051QIIDO/ref=sr_1_2?s=power-hand-tools&ie=UTF8&qid=1518458648&sr=1-2&keywords=hacksaw&tag=ifixitam-20",
+            "available_on_amazon": "https://www.amazon.com/DEWALT-DWHT20547L-5-in-1-Hacksaw/dp/B0051QIIDO/ref=sr_1_2?s=power-hand-tools&ie=UTF8&qid=1518458648&sr=1-2&keywords=hacksaw&tag=ifixitam-20"
+        }
+    ],
+    "steps": [
+        {
+            "step_number": 1,
+            "title": "Lampshade Hardware",
+            "images": [
+                "https://guide-images.cdn.ifixit.com/igi/Qe1rZmamaWaywWBJ.medium",
+                "https://guide-images.cdn.ifixit.com/igi/5ECm3WRVTohXP2ZA.medium",
+                "https://guide-images.cdn.ifixit.com/igi/uiyOXIugxOWBUD1a.medium"
+            ],
+            "images_alt": [
+                "Antique Lamp Lampshade Hardware Replacement, Lampshade Hardware: step 1, image 1 of 3",
+                "Antique Lamp Lampshade Hardware Replacement, Lampshade Hardware: step 1, image 2 of 3",
+                "Antique Lamp Lampshade Hardware Replacement, Lampshade Hardware: step 1, image 3 of 3"
+            ],
+            "thumbnails": [
+                "https://guide-images.cdn.ifixit.com/igi/Qe1rZmamaWaywWBJ.200x150",
+                "https://guide-images.cdn.ifixit.com/igi/5ECm3WRVTohXP2ZA.200x150",
+                "https://guide-images.cdn.ifixit.com/igi/uiyOXIugxOWBUD1a.200x150"
+            ],
+            "instructions": [
+                "Start by unscrewing the decorative nut from the top of the canopy. Then lift the canopy off the old support.",
+                "The canopy is the name for the dome-like structure that extends over the light fixtures.",
+                "Save the decorative nut and canopy for reassembly."
+            ],
+            "edit_link": "https://www.ifixit.com/Guide/edit/85948/163159",
+            "comments": {
+                "add_comment_link": "https://www.ifixit.com/Guide/Antique+Lamp+Lampshade+Hardware+Replacement/",
+                "add_comment_text": "Add a comment"
+            }
+        },
+        {
+            "step_number": 2,
+            "title": "",
+            "images": [
+                "https://guide-images.cdn.ifixit.com/igi/UD1EEEamsevwIuX6.medium",
+                "https://guide-images.cdn.ifixit.com/igi/Zpn4nLyuWlDqTEjx.medium"
+            ],
+            "images_alt": [
+                "Antique Lamp Lampshade Hardware Replacement: step 2, image 1 of 2",
+                "Antique Lamp Lampshade Hardware Replacement: step 2, image 2 of 2"
+            ],
+            "thumbnails": [
+                "https://guide-images.cdn.ifixit.com/igi/UD1EEEamsevwIuX6.200x150",
+                "https://guide-images.cdn.ifixit.com/igi/Zpn4nLyuWlDqTEjx.200x150"
+            ],
+            "instructions": [
+                "When the canopy is removed from the lamp, lift the broken support off. The wires should now be accessible from the top.",
+                "Save these pieces, as they might be useful in reassembly.",
+                "This old lamp had crimp on wire nuts, which I cut out with wire cutters.",
+                "Mark the positive wire on the main power cord; this can be done with a marker, tape, or most any other method.",
+                "The main power cord will usually be the same color as the lamp, but can be identified by white wires on the light fixtures.",
+                "Remove the small cover at the base and save it for reassembly."
+            ],
+            "edit_link": "https://www.ifixit.com/Guide/edit/85948/163160",
+            "comments": {
+                "add_comment_link": "https://www.ifixit.com/Guide/Antique+Lamp+Lampshade+Hardware+Replacement/",
+                "add_comment_text": "Add a comment"
+            }
+        },
+        {
+            "step_number": 3,
+            "title": "",
+            "instructions": [
+                "With the wires loose, unscrew the top light fixture and remove it from the lamp base.",
+                "If there is a small crimp nut holding the wires in the tube of the lamp base, then unscrew the nut, but leave attached to the power cord."
+            ],
+            "edit_link": "https://www.ifixit.com/Guide/edit/85948/163161",
+            "comments": {
+                "add_comment_link": "https://www.ifixit.com/Guide/Antique+Lamp+Lampshade+Hardware+Replacement/",
+                "add_comment_text": "Add a comment"
+            }
+        },
+        {
+            "step_number": 4,
+            "title": "",
+            "instructions": [
+                "Now the broken support part from the lamp. It will simply unthread from the rest of the lamp.",
+                "Older lamps especially can contain pieces made of softer metals. This can cause them to crumble."
+            ],
+            "edit_link": "https://www.ifixit.com/Guide/edit/85948/163162",
+            "comments": {
+                "add_comment_link": "https://www.ifixit.com/Guide/Antique+Lamp+Lampshade+Hardware+Replacement/",
+                "add_comment_text": "Add a comment"
+            }
+        },
+        {
+            "step_number": 5,
+            "title": "",
+            "instructions": [
+                "Twist the old coupling off with a pair of fingers or pliers. The couplers are often very soft on antique lamps and tend crumble easily.",
+                "Be sure to clean away excess material if it breaks!"
+            ],
+            "edit_link": "https://www.ifixit.com/Guide/edit/85948/163163",
+            "comments": {
+                "add_comment_link": "https://www.ifixit.com/Guide/Antique+Lamp+Lampshade+Hardware+Replacement/",
+                "add_comment_text": "Add a comment"
+            }
+        },
+        {
+            "step_number": 6,
+            "title": "",
+            "instructions": [
+                "Now install the new coupler and support rod (the size of the threads on the lamp will determine the size needed).",
+                "Keep the coupler in the center of the two parts it joins together for strength. Fit the wire cover onto the support rod."
+            ],
+            "edit_link": "https://www.ifixit.com/Guide/edit/85948/163164",
+            "comments": {
+                "add_comment_link": "https://www.ifixit.com/Guide/Antique+Lamp+Lampshade+Hardware+Replacement/",
+                "add_comment_text": "Add a comment"
+            }
+        },
+        {
+            "step_number": 7,
+            "title": "",
+            "instructions": [
+                "Once the rod is in place, the wire cover can be properly fitted, along with the canopy. Its better to have a support rod that is too long, as it can be cut to fit. How much is cut off depends on how high the canopy needs to sit. Mark the rod with a marker so a cut can be made."
+            ],
+            "edit_link": "https://www.ifixit.com/Guide/edit/85948/163165",
+            "comments": {
+                "add_comment_link": "https://www.ifixit.com/Guide/Antique+Lamp+Lampshade+Hardware+Replacement/",
+                "add_comment_text": "Add a comment"
+            }
+        },
+        {
+            "step_number": 8,
+            "title": "",
+            "instructions": [
+                "Using a metal hacksaw, cut the rod where the mark was made. Remember to measure twice, cut once.",
+                "Cut the metal quicker using a metal bandsaw instead of a metal hacksaw.",
+                "Watch for metal shavings"
+            ],
+            "edit_link": "https://www.ifixit.com/Guide/edit/85948/163166",
+            "comments": {
+                "add_comment_link": "https://www.ifixit.com/Guide/Antique+Lamp+Lampshade+Hardware+Replacement/",
+                "add_comment_text": "Add a comment"
+            }
+        },
+        {
+            "step_number": 9,
+            "title": "",
+            "instructions": [
+                "The threaded rod and coupling may need a hole for the wires to pass through. Remove the coupling and rod from the light fixture; do not move the coupler up the threaded rod. The coupler's location will serve as a reference for the hole.",
+                "Make a hole with the drill; if the size of the whole needed is unknown, a stepped drill bit is useful. Do not apply too much pressure as the metal is likely soft.",
+                "Watch for metal shavings"
+            ],
+            "edit_link": "https://www.ifixit.com/Guide/edit/85948/163167",
+            "comments": {
+                "add_comment_link": "https://www.ifixit.com/Guide/Antique+Lamp+Lampshade+Hardware+Replacement/",
+                "add_comment_text": "Add a comment"
+            }
+        },
+        {
+            "step_number": 10,
+            "title": "",
+            "instructions": [
+                "The hole only needs to be big enough for the wires to pass through, and once that's done, the lamp can be re-assembled just the way it was put together. Let there be light!"
+            ],
+            "edit_link": "https://www.ifixit.com/Guide/edit/85948/163168",
+            "comments": {
+                "add_comment_link": "https://www.ifixit.com/Guide/Antique+Lamp+Lampshade+Hardware+Replacement/",
+                "add_comment_text": "Add a comment"
+            }
+        }
+    ],
+    "conclusion": "To reassemble your device, follow these instructions in reverse order.",
+    "embed_guide": {
+        "small": "<iframe id=\"dozuki-embed-85948\" src=\"https://www.ifixit.com/Guide/embed/85948/full\" width=\"600\" allowfullscreen frameborder=\"0\"></iframe> <script>window.addEventListener(\"message\",function(a){var b=document.getElementById(\"dozuki-embed-85948\"),c=a.data[0],d=a.data[1];switch(c){case\"setHeight\":b.style.height=d+\"px\"}},!1);</script>",
+        "medium": "<iframe id=\"dozuki-embed-85948\" src=\"https://www.ifixit.com/Guide/embed/85948/full\" width=\"800\" allowfullscreen frameborder=\"0\"></iframe> <script>window.addEventListener(\"message\",function(a){var b=document.getElementById(\"dozuki-embed-85948\"),c=a.data[0],d=a.data[1];switch(c){case\"setHeight\":b.style.height=d+\"px\"}},!1);</script>",
+        "large": "<iframe id=\"dozuki-embed-85948\" src=\"https://www.ifixit.com/Guide/embed/85948/full\" width=\"1200\" allowfullscreen frameborder=\"0\"></iframe> <script>window.addEventListener(\"message\",function(a){var b=document.getElementById(\"dozuki-embed-85948\"),c=a.data[0],d=a.data[1];switch(c){case\"setHeight\":b.style.height=d+\"px\"}},!1);</script>",
+        "full": "<iframe src=\"https://www.ifixit.com/Guide/embed/85948\" width=\"800\" height=\"584\" allowfullscreen frameborder=\"0\"></iframe>"
+    },
+    "stay_in_the_loop": {
+        "newsletter_link": "https://www.ifixit.com/Newsletter",
+        "translate_link": "https://www.ifixit.com/Translate"
+    },
+    "repair_is_noble": "https://www.ifixit.com/Manifesto"
+}

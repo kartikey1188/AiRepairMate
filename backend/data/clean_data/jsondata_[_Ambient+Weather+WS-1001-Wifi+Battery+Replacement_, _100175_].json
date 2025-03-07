@@ -1,0 +1,131 @@
+{
+    "metadata": {
+        "title": "Ambient Weather WS-1001-Wifi Battery Replacement",
+        "last_updated": "May 7, 2024",
+        "guide_image": "https://guide-images.cdn.ifixit.com/igi/ZIRUuTBsxcO3BkDR.140x105",
+        "estimated_time": "10 - 15 minutes",
+        "difficulty": "Moderate",
+        "community_guide": true,
+        "device_links": [
+            {
+                "text": "Ambient Weather Observer",
+                "url": "https://www.ifixit.com/Device/Ambient_Weather_WS-1001-Wifi"
+            },
+            {
+                "text": "Weather Station",
+                "url": "https://www.ifixit.com/Device/Weather_Station"
+            },
+            {
+                "text": "Patio, Lawn & Garden",
+                "url": "https://www.ifixit.com/Device/Lawn_and_Garden"
+            },
+            {
+                "text": "Household",
+                "url": "https://www.ifixit.com/Device/Household"
+            },
+            {
+                "text": "Home",
+                "url": "https://www.ifixit.com/Guide"
+            }
+        ],
+        "parts_links": [
+            {
+                "text": "Guides",
+                "url": "https://www.ifixit.com/Device/Ambient_Weather_WS-1001-Wifi#Section_Guides"
+            },
+            {
+                "text": "Answers",
+                "url": "https://www.ifixit.com/Answers/Device/Ambient_Weather_WS-1001-Wifi"
+            }
+        ],
+        "edit_link": "https://www.ifixit.com/Guide/edit/100175"
+    },
+    "introduction": "In this fix we will be looking at how to replace the internal battery used to store electrical charge for the device. This will require a Phillips #1 screwdriver, a small plastic tool to remove the LCD screen and to remove the battery.\nGood Luck!",
+    "what_you_need": {
+        "parts": [
+            {
+                "text": "CR 1220 Battery",
+                "url": "http://www.amazon.com/s/ref=nb_sb_ss_c_0_15?url=search-alias%3Daps&field-keywords=cr%201220%20battery&sprefix=cr%2B1220%2Bbattery%2Caps%2C151&tag=ifixitam-20",
+                "affiliate_link": "http://www.amazon.com/s/ref=nb_sb_ss_c_0_15?url=search-alias%3Daps&field-keywords=cr%201220%20battery&sprefix=cr%2B1220%2Bbattery%2Caps%2C151&tag=ifixitam-20",
+                "available_on_amazon": "http://www.amazon.com/s/ref=nb_sb_ss_c_0_15?url=search-alias%3Daps&field-keywords=cr%201220%20battery&sprefix=cr%2B1220%2Bbattery%2Caps%2C151&tag=ifixitam-20",
+                "view_link": "http://www.amazon.com/s/ref=nb_sb_ss_c_0_15?url=search-alias%3Daps&field-keywords=cr%201220%20battery&sprefix=cr%2B1220%2Bbattery%2Caps%2C151&tag=ifixitam-20"
+            }
+        ],
+        "tools": [
+            {
+                "text": "Phillips #1 Screwdriver",
+                "url": "https://www.ifixit.com/products/phillips-1-screwdriver",
+                "image": "https://cart-products.cdn.ifixit.com/cart-products/dFxEXEXNVRdNBvCX.thumbnail",
+                "price": "$5.49 New / iFixit$8.99 New / Moody - Made in USA"
+            },
+            {
+                "text": "Tweezers",
+                "url": "https://www.ifixit.com/products/tweezers",
+                "image": "https://cart-products.cdn.ifixit.com/cart-products/eQGTt3iN1MmOAQDy.thumbnail",
+                "price": "$4.99"
+            },
+            {
+                "text": "iFixit Opening Tool",
+                "url": "https://www.ifixit.com/products/ifixit-opening-tool",
+                "image": "https://cart-products.cdn.ifixit.com/cart-products/dPx63wucK43PlWnH.thumbnail",
+                "price": "$1.99 Individual / New$4.99 5 / New"
+            }
+        ]
+    },
+    "steps": [
+        {
+            "step_number": 1,
+            "title": "Battery",
+            "text": "Remove the battery compartment lid by lifting upward.",
+            "image": "https://guide-images.cdn.ifixit.com/igi/MTGH1GGdFhFBjEaG.medium",
+            "image_links": [
+                "https://guide-images.cdn.ifixit.com/igi/MTGH1GGdFhFBjEaG.200x150",
+                "https://guide-images.cdn.ifixit.com/igi/APbvEr2QSp4KpTF4.200x150",
+                "https://guide-images.cdn.ifixit.com/igi/TOoRScvG6KuJ452O.200x150"
+            ],
+            "edit_link": "https://www.ifixit.com/Guide/edit/100175/143974",
+            "comment_links": [],
+            "additional_images": [
+                "https://guide-images.cdn.ifixit.com/igi/APbvEr2QSp4KpTF4.medium",
+                "https://guide-images.cdn.ifixit.com/igi/TOoRScvG6KuJ452O.medium"
+            ]
+        },
+        {
+            "step_number": 2,
+            "title": "",
+            "text": "Next, the ribbon cable needs to be carefully removed from the back of the LCD screen.\nUse a plastic opening tool to press the black bar towards the ribbon and away from the white bar gently. This will release the ribbon.",
+            "image": "https://guide-images.cdn.ifixit.com/igi/QEFalJjOQSBvQsAG.medium",
+            "image_links": [],
+            "edit_link": "https://www.ifixit.com/Guide/edit/100175/186626",
+            "comment_links": []
+        },
+        {
+            "step_number": 3,
+            "title": "",
+            "text": "Remove the 4 M2x1.5-7 screws (7mm length) from the green PCB board.\nThis will result in two pieces, the back black cover and the PCB board.",
+            "image_links": [],
+            "edit_link": "https://www.ifixit.com/Guide/edit/100175/186630",
+            "comment_links": []
+        },
+        {
+            "step_number": 4,
+            "title": "",
+            "text": "The battery can then be popped out using precision [tweezers](https://www.ifixit.com/products/tweezers) and replaced with a new one.",
+            "image": "https://cart-products.cdn.ifixit.com/cart-products/eQGTt3iN1MmOAQDy.thumbnail",
+            "image_links": [],
+            "edit_link": "https://www.ifixit.com/Guide/edit/100175/186632",
+            "comment_links": [],
+            "tool_used": {
+                "text": "Tweezers",
+                "url": "https://www.ifixit.com/products/tweezers",
+                "price": "$4.99"
+            }
+        }
+    ],
+    "conclusion": {
+        "text": "To reassemble your device, follow these instructions in reverse order.",
+        "author_points": 30,
+        "cancel_link": "https://www.ifixit.com/Guide/AcuRite+02032+Screen+Display+Battery+Replacement/<#>"
+    },
+    "embed_code": "<iframe id=\"dozuki-embed-72146\" src=\"https://www.ifixit.com/Guide/embed/72146/full\" width=\"800\" allowfullscreen frameborder=\"0\"></iframe> <script>window.addEventListener(\"message\",function(a){var b=document.getElementById(\"dozuki-embed-72146\"),c=a.data[0],d=a.data[1];switch(c){case\"setHeight\":b.style.height=d+\"px\"}},!1);</script> <iframe src=\"https://www.ifixit.com/Guide/embed/72146\" width=\"800\" height=\"584\" allowfullscreen frameborder=\"0\"></iframe>"
+}

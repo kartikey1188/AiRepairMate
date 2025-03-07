@@ -1,0 +1,228 @@
+{
+    "metadata": {
+        "title": "Bathroom Drawer Slide Replacement",
+        "last_updated": "December 28, 2022",
+        "estimated_time": "15 - 35 minutes",
+        "difficulty": "Easy",
+        "guide_url": "https://www.ifixit.com/Guide/Bathroom+Drawer+Slide+Replacement/",
+        "guide_id": 155025,
+        "device_categories": [
+            {
+                "name": "Home Construction",
+                "url": "https://www.ifixit.com/Guide/Bathroom+Drawer+Slide+Replacement/<https://www.ifixit.com/Device/Home_Construction>"
+            },
+            {
+                "name": "Household",
+                "url": "https://www.ifixit.com/Guide/Bathroom+Drawer+Slide+Replacement/<https://www.ifixit.com/Device/Household>"
+            },
+            {
+                "name": "Home",
+                "url": "https://www.ifixit.com/Guide/Bathroom+Drawer+Slide+Replacement/<https://www.ifixit.com/Guide>"
+            }
+        ],
+        "parts_url": "https://www.ifixit.com/Guide/Bathroom+Drawer+Slide+Replacement/<https://www.ifixit.com/Device/Home_Construction#Section_Guides>",
+        "answers_url": "https://www.ifixit.com/Guide/Bathroom+Drawer+Slide+Replacement/</Answers/Device/Home_Construction>",
+        "edit_url": "https://www.ifixit.com/Guide/Bathroom+Drawer+Slide+Replacement/</Guide/edit/155025>",
+        "guide_image": "https://guide-images.cdn.ifixit.com/igi/F1KNrRevAQxO3PXR.140x105",
+        "embed_code": {
+            "small": "<iframe id=\"dozuki-embed-155025\" src=\"https://www.ifixit.com/Guide/embed/155025/full\" width=\"600\" allowfullscreen frameborder=\"0\"></iframe> <script>window.addEventListener(\"message\",function(a){var b=document.getElementById(\"dozuki-embed-155025\"),c=a.data[0],d=a.data[1];switch(c){case\"setHeight\":b.style.height=d+\"px\"}},!1);</script>",
+            "medium": "<iframe id=\"dozuki-embed-155025\" src=\"https://www.ifixit.com/Guide/embed/155025/full\" width=\"800\" allowfullscreen frameborder=\"0\"></iframe> <script>window.addEventListener(\"message\",function(a){var b=document.getElementById(\"dozuki-embed-155025\"),c=a.data[0],d=a.data[1];switch(c){case\"setHeight\":b.style.height=d+\"px\"}},!1);</script>",
+            "large": "<iframe id=\"dozuki-embed-155025\" src=\"https://www.ifixit.com/Guide/embed/155025/full\" width=\"1200\" allowfullscreen frameborder=\"0\"></iframe> <script>window.addEventListener(\"message\",function(a){var b=document.getElementById(\"dozuki-embed-155025\"),c=a.data[0],d=a.data[1];switch(c){case\"setHeight\":b.style.height=d+\"px\"}},!1);</script>",
+            "single_step_embed": "<iframe src=\"https://www.ifixit.com/Guide/embed/155025\" width=\"800\" height=\"584\" allowfullscreen frameborder=\"0\"></iframe>"
+        }
+    },
+    "introduction": {
+        "text": "There are two kinds of replacement slides: ball bearing and roller slides. The ball-bearing slides are the most frequent, whereas the roller slides are utilized for heavier drawers. I shall utilize ball-bearing drops in this tutorial since they are quiet and smooth. Although drawer slides are meant to be sturdy and last a lifetime, it may be essential to replace them on sometimes. With this article, I will demonstrate the simplest method to repair your drawer slides if they get worn or if the weight of the drawer prevents it from functioning effectively.",
+        "step_url": "https://www.ifixit.com/Guide/Bathroom+Drawer+Slide+Replacement/<#s266600>"
+    },
+    "tools": [
+        {
+            "name": "Phillips #2 Screwdriver",
+            "url": "https://www.ifixit.com/Guide/Bathroom+Drawer+Slide+Replacement/<https://www.ifixit.com/products/6-in-1-screwdriver>",
+            "price": "$6.99",
+            "add_to_cart_url": "https://www.ifixit.com/Guide/Bathroom+Drawer+Slide+Replacement/<https://www.ifixit.com/products/6-in-1-screwdriver>",
+            "image_url": "https://cart-products.cdn.ifixit.com/cart-products/LYcK13TjejldWD5Y.thumbnail"
+        }
+    ],
+    "steps": [
+        {
+            "step_number": 1,
+            "title": "Shower Door Wheels",
+            "step_url": "https://www.ifixit.com/Guide/Bathroom+Drawer+Slide+Replacement/<#s266600>",
+            "instructions": [
+                "Before starting, remove the existing sliders and brackets by unscrewing the screws in a counterclockwise direction."
+            ],
+            "images": [
+                {
+                    "original": "https://guide-images.cdn.ifixit.com/igi/MdeqeGcghNTKFw1N.medium",
+                    "thumbnail": ""
+                },
+                {
+                    "original": "https://guide-images.cdn.ifixit.com/igi/EV2CDFFnKxHfBX5v.medium",
+                    "thumbnail": ""
+                },
+                {
+                    "original": "https://guide-images.cdn.ifixit.com/igi/keZCQlbE5tKxQsX5.medium",
+                    "thumbnail": ""
+                }
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/Bathroom+Drawer+Slide+Replacement/</Guide/edit/134238/266600>",
+            "comments_section": {
+                "add_comment_url": null,
+                "max_length": 1024
+            }
+        },
+        {
+            "step_number": 2,
+            "title": "",
+            "step_url": "https://www.ifixit.com/Guide/Bathroom+Drawer+Slide+Replacement/<#s266603>",
+            "instructions": [
+                "Identify why the wheels are not working properly.",
+                "You will want to check for rust, or any kind of blockage. Especially on the wheel bearing (metal screw 7mm) that holds the wheel in place."
+            ],
+            "images": [
+                {
+                    "original": "https://guide-images.cdn.ifixit.com/igi/FQMWJ4V1ucpVsSbW.medium",
+                    "thumbnail": ""
+                },
+                {
+                    "original": "https://guide-images.cdn.ifixit.com/igi/wyKHjTvbsF6qV1rO.medium",
+                    "thumbnail": ""
+                }
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/Bathroom+Drawer+Slide+Replacement/</Guide/edit/134238/266603>",
+            "comments_section": {
+                "add_comment_url": null,
+                "max_length": 1024
+            }
+        },
+        {
+            "step_number": 3,
+            "title": "",
+            "step_url": "https://www.ifixit.com/Guide/Bathroom+Drawer+Slide+Replacement/<#s266604>",
+            "instructions": [
+                "Remove the wheels from the door by taking the Phillips #2 screwdriver and unscrew the screw until you are able to remove the wheel.",
+                "Repeat this step for all four wheels and all four 7mm screws."
+            ],
+            "images": [],
+            "edit_url": "https://www.ifixit.com/Guide/Bathroom+Drawer+Slide+Replacement/</Guide/edit/134238/266604>",
+            "comments_section": {
+                "add_comment_url": null,
+                "max_length": 1024
+            }
+        },
+        {
+            "step_number": 4,
+            "title": "",
+            "step_url": "https://www.ifixit.com/Guide/Bathroom+Drawer+Slide+Replacement/<#s266605>",
+            "instructions": [
+                "Take a wet rag and clean off any built up gunk off the bracket.",
+                "This will help the new wheels attach with no issue, and spin with ease.",
+                "Clean the track as well, to help the door slide better."
+            ],
+            "images": [],
+            "edit_url": "https://www.ifixit.com/Guide/Bathroom+Drawer+Slide+Replacement/</Guide/edit/134238/266605>",
+            "comments_section": {
+                "add_comment_url": null,
+                "max_length": 1024
+            }
+        },
+        {
+            "step_number": 5,
+            "title": "",
+            "step_url": "https://www.ifixit.com/Guide/Bathroom+Drawer+Slide+Replacement/<#s266606>",
+            "instructions": [
+                "To replace the new wheels, take the Phillips #2 screwdriver and screw the wheels back into place on the bracket with the 7mm screws.",
+                "If you are facing the outside door, make sure the wheels are facing out towards you.",
+                "If you are facing the inside door, make sure the wheel bearing is facing you and the wheels are on the opposite side."
+            ],
+            "images": [],
+            "edit_url": "https://www.ifixit.com/Guide/Bathroom+Drawer+Slide+Replacement/</Guide/edit/134238/266606>",
+            "comments_section": {
+                "add_comment_url": null,
+                "max_length": 1024
+            }
+        },
+        {
+            "step_number": 6,
+            "title": "",
+            "step_url": "https://www.ifixit.com/Guide/Bathroom+Drawer+Slide+Replacement/<#s266607>",
+            "instructions": [
+                "Once the new wheels are attached, manually spin them to make sure they spin properly.",
+                "If they seem to be a little stiff, add some WD-40 to the wheel."
+            ],
+            "images": [],
+            "edit_url": "https://www.ifixit.com/Guide/Bathroom+Drawer+Slide+Replacement/</Guide/edit/134238/266607>",
+            "comments_section": {
+                "add_comment_url": null,
+                "max_length": 1024
+            }
+        },
+        {
+            "step_number": 7,
+            "title": "",
+            "step_url": "https://www.ifixit.com/Guide/Bathroom+Drawer+Slide+Replacement/<#s266608>",
+            "instructions": [
+                "To place the top metal cover back on, make sure the front door has the wheels facing towards you and the inside door has the wheels facing opposite of you, the wheel bearing will be facing you.",
+                "To attach the door to the cover, line up the wheels with the inside track and push down on the cover. The wheels will then attach."
+            ],
+            "images": [],
+            "edit_url": "https://www.ifixit.com/Guide/Bathroom+Drawer+Slide+Replacement/</Guide/edit/134238/266608>",
+            "comments_section": {
+                "add_comment_url": null,
+                "max_length": 1024
+            }
+        },
+        {
+            "step_number": 8,
+            "title": "",
+            "step_url": "https://www.ifixit.com/Guide/Bathroom+Drawer+Slide+Replacement/<#s266931>",
+            "instructions": [
+                "Place the doors in the bottom track.",
+                "The front door will go in the track closest to you, and the inside door will go on the track closer to the shower wall."
+            ],
+            "images": [],
+            "edit_url": "https://www.ifixit.com/Guide/Bathroom+Drawer+Slide+Replacement/</Guide/edit/134238/266931>",
+            "comments_section": {
+                "add_comment_url": null,
+                "max_length": 1024
+            }
+        },
+        {
+            "step_number": 9,
+            "title": "",
+            "step_url": "https://www.ifixit.com/Guide/Bathroom+Drawer+Slide+Replacement/<#s323509>",
+            "instructions": [
+                "When the drawer is inside the drawer slide insert, use the clamps to secure the drawer, so the drawer will not latch out and fall out of the drawer slide."
+            ],
+            "images": [],
+            "edit_url": "https://www.ifixit.com/Guide/Bathroom+Drawer+Slide+Replacement/</Guide/edit/134238/323509>",
+            "comments_section": {
+                "add_comment_url": null,
+                "max_length": 1024
+            }
+        },
+        {
+            "step_number": 10,
+            "title": "",
+            "step_url": "https://www.ifixit.com/Guide/Bathroom+Drawer+Slide+Replacement/<#s323510>",
+            "instructions": [
+                "As soon as all steps are complete, it is now time to push in your drawer; with no damage to the cabinets, the drawer will slide in easily."
+            ],
+            "images": [],
+            "edit_url": "https://www.ifixit.com/Guide/Bathroom+Drawer+Slide+Replacement/</Guide/edit/134238/323510>",
+            "comments_section": {
+                "add_comment_url": null,
+                "max_length": 1024
+            }
+        }
+    ],
+    "conclusion": {
+        "text": "Now that your repair is done make sure your drawer is sliding smoothly if not you will need to remove it and clean the tracks. Another thing to look for is if the tracks are perfectly aligned if not you can go back in and fix them by following the same steps again.",
+        "almost_done": "Enjoy your new drawer!"
+    },
+    "additional_info": {
+        "give_author_points": "Give the author +30 points!  You're Finished!",
+        "cancel_guide_completion_url": "https://www.ifixit.com/Guide/Bathroom+Drawer+Slide+Replacement/<#>"
+    }
+}

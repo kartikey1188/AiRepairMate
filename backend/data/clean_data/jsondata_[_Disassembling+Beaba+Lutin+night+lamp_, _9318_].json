@@ -1,0 +1,112 @@
+{
+    "metadata": {
+        "title": "Disassembling Beaba Lutin night lamp",
+        "last_updated": "September 22, 2023",
+        "guide_image": "https://guide-images.cdn.ifixit.com/igi/uNmnNqsInrCEMlSU.140x105",
+        "estimated_time": "No estimate",
+        "difficulty": "Moderate",
+        "community_guide": true,
+        "device_links": [
+            {
+                "text": "Beaba Rechargeable and Portable Pixie Night Light and Lantern",
+                "url": "https://www.ifixit.com/Device/Beaba_Rechargeable_and_Portable_Pixie_Night_Light_and_Lantern"
+            },
+            {
+                "text": "Nightlight",
+                "url": "https://www.ifixit.com/Device/Nightlight"
+            },
+            {
+                "text": "Lighting",
+                "url": "https://www.ifixit.com/Device/Lighting"
+            },
+            {
+                "text": "Household",
+                "url": "https://www.ifixit.com/Device/Household"
+            },
+            {
+                "text": "Home",
+                "url": "https://www.ifixit.com/Guide"
+            }
+        ],
+        "parts_links": [
+            {
+                "text": "Guides",
+                "url": "https://www.ifixit.com/Device/Beaba_Rechargeable_and_Portable_Pixie_Night_Light_and_Lantern#Section_Guides"
+            },
+            {
+                "text": "Answers",
+                "url": "https://www.ifixit.com/Answers/Device/Beaba_Rechargeable_and_Portable_Pixie_Night_Light_and_Lantern"
+            }
+        ],
+        "edit_link": "https://www.ifixit.com/Guide/edit/9318"
+    },
+    "introduction": "How to open it for repairs or battery swap",
+    "what_you_need": {
+        "tools": [
+            {
+                "text": "Phillips #00 Screwdriver",
+                "url": "https://www.ifixit.com/products/phillips-00-screwdriver",
+                "image": "https://cart-products.cdn.ifixit.com/cart-products/upNtpW5ghNgA3abG.thumbnail",
+                "price": "$5.49 New / iFixit$8.99 New / Moody - Made in USA"
+            }
+        ]
+    },
+    "steps": [
+        {
+            "step_number": 1,
+            "title": "Disassembling Beaba Lutin night lamp",
+            "text": "The lamp opens up at the base: there are two smaller tabs next to the button, the semi-transparent plasic can be pressed in a bit with a knife, put a bit of paper inbetween to prevent the clip from snapping back. Next go with a knife towards one of the large tabs on the side until one side snaps out. Repeat for other side.",
+            "image": "https://guide-images.cdn.ifixit.com/igi/uNmnNqsInrCEMlSU.medium",
+            "image_links": [
+                "https://guide-images.cdn.ifixit.com/igi/uNmnNqsInrCEMlSU.200x150",
+                "https://guide-images.cdn.ifixit.com/igi/TYVIYnKIhv4uEIN1.200x150",
+                "https://guide-images.cdn.ifixit.com/igi/D2VOY2rjYpE1VyQi.200x150"
+            ],
+            "edit_link": "https://www.ifixit.com/Guide/edit/9318/35898",
+            "comment_links": [],
+            "additional_images": [
+                "https://guide-images.cdn.ifixit.com/igi/TYVIYnKIhv4uEIN1.medium",
+                "https://guide-images.cdn.ifixit.com/igi/D2VOY2rjYpE1VyQi.medium"
+            ]
+        },
+        {
+            "step_number": 2,
+            "title": "",
+            "text": "Remove the 4 screws (warning: 2x2 different types), out comes the pcb. Detach battery connector at the back.",
+            "image": "https://guide-images.cdn.ifixit.com/igi/DeBow3uTmBFeMjbC.medium",
+            "image_links": [
+                "https://guide-images.cdn.ifixit.com/igi/DeBow3uTmBFeMjbC.200x150",
+                "https://guide-images.cdn.ifixit.com/igi/TGqHAEiMpA4uLyPp.200x150",
+                "https://guide-images.cdn.ifixit.com/igi/q4imYBkL12RPJKNR.200x150"
+            ],
+            "edit_link": "https://www.ifixit.com/Guide/edit/9318/35899",
+            "comment_links": [],
+            "additional_images": [
+                "https://guide-images.cdn.ifixit.com/igi/TGqHAEiMpA4uLyPp.medium",
+                "https://guide-images.cdn.ifixit.com/igi/q4imYBkL12RPJKNR.medium"
+            ]
+        },
+        {
+            "step_number": 3,
+            "title": "",
+            "text": "remove two more screws to get at the battery",
+            "image_links": [],
+            "edit_link": "https://www.ifixit.com/Guide/edit/9318/35900",
+            "comment_links": []
+        },
+        {
+            "step_number": 4,
+            "title": "",
+            "text": "Overview of parts",
+            "image_links": [],
+            "edit_link": "https://www.ifixit.com/Guide/edit/9318/35901",
+            "comment_links": []
+        }
+    ],
+    "conclusion": {
+        "text": "To reassemble your device, follow these instructions in reverse order.",
+        "author_points": 30,
+        "cancel_link": "https://www.ifixit.com/Guide/Disassembling+Beaba+Lutin+night+lamp/<#>"
+    },
+    "embed_code": "<iframe id=\"dozuki-embed-9318\" src=\"https://www.ifixit.com/Guide/embed/9318/full\" width=\"800\" allowfullscreen frameborder=\"0\"></iframe> <script>window.addEventListener(\"message\",function(a){var b=document.getElementById(\"dozuki-embed-9318\"),c=a.data[0],d=a.data[1];switch(c){case\"setHeight\":b.style.height=d+\"px\"}},!1);</script> <iframe src=\"https://www.ifixit.com/Guide/embed/9318\" width=\"800\" height=\"584\" allowfullscreen frameborder=\"0\"></iframe>"
+}

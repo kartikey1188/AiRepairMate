@@ -1,0 +1,113 @@
+{
+    "guide_title": "Cabinet Door Hinge Replacement",
+    "last_updated": "December 21, 2020",
+    "time_estimate": "10 minutes",
+    "difficulty": "Moderate",
+    "introduction": "If your cabinet door is not closing, or if the hinge is damaged, use this guide to replace the hinge and screws in order for the cabinet to close properly.\nWithout a sturdy hinge and screws, the cabinet will not close properly and could potentially completely come off.\nBefore using this guide, check the hinge to make sure the screws don’t need to just be screwed in a little tighter. Sometimes, the screws have just gotten loose and need to be tightened without replacing the hinge.\nStep 3 requires you to completely remove the hinge and add a new one. From there, you will need to attach and screw the new hinge in place.\nBefore beginning, make sure you have help in order to hold the cabinet and have someone to help screw in the screws.",
+    "tools_and_materials": {
+        "parts": [
+            {
+                "name": "Cabinet Door Hinge",
+                "url": "https://www.ifixit.com/Guide/Cabinet+Door+Hinge+Replacement/Item/Cabinet_Door_Hinge"
+            }
+        ],
+        "tools": [
+            {
+                "name": "Screws (8 mm)",
+                "url": "https://www.ifixit.com/Guide/Cabinet+Door+Hinge+Replacement/Item/Screws",
+                "quantity": "x5"
+            },
+            {
+                "name": "Screwdriver",
+                "url": "https://www.ifixit.com/products/mako-driver-kit-64-precision-bits",
+                "price": "$39.95",
+                "add_to_cart": true
+            }
+        ]
+    },
+    "steps": [
+        {
+            "step_number": 1,
+            "step_title": "Hinge",
+            "images": [
+                {
+                    "url": "https://guide-images.cdn.ifixit.com/igi/nUuuxIyRQSlflABN.medium",
+                    "alt_text": "Cabinet Door Hinge Replacement, Hinge: step 1, image 1 of 1"
+                }
+            ],
+            "text": "Remove the old screws to take the hinge off.",
+            "links": [
+                {
+                    "type": "edit",
+                    "url": "https://www.ifixit.com/Guide/edit/138811/276298"
+                }
+            ]
+        },
+        {
+            "step_number": 2,
+            "step_title": null,
+            "images": [
+                {
+                    "url": "https://guide-images.cdn.ifixit.com/igi/D5moE5q3RRlHIa6Z.medium",
+                    "alt_text": "Cabinet Door Hinge Replacement: step 2, image 1 of 3"
+                },
+                {
+                    "url": "https://guide-images.cdn.ifixit.com/igi/xVJYOTNIErI4yWdY.200x150",
+                    "alt_text": "Cabinet Door Hinge Replacement: step 2, image 2 of 3"
+                },
+                {
+                    "url": "https://guide-images.cdn.ifixit.com/igi/JlOsPiUKqKFtboBy.200x150",
+                    "alt_text": "Cabinet Door Hinge Replacement: step 2, image 3 of 3"
+                }
+            ],
+            "text": "Take the hinge off the cabinet door.",
+            "links": [
+                {
+                    "type": "edit",
+                    "url": "https://www.ifixit.com/Guide/edit/138811/276303"
+                }
+            ]
+        },
+        {
+            "step_number": 3,
+            "step_title": null,
+            "images": [],
+            "text": "Align the new hinge on the cabinet so that it is even and level and will open and close correctly.",
+            "links": [
+                {
+                    "type": "edit",
+                    "url": "https://www.ifixit.com/Guide/edit/138811/276307"
+                }
+            ]
+        },
+        {
+            "step_number": 4,
+            "step_title": null,
+            "images": [],
+            "text": "Insert and screw in the screw closest to the inside of the cabinet.\nThe innermost screw should be fastened first because it's the hardest to get to once the other screws are placed.\nScrew in the rest of the screws until the hinge is in place.",
+            "links": [
+                {
+                    "type": "edit",
+                    "url": "https://www.ifixit.com/Guide/edit/138811/276308"
+                }
+            ]
+        },
+        {
+            "step_number": 5,
+            "step_title": null,
+            "images": [],
+            "text": "The hinge is now replaced and the cabinet can shut all the way.",
+            "links": [
+                {
+                    "type": "edit",
+                    "url": "https://www.ifixit.com/Guide/edit/138811/276522"
+                }
+            ]
+        }
+    ],
+    "conclusion": "Finish Line",
+    "embed_guide": {
+        "single_step_code": "<iframe id=\"dozuki-embed-138811\" src=\"https://www.ifixit.com/Guide/embed/138811/full\" width=\"800\" allowfullscreen frameborder=\"0\"></iframe> <script>window.addEventListener(\"message\",function(a){var b=document.getElementById(\"dozuki-embed-138811\"),c=a.data[0],d=a.data[1];switch(c){case\"setHeight\":b.style.height=d+\"px\"}},!1);</script>",
+        "full_guide_code": "<iframe src=\"https://www.ifixit.com/Guide/embed/138811\" width=\"800\" height=\"584\" allowfullscreen frameborder=\"0\"></iframe>"
+    }
+}

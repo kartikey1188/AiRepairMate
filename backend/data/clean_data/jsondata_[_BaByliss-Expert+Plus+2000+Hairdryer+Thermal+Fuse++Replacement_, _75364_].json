@@ -1,0 +1,127 @@
+{
+    "metadata": {
+        "title": "BaByliss-Expert Plus 2000 Hairdryer Thermal Fuse Replacement",
+        "last_updated": "September 14, 2024",
+        "estimated_time": "30 minutes",
+        "difficulty": "Moderate",
+        "introduction": "Improve this guide by completing or revising its introduction.",
+        "better_introduction": true
+    },
+    "tools": [
+        {
+            "name": "Spanner 4.0 screwdriver",
+            "url": "https://www.ifixit.com/Item/Spanner_4.0_screwdriver"
+        },
+        {
+            "name": "iFixit Opening Tool",
+            "url": "https://www.ifixit.com/products/ifixit-opening-tool",
+            "image_url": "https://cart-products.cdn.ifixit.com/cart-products/dPx63wucK43PlWnH.thumbnail",
+            "price": "$1.99 Individual / New$4.99 5 / New",
+            "add_to_cart": true
+        },
+        {
+            "name": "Phillips #2 Screwdriver",
+            "url": "https://www.ifixit.com/products/6-in-1-screwdriver",
+            "image_url": "https://cart-products.cdn.ifixit.com/cart-products/LYcK13TjejldWD5Y.thumbnail",
+            "price": "$6.99",
+            "add_to_cart": true
+        }
+    ],
+    "steps": [
+        {
+            "step_number": 1,
+            "title": "Thermal Fuse",
+            "instructions": [
+                "Before disassembly, unplug the device.",
+                "Make sure the device was not on for the last 10 minutes, because it might still be hot.",
+                "Unscrew the two screws on the handle with the spanner screwdriver."
+            ],
+            "image_url": "https://guide-images.cdn.ifixit.com/igi/MLYQfMKldUVWUx2f.medium",
+            "additional_images": [
+                "https://guide-images.cdn.ifixit.com/igi/MLYQfMKldUVWUx2f.200x150",
+                "https://guide-images.cdn.ifixit.com/igi/JRQXAgGZItqpkeYu.200x150"
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/75364/152494",
+            "add_comment_url": "https://www.ifixit.com/Guide/BaByliss-Expert+Plus+2000+Hairdryer+Thermal+Fuse++Replacement/#",
+            "links": []
+        },
+        {
+            "step_number": 2,
+            "instructions": [
+                "Pull the case in opposite directions.",
+                "You might need a prying tool if the black components don't come out easily."
+            ],
+            "image_url": "https://guide-images.cdn.ifixit.com/igi/RFhvBWGOVFEtw5JV.medium",
+            "additional_images": [
+                "https://guide-images.cdn.ifixit.com/igi/RFhvBWGOVFEtw5JV.200x150",
+                "https://guide-images.cdn.ifixit.com/igi/21DfusaDykN21EgU.200x150"
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/75364/152499",
+            "add_comment_url": "https://www.ifixit.com/Guide/BaByliss-Expert+Plus+2000+Hairdryer+Thermal+Fuse++Replacement/#",
+            "links": []
+        },
+        {
+            "step_number": 3,
+            "instructions": [
+                "Unscrew the remaining two screws inside the handle with the Phillips screwdriver."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/75364/152504",
+            "add_comment_url": "https://www.ifixit.com/Guide/BaByliss-Expert+Plus+2000+Hairdryer+Thermal+Fuse++Replacement/#",
+            "links": []
+        },
+        {
+            "step_number": 4,
+            "instructions": [
+                "Push the inner components out of the handle."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/75364/152518",
+            "add_comment_url": "https://www.ifixit.com/Guide/BaByliss-Expert+Plus+2000+Hairdryer+Thermal+Fuse++Replacement/#",
+            "links": []
+        },
+        {
+            "step_number": 5,
+            "instructions": [
+                "Locate the thermal fuse.",
+                "Test the thermal fuse for continuity using the multimeter.",
+                "Make sure the multimeter is set to 200 ACV and bring the probes toward thermal fuse.",
+                "The circuit is closed and properly functioning if the multimeter displays varying numbers.",
+                "The circuit is open if the multimeter displays non-varying numbers or no numbers at all."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/75364/152520",
+            "add_comment_url": "https://www.ifixit.com/Guide/BaByliss-Expert+Plus+2000+Hairdryer+Thermal+Fuse++Replacement/#",
+            "links": []
+        },
+        {
+            "step_number": 6,
+            "instructions": [
+                "To replace the thermal fuse, use the prying tool to extract the object.",
+                "To remove it, wedge it back and forth until it comes free.",
+                "You don't need to take out the gold piece under the thermal fuse."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/75364/152533",
+            "add_comment_url": "https://www.ifixit.com/Guide/BaByliss-Expert+Plus+2000+Hairdryer+Thermal+Fuse++Replacement/#",
+            "links": []
+        },
+        {
+            "step_number": 7,
+            "instructions": [
+                "Replace the old thermal fuse by a new one."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/75364/152542",
+            "add_comment_url": "https://www.ifixit.com/Guide/BaByliss-Expert+Plus+2000+Hairdryer+Thermal+Fuse++Replacement/#",
+            "links": []
+        }
+    ],
+    "embed_guide": {
+        "single_step_url": "https://www.ifixit.com/Guide/embed/75364",
+        "full_guide_url": "https://www.ifixit.com/Guide/embed/75364/full",
+        "sizes": {
+            "small": 600,
+            "medium": 800,
+            "large": 1200
+        }
+    },
+    "repair_is_noble_url": "https://www.ifixit.com/Manifesto",
+    "license_url": "https://www.ifixit.com/Info/Licensing",
+    "guide_url": "https://www.ifixit.com/Guide/BaByliss-Expert+Plus+2000+Hairdryer+Thermal+Fuse++Replacement/75364"
+}

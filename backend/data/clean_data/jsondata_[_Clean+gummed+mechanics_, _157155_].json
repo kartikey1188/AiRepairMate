@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "title": "Clean gummed mechanics",
+        "last_updated": "July 25, 2024",
+        "time_estimate": "No estimate",
+        "difficulty": "Moderate",
+        "introduction": "Quite a few Pfaff sewing machines have passed through my hands. Some of them were gummed up. That is, some functions did not work because the levers and cogs were gummed up. A relatively common problem with the old sewing machines. A repair by an expert costs around 150-200 EUR, which is usually much more than the current value of the machines.\nSince I didn't want to throw the machines away, I used the following simple method to remove the gumming resins:\nLocate the levers or cogs where it sticks. As much as possible at those locations, remove and/or unscrew the covers. Then spray a whole lot of brake cleaner on these places. Apply it heavily. Wait until the brake cleaner has evaporated and test briefly whether it is still resinous. If yes, again brake cleaner on it, if no, clean with fresh, resin-free oil lubricate.\nThe 1st time it usually worked for a few years, then I had to repeat the treatment and then was no more.\nThe best method is to disassemble everything, clean it in an ultrasonic bath, lubricate it and reassemble it. Economical but rarely useful.\nMy method is quick, easy and cheap and has not caused any further problems.",
+        "needs_more_images": true,
+        "community_contributed_guide": true
+    },
+    "tools": [
+        {
+            "name": "flat head screwdrivers",
+            "image": "https://cart-products.cdn.ifixit.com/cart-products/ckpuwVFwUFVCivaY.thumbnail",
+            "url": "https://www.ifixit.com/products/pro-tech-toolkit",
+            "price": "$74.95",
+            "add_to_cart": true
+        },
+        {
+            "name": "Lötkolben mit feiner Spitze sowie Lötzinn und Entlötlitze",
+            "url": "https://www.ifixit.com/Item/L%C3%B6tkolben_mit_feiner_Spitze_sowie_L%C3%B6tzinn_und_Entl%C3%B6tlitze"
+        },
+        {
+            "name": "ESD Safe Blunt Nose Tweezers",
+            "image": "https://cart-products.cdn.ifixit.com/cart-products/eQGTt3iN1MmOAQDy.thumbnail",
+            "url": "https://www.ifixit.com/products/tweezers",
+            "price": "$4.99",
+            "add_to_cart": true
+        },
+        {
+            "name": "Digital Multimeter",
+            "image": "https://cart-products.cdn.ifixit.com/cart-products/tvUrMFqZOU2y41hA.thumbnail",
+            "url": "https://www.ifixit.com/products/digital-multimeter",
+            "price": "$19.99",
+            "add_to_cart": true
+        }
+    ],
+    "steps": [
+        {
+            "step_number": 1,
+            "title": "Clean gummed mechanics",
+            "images": [
+                {
+                    "url": "https://assets.cdn.ifixit.com/static/images/guide/NoImage_300x225.jpg"
+                },
+                {
+                    "url": "https://assets.cdn.ifixit.com/static/images/guide/NoImage_300x225.jpg"
+                },
+                {
+                    "url": "https://assets.cdn.ifixit.com/static/images/guide/NoImage_300x225.jpg"
+                }
+            ],
+            "instructions": [
+                "Locate the levers or cogs where it sticks. As much as possible at those locations, remove and/or unscrew the covers. Then spray a whole lot of brake cleaner on these places. Apply it heavily. Wait until the brake cleaner has evaporated and test briefly whether it is still resinous. If yes, again brake cleaner on it, if no, clean with fresh, resin-free oil lubricate."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/157155/345215",
+            "add_comment_url": "https://www.ifixit.com/Guide/Clean+gummed+mechanics/<#>",
+            "links": []
+        },
+        {
+            "step_number": 2,
+            "title": "",
+            "images": [],
+            "instructions": [
+                "Work through the steps in reverse order to reassemble your device."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/157155/370857",
+            "add_comment_url": "https://www.ifixit.com/Guide/Clean+gummed+mechanics/<#>",
+            "links": []
+        }
+    ],
+    "conclusion": "Work through the steps in reverse order to reassemble your device.",
+    "embed_code": "<iframe id=\"dozuki-embed-157155\" src=\"https://www.ifixit.com/Guide/embed/157155/full\" width=\"800\" allowfullscreen frameborder=\"0\"></iframe> <script>window.addEventListener(\"message\",function(a){var b=document.getElementById(\"dozuki-embed-157155\"),c=a.data[0],d=a.data[1];switch(c){case\"setHeight\":b.style.height=d+\"px\"}},!1);</script> <iframe src=\"https://www.ifixit.com/Guide/embed/157155\" width=\"800\" height=\"584\" allowfullscreen frameborder=\"0\"></iframe>"
+}

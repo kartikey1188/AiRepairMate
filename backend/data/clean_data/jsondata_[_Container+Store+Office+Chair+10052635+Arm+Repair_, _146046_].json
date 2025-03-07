@@ -1,0 +1,110 @@
+{
+    "guide_title": "Container Store Office Chair 10052635 Arm Repair",
+    "last_updated": "December 30, 2021",
+    "time_estimate": "10 - 20 minutes",
+    "difficulty": "Easy",
+    "introduction": "The product name and model number is the Container Store Big Flat Bungee Office Chair with Arms model number 10052635. This guide will teach you how to repair a loose arm on a swivel chair like the one in this guide. Step 4 requires you to check if the hole for the screw has become enlarged. If it has a larger hex screw may be needed.",
+    "tools_and_materials": {
+        "tools": [
+            {
+                "name": "6mm Allen Wrench",
+                "url": "http://www.amazon.com/TEKTON-25220-Wrench-Metric-13-Piece/dp/B000NPT7F6/ref=sr_1_1?ie=UTF8&qid=1388419819&sr=8-1&keywords=6mm%2Ballen%2Bwrench&tag=ifixitam-20",
+                "affiliate_link": true,
+                "available_on_amazon": true
+            }
+        ]
+    },
+    "steps": [
+        {
+            "step_number": 1,
+            "step_title": "Container Store Office Chair 10052635 Arm Repair",
+            "images": [
+                {
+                    "url": "https://guide-images.cdn.ifixit.com/igi/yPDbDGa2Wc6WA5cl.medium",
+                    "alt_text": "Container Store Office Chair 10052635 Arm Repair, Container Store Office Chair 10052635 Arm Repair: step 1, image 1 of 2"
+                },
+                {
+                    "url": "https://guide-images.cdn.ifixit.com/igi/SkpSMP4rRwSfhKZQ.medium",
+                    "alt_text": "Container Store Office Chair 10052635 Arm Repair, Container Store Office Chair 10052635 Arm Repair: step 1, image 2 of 2"
+                }
+            ],
+            "text": "Remove the screw caps on both sides of the arm of the chair.",
+            "links": [
+                {
+                    "type": "edit",
+                    "url": "https://www.ifixit.com/Guide/edit/146046/297802"
+                }
+            ]
+        },
+        {
+            "step_number": 2,
+            "step_title": null,
+            "images": [
+                {
+                    "url": "https://guide-images.cdn.ifixit.com/igi/pxU2al5Aee1HRx4s.medium",
+                    "alt_text": "Container Store Office Chair 10052635 Arm Repair: step 2, image 1 of 1"
+                }
+            ],
+            "text": "Place the screw caps to the side.",
+            "links": [
+                {
+                    "type": "edit",
+                    "url": "https://www.ifixit.com/Guide/edit/146046/297803"
+                }
+            ]
+        },
+        {
+            "step_number": 3,
+            "step_title": null,
+            "images": [],
+            "text": "Wiggle the arms of the chair to determine which sides may need tightening.",
+            "links": [
+                {
+                    "type": "edit",
+                    "url": "https://www.ifixit.com/Guide/edit/146046/297804"
+                }
+            ]
+        },
+        {
+            "step_number": 4,
+            "step_title": null,
+            "images": [],
+            "text": "Use an Allen wrench to remove the arm to make sure the plastic hole for the screw has not become enlarged.",
+            "links": [
+                {
+                    "type": "edit",
+                    "url": "https://www.ifixit.com/Guide/edit/146046/297805"
+                }
+            ]
+        },
+        {
+            "step_number": 5,
+            "step_title": null,
+            "images": [],
+            "text": "Use an Allen wrench to tighten the screw.",
+            "links": [
+                {
+                    "type": "edit",
+                    "url": "https://www.ifixit.com/Guide/edit/146046/297806"
+                }
+            ]
+        },
+        {
+            "step_number": 6,
+            "step_title": null,
+            "images": [],
+            "text": "Get the screw caps and place them back in the arms of the chair.",
+            "links": [
+                {
+                    "type": "edit",
+                    "url": "https://www.ifixit.com/Guide/edit/146046/297807"
+                }
+            ]
+        }
+    ],
+    "conclusion": "Finish Line",
+    "embed_guide": {
+        "single_step_code": "<iframe id=\"dozuki-embed-146046\" src=\"https://www.ifixit.com/Guide/embed/146046/full\" width=\"800\" allowfullscreen frameborder=\"0\"></iframe> <script>window.addEventListener(\"message\",function(a){var b=document.getElementById(\"dozuki-embed-146046\"),c=a.data[0],d=a.data[1];switch(c){case\"setHeight\":b.style.height=d+\"px\"}},!1);</script>",
+        "full_guide_code": "<iframe src=\"https://www.ifixit.com/Guide/embed/146046\" width=\"800\" height=\"584\" allowfullscreen frameborder=\"0\"></iframe>"
+    }
+}

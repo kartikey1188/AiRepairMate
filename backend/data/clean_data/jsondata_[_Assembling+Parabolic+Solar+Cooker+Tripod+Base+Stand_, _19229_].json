@@ -1,0 +1,63 @@
+{
+    "title": "Assembling Parabolic Solar Cooker Tripod Base Stand",
+    "last_updated": "August 1, 2019",
+    "estimated_time": "5 minutes",
+    "difficulty": "Easy",
+    "community_guide": true,
+    "introduction": "A stand created by three legs is a common method of supporting a load.",
+    "tools": [
+        {
+            "name": "Socket 14mm",
+            "url": "http://www.amazon.com/TEKTON-14146-8-Inch-Shallow-6-Point/dp/B000NY8PVO/ref=sr_1_1?ie=UTF8&qid=1431007752&sr=8-1&keywords=14%2Bmm%2Bsocket&tag=ifixitam-20",
+            "affiliate_link": "http://www.amazon.com/TEKTON-14146-8-Inch-Shallow-6-Point/dp/B000NY8PVO/ref=sr_1_1?ie=UTF8&qid=1431007752&sr=8-1&keywords=14%2Bmm%2Bsocket&tag=ifixitam-20",
+            "available_on_amazon": true,
+            "view_link": "http://www.amazon.com/TEKTON-14146-8-Inch-Shallow-6-Point/dp/B000NY8PVO/ref=sr_1_1?ie=UTF8&qid=1431007752&sr=8-1&keywords=14%2Bmm%2Bsocket&tag=ifixitam-20"
+        },
+        {
+            "name": "14mm Wrench",
+            "url": "https://www.amazon.com/TEKTON-WRN53114-Ratcheting-Combination-Wrench/dp/B01F511MHI/ref=sr_1_4?ie=UTF8&qid=1487884372&sr=8-4&keywords=14mm%2Bwrench&tag=ifixitam-20",
+            "image": "https://guide-images.cdn.ifixit.com/igi/d4lfjaU4sviE1T6w.thumbnail",
+            "affiliate_link": "https://www.amazon.com/TEKTON-WRN53114-Ratcheting-Combination-Wrench/dp/B01F511MHI/ref=sr_1_4?ie=UTF8&qid=1487884372&sr=8-4&keywords=14mm%2Bwrench&tag=ifixitam-20",
+            "available_on_amazon": true,
+            "view_link": "https://www.amazon.com/TEKTON-WRN53114-Ratcheting-Combination-Wrench/dp/B01F511MHI/ref=sr_1_4?ie=UTF8&qid=1487884372&sr=8-4&keywords=14mm%2Bwrench&tag=ifixitam-20"
+        }
+    ],
+    "steps": [
+        {
+            "step_number": 1,
+            "title": "Assembling Parabolic Solar Cooker Tripod Base Stand",
+            "content": [
+                "Insert a 14mm bolt through each tripod leg and through the center plate. Secure each bolt by hand threading a nut on the other side.",
+                "Be sure the flat side of each tripod leg is facing toward the ground."
+            ],
+            "images": [
+                "https://guide-images.cdn.ifixit.com/igi/S5t4IEIkgIJkGa1a.medium",
+                "https://guide-images.cdn.ifixit.com/igi/KjghqbuhrxDthMTV.medium"
+            ],
+            "images_200x150": [
+                "https://guide-images.cdn.ifixit.com/igi/S5t4IEIkgIJkGa1a.200x150",
+                "https://guide-images.cdn.ifixit.com/igi/KjghqbuhrxDthMTV.200x150"
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/19229/54251",
+            "comments_count": 0,
+            "add_comment_url": null
+        },
+        {
+            "step_number": 2,
+            "content": [
+                "Tighten each nut using two 14mm wrenches until each leg is stable and the tripod will stand on its own."
+            ],
+            "image": "https://guide-images.cdn.ifixit.com/igi/3itKW3sgtw4jrIM6.medium",
+            "edit_url": "https://www.ifixit.com/Guide/edit/19229/54252",
+            "comments_count": 0,
+            "add_comment_url": null
+        }
+    ],
+    "conclusion": "To disassemble your device, follow these instructions in reverse order.",
+    "embed_code": {
+        "small": "<iframe id=\"dozuki-embed-19229\" src=\"https://www.ifixit.com/Guide/embed/19229/full\" width=\"600\" allowfullscreen frameborder=\"0\"></iframe> <script>window.addEventListener(\"message\",function(a){var b=document.getElementById(\"dozuki-embed-19229\"),c=a.data[0],d=a.data[1];switch(c){case\"setHeight\":b.style.height=d+\"px\"}},!1);</script>",
+        "medium": "<iframe id=\"dozuki-embed-19229\" src=\"https://www.ifixit.com/Guide/embed/19229/full\" width=\"800\" allowfullscreen frameborder=\"0\"></iframe> <script>window.addEventListener(\"message\",function(a){var b=document.getElementById(\"dozuki-embed-19229\"),c=a.data[0],d=a.data[1];switch(c){case\"setHeight\":b.style.height=d+\"px\"}},!1);</script>",
+        "large": "<iframe id=\"dozuki-embed-19229\" src=\"https://www.ifixit.com/Guide/embed/19229/full\" width=\"1200\" allowfullscreen frameborder=\"0\"></iframe> <script>window.addEventListener(\"message\",function(a){var b=document.getElementById(\"dozuki-embed-19229\"),c=a.data[0],d=a.data[1];switch(c){case\"setHeight\":b.style.height=d+\"px\"}},!1);</script>",
+        "full_guide": "<iframe src=\"https://www.ifixit.com/Guide/embed/19229\" width=\"800\" height=\"584\" allowfullscreen frameborder=\"0\"></iframe>"
+    }
+}

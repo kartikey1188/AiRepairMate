@@ -1,0 +1,161 @@
+{
+    "title": "Blossom Ultrasonic Essential Oil Diffuser ARM-510GY Fan Replacement",
+    "last_updated": "July 1, 2024",
+    "time_estimate": "30 minutes",
+    "difficulty": "Moderate",
+    "introduction": "A diffuser's fan and battery are common faults in a diffuser breaking down. The fan keeps the internals of the device, like the motherboard, from overheating. In this guide, we replace a fan from a Blossom Ultrasonic Essential Oil Diffuser ARM-510GY.\nBefore disassembling the diffuser, make sure there is no oil or water left in the diffuser and make sure the diffuser is unplugged.\n_Through a series of troubleshooting and overhaul, the problem was found to be in the cotton swab of the humidifier._\n**Product model:** K5\n**Product Name** : K5 humidifier\n**Rated voltage:** 5V=1A\n**Input interface** : USB\n**Spray time** :4 hours\nBefore beginning the repair be sure to unplug from the power source.",
+    "tools": [
+        {
+            "name": "Phillips #2 Screwdriver",
+            "url": "https://www.ifixit.com/products/6-in-1-screwdriver",
+            "price": "$6.99"
+        },
+        {
+            "name": "Tweezers",
+            "url": "https://www.ifixit.com/products/tweezers",
+            "optional": true,
+            "price": "$4.99"
+        },
+        {
+            "name": "6S 24V 3000mAh Rechargeable Lithium Battery",
+            "url": "https://www.aliexpress.com/item/4000852208913.html",
+            "for_sale_url": "https://www.aliexpress.com/item/4000852208913.html",
+            "view_url": "https://www.aliexpress.com/item/4000852208913.html"
+        },
+        {
+            "name": "Spudger",
+            "url": "https://www.ifixit.com/products/spudger",
+            "price": "$3.99 New / Fixite Carbon Fiber$2.99 New / Glass Fiber$149.99 New / Glass Fiber Bundle of 100",
+            "optional": true
+        }
+    ],
+    "steps": [
+        {
+            "step_number": 1,
+            "title": "Fan",
+            "images": [
+                "https://guide-images.cdn.ifixit.com/igi/hSfCgfQ6vCcCkOVb.medium",
+                "https://guide-images.cdn.ifixit.com/igi/nMiAyBt3rU3ei4eS.medium",
+                "https://guide-images.cdn.ifixit.com/igi/pPPdUmJSJRS1uEwy.medium"
+            ],
+            "thumbnails": [
+                "https://guide-images.cdn.ifixit.com/igi/hSfCgfQ6vCcCkOVb.200x150",
+                "https://guide-images.cdn.ifixit.com/igi/nMiAyBt3rU3ei4eS.200x150",
+                "https://guide-images.cdn.ifixit.com/igi/pPPdUmJSJRS1uEwy.200x150"
+            ],
+            "instructions": [
+                "Make sure the diffuser is not plugged into a socket and that there is no water or oil near or in the diffuser before beginning the guide.",
+                "Use a Phillips #2 screwdriver to remove the four 8 mm screws on the bottom of the diffuser."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/147597/302450",
+            "add_comment_url": "https://www.ifixit.com/Guide/Blossom+Ultrasonic+Essential+Oil+Diffuser+ARM-510GY+Fan+Replacement/<#>",
+            "comment_section": "https://www.ifixit.com/Guide/Blossom+Ultrasonic+Essential+Oil+Diffuser+ARM-510GY+Fan+Replacement/<#>"
+        },
+        {
+            "step_number": 2,
+            "title": null,
+            "images": [
+                "https://guide-images.cdn.ifixit.com/igi/aanTaowZGiQxQLHd.medium",
+                "https://guide-images.cdn.ifixit.com/igi/UZxSy4kdx2lcQqcr.medium",
+                "https://guide-images.cdn.ifixit.com/igi/JIYtLpVkpvqZnXZI.medium"
+            ],
+            "thumbnails": [
+                "https://guide-images.cdn.ifixit.com/igi/aanTaowZGiQxQLHd.200x150",
+                "https://guide-images.cdn.ifixit.com/igi/UZxSy4kdx2lcQqcr.200x150",
+                "https://guide-images.cdn.ifixit.com/igi/JIYtLpVkpvqZnXZI.200x150"
+            ],
+            "instructions": [
+                "Lift the ceramic top of the oil diffuser.",
+                "Then lift off the plastic top off the diffuser."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/147597/302451",
+            "add_comment_url": "https://www.ifixit.com/Guide/Blossom+Ultrasonic+Essential+Oil+Diffuser+ARM-510GY+Fan+Replacement/<#>",
+            "comment_section": "https://www.ifixit.com/Guide/Blossom+Ultrasonic+Essential+Oil+Diffuser+ARM-510GY+Fan+Replacement/<#>"
+        },
+        {
+            "step_number": 3,
+            "title": null,
+            "images": [],
+            "instructions": [
+                "Lift the last plastic lid.",
+                "You will see a circuit board, and there will be a cord connecting it to the circuit board."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/147597/302452",
+            "add_comment_url": "https://www.ifixit.com/Guide/Blossom+Ultrasonic+Essential+Oil+Diffuser+ARM-510GY+Fan+Replacement/<#>",
+            "comment_section": "https://www.ifixit.com/Guide/Blossom+Ultrasonic+Essential+Oil+Diffuser+ARM-510GY+Fan+Replacement/<#>"
+        },
+        {
+            "step_number": 4,
+            "title": null,
+            "images": [],
+            "instructions": [
+                "Gently unplug the cord from the circuit board.",
+                "Place the plastic lid somewhere safe on the a flat surface."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/147597/302453",
+            "add_comment_url": "https://www.ifixit.com/Guide/Blossom+Ultrasonic+Essential+Oil+Diffuser+ARM-510GY+Fan+Replacement/<#>",
+            "comment_section": "https://www.ifixit.com/Guide/Blossom+Ultrasonic+Essential+Oil+Diffuser+ARM-510GY+Fan+Replacement/<#>"
+        },
+        {
+            "step_number": 5,
+            "title": null,
+            "images": [],
+            "instructions": [
+                "Remove the plastic ring and place somewhere safe on a flat surface."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/147597/302454",
+            "add_comment_url": "https://www.ifixit.com/Guide/Blossom+Ultrasonic+Essential+Oil+Diffuser+ARM-510GY+Fan+Replacement/<#>",
+            "comment_section": "https://www.ifixit.com/Guide/Blossom+Ultrasonic+Essential+Oil+Diffuser+ARM-510GY+Fan+Replacement/<#>"
+        },
+        {
+            "step_number": 6,
+            "title": null,
+            "images": [],
+            "instructions": [
+                "Remove two Truss head 4 mm screws with a Phillips #2 screwdriver and place safely nearby."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/147597/302455",
+            "add_comment_url": "https://www.ifixit.com/Guide/Blossom+Ultrasonic+Essential+Oil+Diffuser+ARM-510GY+Fan+Replacement/<#>",
+            "comment_section": "https://www.ifixit.com/Guide/Blossom+Ultrasonic+Essential+Oil+Diffuser+ARM-510GY+Fan+Replacement/<#>"
+        },
+        {
+            "step_number": 7,
+            "title": null,
+            "images": [],
+            "instructions": [
+                "Gently lift the circuit board onto it's side",
+                "The white connector plugs the fan into the circuit board."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/147597/302456",
+            "add_comment_url": "https://www.ifixit.com/Guide/Blossom+Ultrasonic+Essential+Oil+Diffuser+ARM-510GY+Fan+Replacement/<#>",
+            "comment_section": "https://www.ifixit.com/Guide/Blossom+Ultrasonic+Essential+Oil+Diffuser+ARM-510GY+Fan+Replacement/<#>"
+        },
+        {
+            "step_number": 8,
+            "title": null,
+            "images": [],
+            "instructions": [
+                "Unplug the white connector.",
+                "There are four #M1 6 mm Phillips pan head screws holding down the fan."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/147597/302457",
+            "add_comment_url": "https://www.ifixit.com/Guide/Blossom+Ultrasonic+Essential+Oil+Diffuser+ARM-510GY+Fan+Replacement/<#>",
+            "comment_section": "https://www.ifixit.com/Guide/Blossom+Ultrasonic+Essential+Oil+Diffuser+ARM-510GY+Fan+Replacement/<#>"
+        },
+        {
+            "step_number": 9,
+            "title": null,
+            "images": [],
+            "instructions": [
+                "Remove the #M1 6 mm screws with a Phillips #2 screwdriver while holding down the fan.",
+                "Gently lift the fan and place the fan someplace safe on the flat surface."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/147597/302458",
+            "add_comment_url": "https://www.ifixit.com/Guide/Blossom+Ultrasonic+Essential+Oil+Diffuser+ARM-510GY+Fan+Replacement/<#>",
+            "comment_section": "https://www.ifixit.com/Guide/Blossom+Ultrasonic+Essential+Oil+Diffuser+ARM-510GY+Fan+Replacement/<#>"
+        }
+    ],
+    "conclusion": "To reassemble your device, follow these instructions in reverse order.",
+    "completed_guide_text": null,
+    "embed_code": "<iframe id=\"dozuki-embed-147597\" src=\"https://www.ifixit.com/Guide/embed/147597/full\" width=\"800\" allowfullscreen frameborder=\"0\"></iframe> <script>window.addEventListener(\"message\",function(a){var b=document.getElementById(\"dozuki-embed-147597\"),c=a.data[0],d=a.data[1];switch(c){case\"setHeight\":b.style.height=d+\"px\"}},!1);</script> <iframe src=\"https://www.ifixit.com/Guide/embed/147597\" width=\"800\" height=\"584\" allowfullscreen frameborder=\"0\"></iframe>"
+}

@@ -1,0 +1,94 @@
+{
+    "title": "Carrier P4SPA6 Home Air Filter Replacement",
+    "last_updated": "August 31, 2023",
+    "estimated_time": "20 - 30 minutes",
+    "difficulty": "Easy",
+    "introduction": "This guide will show you how to replace the central air conditioning filter for a Carrier P4SPA6 device. The air filter plays a crucial role in maintaining optimal air quality and circulation within our homes. Despite its importance, it is frequently overlooked, and homeowners may not change it as frequently as necessary. Neglecting this essential task can have detrimental consequences, such as compromised air quality that may contribute to various health concerns. Moreover, a neglected air filter can lead to the accumulation of dust and debris in the ventilation system, hindering its efficiency and potentially causing costly repairs in the long run.\nFor this process, you will need a new filter. A pen, cloth, vacuum and a screwdriver are dependent on the system you have. Ensure that your new air filter that matches your HVAC system and your life style. Check the filter size and type, which can usually be found on the side of the existing filter or in the user manual.",
+    "parts": [],
+    "tools": [
+        {
+            "name": "Microfiber Cleaning Cloths",
+            "url": "https://www.ifixit.com/products/microfiber-cleaning-cloths",
+            "image": "https://cart-products.cdn.ifixit.com/cart-products/2FWdnADRCFlkK3Zv.thumbnail",
+            "price": "$3.99",
+            "add_to_cart_url": "https://www.ifixit.com/products/microfiber-cleaning-cloths",
+            "description": "(Optional)"
+        },
+        {
+            "name": "Phillips #2 Screwdriver",
+            "url": "https://www.ifixit.com/products/6-in-1-screwdriver",
+            "image": "https://cart-products.cdn.ifixit.com/cart-products/LYcK13TjejldWD5Y.thumbnail",
+            "price": "$6.99",
+            "add_to_cart_url": "https://www.ifixit.com/products/6-in-1-screwdriver"
+        },
+        {
+            "name": "Pen",
+            "url": "https://www.amazon.com/Pilot-Retractable-Premium-Roller-Point/dp/B0030F32L6/ref=sr_1_8?crid=1ZF5SMXOJHXJF&keywords=pen&qid=1693498763&sprefix=pen%2Caps%2C95&sr=8-8&tag=ifixitam-20",
+            "affiliate_link": "https://www.amazon.com/Pilot-Retractable-Premium-Roller-Point/dp/B0030F32L6/ref=sr_1_8?crid=1ZF5SMXOJHXJF&keywords=pen&qid=1693498763&sprefix=pen%2Caps%2C95&sr=8-8&tag=ifixitam-20",
+            "available_on_amazon": true,
+            "view_link": "https://www.amazon.com/Pilot-Retractable-Premium-Roller-Point/dp/B0030F32L6/ref=sr_1_8?crid=1ZF5SMXOJHXJF&keywords=pen&qid=1693498763&sprefix=pen%2Caps%2C95&sr=8-8&tag=ifixitam-20",
+            "description": "(Optional)"
+        }
+    ],
+    "steps": [
+        {
+            "step_number": 1,
+            "title": "Air Filter",
+            "content": [
+                "Turn off the HVAC system to prevent unfiltered air from traveling through your home.",
+                "Usually the button for the system is located besides your AC. If not, adjust the temperature setting lower than the current room temperature to trigger the system to turn off.",
+                "Wait for 5 mins to fully shut down. Check the fan before you start."
+            ],
+            "image": "https://guide-images.cdn.ifixit.com/igi/WL342HoVe2vJGrPb.medium",
+            "edit_url": "https://www.ifixit.com/Guide/edit/163321/345084",
+            "comments_count": 0,
+            "add_comment_url": null
+        },
+        {
+            "step_number": 2,
+            "content": [
+                "The air filter compartment is usually near the air duct. Depending on your individual system, you may find it near the furnace. Based on how your system is set up, you may need a screwdriver to open the cover in order to access your old air filter."
+            ],
+            "image": "https://guide-images.cdn.ifixit.com/igi/IgH5cSJFVfNoXwHs.medium",
+            "edit_url": "https://www.ifixit.com/Guide/edit/163321/345085",
+            "comments_count": 0,
+            "add_comment_url": null
+        },
+        {
+            "step_number": 3,
+            "content": [
+                "Slide out your old filter but pay attention to the direction of airflow indicated on the box. If you can’t find it, the airflow should go towards the furnace. Proper disposal is important because it will usually contain dust and debris. Use a vacuum or a cloth to wipe away dirt and clean up debris if you can."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/163321/345086",
+            "comments_count": 0,
+            "add_comment_url": null
+        },
+        {
+            "step_number": 4,
+            "content": [
+                "Take the new air filter and insert it into the slot, following the direction of the airflow arrow on the filter frame, making sure it's snug.",
+                "If it's loose, check the size. There should be a place to put the date on top but this sub step is optional."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/163321/345087",
+            "comments_count": 0,
+            "add_comment_url": null
+        },
+        {
+            "step_number": 5,
+            "content": [
+                "Close the compartment by putting on the cover. You may need a screwdriver. Double check that it is sealed properly before turning on the HVAC system.",
+                "If you can’t access the button, trigger it by adjusting the temperature. In the summer, lower the temperature below the room temperature. In the winter increase it above the room temperature."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/163321/345089",
+            "comments_count": 0,
+            "add_comment_url": null
+        }
+    ],
+    "conclusion": "This step-by-step guide aims to raise awareness about the importance of regular air filter replacement and provide clear instructions for a successful replacement process.",
+    "embed_code": {
+        "small": "<iframe id=\"dozuki-embed-163321\" src=\"https://www.ifixit.com/Guide/embed/163321/full\" width=\"600\" allowfullscreen frameborder=\"0\"></iframe> <script>window.addEventListener(\"message\",function(a){var b=document.getElementById(\"dozuki-embed-163321\"),c=a.data[0],d=a.data[1];switch(c){case\"setHeight\":b.style.height=d+\"px\"}},!1);</script>",
+        "medium": "<iframe id=\"dozuki-embed-163321\" src=\"https://www.ifixit.com/Guide/embed/163321/full\" width=\"800\" allowfullscreen frameborder=\"0\"></iframe> <script>window.addEventListener(\"message\",function(a){var b=document.getElementById(\"dozuki-embed-163321\"),c=a.data[0],d=a.data[1];switch(c){case\"setHeight\":b.style.height=d+\"px\"}},!1);</script>",
+        "large": "<iframe id=\"dozuki-embed-163321\" src=\"https://www.ifixit.com/Guide/embed/163321/full\" width=\"1200\" allowfullscreen frameborder=\"0\"></iframe> <script>window.addEventListener(\"message\",function(a){var b=document.getElementById(\"dozuki-embed-163321\"),c=a.data[0],d=a.data[1];switch(c){case\"setHeight\":b.style.height=d+\"px\"}},!1);</script>",
+        "full_guide": "<iframe src=\"https://www.ifixit.com/Guide/embed/163321\" width=\"800\" height=\"584\" allowfullscreen frameborder=\"0\"></iframe>"
+    }
+}

@@ -1,0 +1,115 @@
+{
+    "guide_title": "Dresser Drawer Guide Tracks Replacement",
+    "last_updated": "September 26, 2023",
+    "time_estimate": "10 - 20 minutes",
+    "difficulty": "Very easy",
+    "needs_better_images": true,
+    "introduction": "If your dresser drawer isn’t sliding in and out properly or if it is getting stuck, you may need to replace the metal tracks. Use this guide to replace the metal tracks in your dresser drawer.",
+    "tools_and_materials": [
+        {
+            "name": "Staple Gun",
+            "url": "https://www.amazon.com/WETOLS-Upholstery-Carpentry-Decoration-Furniture/dp/B0814R7M5L/ref=sr_1_2_sspa?crid=QR1BLMK6PS31&keywords=staple%2Bgun&qid=1654209161&s=hi&sprefix=staple%2Bgun%2Ctools%2C213&sr=1-2-spons&psc=1&smid=A3IAAW0BCQSSWT&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEzM0JZU0lWTzg3VFpZJmVuY3J5cHRlZElkPUEwMjMwNDE3RVRZN0I0RU1MSTdRJmVuY3J5cHRlZEFkSWQ9QTA0OTA4NTExMjAzWko3OENNODBYJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ%3D%3D&tag=ifixitam-20",
+            "affiliate_link": true,
+            "available_on_amazon": true
+        },
+        {
+            "name": "E6000 Glue",
+            "url": "https://www.ifixit.com/products/e6000-adhesive-glue",
+            "price": "$2.99",
+            "add_to_cart": true
+        }
+    ],
+    "steps": [
+        {
+            "step_number": 1,
+            "step_title": "Broken Guide Tracks for a Dresser Drawer",
+            "images": [
+                {
+                    "url": "https://guide-images.cdn.ifixit.com/igi/fQ6LVbrQiJxIU5Ic.medium",
+                    "alt_text": "Dresser Drawer Guide Tracks Replacement, Broken Guide Tracks for a Dresser Drawer: step 1, image 1 of 2"
+                },
+                {
+                    "url": "https://guide-images.cdn.ifixit.com/igi/SujwZi2TIUGCcpJB.medium",
+                    "alt_text": "Dresser Drawer Guide Tracks Replacement, Broken Guide Tracks for a Dresser Drawer: step 1, image 2 of 2"
+                }
+            ],
+            "text": "As you can see, the guide tracks that set the drawer in place are no longer attached to the dresser in the correct position.",
+            "links": [
+                {
+                    "type": "edit",
+                    "url": "https://www.ifixit.com/Guide/edit/128599/252071"
+                }
+            ]
+        },
+        {
+            "step_number": 2,
+            "step_title": null,
+            "images": [
+                {
+                    "url": "https://guide-images.cdn.ifixit.com/igi/4mHbEsemZbWb2CLB.medium",
+                    "alt_text": "Dresser Drawer Guide Tracks Replacement: step 2, image 1 of 1"
+                }
+            ],
+            "text": "You will need super glue and a staple gun because the dresser and the tracks are wooden. You can also use screws and a screwdriver if you would like.",
+            "links": [
+                {
+                    "type": "edit",
+                    "url": "https://www.ifixit.com/Guide/edit/128599/252072"
+                }
+            ]
+        },
+        {
+            "step_number": 3,
+            "step_title": null,
+            "images": [],
+            "text": "Apply the glue to both sides on the wooden tracks. You will only need a small amount.",
+            "links": [
+                {
+                    "type": "edit",
+                    "url": "https://www.ifixit.com/Guide/edit/128599/252252"
+                }
+            ]
+        },
+        {
+            "step_number": 4,
+            "step_title": null,
+            "images": [],
+            "text": "Now you will want to place the tracks in the desired location inside the dresser. You will want to apply pressure from the top of the track to secure the clue to the wood. Let this dry for about 5-10 minutes.",
+            "links": [
+                {
+                    "type": "edit",
+                    "url": "https://www.ifixit.com/Guide/edit/128599/252253"
+                }
+            ]
+        },
+        {
+            "step_number": 5,
+            "step_title": null,
+            "images": [],
+            "text": "Once your clue has dried, you can now use the staple gun to ensure that the track is secure.",
+            "links": [
+                {
+                    "type": "edit",
+                    "url": "https://www.ifixit.com/Guide/edit/128599/252255"
+                }
+            ]
+        },
+        {
+            "step_number": 6,
+            "step_title": null,
+            "images": [],
+            "text": "Finally, once the tracks have been set and are secure, you can align your drawer to the tracks and slide the drawer back into the dresser.",
+            "links": [
+                {
+                    "type": "edit",
+                    "url": "https://www.ifixit.com/Guide/edit/128599/252256"
+                }
+            ]
+        }
+    ],
+    "conclusion": "Finish Line",
+    "embed_guide": {
+        "single_step_code": "<iframe id=\"dozuki-embed-128599\" src=\"https://www.ifixit.com/Guide/embed/128599/full\" width=\"800\" allowfullscreen frameborder=\"0\"></iframe> <script>window.addEventListener(\"message\",function(a){var b=document.getElementById(\"dozuki-embed-128599\"),c=a.data[0],d=a.data[1];switch(c){case\"setHeight\":b.style.height=d+\"px\"}},!1);</script>",
+        "full_guide_code": "<iframe src=\"https://www.ifixit.com/Guide/embed/128599\" width=\"800\" height=\"584\" allowfullscreen frameborder=\"0\"></iframe>"
+    }
+}

@@ -1,0 +1,93 @@
+{
+    "metadata": {
+        "title": "AcuRite 02032 Screen Display Battery Replacement",
+        "last_updated": "December 20, 2016",
+        "guide_image": "https://guide-images.cdn.ifixit.com/igi/ZIRUuTBsxcO3BkDR.140x105",
+        "estimated_time": "2 minutes",
+        "difficulty": "Very easy",
+        "device_links": [
+            {
+                "text": "AcuRite 02032",
+                "url": "https://www.ifixit.com/Device/AcuRite_02032"
+            },
+            {
+                "text": "Weather Station",
+                "url": "https://www.ifixit.com/Device/Weather_Station"
+            },
+            {
+                "text": "Patio, Lawn & Garden",
+                "url": "https://www.ifixit.com/Device/Lawn_and_Garden"
+            },
+            {
+                "text": "Household",
+                "url": "https://www.ifixit.com/Device/Household"
+            },
+            {
+                "text": "Home",
+                "url": "https://www.ifixit.com/Guide"
+            }
+        ],
+        "parts_links": [
+            {
+                "text": "Guides",
+                "url": "https://www.ifixit.com/Device/AcuRite_02032#Section_Guides"
+            },
+            {
+                "text": "Answers",
+                "url": "https://www.ifixit.com/Answers/Device/AcuRite_02032"
+            }
+        ],
+        "edit_link": "https://www.ifixit.com/Guide/edit/72316"
+    },
+    "introduction": "Educating the user how to replace the batteries of the screen display to properly function the device.",
+    "steps": [
+        {
+            "step_number": 1,
+            "title": "Screen Display Battery",
+            "text": "Remove the battery compartment lid by lifting upward.",
+            "image": "https://guide-images.cdn.ifixit.com/igi/TCdEtPVoMRoV4xTb.medium",
+            "image_links": [
+                "https://guide-images.cdn.ifixit.com/igi/TCdEtPVoMRoV4xTb.200x150",
+                "https://guide-images.cdn.ifixit.com/igi/egtbQh2urhSQTyug.200x150",
+                "https://guide-images.cdn.ifixit.com/igi/aJCdKmJVwc533PD1.200x150"
+            ],
+            "edit_link": "https://www.ifixit.com/Guide/edit/72316/144507",
+            "comment_links": [],
+            "additional_images": [
+                "https://guide-images.cdn.ifixit.com/igi/egtbQh2urhSQTyug.medium",
+                "https://guide-images.cdn.ifixit.com/igi/aJCdKmJVwc533PD1.medium"
+            ]
+        },
+        {
+            "step_number": 2,
+            "title": "",
+            "text": "Remove the 3 x AA alkaline batteries from each battery slot.",
+            "image": "https://guide-images.cdn.ifixit.com/igi/yMyOR5IcFJumOPNQ.medium",
+            "image_links": [
+                "https://guide-images.cdn.ifixit.com/igi/yMyOR5IcFJumOPNQ.200x150",
+                "https://guide-images.cdn.ifixit.com/igi/PQBS2P5BOFgfBeh4.200x150",
+                "https://guide-images.cdn.ifixit.com/igi/MM1PmB4WYWJSemBY.200x150"
+            ],
+            "edit_link": "https://www.ifixit.com/Guide/edit/72316/144509",
+            "comment_links": [],
+            "additional_images": [
+                "https://guide-images.cdn.ifixit.com/igi/PQBS2P5BOFgfBeh4.medium",
+                "https://guide-images.cdn.ifixit.com/igi/MM1PmB4WYWJSemBY.medium"
+            ]
+        },
+        {
+            "step_number": 3,
+            "title": "",
+            "text": "Before replacing the batteries pay attention to the position of the **+** and **-** poles on the battery compartment pad.",
+            "image_links": [],
+            "edit_link": "https://www.ifixit.com/Guide/edit/72316/144508",
+            "comment_links": []
+        }
+    ],
+    "conclusion": {
+        "text": "To reassemble your device, follow these instructions in reverse order.",
+        "author_points": 30,
+        "cancel_link": "https://www.ifixit.com/Guide/AcuRite+02032+Screen+Display+Battery+Replacement/<#>"
+    },
+    "embed_code": "<iframe id=\"dozuki-embed-72316\" src=\"https://www.ifixit.com/Guide/embed/72316/full\" width=\"800\" allowfullscreen frameborder=\"0\"></iframe> <script>window.addEventListener(\"message\",function(a){var b=document.getElementById(\"dozuki-embed-72316\"),c=a.data[0],d=a.data[1];switch(c){case\"setHeight\":b.style.height=d+\"px\"}},!1);</script> <iframe src=\"https://www.ifixit.com/Guide/embed/72316\" width=\"800\" height=\"584\" allowfullscreen frameborder=\"0\"></iframe>"
+}

@@ -1,0 +1,109 @@
+{
+    "title": "AeraMax Pro AM III Air Filter Replacement",
+    "last_updated": "December 29, 2022",
+    "estimated_time": "10 minutes",
+    "difficulty": "Easy",
+    "community_guide": true,
+    "introduction": "The AeraMax Pro AM III air purifier is a great appliance to have at your home or any place of comfort; the purpose of the air purifier is to **pull in unwanted particles from the air in a specific room**. Purified air is then circulated back into the room and the filtration process repeats several times an hour, continually boosting indoor air quality. In this guide, I will walk you through a step-to-step process of how to effectively change the air filter in your personal air filter. Before starting the process, I recommend that all readers read through the operation manual which is featured in the following guide. Although this guide is specific to the AeraMax Pro AM III, the process is similar to all air filters. This replacement guide will assist any reader to change their own air filter when it comes to a time your air filter is not performing as it should be.\nMake sure you have the right air filter because filters are not universal and are specific to the appliance. The specific air filter can be found on the organization's [home page here](https://www.ifixit.com/Guide/AeraMax+Pro+AM+III+Air+Filter+Replacement/<https:/www.fellowes.com/us/en/air-purifiers/products/commercial-filters.aspx>).",
+    "parts": [],
+    "tools": [
+        {
+            "name": "Metal Spudger",
+            "url": "https://www.ifixit.com/products/metal-spudger",
+            "image": "https://cart-products.cdn.ifixit.com/cart-products/KNSknbTAhPXVCtwC.thumbnail",
+            "price": "$2.99",
+            "add_to_cart_url": "https://www.ifixit.com/products/metal-spudger"
+        }
+    ],
+    "steps": [
+        {
+            "step_number": 1,
+            "title": "Air Filter",
+            "content": [
+                "If the access panel is locked, use the key to unlock it and open it by pressing the levers on both sides.",
+                "The appliance can open only if both levers are pressed simultaneously.",
+                "Use your hands to remove the old filter."
+            ],
+            "images": [
+                "https://guide-images.cdn.ifixit.com/igi/SUqvSKwDCJ5pjTP5.medium",
+                "https://guide-images.cdn.ifixit.com/igi/2tVNWlk5FK4rOgvG.medium",
+                "https://guide-images.cdn.ifixit.com/igi/bpjZhIqVRAUXy11m.medium"
+            ],
+            "images_200x150": [
+                "https://guide-images.cdn.ifixit.com/igi/SUqvSKwDCJ5pjTP5.200x150",
+                "https://guide-images.cdn.ifixit.com/igi/2tVNWlk5FK4rOgvG.200x150",
+                "https://guide-images.cdn.ifixit.com/igi/bpjZhIqVRAUXy11m.200x150"
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/154894/322637",
+            "comments_count": 0,
+            "add_comment_url": null
+        },
+        {
+            "step_number": 2,
+            "content": [
+                "When removing the old filter, do not throw away the filter cage. Wipe it down and prepare to use it for the new filter.",
+                "If you have not already wiped down your appliance, give it a thorough wipe-down with your preferred cleaning product."
+            ],
+            "images": [
+                "https://guide-images.cdn.ifixit.com/igi/CdTFwByIQSZteNUB.medium",
+                "https://guide-images.cdn.ifixit.com/igi/3g4DUKSP34NakOur.medium",
+                "https://guide-images.cdn.ifixit.com/igi/iFRIMYIwJVUVxHPX.medium"
+            ],
+            "images_200x150": [
+                "https://guide-images.cdn.ifixit.com/igi/CdTFwByIQSZteNUB.200x150",
+                "https://guide-images.cdn.ifixit.com/igi/3g4DUKSP34NakOur.200x150",
+                "https://guide-images.cdn.ifixit.com/igi/iFRIMYIwJVUVxHPX.200x150"
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/154894/322648",
+            "comments_count": 0,
+            "add_comment_url": null
+        },
+        {
+            "step_number": 3,
+            "content": [
+                "Remove the plastic from the new HEPA filter and place it into the filter cage."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/154894/322649",
+            "comments_count": 0,
+            "add_comment_url": null
+        },
+        {
+            "step_number": 4,
+            "content": [
+                "Insert the carbon filter into the filter cage that you wiped down and make sure the corners are aligned with the filter cage.",
+                "Take your new HEPA filter and make sure the stickers are aligned and the corners of the pre-filter are fleshed down until it sticks to the carbon filter."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/154894/322694",
+            "comments_count": 0,
+            "add_comment_url": null
+        },
+        {
+            "step_number": 5,
+            "content": [
+                "Insert your filter cage back into the access panel and make sure that the filter label is visible and facing upwards.",
+                "You can give your appliance one more wipe-down to **ensure cleanliness.**"
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/154894/322701",
+            "comments_count": 0,
+            "add_comment_url": null
+        },
+        {
+            "step_number": 6,
+            "content": [
+                "Press the HEPA Setting for three seconds until the icon turns green.",
+                "The green icon indicates that the filter has been replaced and is ready to be used.",
+                "Close the access panel."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/154894/322702",
+            "comments_count": 0,
+            "add_comment_url": null
+        }
+    ],
+    "conclusion": "To reassemble your device, follow these instructions in reverse order.",
+    "embed_code": {
+        "small": "<iframe id=\"dozuki-embed-154894\" src=\"https://www.ifixit.com/Guide/embed/154894/full\" width=\"600\" allowfullscreen frameborder=\"0\"></iframe> <script>window.addEventListener(\"message\",function(a){var b=document.getElementById(\"dozuki-embed-154894\"),c=a.data[0],d=a.data[1];switch(c){case\"setHeight\":b.style.height=d+\"px\"}},!1);</script>",
+        "medium": "<iframe id=\"dozuki-embed-154894\" src=\"https://www.ifixit.com/Guide/embed/154894/full\" width=\"800\" allowfullscreen frameborder=\"0\"></iframe> <script>window.addEventListener(\"message\",function(a){var b=document.getElementById(\"dozuki-embed-154894\"),c=a.data[0],d=a.data[1];switch(c){case\"setHeight\":b.style.height=d+\"px\"}},!1);</script>",
+        "large": "<iframe id=\"dozuki-embed-154894\" src=\"https://www.ifixit.com/Guide/embed/154894/full\" width=\"1200\" allowfullscreen frameborder=\"0\"></iframe> <script>window.addEventListener(\"message\",function(a){var b=document.getElementById(\"dozuki-embed-154894\"),c=a.data[0],d=a.data[1];switch(c){case\"setHeight\":b.style.height=d+\"px\"}},!1);</script>",
+        "full_guide": "<iframe src=\"https://www.ifixit.com/Guide/embed/154894\" width=\"800\" height=\"584\" allowfullscreen frameborder=\"0\"></iframe>"
+    }
+}

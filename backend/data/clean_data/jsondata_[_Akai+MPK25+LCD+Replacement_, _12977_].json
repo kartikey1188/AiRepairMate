@@ -1,0 +1,137 @@
+{
+    "title": "Akai MPK25 LCD Replacement",
+    "last_updated": "July 19, 2021",
+    "time_estimate": "5 - 10 minutes",
+    "difficulty": "Moderate",
+    "featured_guide": true,
+    "introduction": "Use this guide to replace a screen that is scratched, cracked, or broken.",
+    "parts": [
+        {
+            "name": "Akai MPK 25 Replacement Screen",
+            "url": "http://www.mpcstuff.com/1alcm-wtdh002.html",
+            "availability": "For sale from another site",
+            "view_url": "http://www.mpcstuff.com/1alcm-wtdh002.html"
+        }
+    ],
+    "tools": [
+        {
+            "name": "8\" Needle Nose Plier",
+            "url": "https://www.ifixit.com/products/large-needle-nose-pliers",
+            "image_url": "https://cart-products.cdn.ifixit.com/cart-products/xsuUhWaHMfDB6FnN.thumbnail",
+            "price": "$4.99",
+            "add_to_cart_url": "https://www.ifixit.com/products/large-needle-nose-pliers"
+        },
+        {
+            "name": "Phillips #2 Screwdriver",
+            "url": "https://www.ifixit.com/products/6-in-1-screwdriver",
+            "image_url": "https://cart-products.cdn.ifixit.com/cart-products/LYcK13TjejldWD5Y.thumbnail",
+            "price": "$6.99",
+            "add_to_cart_url": "https://www.ifixit.com/products/6-in-1-screwdriver"
+        },
+        {
+            "name": "Phillips #00 Screwdriver",
+            "url": "https://www.ifixit.com/products/phillips-00-screwdriver",
+            "image_url": "https://cart-products.cdn.ifixit.com/cart-products/upNtpW5ghNgA3abG.thumbnail",
+            "price": [
+                "$5.49 New / iFixit",
+                "$8.99 New / Moody - Made in USA"
+            ],
+            "add_to_cart_url": "https://www.ifixit.com/products/phillips-00-screwdriver"
+        },
+        {
+            "name": "iFixit Opening Tool",
+            "url": "https://www.ifixit.com/products/ifixit-opening-tool",
+            "image_url": "https://cart-products.cdn.ifixit.com/cart-products/dPx63wucK43PlWnH.thumbnail",
+            "price": [
+                "$1.99 Individual / New",
+                "$4.99 5 / New"
+            ],
+            "add_to_cart_url": "https://www.ifixit.com/products/ifixit-opening-tool"
+        }
+    ],
+    "steps": [
+        {
+            "step_number": 1,
+            "title": "Face Plate",
+            "image_url": "https://guide-images.cdn.ifixit.com/igi/aDinq1CRlSbmudCJ.medium",
+            "instructions": [
+                "Remove all the selector knob covers by pulling them off."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/12977/44419",
+            "comment_count": 1
+        },
+        {
+            "step_number": 2,
+            "image_url": "https://guide-images.cdn.ifixit.com/igi/B3pRLtGKy5BYEjpC.medium",
+            "instructions": [
+                "Using needle nose pliers, remove the washers from the four corner selector knobs."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/12977/44420",
+            "comment_count": 1
+        },
+        {
+            "step_number": 3,
+            "edit_url": "https://www.ifixit.com/Guide/edit/12977/44421",
+            "instructions": [
+                "Flip the device over. Using a Philips #2 screw driver, remove the fourteen 10.3 mm black screws holding the back panel in place."
+            ],
+            "comment_count": 0
+        },
+        {
+            "step_number": 4,
+            "edit_url": "https://www.ifixit.com/Guide/edit/12977/44422",
+            "instructions": [
+                "Carefully flip the device to the front making sure you secure the face plate and the chassis together.",
+                "Please use care in following the step above to avoid ripping the ribbon cables connecting the two sides."
+            ],
+            "comment_count": 0
+        },
+        {
+            "step_number": 5,
+            "edit_url": "https://www.ifixit.com/Guide/edit/12977/44423",
+            "instructions": [
+                "Rotate the device 180 degrees and carefully remove the face plate by slightly lifting the screen side towards you and then sliding the bottom out from under the keys.",
+                "Use care when doing the step above so that the ribbon connectors which connect the top of the chassis to the top of the face plate are not damaged."
+            ],
+            "comment_count": 0
+        },
+        {
+            "step_number": 6,
+            "title": "LCD",
+            "edit_url": "https://www.ifixit.com/Guide/edit/12977/44433",
+            "instructions": [
+                "Using a Phillips #00 screwdriver, remove the four 8.9 mm screws."
+            ],
+            "comment_count": 0
+        },
+        {
+            "step_number": 7,
+            "edit_url": "https://www.ifixit.com/Guide/edit/12977/44438",
+            "instructions": [
+                "Using a Phillips #2 screwdriver, remove the one 9.8mm screw holding down the ground wire."
+            ],
+            "comment_count": 0
+        },
+        {
+            "step_number": 8,
+            "edit_url": "https://www.ifixit.com/Guide/edit/12977/44439",
+            "instructions": [
+                "Using two plastic opening tools, slide the black locking mechanism on the ZIF connector towards you. This will remove the ribbon cable connecting the motherboard to the screen."
+            ],
+            "comment_count": 0
+        },
+        {
+            "step_number": 9,
+            "edit_url": "https://www.ifixit.com/Guide/edit/12977/44931",
+            "instructions": [
+                "Lift the screen from either side, removing it from the board."
+            ],
+            "comment_count": 0
+        }
+    ],
+    "conclusion": "To reassemble the display, follow these instructions in reverse order.",
+    "completed_message": "3 other people completed this guide.",
+    "embed_code": "<iframe id=\"dozuki-embed-12977\" src=\"https://www.ifixit.com/Guide/embed/12977/full\" width=\"800\" allowfullscreen frameborder=\"0\"></iframe> <script>window.addEventListener(\"message\",function(a){var b=document.getElementById(\"dozuki-embed-12977\"),c=a.data[0],d=a.data[1];switch(c){case\"setHeight\":b.style.height=d+\"px\"}},!1);</script> <iframe src=\"https://www.ifixit.com/Guide/embed/12977\" width=\"800\" height=\"584\" allowfullscreen frameborder=\"0\"></iframe>",
+    "repair_is_noble_url": "https://www.ifixit.com/Manifesto",
+    "license_url": "https://www.ifixit.com/Info/Licensing"
+}

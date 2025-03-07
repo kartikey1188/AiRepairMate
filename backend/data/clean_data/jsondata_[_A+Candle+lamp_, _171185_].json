@@ -1,0 +1,182 @@
+{
+    "metadata": {
+        "title": "A Candle lamp",
+        "last_updated": "March 27, 2024",
+        "team": {
+            "name": "Community",
+            "link": "https://www.ifixit.com/Team/1364/Kid+fixers",
+            "member_of": "Kid fixers",
+            "members": 178,
+            "guides_authored": 253
+        },
+        "time_estimate": "No estimate",
+        "difficulty": "Moderate",
+        "introduction": "The form of the candle lamp is exquisite, presenting a blend of simplicity and fashion. Constructed from mild steel sheet, this product boasts durability and easy maintenance. Its operational mechanism involves utilizing a light bulb for heating, which effectively accelerate the candle's surface. The switch is a knot design ,by rotating, the temperature and brightness of the light can be adjusted to the desired levels.",
+        "tools_needed": [
+            {
+                "name": "16mm Spanner",
+                "link": "https://www.amazon.ca/Wrench-Durable-Multi-Function-Spanner-Bicycle/dp/B07FF1XCNQ/ref=sr_1_6?crid=G5JDF3NUBWTI&keywords=Cone%2BSpanner%2B15%2F17%2Bmm&qid=1643743129&sprefix=cone%2Bspanner%2B15%2F17%2Bmm%2Caps%2C130&sr=8-6&th=1&psc=1",
+                "affiliate_link": "https://www.amazon.ca/Wrench-Durable-Multi-Function-Spanner-Bicycle/dp/B07FF1XCNQ/ref=sr_1_6?crid=G5JDF3NUBWTI&keywords=Cone%2BSpanner%2B15%2F17%2Bmm&qid=1643743129&sprefix=cone%2Bspanner%2B15%2F17%2Bmm%2Caps%2C130&sr=8-6&th=1&psc=1",
+                "available_for_sale": "https://www.amazon.ca/Wrench-Durable-Multi-Function-Spanner-Bicycle/dp/B07FF1XCNQ/ref=sr_1_6?crid=G5JDF3NUBWTI&keywords=Cone%2BSpanner%2B15%2F17%2Bmm&qid=1643743129&sprefix=cone%2Bspanner%2B15%2F17%2Bmm%2Caps%2C130&sr=8-6&th=1&psc=1",
+                "view_link": "https://www.amazon.ca/Wrench-Durable-Multi-Function-Spanner-Bicycle/dp/B07FF1XCNQ/ref=sr_1_6?crid=G5JDF3NUBWTI&keywords=Cone%2BSpanner%2B15%2F17%2Bmm&qid=1643743129&sprefix=cone%2Bspanner%2B15%2F17%2Bmm%2Caps%2C130&sr=8-6&th=1&psc=1"
+            },
+            {
+                "name": "Craft knife",
+                "link": "https://www.ifixit.com/Item/Craft_knife"
+            },
+            {
+                "name": "Allen Wrench Set",
+                "link": "https://www.amazon.com/CRAFTSMAN-Universal-Allen-Wrench-CMHT26028/dp/B0CDYT8LVV/ref=psdc_328182011_t2_B0776C2D6H?th=1&tag=ifixitam-20",
+                "optional": true,
+                "affiliate_link": "https://www.amazon.com/CRAFTSMAN-Universal-Allen-Wrench-CMHT26028/dp/B0CDYT8LVV/ref=psdc_328182011_t2_B0776C2D6H?th=1&tag=ifixitam-20",
+                "available_for_sale": "https://www.amazon.com/CRAFTSMAN-Universal-Allen-Wrench-CMHT26028/dp/B0CDYT8LVV/ref=psdc_328182011_t2_B0776C2D6H?th=1&tag=ifixitam-20",
+                "view_link": "https://www.amazon.com/CRAFTSMAN-Universal-Allen-Wrench-CMHT26028/dp/B0CDYT8LVV/ref=psdc_328182011_t2_B0776C2D6H?th=1&tag=ifixitam-20"
+            },
+            {
+                "name": "T5 Torx Screwdriver",
+                "image": "https://cart-products.cdn.ifixit.com/cart-products/DvS6un6KSwpcfPTG.thumbnail",
+                "link": "https://www.ifixit.com/products/t5-torx-screwdriver",
+                "price": "$5.49 New / iFixit$9.99 New / Moody - Made in USA",
+                "optional": true
+            },
+            {
+                "name": "Phillips #00 Screwdriver",
+                "image": "https://cart-products.cdn.ifixit.com/cart-products/upNtpW5ghNgA3abG.thumbnail",
+                "link": "https://www.ifixit.com/products/phillips-00-screwdriver",
+                "price": "$5.49 New / iFixit$8.99 New / Moody - Made in USA",
+                "optional": true
+            },
+            {
+                "name": "Screw Extracting Pliers",
+                "image": "https://cart-products.cdn.ifixit.com/cart-products/GLKDeKE6poy4rY1D.thumbnail",
+                "link": "https://www.ifixit.com/products/screw-extracting-pliers",
+                "price": "$19.99 New / Small ESD Safe PZ-57$24.99 New / Medium PZ-55$24.99 New / Extra Large PZ-54"
+            }
+        ],
+        "categories": [
+            {
+                "name": "Candle Lamp",
+                "link": "https://www.ifixit.com/Device/Candle_lamp"
+            },
+            {
+                "name": "Lighting",
+                "link": "https://www.ifixit.com/Device/Lighting"
+            },
+            {
+                "name": "Household",
+                "link": "https://www.ifixit.com/Device/Household"
+            },
+            {
+                "name": "Home",
+                "link": "https://www.ifixit.com/Guide"
+            }
+        ],
+        "guide_links": {
+            "guides_link": "https://www.ifixit.com/Device/Candle_lamp#Section_Guides",
+            "answers_link": "https://www.ifixit.com/Answers/Device/Candle_lamp",
+            "edit_link": "https://www.ifixit.com/Guide/edit/171185"
+        }
+    },
+    "steps": [
+        {
+            "step_number": 1,
+            "title": "Step 1",
+            "step_link": "https://www.ifixit.com/Guide/A+Candle+lamp/<#s364208>",
+            "edit_link": "https://www.ifixit.com/Guide/edit/171185/364208",
+            "images": [
+                {
+                    "original": "https://guide-images.cdn.ifixit.com/igi/rlwkr4hXVfu5T5KB.medium"
+                }
+            ],
+            "text": "The product before teardown\nFrom its initial look, it can mainly separate into four parts. The top ( lamp shade) , the stand ( the tube ) , the base and the wire & controller.\nOverall product dimension : 290 x 185x 150mm . Weight : 585 gram",
+            "comments_link": "https://www.ifixit.com/Guide/A+Candle+lamp/#comments"
+        },
+        {
+            "step_number": 2,
+            "title": "Step 2",
+            "step_link": "https://www.ifixit.com/Guide/A+Candle+lamp/<#s364180>",
+            "edit_link": "https://www.ifixit.com/Guide/edit/171185/364180",
+            "images": [
+                {
+                    "original": "https://guide-images.cdn.ifixit.com/igi/t6Lr3RWdkoYoVBUb.medium"
+                }
+            ],
+            "text": "The back of the lamp base was pulled off and flipped over revealing the base structure. Here a craft knife was used for the removal.\nThe cap functions as a cover to hide the cable , its material is High-density Polyethylene ( HDPE) and is injection molded.\nThe dimension is 15cm diameter x5mm thickness , its weight is 29g.",
+            "comments_link": "https://www.ifixit.com/Guide/A+Candle+lamp/#comments"
+        },
+        {
+            "step_number": 3,
+            "title": "Step 3",
+            "step_link": "https://www.ifixit.com/Guide/A+Candle+lamp/<#s364181>",
+            "edit_link": "https://www.ifixit.com/Guide/edit/171185/364181",
+            "text": "The white lock to secure the wire and it was removed by a grip and a wire cutter\nThe lamp base is a platform for a candle to sit on top, this view is a close up to see where does the cable goes\nThe lamp base is made of mild steel and it’s about 15cm diameter x2.7cm height with 142grams in weight.",
+            "comments_link": "https://www.ifixit.com/Guide/A+Candle+lamp/#comments"
+        },
+        {
+            "step_number": 4,
+            "title": "Step 4",
+            "step_link": "https://www.ifixit.com/Guide/A+Candle+lamp/<#s364182>",
+            "edit_link": "https://www.ifixit.com/Guide/edit/171185/364182",
+            "text": "The hex nut was removed by the spanner.\nThe number 6 spanner was used",
+            "comments_link": "https://www.ifixit.com/Guide/A+Candle+lamp/#comments"
+        },
+        {
+            "step_number": 5,
+            "title": "Step 5",
+            "step_link": "https://www.ifixit.com/Guide/A+Candle+lamp/<#s364183>",
+            "edit_link": "https://www.ifixit.com/Guide/edit/171185/364183",
+            "text": "Remove the screws inside the light bulb connector\nThe screws are machined made and the type of screws is a mushroom-head with 4mm head diameter 10mm tall.",
+            "comments_link": "https://www.ifixit.com/Guide/A+Candle+lamp/#comments"
+        },
+        {
+            "step_number": 6,
+            "title": "Step 6",
+            "step_link": "https://www.ifixit.com/Guide/A+Candle+lamp/<#s364184>",
+            "edit_link": "https://www.ifixit.com/Guide/edit/171185/364184",
+            "text": "Cut the connector head and pull out the cable after removing the nut from both sides\nThe image showed a light bulb connector and its probably a HDPE or Acrylonitrile Butadiene Styrene (ABS) plastic , injection melded , overall dimension is 28mm diameter x 17mm in height",
+            "comments_link": "https://www.ifixit.com/Guide/A+Candle+lamp/#comments"
+        },
+        {
+            "step_number": 7,
+            "title": "Step 7",
+            "step_link": "https://www.ifixit.com/Guide/A+Candle+lamp/<#s364187>",
+            "edit_link": "https://www.ifixit.com/Guide/edit/171185/364187",
+            "text": "Remove the control panel case by unfastening the screw\nThe case functions to protect damages from the circuit board and it’s made by ABS/ HDPE , injection molded with an overall dimension 900mm length x 400 width x10 height, 21gram in weight",
+            "comments_link": "https://www.ifixit.com/Guide/A+Candle+lamp/#comments"
+        },
+        {
+            "step_number": 8,
+            "title": "Step 8",
+            "step_link": "https://www.ifixit.com/Guide/A+Candle+lamp/<#s364188>",
+            "edit_link": "https://www.ifixit.com/Guide/edit/171185/364188",
+            "text": "Pull out the cable from the tube\nThe cable jacket is PVC , 1230mm length with 6mm thickness , weigh in 78gram",
+            "comments_link": "https://www.ifixit.com/Guide/A+Candle+lamp/#comments"
+        },
+        {
+            "step_number": 9,
+            "title": "Step 9",
+            "step_link": "https://www.ifixit.com/Guide/A+Candle+lamp/<#s364189>",
+            "edit_link": "https://www.ifixit.com/Guide/edit/171185/364189",
+            "text": "Separate parts : the nuts , the lamp stand, the lamp shade , the base, the controller case , the dimmerable knot and the screws",
+            "comments_link": "https://www.ifixit.com/Guide/A+Candle+lamp/#comments"
+        },
+        {
+            "step_number": 10,
+            "title": "Step 10",
+            "step_link": "https://www.ifixit.com/Guide/A+Candle+lamp/<#s364190>",
+            "edit_link": "https://www.ifixit.com/Guide/edit/171185/364190",
+            "text": "Here is the small component close-up shot of the diassembly of the candle lamp",
+            "comments_link": "https://www.ifixit.com/Guide/A+Candle+lamp/#comments"
+        },
+        {
+            "step_number": 11,
+            "title": "Step 11",
+            "step_link": "https://www.ifixit.com/Guide/A+Candle+lamp/<#s364209>",
+            "edit_link": "https://www.ifixit.com/Guide/edit/171185/364209",
+            "text": "Finished the product teardown. There are about 14 components of it.",
+            "comments_link": "https://www.ifixit.com/Guide/A+Candle+lamp/#comments"
+        }
+    ],
+    "conclusion": "To reassemble your device, follow these instructions in reverse order.",
+    "embed_code": "<iframe id=\"dozuki-embed-171185\" src=\"https://www.ifixit.com/Teardown/embed/171185/full\" width=\"800\" allowfullscreen frameborder=\"0\"></iframe> <script>window.addEventListener(\"message\",function(a){var b=document.getElementById(\"dozuki-embed-171185\"),c=a.data[0],d=a.data[1];switch(c){case\"setHeight\":b.style.height=d+\"px\"}},!1);</script> <iframe src=\"https://www.ifixit.com/Teardown/embed/171185\" width=\"800\" height=\"584\" allowfullscreen frameborder=\"0\"></iframe>"
+}

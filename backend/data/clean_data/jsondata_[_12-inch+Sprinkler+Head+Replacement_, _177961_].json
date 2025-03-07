@@ -1,0 +1,274 @@
+{
+    "metadata": {
+        "title": "12-inch Sprinkler Head Replacement",
+        "contributors_link": "https://www.ifixit.com/Guide/history/177961",
+        "last_updated": "January 3, 2025",
+        "estimated_time": "45 minutes",
+        "difficulty": "Moderate",
+        "featured_guide": true,
+        "introduction": "When a hedge or plant has grown taller than the sprinkler head’s spout can spray, grass beyond the plant dies from lack of water. This fast fix will show you how to install the following sprinkler head: 1800 Series 12-inch Pop-Up PRS Sprinkler, 0-360° Pattern, Adjustable 8-15 ft. This will eliminate water waste and will spray water to areas you intend for the water to reach."
+    },
+    "parts": [
+        {
+            "name": "1 Orbit Professional Series 12 in. H Adjustable Pop‑Up Spray Head",
+            "link": "https://www.ifixit.com/Item/1_Orbit_Professional_Series_12_in._H_Adjustable_Pop-Up_Spray_Head"
+        },
+        {
+            "name": "1/2 in. x 12 in. flex riser",
+            "link": "https://www.homedepot.com/p/Orbit-1-2-in-x-12-in-Flex-Riser-37320/202257128",
+            "for_sale_from_another_site": "https://www.homedepot.com/p/Orbit-1-2-in-x-12-in-Flex-Riser-37320/202257128"
+        },
+        {
+            "name": "Male x Female NPT Swing Joint Elbow (90 Degree)",
+            "link": "https://www.ifixit.com/Item/Male_x_Female_NPT_Swing_Joint_Elbow",
+            "quantity": 2
+        }
+    ],
+    "tools": [
+        {
+            "name": "Shovel (Steel Round Digging Shovel)",
+            "link": "http://www.amazon.com/Bully-Tools-82515-14-Gauge-Fiberglass/dp/B002YOTA7E/ref=lp_3753671_1_12?s=lawn-garden&ie=UTF8&qid=1443030192&sr=1-12&tag=ifixitam-20",
+            "affiliate_link": "http://www.amazon.com/Bully-Tools-82515-14-Gauge-Fiberglass/dp/B002YOTA7E/ref=lp_3753671_1_12?s=lawn-garden&ie=UTF8&qid=1443030192&sr=1-12&tag=ifixitam-20",
+            "available_on_amazon": "http://www.amazon.com/Bully-Tools-82515-14-Gauge-Fiberglass/dp/B002YOTA7E/ref=lp_3753671_1_12?s=lawn-garden&ie=UTF8&qid=1443030192&sr=1-12&tag=ifixitam-20"
+        },
+        {
+            "name": "Teflon tape",
+            "link": "http://www.lowes.com/pd_456833-138-31430L_0__",
+            "for_sale_from_another_site": "http://www.lowes.com/pd_456833-138-31430L_0__",
+            "additional_info": "Helps all the fitting have a better seal."
+        },
+        {
+            "name": "Hose nozzle",
+            "link": "https://www.amazon.com/Dramm-12702-9-Pattern-Revolver-Nozzle/dp/B0015QA06W/ref=asc_df_B0015QA06W/?tag=ifixitam-20&linkCode=df0&hvadid=167123712426&hvpos=&hvnetw=g&hvrand=13230447734885747895&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9013529&hvtargid=pla-370253112957&psc=1",
+            "affiliate_link": "https://www.amazon.com/Dramm-12702-9-Pattern-Revolver-Nozzle/dp/B0015QA06W/ref=asc_df_B0015QA06W/?tag=ifixitam-20&linkCode=df0&hvadid=167123712426&hvpos=&hvnetw=g&hvrand=13230447734885747895&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9013529&hvtargid=pla-370253112957&psc=1",
+            "available_on_amazon": "https://www.amazon.com/Dramm-12702-9-Pattern-Revolver-Nozzle/dp/B0015QA06W/ref=asc_df_B0015QA06W/?tag=ifixitam-20&linkCode=df0&hvadid=167123712426&hvpos=&hvnetw=g&hvrand=13230447734885747895&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9013529&hvtargid=pla-370253112957&psc=1"
+        },
+        {
+            "name": "Trowel",
+            "link": "http://www.amazon.com/VIVREAL-Gardening-plastic-Outdoors-Camping/dp/B011DSIK90/ref=sr_1_6?s=lawn-garden&ie=UTF8&qid=1443030266&sr=1-6&keywords=trowel&tag=ifixitam-20",
+            "additional_info": "Optional",
+            "affiliate_link": "http://www.amazon.com/VIVREAL-Gardening-plastic-Outdoors-Camping/dp/B011DSIK90/ref=sr_1_6?s=lawn-garden&ie=UTF8&qid=1443030266&sr=1-6&keywords=trowel&tag=ifixitam-20",
+            "available_on_amazon": "http://www.amazon.com/VIVREAL-Gardening-plastic-Outdoors-Camping/dp/B011DSIK90/ref=sr_1_6?s=lawn-garden&ie=UTF8&qid=1443030266&sr=1-6&keywords=trowel&tag=ifixitam-20"
+        },
+        {
+            "name": "1‑5/8 in. Ratcheting Pipe Cutter",
+            "link": "https://www.ifixit.com/Item/1-5_8_in._Ratcheting_Pipe_Cutter",
+            "additional_info": "Optional"
+        },
+        {
+            "name": "5 Gallon Bucket",
+            "link": "https://www.ifixit.com/Item/5_Gallon_Bucket",
+            "additional_info": "Optional",
+            "quantity": 2
+        },
+        {
+            "name": "Classic Bypass Pruning Shears",
+            "link": "https://www.homedepot.com/p/Fiskars-5-8-in-Cut-Capacity-9-in-Classic-Bypass-Pruning-Shears-1072981/329837451",
+            "additional_info": "Optional",
+            "for_sale_from_another_site": "https://www.homedepot.com/p/Fiskars-5-8-in-Cut-Capacity-9-in-Classic-Bypass-Pruning-Shears-1072981/329837451"
+        },
+        {
+            "name": "Kneeling pad",
+            "link": "https://www.homedepot.com/p/Fiskars-5-8-in-Cut-Capacity-9-in-Classic-Bypass-Pruning-Shears-1072981/329837451",
+            "additional_info": "Optional",
+            "for_sale_from_another_site": "https://www.homedepot.com/p/Fiskars-5-8-in-Cut-Capacity-9-in-Classic-Bypass-Pruning-Shears-1072981/329837451"
+        },
+        {
+            "name": "Measuring Tape or Yard Stick",
+            "link": "https://a.co/d/7dUrK7g?tag=ifixitam-20",
+            "affiliate_link": "https://a.co/d/7dUrK7g?tag=ifixitam-20",
+            "available_on_amazon": "https://a.co/d/7dUrK7g?tag=ifixitam-20"
+        }
+    ],
+    "steps": [
+        {
+            "step_number": 1,
+            "title": "12-inch Sprinkler Head",
+            "images": [
+                "https://guide-images.cdn.ifixit.com/igi/MlTfgZj2PxQwXZtP.medium",
+                "https://guide-images.cdn.ifixit.com/igi/2WwUYff5KtNkrcvj.medium",
+                "https://guide-images.cdn.ifixit.com/igi/QCBSVdmTryvB6LWV.medium"
+            ],
+            "images_alt": [
+                "12-inch Sprinkler Head Replacement, 12-inch Sprinkler Head: step 1, image 1 of 3",
+                "12-inch Sprinkler Head Replacement, 12-inch Sprinkler Head: step 1, image 2 of 3",
+                "12-inch Sprinkler Head Replacement, 12-inch Sprinkler Head: step 1, image 3 of 3"
+            ],
+            "thumbnails": [
+                "https://guide-images.cdn.ifixit.com/igi/MlTfgZj2PxQwXZtP.200x150",
+                "https://guide-images.cdn.ifixit.com/igi/2WwUYff5KtNkrcvj.200x150",
+                "https://guide-images.cdn.ifixit.com/igi/QCBSVdmTryvB6LWV.200x150"
+            ],
+            "instructions": [
+                "Dig and remove dirt around the existing sprinkler head and several inches around connected PVC.",
+                "Place the dirt in 5 gallon the buckets or on the surface near the hole.",
+                "Dig till the hole is at least 14 inches below the PVC pipe allowing room for the flex riser."
+            ],
+            "edit_link": "https://www.ifixit.com/Guide/edit/177961/378591",
+            "comments": {
+                "add_comment_link": "https://www.ifixit.com/Guide/12-inch+Sprinkler+Head+Replacement/",
+                "add_comment_text": "Add a comment"
+            }
+        },
+        {
+            "step_number": 2,
+            "title": "",
+            "image": "https://guide-images.cdn.ifixit.com/igi/pgCMvQY2MIhBcn3Y.medium",
+            "image_alt": "12-inch Sprinkler Head Replacement: step 2, image 1 of 3",
+            "thumbnails": [
+                "https://guide-images.cdn.ifixit.com/igi/pgCMvQY2MIhBcn3Y.200x150",
+                "https://guide-images.cdn.ifixit.com/igi/LsQjS1hXxJZt41jE.200x150",
+                "https://guide-images.cdn.ifixit.com/igi/g3BSo2FXeoyQHwN3.200x150"
+            ],
+            "instructions": [
+                "Rinse all around the sprinkler head and PVC with water.",
+                "This will allow for a clean installation of the new sprinkler parts and keep the dirt from entering the new parts."
+            ],
+            "edit_link": "https://www.ifixit.com/Guide/edit/177961/378592",
+            "comments": {
+                "add_comment_link": "https://www.ifixit.com/Guide/12-inch+Sprinkler+Head+Replacement/",
+                "add_comment_text": "Add a comment"
+            }
+        },
+        {
+            "step_number": 3,
+            "title": "",
+            "instructions": [
+                "Remove the old sprinkler head and riser.",
+                "Turn counterclockwise until the old sprinkler head and or riser is removed.",
+                "Rinse area for clean installation."
+            ],
+            "edit_link": "https://www.ifixit.com/Guide/edit/177961/378593",
+            "comments": {
+                "add_comment_link": "https://www.ifixit.com/Guide/12-inch+Sprinkler+Head+Replacement/",
+                "add_comment_text": "Add a comment"
+            }
+        },
+        {
+            "step_number": 4,
+            "title": "",
+            "instructions": [
+                "For this step, wrap 4 threaded ends with Teflon tape: both ends of the flex riser and one end of each swing joint elbows.",
+                "Wrap Teflon tape clockwise around the threaded part of each of the above-mentioned sprinkler connections.",
+                "Put three complete layers of tape on each of the threaded ends. This will allow for a tighter and secure fit."
+            ],
+            "edit_link": "https://www.ifixit.com/Guide/edit/177961/378594",
+            "comments": {
+                "add_comment_link": "https://www.ifixit.com/Guide/12-inch+Sprinkler+Head+Replacement/",
+                "add_comment_text": "Add a comment"
+            }
+        },
+        {
+            "step_number": 5,
+            "title": "",
+            "instructions": [
+                "Screw clockwise, the new Teflon wrapped the threaded part of an elbow, into the pipe in the ground.",
+                "This is the location of the old sprinkler head and riser.",
+                "Confirm that the part is installed snugly and not cross-threaded.",
+                "Caution: Do not over tighten."
+            ],
+            "edit_link": "https://www.ifixit.com/Guide/edit/177961/378595",
+            "comments": {
+                "add_comment_link": "https://www.ifixit.com/Guide/12-inch+Sprinkler+Head+Replacement/",
+                "add_comment_text": "Add a comment"
+            }
+        },
+        {
+            "step_number": 6,
+            "title": "",
+            "instructions": [
+                "Screw the threaded end of the elbow onto the 12\" sprinkler head.",
+                "Confirm that the part is installed snugly and not cross-threaded.",
+                "Caution: Do not over tighten."
+            ],
+            "edit_link": "https://www.ifixit.com/Guide/edit/177961/378597",
+            "comments": {
+                "add_comment_link": "https://www.ifixit.com/Guide/12-inch+Sprinkler+Head+Replacement/",
+                "add_comment_text": "Add a comment"
+            }
+        },
+        {
+            "step_number": 7,
+            "title": "",
+            "instructions": [
+                "Confirm that Teflon tape has been applied to both threaded ends.",
+                "Screw one end of the blue flex tubing onto the elbow in the previous step.",
+                "Screw the other end of the flex tubing onto the last remaining elbow.",
+                "Caution: Confirm that the part is installed snugly and not cross-threaded. Do not over tighten."
+            ],
+            "edit_link": "https://www.ifixit.com/Guide/edit/177961/378596",
+            "comments": {
+                "add_comment_link": "https://www.ifixit.com/Guide/12-inch+Sprinkler+Head+Replacement/",
+                "add_comment_text": "Add a comment"
+            }
+        },
+        {
+            "step_number": 8,
+            "title": "",
+            "instructions": [
+                "Lower the 12-inch sprinkler head and flex tubing down into the hole.",
+                "Adjust the new sprinkler head so it is level with the sidewalk or surface.",
+                "Adjust flex tubing as necessary so that there are no kinks and that the joints are still tight."
+            ],
+            "edit_link": "https://www.ifixit.com/Guide/edit/177961/378598",
+            "comments": {
+                "add_comment_link": "https://www.ifixit.com/Guide/12-inch+Sprinkler+Head+Replacement/",
+                "add_comment_text": "Add a comment"
+            }
+        },
+        {
+            "step_number": 9,
+            "title": "",
+            "instructions": [
+                "Test the new parts to confirm that there are no leaks.",
+                "Guard your eyes and other things that you don't want to get wet."
+            ],
+            "edit_link": "https://www.ifixit.com/Guide/edit/177961/378599",
+            "comments": {
+                "add_comment_link": "https://www.ifixit.com/Guide/12-inch+Sprinkler+Head+Replacement/",
+                "add_comment_text": "Add a comment"
+            }
+        },
+        {
+            "step_number": 10,
+            "title": "",
+            "instructions": [
+                "Hold the sprinkler head in place, vertically, while carefully putting the dirt into the ground by hand. Using your hands allows for a gentle pressure on the sprinkler head versus using a tool that could crack or break it.",
+                "Add dirt in layers, compressing the dirt by hand, around the sprinkler head.",
+                "Do not compress the dirt too much, as the tubing can be crushed."
+            ],
+            "edit_link": "https://www.ifixit.com/Guide/edit/177961/378600",
+            "comments": {
+                "add_comment_link": "https://www.ifixit.com/Guide/12-inch+Sprinkler+Head+Replacement/",
+                "add_comment_text": "Add a comment"
+            }
+        },
+        {
+            "step_number": 11,
+            "title": "",
+            "instructions": [
+                "Turn on the sprinkler system.",
+                "At this point full water flow should come out of the new sprinkler head.",
+                "If the flow is good, adjust the nozzle direction and radius by turning the nozzle head and shaft.",
+                "Check water pressure and nozzle lift after landscaping has returned around sprinkler head."
+            ],
+            "edit_link": "https://www.ifixit.com/Guide/edit/177961/379031",
+            "comments": {
+                "add_comment_link": "https://www.ifixit.com/Guide/12-inch+Sprinkler+Head+Replacement/",
+                "add_comment_text": "Add a comment"
+            }
+        }
+    ],
+    "conclusion": "To reassemble your device, follow these instructions in reverse order.",
+    "embed_guide": {
+        "small": "<iframe id=\"dozuki-embed-177961\" src=\"https://www.ifixit.com/Guide/embed/177961/full\" width=\"600\" allowfullscreen frameborder=\"0\"></iframe> <script>window.addEventListener(\"message\",function(a){var b=document.getElementById(\"dozuki-embed-177961\"),c=a.data[0],d=a.data[1];switch(c){case\"setHeight\":b.style.height=d+\"px\"}},!1);</script>",
+        "medium": "<iframe id=\"dozuki-embed-177961\" src=\"https://www.ifixit.com/Guide/embed/177961/full\" width=\"800\" allowfullscreen frameborder=\"0\"></iframe> <script>window.addEventListener(\"message\",function(a){var b=document.getElementById(\"dozuki-embed-177961\"),c=a.data[0],d=a.data[1];switch(c){case\"setHeight\":b.style.height=d+\"px\"}},!1);</script>",
+        "large": "<iframe id=\"dozuki-embed-177961\" src=\"https://www.ifixit.com/Guide/embed/177961/full\" width=\"1200\" allowfullscreen frameborder=\"0\"></iframe> <script>window.addEventListener(\"message\",function(a){var b=document.getElementById(\"dozuki-embed-177961\"),c=a.data[0],d=a.data[1];switch(c){case\"setHeight\":b.style.height=d+\"px\"}},!1);</script>",
+        "full": "<iframe src=\"https://www.ifixit.com/Guide/embed/177961\" width=\"800\" height=\"584\" allowfullscreen frameborder=\"0\"></iframe>"
+    },
+    "stay_in_the_loop": {
+        "newsletter_link": "https://www.ifixit.com/Newsletter",
+        "translate_link": "https://www.ifixit.com/Translate"
+    },
+    "repair_is_noble": "https://www.ifixit.com/Manifesto"
+}

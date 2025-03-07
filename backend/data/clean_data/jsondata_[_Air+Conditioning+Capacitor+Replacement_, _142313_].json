@@ -1,0 +1,174 @@
+{
+    "title": "Air Conditioning Capacitor Replacement",
+    "last_updated": "June 24, 2024",
+    "estimated_time": "10 minutes",
+    "difficulty": "Moderate",
+    "community_guide": true,
+    "introduction": "This guide provides steps for changing your home air conditioning filter.\nRegularly changing the filter helps maintain good air quality in the home, especially for those prone to allergies or respiratory issues. It also aids in efficient air circulation and reduces stress on the air conditioning unit. Most filter manufacturers recommend changing the filter every 90 days. Pets or other environmental conditions may require changing the filter more often.",
+    "parts": [
+        {
+            "name": "Mi‑T-M Capacitor 68-3051",
+            "url": "https://www.ifixit.com/Item/MiTM_Capacitor_683051"
+        }
+    ],
+    "tools": [
+        {
+            "name": "Cordless Driver/Drill",
+            "url": "https://www.amazon.com/DEWALT-DCK240C2-Lithium-Driver-Impact/dp/B00IJ0ALYS/ref=sr_1_11_sspa?crid=1SBK8NW5G0FF3&keywords=cordless%2Bdrill%2Bdriver&qid=1689101722&sprefix=cordless%2Bdrill%2Bdriver%2Caps%2C165&sr=8-11-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9tdGY&th=1&tag=ifixitam-20",
+            "image": "https://guide-images.cdn.ifixit.com/igi/4cZIwchL5PDBbbDF.thumbnail",
+            "affiliate_link": "https://www.amazon.com/DEWALT-DCK240C2-Lithium-Driver-Impact/dp/B00IJ0ALYS/ref=sr_1_11_sspa?crid=1SBK8NW5G0FF3&keywords=cordless%2Bdrill%2Bdriver&qid=1689101722&sprefix=cordless%2Bdrill%2Bdriver%2Caps%2C165&sr=8-11-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9tdGY&th=1&tag=ifixitam-20",
+            "available_on_amazon": true,
+            "view_link": "https://www.amazon.com/DEWALT-DCK240C2-Lithium-Driver-Impact/dp/B00IJ0ALYS/ref=sr_1_11_sspa?crid=1SBK8NW5G0FF3&keywords=cordless%2Bdrill%2Bdriver&qid=1689101722&sprefix=cordless%2Bdrill%2Bdriver%2Caps%2C165&sr=8-11-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9tdGY&th=1&tag=ifixitam-20"
+        },
+        {
+            "name": "Large Needle Nose Pliers",
+            "url": "https://www.ifixit.com/products/large-needle-nose-pliers",
+            "image": "https://cart-products.cdn.ifixit.com/cart-products/xsuUhWaHMfDB6FnN.thumbnail",
+            "price": "$4.99",
+            "add_to_cart_url": "https://www.ifixit.com/products/large-needle-nose-pliers"
+        }
+    ],
+    "steps": [
+        {
+            "step_number": 1,
+            "title": "Diagnosis Step",
+            "content": [
+                "Turn on the A/C",
+                "If the unit turns on but does not spin, use a screwdriver to spin the fan blade.",
+                "If the blade spins freely, the capacitor is bad. If the blade does not spin freely, there is another issue, and a professional should be called."
+            ],
+            "image": "https://guide-images.cdn.ifixit.com/igi/nBn1fbD5omtQrejD.medium",
+            "edit_url": "https://www.ifixit.com/Guide/edit/142313/286595",
+            "comments_count": 0,
+            "add_comment_url": null
+        },
+        {
+            "step_number": 2,
+            "title": "Disconnect Power",
+            "content": [
+                "Turn off the power to the unit. This may mean flipping a switch or pulling a plug.",
+                "If the disconnect is not located next to the unit you will have to locate the breaker. You can make sure power is removed by trying to turn the unit on. If the unit does not turn on power has been removed and it is safe to work."
+            ],
+            "images": [
+                "https://guide-images.cdn.ifixit.com/igi/y3T4GdEMDVQQCACG.medium",
+                "https://guide-images.cdn.ifixit.com/igi/yHXRPua21asD2Tqu.medium"
+            ],
+            "images_200x150": [
+                "https://guide-images.cdn.ifixit.com/igi/y3T4GdEMDVQQCACG.200x150",
+                "https://guide-images.cdn.ifixit.com/igi/yHXRPua21asD2Tqu.200x150"
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/142313/286594",
+            "comments_count": 0,
+            "add_comment_url": null
+        },
+        {
+            "step_number": 3,
+            "title": "Door Removal",
+            "content": [
+                "Remove the door screws and door from the A/C.",
+                "It is only necessary to remove the bottom screws, but it is easier if the top screws are removed as well."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/142313/286597",
+            "comments_count": 0,
+            "add_comment_url": null
+        },
+        {
+            "step_number": 4,
+            "title": "Discharging the Capacitor",
+            "content": [
+                "**Electric shock risk.** Read the following bullets carefully before proceeding.",
+                "To displace energy stored in the capacitor, take a screwdriver and place the tip of the screwdriver against the wall",
+                "Tap the rod of the screwdriver against the metal connector that connects the wire and the capacitor"
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/142313/286596",
+            "comments_count": 0,
+            "add_comment_url": null
+        },
+        {
+            "step_number": 5,
+            "title": "Wire Removal",
+            "content": [
+                "Before removing the wires, take a note of where each colored wire connects to.",
+                "Take a pair of needle nose pliers and place the tip around one of the wire connections to the capacitor.",
+                "Pull the wire upwards until the wire comes loose from the capacitor. It may help to use leverage against the capacitor.",
+                "Repeat for all 4 wires"
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/142313/286607",
+            "comments_count": 0,
+            "add_comment_url": null
+        },
+        {
+            "step_number": 6,
+            "title": "Remove Bracket Screw and Capacitor",
+            "content": [
+                "Unscrew the screw on the bracket holding the capacitor in place.",
+                "Remove the capacitor from the unit."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/142313/286598",
+            "comments_count": 0,
+            "add_comment_url": null
+        },
+        {
+            "step_number": 7,
+            "title": "Find Matching Capacitor",
+            "content": [
+                "Find a new capacitor that matches the size of the old capacitor. (Ex: 45/5 or 70/10)"
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/142313/286601",
+            "comments_count": 0,
+            "add_comment_url": null
+        },
+        {
+            "step_number": 8,
+            "title": "Screw Capacitor in Place",
+            "content": [
+                "Hold the capacitor in position with the bracket around it.",
+                "Screw in the screw holding the bracket in place. Make sure the capacitor is held tightly onto the A/C"
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/142313/286606",
+            "comments_count": 0,
+            "add_comment_url": null
+        },
+        {
+            "step_number": 9,
+            "title": "Connect Wires to New Capacitor",
+            "content": [
+                "Reconnect the wires to the capacitor prongs in the same position they were located on the previous capacitor.",
+                "This can be done with pliers or by hand.",
+                "The most common setup is to have the brown wire on \"FAN,\", the yellow wire on \"HERM,\", and the red and purple wires on \"C.\""
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/142313/286887",
+            "comments_count": 0,
+            "add_comment_url": null
+        },
+        {
+            "step_number": 10,
+            "title": "Screw Door Back On",
+            "content": [
+                "Slide the door onto the A/C the way it originally was, and hold in place.",
+                "Screw in the door screws with drill or screwdriver."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/142313/286888",
+            "comments_count": 0,
+            "add_comment_url": null
+        },
+        {
+            "step_number": 11,
+            "title": "Reconnect Power",
+            "content": [
+                "Turn on the Power by flipping the switch in the disconnect box to on, or pushing the pull plug back into place.",
+                "If the A/C is turned on, then the unit should turn on as usual."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/142313/286889",
+            "comments_count": 0,
+            "add_comment_url": null
+        }
+    ],
+    "conclusion": "To reassemble your device, follow these instructions in reverse order.",
+    "embed_code": {
+        "small": "<iframe id=\"dozuki-embed-142313\" src=\"https://www.ifixit.com/Guide/embed/142313/full\" width=\"600\" allowfullscreen frameborder=\"0\"></iframe> <script>window.addEventListener(\"message\",function(a){var b=document.getElementById(\"dozuki-embed-142313\"),c=a.data[0],d=a.data[1];switch(c){case\"setHeight\":b.style.height=d+\"px\"}},!1);</script>",
+        "medium": "<iframe id=\"dozuki-embed-142313\" src=\"https://www.ifixit.com/Guide/embed/142313/full\" width=\"800\" allowfullscreen frameborder=\"0\"></iframe> <script>window.addEventListener(\"message\",function(a){var b=document.getElementById(\"dozuki-embed-142313\"),c=a.data[0],d=a.data[1];switch(c){case\"setHeight\":b.style.height=d+\"px\"}},!1);</script>",
+        "large": "<iframe id=\"dozuki-embed-142313\" src=\"https://www.ifixit.com/Guide/embed/142313/full\" width=\"1200\" allowfullscreen frameborder=\"0\"></iframe> <script>window.addEventListener(\"message\",function(a){var b=document.getElementById(\"dozuki-embed-142313\"),c=a.data[0],d=a.data[1];switch(c){case\"setHeight\":b.style.height=d+\"px\"}},!1);</script>",
+        "full_guide": "<iframe src=\"https://www.ifixit.com/Guide/embed/142313\" width=\"800\" height=\"584\" allowfullscreen frameborder=\"0\"></iframe>"
+    }
+}

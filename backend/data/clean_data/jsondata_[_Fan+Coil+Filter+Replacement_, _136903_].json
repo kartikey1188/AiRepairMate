@@ -1,0 +1,102 @@
+{
+    "guide_title": "How to Repair the Goodman Step Trash Bin 6L/1.6 Gal",
+    "last_updated": "September 18, 2023",
+    "estimated_time": "5 - 15 minutes",
+    "difficulty": "Easy",
+    "introduction": "A Kohler trash bin is a garbage container with a step function that allows the user to open the lid without using their hands. However, you may experience your Kohler trash bin lid is not opening after pressing on the pedal with your foot. This indicates that the trash bin needs to be fixed. This guide will provide a quick and easy solution to restore the lid functionality of your Kohler Step Trash bin 6L/1.6 Gal.",
+    "tools_needed": [
+        {
+            "name": "Phillips #2 Screwdriver",
+            "image_url": "https://cart-products.cdn.ifixit.com/cart-products/LYcK13TjejldWD5Y.thumbnail",
+            "product_url": "https://www.ifixit.com/products/6-in-1-screwdriver",
+            "price": "$6.99"
+        }
+    ],
+    "steps": [
+        {
+            "step_number": 1,
+            "title": "How to Repair the Kohler Step Trash Bin 6L/1.6 Gal",
+            "step_id": "s330378",
+            "image_urls": [
+                "https://guide-images.cdn.ifixit.com/igi/OtUOMGAhH2UHFtmp.medium",
+                "https://guide-images.cdn.ifixit.com/igi/2j3eFsiGluZyXPNQ.medium"
+            ],
+            "image_alt_text": [
+                "How to Repair the Kohler Step Trash Bin 6L/1.6 Gal, How to Repair the Kohler Step Trash Bin 6L/1.6 Gal: step 1, image 1 of 2",
+                "How to Repair the Kohler Step Trash Bin 6L/1.6 Gal, How to Repair the Kohler Step Trash Bin 6L/1.6 Gal: step 1, image 2 of 2"
+            ],
+            "thumbnail_urls": [
+                "https://guide-images.cdn.ifixit.com/igi/OtUOMGAhH2UHFtmp.200x150",
+                "https://guide-images.cdn.ifixit.com/igi/2j3eFsiGluZyXPNQ.200x150"
+            ],
+            "instructions": [
+                "Open the lid of the trash bin.",
+                "Use a Phillips #2 screwdriver to remove the two 15.0 mm screws attaching the lid to the hinge of the bin."
+            ],
+            "links": {
+                "edit_step_link": "https://www.ifixit.com/Guide/edit/157878/330378"
+            }
+        },
+        {
+            "step_number": 2,
+            "title": "",
+            "step_id": "s330379",
+            "image_url": "https://guide-images.cdn.ifixit.com/igi/AQgrqVhvST6PVmQj.medium",
+            "image_alt_text": "How to Repair the Kohler Step Trash Bin 6L/1.6 Gal: step 2, image 1 of 1",
+            "instructions": [
+                "Remove the lid.",
+                "Carefully unhook the black metal hook from the attached lid supporters at the back by shifting the supporters to the left."
+            ],
+            "links": {
+                "edit_step_link": "https://www.ifixit.com/Guide/edit/157878/330379"
+            }
+        },
+        {
+            "step_number": 3,
+            "title": "",
+            "step_id": "s330380",
+            "instructions": [
+                "Pull out the inner layer of the trash bin."
+            ],
+            "links": {
+                "edit_step_link": "https://www.ifixit.com/Guide/edit/157878/330380"
+            }
+        },
+        {
+            "step_number": 4,
+            "title": "",
+            "step_id": "s330381",
+            "instructions": [
+                "Carefully secure and connect the step pedal, metal rod with the hook metal rod at the bottom of the trash bin."
+            ],
+            "links": {
+                "edit_step_link": "https://www.ifixit.com/Guide/edit/157878/330381"
+            }
+        },
+        {
+            "step_number": 5,
+            "title": "",
+            "step_id": "s330382",
+            "instructions": [
+                "Push back the upper hook on the lid supporters.",
+                "Then place the lid back on top of the lid supporter."
+            ],
+            "links": {
+                "edit_step_link": "https://www.ifixit.com/Guide/edit/157878/330382"
+            }
+        },
+        {
+            "step_number": 6,
+            "title": "",
+            "step_id": "s330383",
+            "instructions": [
+                "Replace the two 15.0 mm screws of the lid of the trash bin near the hinge, with the Phillips #2 screwdriver."
+            ],
+            "links": {
+                "edit_step_link": "https://www.ifixit.com/Guide/edit/157878/330383"
+            }
+        }
+    ],
+    "conclusion": "To reassemble your device, follow these instructions in reverse order.",
+    "embed_code": "<iframe id=\"dozuki-embed-157878\" src=\"https://www.ifixit.com/Guide/embed/157878/full\" width=\"800\" allowfullscreen frameborder=\"0\"></iframe> <script>window.addEventListener(\"message\",function(a){var b=document.getElementById(\"dozuki-embed-157878\"),c=a.data[0],d=a.data[1];switch(c){case\"setHeight\":b.style.height=d+\"px\"}},!1);</script> <iframe src=\"https://www.ifixit.com/Guide/embed/157878\" width=\"800\" height=\"584\" allowfullscreen frameborder=\"0\"></iframe>"
+}

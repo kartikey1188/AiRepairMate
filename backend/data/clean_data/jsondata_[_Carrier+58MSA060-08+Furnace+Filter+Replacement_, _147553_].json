@@ -1,0 +1,136 @@
+{
+    "title": "Carrier 58MSA060-08 Furnace Filter Replacement",
+    "last_updated": "December 23, 2020",
+    "estimated_time": "5 - 10 minutes",
+    "difficulty": "Easy",
+    "introduction": "If the Goodman GSX16 central air conditioning unit in your home is not blowing cold air like usual, it most likely needs the filter replaced. The filter must be replaced every few months to ensure that it is able to filter the air properly and stop dust and contaminants from entering the AC unit.",
+    "parts": [
+        {
+            "name": "Furnace filter (16\" x 25\" x 1\")",
+            "url": "https://www.homedepot.ca/product/filtrete-16-inch-x-25-inch-x-1-inch-allergen-defense-mpr-1000-micro-allergen-furnace-filter-4-pack/1000537515?eid=PS_GOOGLE_D29A%20-%20E-Comm_GGL_Shopping_PLA_EN_Small%20Appliances_Small%20Appliances_PLA_EN__PRODUCT_GROUP_pla-382151459892&gclid=Cj0KCQjwkZiFBhD9ARIsAGxFX8AihTJ8I4M22oI3P-apv0f1ZhDd78aRAlpCWO9ppd-QbtZsLGlZmKEaAnYnEALw_wcB&gclsrc=aw.ds",
+            "for_sale_from_another_site": true,
+            "view_link": "https://www.homedepot.ca/product/filtrete-16-inch-x-25-inch-x-1-inch-allergen-defense-mpr-1000-micro-allergen-furnace-filter-4-pack/1000537515?eid=PS_GOOGLE_D29A%20-%20E-Comm_GGL_Shopping_PLA_EN_Small%20Appliances_Small%20Appliances_PLA_EN__PRODUCT_GROUP_pla-382151459892&gclid=Cj0KCQjwkZiFBhD9ARIsAGxFX8AihTJ8I4M22oI3P-apv0f1ZhDd78aRAlpCWO9ppd-QbtZsLGlZmKEaAnYnEALw_wcB&gclsrc=aw.ds"
+        }
+    ],
+    "tools": [
+        {
+            "name": "Microfiber Cleaning Cloths",
+            "url": "https://www.ifixit.com/products/microfiber-cleaning-cloths",
+            "image": "https://cart-products.cdn.ifixit.com/cart-products/2FWdnADRCFlkK3Zv.thumbnail",
+            "price": "$3.99",
+            "add_to_cart_url": "https://www.ifixit.com/products/microfiber-cleaning-cloths",
+            "description": "(Optional)"
+        },
+        {
+            "name": "Phillips #2 Screwdriver",
+            "url": "https://www.ifixit.com/products/6-in-1-screwdriver",
+            "image": "https://cart-products.cdn.ifixit.com/cart-products/LYcK13TjejldWD5Y.thumbnail",
+            "price": "$6.99",
+            "add_to_cart_url": "https://www.ifixit.com/products/6-in-1-screwdriver"
+        },
+        {
+            "name": "Pen",
+            "url": "https://www.amazon.com/Pilot-Retractable-Premium-Roller-Point/dp/B0030F32L6/ref=sr_1_8?crid=1ZF5SMXOJHXJF&keywords=pen&qid=1693498763&sprefix=pen%2Caps%2C95&sr=8-8&tag=ifixitam-20",
+            "affiliate_link": "https://www.amazon.com/Pilot-Retractable-Premium-Roller-Point/dp/B0030F32L6/ref=sr_1_8?crid=1ZF5SMXOJHXJF&keywords=pen&qid=1693498763&sprefix=pen%2Caps%2C95&sr=8-8&tag=ifixitam-20",
+            "available_on_amazon": true,
+            "view_link": "https://www.amazon.com/Pilot-Retractable-Premium-Roller-Point/dp/B0030F32L6/ref=sr_1_8?crid=1ZF5SMXOJHXJF&keywords=pen&qid=1693498763&sprefix=pen%2Caps%2C95&sr=8-8&tag=ifixitam-20",
+            "description": "(Optional)"
+        }
+    ],
+    "steps": [
+        {
+            "step_number": 1,
+            "title": "Filter",
+            "content": [
+                "Turn the air conditioner unit off prior to changing the air filter."
+            ],
+            "image": "https://guide-images.cdn.ifixit.com/igi/ClE6xHOQDRlNGIK5.medium",
+            "images_200x150": [
+                "https://guide-images.cdn.ifixit.com/igi/5a6PkDLRGKpK322V.200x150",
+                "https://guide-images.cdn.ifixit.com/igi/wmoasOcu2gV14Pq1.200x150"
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/147553/302373",
+            "comments_count": 0,
+            "add_comment_url": null
+        },
+        {
+            "step_number": 2,
+            "content": [
+                "Go into the attic where your air conditioner unit is located via the access door on the ceiling or wherever your air conditioner is located."
+            ],
+            "image": "https://guide-images.cdn.ifixit.com/igi/Kw4jW5v1WiRUIBDs.medium",
+            "edit_url": "https://www.ifixit.com/Guide/edit/147553/302374",
+            "comments_count": 0,
+            "add_comment_url": null
+        },
+        {
+            "step_number": 3,
+            "content": [
+                "Open the filter access door and pull the old filter out."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/147553/302376",
+            "comments_count": 0,
+            "add_comment_url": null
+        },
+        {
+            "step_number": 4,
+            "content": [
+                "Examine your furnace to determine the air flow direction.",
+                "The Return Duct",
+                "The Furnace Unit",
+                "**The air will always flow from the return duct towards the furnace unit.**",
+                "Your old filter may also have an arrow indicator on the side.",
+                "The arrow's direction will indicate the air flow direction."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/147553/302378",
+            "comments_count": 0,
+            "add_comment_url": null
+        },
+        {
+            "step_number": 5,
+            "content": [
+                "Remove the old filter by pulling it out of the duct."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/147553/302382",
+            "comments_count": 0,
+            "add_comment_url": null
+        },
+        {
+            "step_number": 6,
+            "content": [
+                "Insert the new filter.",
+                "Pay attention to which direction the new filter should face before inserting it; make it is correct."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/147553/302383",
+            "comments_count": 0,
+            "add_comment_url": null
+        },
+        {
+            "step_number": 7,
+            "content": [
+                "Reattach the filter cover.",
+                "Ensure that the filter cover is securely in place."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/147553/302384",
+            "comments_count": 0,
+            "add_comment_url": null
+        },
+        {
+            "step_number": 8,
+            "content": [
+                "Turn on the furnace.",
+                "Flip the switch from the \"OFF\" position to the \"ON\" position."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/147553/302385",
+            "comments_count": 0,
+            "add_comment_url": null
+        }
+    ],
+    "conclusion": "This step-by-step guide aims to raise awareness about the importance of regular air filter replacement and provide clear instructions for a successful replacement process.",
+    "embed_code": {
+        "small": "<iframe id=\"dozuki-embed-147553\" src=\"https://www.ifixit.com/Guide/embed/147553/full\" width=\"600\" allowfullscreen frameborder=\"0\"></iframe> <script>window.addEventListener(\"message\",function(a){var b=document.getElementById(\"dozuki-embed-147553\"),c=a.data[0],d=a.data[1];switch(c){case\"setHeight\":b.style.height=d+\"px\"}},!1);</script>",
+        "medium": "<iframe id=\"dozuki-embed-147553\" src=\"https://www.ifixit.com/Guide/embed/147553/full\" width=\"800\" allowfullscreen frameborder=\"0\"></iframe> <script>window.addEventListener(\"message\",function(a){var b=document.getElementById(\"dozuki-embed-147553\"),c=a.data[0],d=a.data[1];switch(c){case\"setHeight\":b.style.height=d+\"px\"}},!1);</script>",
+        "large": "<iframe id=\"dozuki-embed-147553\" src=\"https://www.ifixit.com/Guide/embed/147553/full\" width=\"1200\" allowfullscreen frameborder=\"0\"></iframe> <script>window.addEventListener(\"message\",function(a){var b=document.getElementById(\"dozuki-embed-147553\"),c=a.data[0],d=a.data[1];switch(c){case\"setHeight\":b.style.height=d+\"px\"}},!1);</script>",
+        "full_guide": "<iframe src=\"https://www.ifixit.com/Guide/embed/147553\" width=\"800\" height=\"584\" allowfullscreen frameborder=\"0\"></iframe>"
+    }
+}

@@ -1,0 +1,211 @@
+{
+    "metadata": {
+        "title": "Circline Fluorescent Light Bulb Replacement",
+        "contributors_link": "https://www.ifixit.com/Guide/history/178421",
+        "last_updated": "December 11, 2024",
+        "estimated_time": "10 minutes",
+        "difficulty": "Easy",
+        "introduction": "This guide is for the Traxx LED Metallic Selfie Ring. Selfie rings are used as additional lighting for taking photos with a phone. This guide will walk you through the steps of removing the old batteries and replacing new batteries in your selfie ring. It will show you which end of the battery is positive and which end is negative and which way to insert these into the battery slots.\nIf your circline/circular fluorescent light bulb has become dim or won't turn on at all, follow this guide to learn the simple steps to remove and replace the bulb.\nBefore using this guide, you may want to order an exact replacement bulb if that information is available to you. Step 5 shows what factors to pay attention to, so if these details are inaccessible you can order a new bulb after removing the old bulb.\nOnce you have replaced your bulb, you should properly dispose of it at an e-waste recycling center. Step 11 includes tips and information on this disposal process.\nBe aware that much of this repair may be completed on a step ladder (depending on how high your light fixture is), so be careful when setting up the ladder and using it. Additionally, be mindful throughout the entire repair process to not break the old or replacement bulb as toxic mercury vapors may be present within."
+    },
+    "parts": [
+        {
+            "name": "Circline Fluorescent Light Bulb",
+            "link": "https://www.ifixit.com/Item/Circline_Fluorescent_Light_Bulb"
+        }
+    ],
+    "tools": [
+        {
+            "name": "Step Ladder",
+            "link": "https://www.amazon.com/HBTower-Anti-Slip-Convenient-Handgrip-Lightweight/dp/B087279HM1/ref=sr_1_1_sspa?crid=20690NKV5GEKO&keywords=step%2Bladder&qid=1702408569&sprefix=step%2Bladder%2Caps%2C81&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1&tag=ifixitam-20",
+            "affiliate_link": "https://www.amazon.com/HBTower-Anti-Slip-Convenient-Handgrip-Lightweight/dp/B087279HM1/ref=sr_1_1_sspa?crid=20690NKV5GEKO&keywords=step%2Bladder&qid=1702408569&sprefix=step%2Bladder%2Caps%2C81&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1&tag=ifixitam-20",
+            "available_on_amazon": "https://www.amazon.com/HBTower-Anti-Slip-Convenient-Handgrip-Lightweight/dp/B087279HM1/ref=sr_1_1_sspa?crid=20690NKV5GEKO&keywords=step%2Bladder&qid=1702408569&sprefix=step%2Bladder%2Caps%2C81&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1&tag=ifixitam-20"
+        }
+    ],
+    "steps": [
+        {
+            "step_number": 1,
+            "title": "Circline Fluorescent Light Bulb",
+            "images": [
+                "https://guide-images.cdn.ifixit.com/igi/mRH6bYUJWbqIHLVC.medium",
+                "https://guide-images.cdn.ifixit.com/igi/XPiyZlNPJgU4NDmn.medium",
+                "https://guide-images.cdn.ifixit.com/igi/CNoPHWTvsVkZsZjE.medium"
+            ],
+            "images_alt": [
+                "Circline Fluorescent Light Bulb Replacement, Circline Fluorescent Light Bulb: step 1, image 1 of 3",
+                "Circline Fluorescent Light Bulb Replacement, Circline Fluorescent Light Bulb: step 1, image 2 of 3",
+                "Circline Fluorescent Light Bulb Replacement, Circline Fluorescent Light Bulb: step 1, image 3 of 3"
+            ],
+            "thumbnails": [
+                "https://guide-images.cdn.ifixit.com/igi/mRH6bYUJWbqIHLVC.200x150",
+                "https://guide-images.cdn.ifixit.com/igi/XPiyZlNPJgU4NDmn.200x150",
+                "https://guide-images.cdn.ifixit.com/igi/CNoPHWTvsVkZsZjE.200x150"
+            ],
+            "instructions": [
+                "Ensure the light is turned off. Approaching the fixture with the light on runs the risk of electric shock or eye irritation from the brightness.",
+                "Set up a stable step ladder under the light fixture. This replacement will require you to reach the ceiling of your room, so make sure that you will not fall when reaching up high.",
+                "Carefully climb the step ladder and remain close to your light."
+            ],
+            "edit_link": "https://www.ifixit.com/Guide/edit/178421/379661",
+            "comments": {
+                "add_comment_link": "https://www.ifixit.com/Guide/Circline+Fluorescent+Light+Bulb+Replacement/",
+                "add_comment_text": "Add a comment"
+            }
+        },
+        {
+            "step_number": 2,
+            "title": "",
+            "images": [
+                "https://guide-images.cdn.ifixit.com/igi/34UsRKn3TMHUWYJD.medium",
+                "https://guide-images.cdn.ifixit.com/igi/rAAeyVMBgMgUaE61.medium",
+                "https://guide-images.cdn.ifixit.com/igi/blNGnliEL1vDTdeO.medium"
+            ],
+            "thumbnails": [
+                "https://guide-images.cdn.ifixit.com/igi/34UsRKn3TMHUWYJD.200x150",
+                "https://guide-images.cdn.ifixit.com/igi/rAAeyVMBgMgUaE61.200x150",
+                "https://guide-images.cdn.ifixit.com/igi/blNGnliEL1vDTdeO.200x150"
+            ],
+            "images_alt": [
+                "Circline Fluorescent Light Bulb Replacement: step 2, image 1 of 3",
+                "Circline Fluorescent Light Bulb Replacement: step 2, image 2 of 3",
+                "Circline Fluorescent Light Bulb Replacement: step 2, image 3 of 3"
+            ],
+            "instructions": [
+                "Remove the light cover from the fixture.",
+                "The exact means of doing this may vary depending on your specific fixture.",
+                "For this specific cover, it needs to be twisted counter-clockwise to be taken down.",
+                "The exposed light fixture should look something like this."
+            ],
+            "edit_link": "https://www.ifixit.com/Guide/edit/178421/379662",
+            "comments": {
+                "add_comment_link": "https://www.ifixit.com/Guide/Circline+Fluorescent+Light+Bulb+Replacement/",
+                "add_comment_text": "Add a comment"
+            }
+        },
+        {
+            "step_number": 3,
+            "title": "",
+            "instructions": [
+                "Carefully remove the bulb from the metal supports. Some gentle force may be necessary.",
+                "Be careful not to break the bulb at any point during this guide as toxic mercury vapors are present within.",
+                "Hold the bulb steady with one hand so that its weight does not strain on the wire."
+            ],
+            "edit_link": "https://www.ifixit.com/Guide/edit/178421/379663",
+            "comments": {
+                "add_comment_link": "https://www.ifixit.com/Guide/Circline+Fluorescent+Light+Bulb+Replacement/",
+                "add_comment_text": "Add a comment"
+            }
+        },
+        {
+            "step_number": 4,
+            "title": "",
+            "instructions": [
+                "Firmly grab the connector and pull it out of the bulb socket."
+            ],
+            "edit_link": "https://www.ifixit.com/Guide/edit/178421/379664",
+            "comments": {
+                "add_comment_link": "https://www.ifixit.com/Guide/Circline+Fluorescent+Light+Bulb+Replacement/",
+                "add_comment_text": "Add a comment"
+            }
+        },
+        {
+            "step_number": 5,
+            "title": "",
+            "instructions": [
+                "Obtain a replacement bulb with identical wattage and diameter as your old bulb."
+            ],
+            "edit_link": "https://www.ifixit.com/Guide/edit/178421/379666",
+            "comments": {
+                "add_comment_link": "https://www.ifixit.com/Guide/Circline+Fluorescent+Light+Bulb+Replacement/",
+                "add_comment_text": "Add a comment"
+            }
+        },
+        {
+            "step_number": 6,
+            "title": "",
+            "instructions": [
+                "Hold the new bulb's socket near the hanging wire.",
+                "Insert the wire in same orientation as the old bulb was connected."
+            ],
+            "edit_link": "https://www.ifixit.com/Guide/edit/178421/379667",
+            "comments": {
+                "add_comment_link": "https://www.ifixit.com/Guide/Circline+Fluorescent+Light+Bulb+Replacement/",
+                "add_comment_text": "Add a comment"
+            }
+        },
+        {
+            "step_number": 7,
+            "title": "",
+            "instructions": [
+                "Place the new bulb into the metal supports. This may take some force applied to the metal supports to pull them back far enough for the bulb to be inserted."
+            ],
+            "edit_link": "https://www.ifixit.com/Guide/edit/178421/379668",
+            "comments": {
+                "add_comment_link": "https://www.ifixit.com/Guide/Circline+Fluorescent+Light+Bulb+Replacement/",
+                "add_comment_text": "Add a comment"
+            }
+        },
+        {
+            "step_number": 8,
+            "title": "",
+            "instructions": [
+                "Flick your light switch on and see the results!",
+                "If it does not turn on, you may want to confirm the wired connection by unplugging and re-plugging it again."
+            ],
+            "edit_link": "https://www.ifixit.com/Guide/edit/178421/379669",
+            "comments": {
+                "add_comment_link": "https://www.ifixit.com/Guide/Circline+Fluorescent+Light+Bulb+Replacement/",
+                "add_comment_text": "Add a comment"
+            }
+        },
+        {
+            "step_number": 9,
+            "title": "",
+            "instructions": [
+                "Securely reattach your fixture's light cover."
+            ],
+            "edit_link": "https://www.ifixit.com/Guide/edit/178421/379670",
+            "comments": {
+                "add_comment_link": "https://www.ifixit.com/Guide/Circline+Fluorescent+Light+Bulb+Replacement/",
+                "add_comment_text": "Add a comment"
+            }
+        },
+        {
+            "step_number": 10,
+            "title": "",
+            "instructions": [
+                "Enjoy your new light!"
+            ],
+            "edit_link": "https://www.ifixit.com/Guide/edit/178421/379747",
+            "comments": {
+                "add_comment_link": "https://www.ifixit.com/Guide/Circline+Fluorescent+Light+Bulb+Replacement/",
+                "add_comment_text": "Add a comment"
+            }
+        },
+        {
+            "step_number": 11,
+            "title": "",
+            "instructions": [
+                "Make sure you hold on to the old bulb and do NOT throw it in the trash.",
+                "Place the old bulb in a separate bin or bag, you can use this to start an e-waste collection to properly dispose of multiple electronic items.",
+                "Locate a recycling center that accepts e-waste and properly dispose of your old light bulb and any other e-waste you've collected."
+            ],
+            "edit_link": "https://www.ifixit.com/Guide/edit/178421/379671",
+            "comments": {
+                "add_comment_link": "https://www.ifixit.com/Guide/Circline+Fluorescent+Light+Bulb+Replacement/",
+                "add_comment_text": "Add a comment"
+            }
+        }
+    ],
+    "conclusion": "To reassemble your device, follow the instructions in reverse order.",
+    "embed_guide": {
+        "small": "<iframe id=\"dozuki-embed-178421\" src=\"https://www.ifixit.com/Guide/embed/178421/full\" width=\"600\" allowfullscreen frameborder=\"0\"></iframe> <script>window.addEventListener(\"message\",function(a){var b=document.getElementById(\"dozuki-embed-178421\"),c=a.data[0],d=a.data[1];switch(c){case\"setHeight\":b.style.height=d+\"px\"}},!1);</script>",
+        "medium": "<iframe id=\"dozuki-embed-178421\" src=\"https://www.ifixit.com/Guide/embed/178421/full\" width=\"800\" allowfullscreen frameborder=\"0\"></iframe> <script>window.addEventListener(\"message\",function(a){var b=document.getElementById(\"dozuki-embed-178421\"),c=a.data[0],d=a.data[1];switch(c){case\"setHeight\":b.style.height=d+\"px\"}},!1);</script>",
+        "large": "<iframe id=\"dozuki-embed-178421\" src=\"https://www.ifixit.com/Guide/embed/178421/full\" width=\"1200\" allowfullscreen frameborder=\"0\"></iframe> <script>window.addEventListener(\"message\",function(a){var b=document.getElementById(\"dozuki-embed-178421\"),c=a.data[0],d=a.data[1];switch(c){case\"setHeight\":b.style.height=d+\"px\"}},!1);</script>",
+        "full": "<iframe src=\"https://www.ifixit.com/Guide/embed/178421\" width=\"800\" height=\"584\" allowfullscreen frameborder=\"0\"></iframe>"
+    },
+    "stay_in_the_loop": {
+        "newsletter_link": "https://www.ifixit.com/Newsletter",
+        "translate_link": "https://www.ifixit.com/Translate"
+    },
+    "repair_is_noble": "https://www.ifixit.com/Manifesto"
+}

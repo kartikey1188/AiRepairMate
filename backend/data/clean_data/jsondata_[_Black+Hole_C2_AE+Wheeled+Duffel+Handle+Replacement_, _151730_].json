@@ -1,0 +1,175 @@
+{
+    "metadata": {
+        "title": "Black Hole® Wheeled Duffel Handle Replacement",
+        "last_updated": "September 23, 2024",
+        "guide_image": "https://guide-images.cdn.ifixit.com/igi/HWi53XmuXHL3bsrr.140x105",
+        "estimated_time": "20 - 45 minutes",
+        "difficulty": "Moderate",
+        "community_guide": true,
+        "device_links": [
+            {
+                "text": "Patagonia Black Hole® Wheeled Luggage",
+                "url": "https://www.ifixit.com/Device/Patagonia_Black_Hole"
+            },
+            {
+                "text": "Patagonia Luggage Repair",
+                "url": "https://www.ifixit.com/Device/Patagonia_Luggage"
+            },
+            {
+                "text": "Luggage",
+                "url": "https://www.ifixit.com/Device/Luggage"
+            },
+            {
+                "text": "Household",
+                "url": "https://www.ifixit.com/Device/Household"
+            },
+            {
+                "text": "Home",
+                "url": "https://www.ifixit.com/Guide"
+            }
+        ],
+        "parts_links": [
+            {
+                "text": "Guides",
+                "url": "https://www.ifixit.com/Device/Patagonia_Black_Hole#Section_Guides"
+            },
+            {
+                "text": "Answers",
+                "url": "https://www.ifixit.com/Answers/Device/Patagonia_Black_Hole"
+            }
+        ],
+        "edit_link": "https://www.ifixit.com/Guide/edit/151730"
+    },
+    "introduction": "This guide will walk you through a handle replacement for the Black Hole® Wheeled Duffel Bag.\nFor replacement parts or further assistance, contact [Patagonia Customer Service](https://help.patagonia.com/s/).",
+    "what_you_need": {
+        "parts": [
+            {
+                "text": "Black Hole® Wheeled Duffel Handle Replacement",
+                "url": "https://www.ifixit.com/Item/Replacement_Black_Hole%C2%AE_Wheeled_Duffel_Handle"
+            }
+        ],
+        "tools": [
+            {
+                "text": "#2 Phillips Screwdriver, 4 inches (Phillips#2 Screwdriver)",
+                "url": "https://www.amazon.com/Klein-Tools-603-4-Screwdriver-Precision/dp/B0000302VQ/ref=sr_1_3?crid=RZL93T14HAJI&keywords=phillips%2B2%2Bscrewdriver&qid=1657057756&s=hi&sprefix=phillips%2B2%2Bscrewdriver%2B%2Ctools%2C205&sr=1-3&tag=ifixitam-20",
+                "affiliate_link": "https://www.amazon.com/Klein-Tools-603-4-Screwdriver-Precision/dp/B0000302VQ/ref=sr_1_3?crid=RZL93T14HAJI&keywords=phillips%2B2%2Bscrewdriver&qid=1657057756&s=hi&sprefix=phillips%2B2%2Bscrewdriver%2B%2Ctools%2C205&sr=1-3&tag=ifixitam-20",
+                "available_on_amazon": "https://www.amazon.com/Klein-Tools-603-4-Screwdriver-Precision/dp/B0000302VQ/ref=sr_1_3?crid=RZL93T14HAJI&keywords=phillips%2B2%2Bscrewdriver&qid=1657057756&s=hi&sprefix=phillips%2B2%2Bscrewdriver%2B%2Ctools%2C205&sr=1-3&tag=ifixitam-20",
+                "view_link": "https://www.amazon.com/Klein-Tools-603-4-Screwdriver-Precision/dp/B0000302VQ/ref=sr_1_3?crid=RZL93T14HAJI&keywords=phillips%2B2%2Bscrewdriver&qid=1657057756&s=hi&sprefix=phillips%2B2%2Bscrewdriver%2B%2Ctools%2C205&sr=1-3&tag=ifixitam-20"
+            },
+            {
+                "text": "LED Flashlight",
+                "url": "https://www.amazon.com/led-tactical-flashlight-rechargable/dp/B072WHQFJ7/ref=sr_1_1_sspa?gclid=Cj0KCQjwidSWBhDdARIsAIoTVb2wMlTSrRVki0_ahAAhHgQ2kZdGj6pylpa6YEoEqJX8Dg_G0nZxXv8aAkxwEALw_wcB&hvadid=241908144669&hvdev=c&hvlocphy=9031613&hvnetw=g&hvqmt=e&hvrand=377036940083664681&hvtargid=kwd-3195808961&hydadcr=24660_10400764&keywords=led%2Bflashlights&qid=1658188228&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFQWTFXMlA0UzVCV1ImZW5jcnlwdGVkSWQ9QTA1OTY0OTNQNkUyVlRETVpDNjAmZW5jcnlwdGVkQWRJZD1BMDcyMzU0NTJRRk1LUUxQVkZVNjMmd2lkZ2V0TmFtZT1zcF9hdGYmYWN0aW9uPWNsaWNrUmVkaXJlY3QmZG9Ob3RMb2dDbGljaz10cnVl&tag=ifixitam-20",
+                "image": "https://guide-images.cdn.ifixit.com/igi/tULIB2YwXZI4xY5N.thumbnail",
+                "affiliate_link": "https://www.amazon.com/led-tactical-flashlight-rechargable/dp/B072WHQFJ7/ref=sr_1_1_sspa?gclid=Cj0KCQjwidSWBhDdARIsAIoTVb2wMlTSrRVki0_ahAAhHgQ2kZdGj6pylpa6YEoEqJX8Dg_G0nZxXv8aAkxwEALw_wcB&hvadid=241908144669&hvdev=c&hvlocphy=9031613&hvnetw=g&hvqmt=e&hvrand=377036940083664681&hvtargid=kwd-3195808961&hydadcr=24660_10400764&keywords=led%2Bflashlights&qid=1658188228&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFQWTFXMlA0UzVCV1ImZW5jcnlwdGVkSWQ9QTA1OTY0OTNQNkUyVlRETVpDNjAmZW5jcnlwdGVkQWRJZD1BMDcyMzU0NTJRRk1LUUxQVkZVNjMmd2lkZ2V0TmFtZT1zcF9hdGYmYWN0aW9uPWNsaWNrUmVkaXJlY3QmZG9Ob3RMb2dDbGljaz10cnVl&tag=ifixitam-20",
+                "available_on_amazon": "https://www.amazon.com/led-tactical-flashlight-rechargable/dp/B072WHQFJ7/ref=sr_1_1_sspa?gclid=Cj0KCQjwidSWBhDdARIsAIoTVb2wMlTSrRVki0_ahAAhHgQ2kZdGj6pylpa6YEoEqJX8Dg_G0nZxXv8aAkxwEALw_wcB&hvadid=241908144669&hvdev=c&hvlocphy=9031613&hvnetw=g&hvqmt=e&hvrand=377036940083664681&hvtargid=kwd-3195808961&hydadcr=24660_10400764&keywords=led%2Bflashlights&qid=1658188228&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFQWTFXMlA0UzVCV1ImZW5jcnlwdGVkSWQ9QTA1OTY0OTNQNkUyVlRETVpDNjAmZW5jcnlwdGVkQWRJZD1BMDcyMzU0NTJRRk1LUUxQVkZVNjMmd2lkZ2V0TmFtZT1zcF9hdGYmYWN0aW9uPWNsaWNrUmVkaXJlY3QmZG9Ob3RMb2dDbGljaz10cnVl&tag=ifixitam-20",
+                "view_link": "https://www.amazon.com/led-tactical-flashlight-rechargable/dp/B072WHQFJ7/ref=sr_1_1_sspa?gclid=Cj0KCQjwidSWBhDdARIsAIoTVb2wMlTSrRVki0_ahAAhHgQ2kZdGj6pylpa6YEoEqJX8Dg_G0nZxXv8aAkxwEALw_wcB&hvadid=241908144669&hvdev=c&hvlocphy=9031613&hvnetw=g&hvqmt=e&hvrand=377036940083664681&hvtargid=kwd-3195808961&hydadcr=24660_10400764&keywords=led%2Bflashlights&qid=1658188228&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFQWTFXMlA0UzVCV1ImZW5jcnlwdGVkSWQ9QTA1OTY0OTNQNkUyVlRETVpDNjAmZW5jcnlwdGVkQWRJZD1BMDcyMzU0NTJRRk1LUUxQVkZVNjMmd2lkZ2V0TmFtZT1zcF9hdGYmYWN0aW9uPWNsaWNrUmVkaXJlY3QmZG9Ob3RMb2dDbGljaz10cnVl&tag=ifixitam-20"
+            }
+        ]
+    },
+    "steps": [
+        {
+            "step_number": 1,
+            "title": "Open the Main Compartment",
+            "text": "Place luggage on back and locate the zipper sliders to the main compartment zipper.\nOpen the main zipper completely.\nOpen the flap to the main compartment.",
+            "image": "https://guide-images.cdn.ifixit.com/igi/EqimfXhFqUHX2MmJ.medium",
+            "image_links": [
+                "https://guide-images.cdn.ifixit.com/igi/EqimfXhFqUHX2MmJ.200x150",
+                "https://guide-images.cdn.ifixit.com/igi/NJkcIEGybQkOL1CQ.200x150",
+                "https://guide-images.cdn.ifixit.com/igi/14GVFC6YPHg3Uvgb.200x150"
+            ],
+            "edit_link": "https://www.ifixit.com/Guide/edit/151730/315743",
+            "comment_links": [],
+            "additional_images": [
+                "https://guide-images.cdn.ifixit.com/igi/NJkcIEGybQkOL1CQ.medium",
+                "https://guide-images.cdn.ifixit.com/igi/14GVFC6YPHg3Uvgb.medium"
+            ]
+        },
+        {
+            "step_number": 2,
+            "title": "Locate Handle Housing",
+            "text": "A headlamp or flashlight is recommended when working inside the bag.\nUnclip the buckles of the compression straps for ease of access in the main compartment.\nAt the bottom of the main compartment, open the zipper of the lining to expose the handle housing inside the liner compartment.\nPush the lining fabric out of the way.",
+            "image": "https://guide-images.cdn.ifixit.com/igi/GFBsSDjr4tRU5IBZ.medium",
+            "image_links": [
+                "https://guide-images.cdn.ifixit.com/igi/GFBsSDjr4tRU5IBZ.200x150",
+                "https://guide-images.cdn.ifixit.com/igi/Nlt23cseVWP56yeL.200x150",
+                "https://guide-images.cdn.ifixit.com/igi/gn6L6dgj3HMQrw4Z.200x150"
+            ],
+            "edit_link": "https://www.ifixit.com/Guide/edit/151730/315744",
+            "comment_links": [],
+            "additional_images": [
+                "https://guide-images.cdn.ifixit.com/igi/Nlt23cseVWP56yeL.medium",
+                "https://guide-images.cdn.ifixit.com/igi/gn6L6dgj3HMQrw4Z.medium"
+            ]
+        },
+        {
+            "step_number": 3,
+            "title": "Locate Remove Inside Top Handle Bracket",
+            "text": "It is important that you do not lose the screws during removal.\nLocate the Inside Top Handle Bracket for removal.\nWith a #2 Phillips-head Screwdriver, unscrew all 5 screws of the Inside Top Handle Bracket.\nOnce all screws are removed, you can now remove the Inside Top Handle Bracket.",
+            "image_links": [],
+            "edit_link": "https://www.ifixit.com/Guide/edit/151730/315815",
+            "comment_links": []
+        },
+        {
+            "step_number": 4,
+            "title": "Locate and Remove Screws from Bottom Post",
+            "text": "Locate Bottom Handle Post and remove the 2 screws.",
+            "image_links": [],
+            "edit_link": "https://www.ifixit.com/Guide/edit/151730/315816",
+            "comment_links": []
+        },
+        {
+            "step_number": 5,
+            "title": "Remove Handle from bag",
+            "text": "To remove Handle from bag, pull Handle Assembly straight out of the bag while pushing fabric inward away from Plastic Handle Housing to separate it from the bag.\nOnce you have released the Outside Plastic Handle Assembly from the bag continue to pull Handle straight out to completely remove it from bag.\nHandle Assembly is now removed",
+            "image_links": [],
+            "edit_link": "https://www.ifixit.com/Guide/edit/151730/315817",
+            "comment_links": []
+        },
+        {
+            "step_number": 6,
+            "title": "Install New Handle",
+            "text": "Install New Handle into Outside Top Handle opening of bag as shown.\nInsert Handle post into Bottom Bracket slots.\nMake sure Outside Plastic Handle Housing aligns with screw post of Handle Housing for proper installation of screws. See Reference image #2",
+            "image_links": [],
+            "edit_link": "https://www.ifixit.com/Guide/edit/151730/315818",
+            "comment_links": []
+        },
+        {
+            "step_number": 7,
+            "title": "Secure Bottom Post",
+            "text": "Once the New Handle is in place, install screws into bottom post. Do not over tighten.",
+            "image_links": [],
+            "edit_link": "https://www.ifixit.com/Guide/edit/151730/315819",
+            "comment_links": []
+        },
+        {
+            "step_number": 8,
+            "title": "Reinstall Inside Top Handle Bracket",
+            "text": "Place Inside Top Handle Bracket on top of Handle Housing. See Reference image #1\nEnsure Inside Top Handle Bracket aligns with screw post of Handle Housing for proper installation of screws. See Reference image #2\nUsing a #2 Philips Screwdriver, install screws in sequential order as pictured in Reference Image#3 for ease of installation while holding bracket in place. Do not over tighten.\nAfter installing all 5 screws, check installation of Top Handle Bracket to ensure it's securely in place by lifting bracket up at each screw location. Any screw not properly in place should be reinstalled until firmly secure.",
+            "image_links": [],
+            "edit_link": "https://www.ifixit.com/Guide/edit/151730/315820",
+            "comment_links": []
+        },
+        {
+            "step_number": 9,
+            "title": "Test Handle Function",
+            "text": "Test Handle to ensure it works properly by fully extending it until it locks into position.\nCollapse Handle down into the middle locking position.\nCollapse Handle completely down into the Handle Housing. Handle should lock into place.",
+            "image_links": [],
+            "edit_link": "https://www.ifixit.com/Guide/edit/151730/315821",
+            "comment_links": []
+        },
+        {
+            "step_number": 10,
+            "title": "Handle Installation Complete",
+            "text": "Zip up Inside Liner.\nReinsert Compression Strap Buckles\nZip up Main Compartment Flap and snap Soft Handle Haul Strap back together\nThe repair is complete, Great Job!",
+            "image_links": [],
+            "edit_link": "https://www.ifixit.com/Guide/edit/151730/315822",
+            "comment_links": []
+        }
+    ],
+    "conclusion": {
+        "text": "Black Hole® Wheeled Duffel Handle, To obtain a replacement handle please contact Patagonia Customer Service or your regional Patagonia Retail Store.",
+        "author_points": 30,
+        "cancel_link": "https://www.ifixit.com/Guide/Black+Hole%C2%AE+Wheeled+Duffel+Handle+Replacement/<#>"
+    },
+    "embed_code": "<iframe id=\"dozuki-embed-151730\" src=\"https://www.ifixit.com/Guide/embed/151730/full\" width=\"800\" allowfullscreen frameborder=\"0\"></iframe> <script>window.addEventListener(\"message\",function(a){var b=document.getElementById(\"dozuki-embed-151730\"),c=a.data[0],d=a.data[1];switch(c){case\"setHeight\":b.style.height=d+\"px\"}},!1);</script> <iframe src=\"https://www.ifixit.com/Guide/embed/151730\" width=\"800\" height=\"584\" allowfullscreen frameborder=\"0\"></iframe>"
+}

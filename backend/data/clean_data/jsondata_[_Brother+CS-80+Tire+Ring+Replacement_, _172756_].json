@@ -1,0 +1,431 @@
+{
+    "metadata": {
+        "title": "Brother CS-80 Tire Ring Replacement",
+        "last_updated": "July 1, 2024",
+        "time_estimate": "1 - 2 hours",
+        "difficulty": "Difficult",
+        "introduction": "Use this guide to replace a worn out tire ring for the bobbin winder of a Brother CS-80 sewing machine.Over time and with constant usage, the bobbin winder tire ring in a Brother CS-80 sewing machine can wear out, break, or even disintegrate. You may need to replace your tire ring if your machine has issues with winding the bobbin correctly.",
+        "team": {
+            "name": "UC Davis, Team 1-5, Whithaus Spring 2024",
+            "profile_url": "https://www.ifixit.com/Team/48831/UC+Davis%2C+Team+1-5%2C+Whithaus+Spring+2024",
+            "member_of": "UC Davis, Team 1-5, Whithaus Spring 2024",
+            "team_id": "UCD-WHITHAUS-S24S1G5",
+            "member_count": 3,
+            "guides_authored": 1
+        },
+        "community_contributed_guide": true
+    },
+    "parts": [
+        {
+            "name": "Rubber Tire Ring",
+            "url": "https://a.co/d/eEoRKQZ?tag=ifixitam-20",
+            "availability": "Available for sale on Amazon",
+            "affiliate_link": true
+        }
+    ],
+    "tools": [
+        {
+            "name": "6‑in-1 Screwdriver",
+            "image": "https://cart-products.cdn.ifixit.com/cart-products/LYcK13TjejldWD5Y.thumbnail",
+            "url": "https://www.ifixit.com/products/6-in-1-screwdriver",
+            "price": "$6.99",
+            "add_to_cart": true
+        },
+        {
+            "name": "Magnet or tray",
+            "url": "https://www.ifixit.com/Item/Magnet_or_tray",
+            "recommended": true
+        },
+        {
+            "name": "Cotton Swabs",
+            "image": "https://cart-products.cdn.ifixit.com/cart-products/KYuOYIhqBQWmkmC4.thumbnail",
+            "url": "https://www.ifixit.com/products/cotton-swabs",
+            "price": "$4.99",
+            "add_to_cart": true,
+            "recommended": true
+        },
+        {
+            "name": "Paper Towels",
+            "image": "https://guide-images.cdn.ifixit.com/igi/bWQnjOpIKvvVsqPB.thumbnail",
+            "url": "http://www.amazon.com/Sparkle-Paper-Towels-Giant-Pick-A-Size/dp/B00BGN8PLG/ref=sr_1_1?ie=UTF8&qid=1390949049&sr=8-1&keywords=paper%2Btowel&tag=ifixitam-20",
+            "recommended": true,
+            "availability": "Available for sale on Amazon",
+            "affiliate_link": true
+        },
+        {
+            "name": "Disposable gloves",
+            "image": "https://cart-products.cdn.ifixit.com/cart-products/OwhBFKnOLchhGYuL.thumbnail",
+            "url": "https://www.ifixit.com/products/nitrile-gloves-100-box",
+            "add_to_cart": true,
+            "recommended": true,
+            "options": [
+                "New / Small",
+                "New / Medium",
+                "New / Large"
+            ],
+            "price": "$19.99"
+        },
+        {
+            "name": "Isopropyl Alcohol",
+            "image": "https://guide-images.cdn.ifixit.com/igi/Z4HS6Ruxi4Mn1Fs6.thumbnail",
+            "url": "https://smile.amazon.com/s?k=isopropyl%2Balcohol%2B99%25&tag=ifixitam-20",
+            "availability": "Available for sale on Amazon",
+            "affiliate_link": true
+        }
+    ],
+    "steps": [
+        {
+            "step_number": 1,
+            "title": "Tire Ring",
+            "images": [
+                {
+                    "url": "https://guide-images.cdn.ifixit.com/igi/gH64MDZh25JxsdLc.medium",
+                    "thumbnail_url": "https://guide-images.cdn.ifixit.com/igi/gH64MDZh25JxsdLc.200x150"
+                },
+                {
+                    "url": "https://guide-images.cdn.ifixit.com/igi/Om3rYsrbedVf1iNt.medium",
+                    "thumbnail_url": "https://guide-images.cdn.ifixit.com/igi/Om3rYsrbedVf1iNt.200x150"
+                },
+                {
+                    "url": "https://guide-images.cdn.ifixit.com/igi/tGEOfijYqoQU1XoQ.medium",
+                    "thumbnail_url": "https://guide-images.cdn.ifixit.com/igi/tGEOfijYqoQU1XoQ.200x150"
+                }
+            ],
+            "instructions": [
+                "Turn off the machine.",
+                "Unplug both the power cord and the foot pedal."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/172756/368894",
+            "add_comment_url": "https://www.ifixit.com/Guide/Brother+CS-80+Tire+Ring+Replacement/<#>",
+            "links": []
+        },
+        {
+            "step_number": 2,
+            "title": "",
+            "images": [
+                {
+                    "url": "https://guide-images.cdn.ifixit.com/igi/JNNa5XP4PDQtSfKk.medium"
+                }
+            ],
+            "instructions": [
+                "Slide the clear flap to the left to remove it."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/172756/368895",
+            "add_comment_url": "https://www.ifixit.com/Guide/Brother+CS-80+Tire+Ring+Replacement/<#>",
+            "links": []
+        },
+        {
+            "step_number": 3,
+            "title": "",
+            "images": [],
+            "instructions": [
+                "Pull the latch to detach the bobbin cover."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/172756/368898",
+            "add_comment_url": "https://www.ifixit.com/Guide/Brother+CS-80+Tire+Ring+Replacement/<#>",
+            "links": []
+        },
+        {
+            "step_number": 4,
+            "title": "",
+            "images": [],
+            "instructions": [
+                "Remove the bobbin from the bobbin shuttle."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/172756/368914",
+            "add_comment_url": "https://www.ifixit.com/Guide/Brother+CS-80+Tire+Ring+Replacement/<#>",
+            "links": []
+        },
+        {
+            "step_number": 5,
+            "title": "",
+            "images": [],
+            "instructions": [
+                "Use a flathead screwdriver to pry off the plastic plate that surrounds the bobbin shuttle."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/172756/368915",
+            "add_comment_url": "https://www.ifixit.com/Guide/Brother+CS-80+Tire+Ring+Replacement/<#>",
+            "links": []
+        },
+        {
+            "step_number": 6,
+            "title": "",
+            "images": [],
+            "instructions": [
+                "Open the bobbin winder cover.",
+                "Flip up the spool pin."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/172756/368916",
+            "add_comment_url": "https://www.ifixit.com/Guide/Brother+CS-80+Tire+Ring+Replacement/<#>",
+            "links": []
+        },
+        {
+            "step_number": 7,
+            "title": "",
+            "images": [],
+            "instructions": [
+                "Remove the grey bobbin winder seat from the bobbin winder shaft."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/172756/368917",
+            "add_comment_url": "https://www.ifixit.com/Guide/Brother+CS-80+Tire+Ring+Replacement/<#>",
+            "links": []
+        },
+        {
+            "step_number": 8,
+            "title": "",
+            "images": [],
+            "instructions": [
+                "Remove the 13 mm Phillips head screw from the left side of the bobbin winder.",
+                "Place the screw on a magnet (or in a tray) to ensure you don't lose it."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/172756/368920",
+            "add_comment_url": "https://www.ifixit.com/Guide/Brother+CS-80+Tire+Ring+Replacement/<#>",
+            "links": []
+        },
+        {
+            "step_number": 9,
+            "title": "",
+            "images": [],
+            "instructions": [
+                "Pry off the bobbin winder thread spool pin and the attached bottom plate of the bobbin winder area.",
+                "Use a flathead screwdriver to assist you in removing the plate."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/172756/368925",
+            "add_comment_url": "https://www.ifixit.com/Guide/Brother+CS-80+Tire+Ring+Replacement/<#>",
+            "links": []
+        },
+        {
+            "step_number": 10,
+            "title": "",
+            "images": [],
+            "instructions": [
+                "Remove the 8 mm Phillips screw from the metal plate to the right of the motherboard."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/172756/368926",
+            "add_comment_url": "https://www.ifixit.com/Guide/Brother+CS-80+Tire+Ring+Replacement/<#>",
+            "links": []
+        },
+        {
+            "step_number": 11,
+            "title": "",
+            "images": [],
+            "instructions": [
+                "Open the thread compartment.",
+                "Press the back level on left side of the machine to eject the thread cassette compartment."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/172756/368896",
+            "add_comment_url": "https://www.ifixit.com/Guide/Brother+CS-80+Tire+Ring+Replacement/<#>",
+            "links": []
+        },
+        {
+            "step_number": 12,
+            "title": "",
+            "images": [],
+            "instructions": [
+                "Remove the thread cassette compartment by pulling it up.",
+                "Remove the front clear shield to the thread cassette compartment holder by pulling it away from the machine."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/172756/368897",
+            "add_comment_url": "https://www.ifixit.com/Guide/Brother+CS-80+Tire+Ring+Replacement/<#>",
+            "links": []
+        },
+        {
+            "step_number": 13,
+            "title": "",
+            "images": [],
+            "instructions": [
+                "Remove the single 19 mm Phillips head screw from the back of the internal thread cassette compartment area."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/172756/368927",
+            "add_comment_url": "https://www.ifixit.com/Guide/Brother+CS-80+Tire+Ring+Replacement/<#>",
+            "links": []
+        },
+        {
+            "step_number": 14,
+            "title": "",
+            "images": [],
+            "instructions": [
+                "Turn the machine so the back is facing you."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/172756/368935",
+            "add_comment_url": "https://www.ifixit.com/Guide/Brother+CS-80+Tire+Ring+Replacement/<#>",
+            "links": []
+        },
+        {
+            "step_number": 15,
+            "title": "",
+            "images": [],
+            "instructions": [
+                "Remove the three large 19 mm Phillips head screws from the back left face of the machine."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/172756/368937",
+            "add_comment_url": "https://www.ifixit.com/Guide/Brother+CS-80+Tire+Ring+Replacement/<#>",
+            "links": []
+        },
+        {
+            "step_number": 16,
+            "title": "",
+            "images": [],
+            "instructions": [
+                "Remove the 19 mm Phillips head screw from behind the handle of the machine."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/172756/368938",
+            "add_comment_url": "https://www.ifixit.com/Guide/Brother+CS-80+Tire+Ring+Replacement/<#>",
+            "links": []
+        },
+        {
+            "step_number": 17,
+            "title": "",
+            "images": [],
+            "instructions": [
+                "Remove the large 19 mm Phillips screw from the bottom right of the machine.",
+                "You should have removed a total of five 19 mm large screws from the back face."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/172756/369288",
+            "add_comment_url": "https://www.ifixit.com/Guide/Brother+CS-80+Tire+Ring+Replacement/<#>",
+            "links": []
+        },
+        {
+            "step_number": 18,
+            "title": "",
+            "images": [],
+            "instructions": [
+                "Remove the 33 mm Phillips head screw by the presser foot lever."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/172756/368939",
+            "add_comment_url": "https://www.ifixit.com/Guide/Brother+CS-80+Tire+Ring+Replacement/<#>",
+            "links": []
+        },
+        {
+            "step_number": 19,
+            "title": "",
+            "images": [],
+            "instructions": [
+                "Slowly pull apart the two sides of the sewing machine.",
+                "The two halves will still be partially attached by cables on the inside. Take care not to damage any of the cables."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/172756/368940",
+            "add_comment_url": "https://www.ifixit.com/Guide/Brother+CS-80+Tire+Ring+Replacement/<#>",
+            "links": []
+        },
+        {
+            "step_number": 20,
+            "title": "",
+            "images": [],
+            "instructions": [
+                "Gently disconnect the ribbon cable from the motherboard."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/172756/368941",
+            "add_comment_url": "https://www.ifixit.com/Guide/Brother+CS-80+Tire+Ring+Replacement/<#>",
+            "links": []
+        },
+        {
+            "step_number": 21,
+            "title": "",
+            "images": [],
+            "instructions": [
+                "Disconnect the 6-pin connector from the motherboard."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/172756/368942",
+            "add_comment_url": "https://www.ifixit.com/Guide/Brother+CS-80+Tire+Ring+Replacement/<#>",
+            "links": []
+        },
+        {
+            "step_number": 22,
+            "title": "",
+            "images": [],
+            "instructions": [
+                "Completely pull apart the two halves of the machine.",
+                "Set aside the front side piece.",
+                "Place the back piece down so that the inside faces upwards."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/172756/368943",
+            "add_comment_url": "https://www.ifixit.com/Guide/Brother+CS-80+Tire+Ring+Replacement/<#>",
+            "links": []
+        },
+        {
+            "step_number": 23,
+            "title": "",
+            "images": [],
+            "instructions": [
+                "Remove the gold 9 mm Phillips screw from the front right of the motherboard.",
+                "Remove the two silver 7 mm Phillips head screws from the front and back of the left side of the motherboard."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/172756/368944",
+            "add_comment_url": "https://www.ifixit.com/Guide/Brother+CS-80+Tire+Ring+Replacement/<#>",
+            "links": []
+        },
+        {
+            "step_number": 24,
+            "title": "",
+            "images": [],
+            "instructions": [
+                "Slide out the motherboard from the white plastic motherboard housing.",
+                "Handle the motherboard gently to avoid damaging the circuits or connectors."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/172756/369195",
+            "add_comment_url": "https://www.ifixit.com/Guide/Brother+CS-80+Tire+Ring+Replacement/<#>",
+            "links": []
+        },
+        {
+            "step_number": 25,
+            "title": "",
+            "images": [],
+            "instructions": [
+                "Disconnect the 3-pin connector from the front left side of the motherboard."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/172756/368945",
+            "add_comment_url": "https://www.ifixit.com/Guide/Brother+CS-80+Tire+Ring+Replacement/<#>",
+            "links": []
+        },
+        {
+            "step_number": 26,
+            "title": "",
+            "images": [],
+            "instructions": [
+                "Disconnect the 4-pin connector from the left underside of the motherboard."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/172756/368946",
+            "add_comment_url": "https://www.ifixit.com/Guide/Brother+CS-80+Tire+Ring+Replacement/<#>",
+            "links": []
+        },
+        {
+            "step_number": 27,
+            "title": "",
+            "images": [],
+            "instructions": [
+                "Flip the motherboard over so it rests upside down and away from the balance wheel.",
+                "Handle the motherboard gently to avoid damaging the circuits or connectors."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/172756/368947",
+            "add_comment_url": "https://www.ifixit.com/Guide/Brother+CS-80+Tire+Ring+Replacement/<#>",
+            "links": []
+        },
+        {
+            "step_number": 28,
+            "title": "",
+            "images": [],
+            "instructions": [
+                "Use a flathead screwdriver to pry off the tire ring.",
+                "The tire ring may have disintegrated and deposited black rubber on the inside of the machine. If so, clean the area with cotton swabs damp with isopropyl alcohol and paper towels. Wearing disposable gloves is recommended."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/172756/368948",
+            "add_comment_url": "https://www.ifixit.com/Guide/Brother+CS-80+Tire+Ring+Replacement/<#>",
+            "links": []
+        },
+        {
+            "step_number": 29,
+            "title": "",
+            "images": [],
+            "instructions": [
+                "Place the new tire ring onto its seat.",
+                "You may need to use a flathead screwdriver to help it seat fully."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/172756/368949",
+            "add_comment_url": "https://www.ifixit.com/Guide/Brother+CS-80+Tire+Ring+Replacement/<#>",
+            "links": []
+        }
+    ],
+    "conclusion": "To reassemble your sewing machine, follow the disassembly instructions in reverse order.",
+    "embed_code": "<iframe id=\"dozuki-embed-172756\" src=\"https://www.ifixit.com/Guide/embed/172756/full\" width=\"800\" allowfullscreen frameborder=\"0\"></iframe> <script>window.addEventListener(\"message\",function(a){var b=document.getElementById(\"dozuki-embed-172756\"),c=a.data[0],d=a.data[1];switch(c){case\"setHeight\":b.style.height=d+\"px\"}},!1);</script> <iframe src=\"https://www.ifixit.com/Guide/embed/172756\" width=\"800\" height=\"584\" allowfullscreen frameborder=\"0\"></iframe>"
+}

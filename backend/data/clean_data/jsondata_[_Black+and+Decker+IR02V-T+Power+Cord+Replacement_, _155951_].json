@@ -1,0 +1,119 @@
+{
+    "title": "Black and Decker IR02V-T Power Cord Replacement",
+    "last_updated": "October 3, 2023",
+    "estimated_time": "15 - 25 minutes",
+    "difficulty": "Moderate",
+    "introduction": "This guide demonstrates how to replace a Black & Decker IR02V-T flat iron power cord. A guide like this is crucial because any internal damage to your power cord could lead to a short circuit and would ruin the flat iron.\nWhen completing the process ensure the flatiron is unplugged and has completely cooled down.",
+    "tools": [
+        {
+            "name": "ESD‑safe pry tool",
+            "url": "https://www.ifixit.com/products/halberd-spudger",
+            "image": "https://cart-products.cdn.ifixit.com/cart-products/4LIu2TAX1ekFXsYH.thumbnail",
+            "price": "$2.99",
+            "add_to_cart_url": "https://www.ifixit.com/products/halberd-spudger"
+        },
+        {
+            "name": "Large Needle Nose Pliers",
+            "url": "https://www.ifixit.com/products/large-needle-nose-pliers",
+            "image": "https://cart-products.cdn.ifixit.com/cart-products/xsuUhWaHMfDB6FnN.thumbnail",
+            "price": "$4.99",
+            "add_to_cart_url": "https://www.ifixit.com/products/large-needle-nose-pliers"
+        },
+        {
+            "name": "T5 Torx Screwdriver",
+            "url": "https://www.ifixit.com/products/t5-torx-screwdriver",
+            "image": "https://cart-products.cdn.ifixit.com/cart-products/DvS6un6KSwpcfPTG.thumbnail",
+            "price": "$5.49 New / iFixit$9.99 New / Moody - Made in USA",
+            "add_to_cart_url": "https://www.ifixit.com/products/t5-torx-screwdriver"
+        },
+        {
+            "name": "Phillips #00 Screwdriver",
+            "url": "https://www.ifixit.com/products/phillips-00-screwdriver",
+            "image": "https://cart-products.cdn.ifixit.com/cart-products/upNtpW5ghNgA3abG.thumbnail",
+            "price": "$5.49 New / iFixit$8.99 New / Moody - Made in USA",
+            "add_to_cart_url": "https://www.ifixit.com/products/phillips-00-screwdriver"
+        }
+    ],
+    "steps": [
+        {
+            "step_number": 1,
+            "title": "Power Cord",
+            "content": [
+                "Remove the two silicone covers which encase the screws.",
+                "Remove both 1 mm screws using a T5 Torx screwdriver.",
+                "Pry open the plastic cover starting from the top of the iron."
+            ],
+            "images": [
+                "https://guide-images.cdn.ifixit.com/igi/fTS42B6ZSHPgur2t.medium",
+                "https://guide-images.cdn.ifixit.com/igi/NUGgrgiGk3urs2EY.medium",
+                "https://guide-images.cdn.ifixit.com/igi/BgmHWQeIUN6CLtmb.medium"
+            ],
+            "images_200x150": [
+                "https://guide-images.cdn.ifixit.com/igi/fTS42B6ZSHPgur2t.200x150",
+                "https://guide-images.cdn.ifixit.com/igi/NUGgrgiGk3urs2EY.200x150",
+                "https://guide-images.cdn.ifixit.com/igi/BgmHWQeIUN6CLtmb.200x150"
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/155951/325789",
+            "comments_count": 0,
+            "add_comment_url": null
+        },
+        {
+            "step_number": 2,
+            "content": [
+                "Remove both caps from the end of the wire by using pliers.",
+                "Unfold the metal in the caps using the pliers to release the exposed wire.",
+                "Remove the two 1 mm screws holding down the wire using a Phillips #00 screwdriver.",
+                "Once the wires are exposed separate and fold to opposite sides."
+            ],
+            "images": [
+                "https://guide-images.cdn.ifixit.com/igi/21YKolOJBQDGJSJ1.medium"
+            ],
+            "images_200x150": [
+                "https://guide-images.cdn.ifixit.com/igi/21YKolOJBQDGJSJ1.200x150",
+                "https://guide-images.cdn.ifixit.com/igi/FUcQkqJVZBCEYZoU.200x150",
+                "https://guide-images.cdn.ifixit.com/igi/XOqPDLIwTUcLYrnL.200x150"
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/155951/325790",
+            "comments_count": 0,
+            "add_comment_url": null
+        },
+        {
+            "step_number": 3,
+            "content": [
+                "Remove the old power cord from the iron completely.",
+                "Insert the new cord through the plastic cover and hole of the iron as demonstrated in the image."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/155951/325791",
+            "comments_count": 0,
+            "add_comment_url": null
+        },
+        {
+            "step_number": 4,
+            "content": [
+                "Expose about half an inch of wire by removing the silicone that encases it.",
+                "Tie the new wire into a knot and connect the wires accordingly.",
+                "Place the caps over the exposed wire and use pliers to tighten the metal to secure the wire."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/155951/325792",
+            "comments_count": 0,
+            "add_comment_url": null
+        },
+        {
+            "step_number": 5,
+            "content": [
+                "Once the caps are over the wires add the two 1 mm Phillips screws along with the small base plate which secures the wire.",
+                "When all wires are secure place the plastic cover and screw back in the 1mm Torx screws."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/155951/325794",
+            "comments_count": 0,
+            "add_comment_url": null
+        }
+    ],
+    "conclusion": "Finish Line",
+    "embed_code": {
+        "small": "<iframe id=\"dozuki-embed-155951\" src=\"https://www.ifixit.com/Guide/embed/155951/full\" width=\"600\" allowfullscreen frameborder=\"0\"></iframe> <script>window.addEventListener(\"message\",function(a){var b=document.getElementById(\"dozuki-embed-155951\"),c=a.data[0],d=a.data[1];switch(c){case\"setHeight\":b.style.height=d+\"px\"}},!1);</script>",
+        "medium": "<iframe id=\"dozuki-embed-155951\" src=\"https://www.ifixit.com/Guide/embed/155951/full\" width=\"800\" allowfullscreen frameborder=\"0\"></iframe> <script>window.addEventListener(\"message\",function(a){var b=document.getElementById(\"dozuki-embed-155951\"),c=a.data[0],d=a.data[1];switch(c){case\"setHeight\":b.style.height=d+\"px\"}},!1);</script>",
+        "large": "<iframe id=\"dozuki-embed-155951\" src=\"https://www.ifixit.com/Guide/embed/155951/full\" width=\"1200\" allowfullscreen frameborder=\"0\"></iframe> <script>window.addEventListener(\"message\",function(a){var b=document.getElementById(\"dozuki-embed-155951\"),c=a.data[0],d=a.data[1];switch(c){case\"setHeight\":b.style.height=d+\"px\"}},!1);</script>",
+        "full_guide": "<iframe src=\"https://www.ifixit.com/Guide/embed/155951\" width=\"800\" height=\"584\" allowfullscreen frameborder=\"0\"></iframe>"
+    }
+}

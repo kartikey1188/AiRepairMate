@@ -1,0 +1,197 @@
+{
+    "title": "Carrier Performance™ 17 2-Stage AC Unit Capacitor Replacement",
+    "last_updated": "December 27, 2023",
+    "estimated_time": "20 - 40 minutes",
+    "difficulty": "Moderate",
+    "introduction": "If you need to replace the capacitor from your Carrier Performance™ 17 2-Stage AC Unit, this guide will show you how. If you're experiencing cooling issues, this guide is for you. Before you begin, here's what you need to know.\nHazards:\nBe cautious of electrical hazards; turn off the power supply before you begin the repair.\nCapacitors store energy so handle them with care.\nWhy This Repair Might Be Needed:\nIf your AC isn't cooling effectively or has startup issues, a faulty capacitor could be the cause.\nThis guide will help you replace the capacitor quickly and efficiently. Remember to prioritize safety. Besides turning off the power, it is a good idea to wear insulated work gloves.",
+    "parts": [
+        {
+            "name": "Mi‑T-M Capacitor 68-3051",
+            "url": "https://www.ifixit.com/Item/MiTM_Capacitor_683051"
+        }
+    ],
+    "tools": [
+        {
+            "name": "Cordless Driver/Drill",
+            "url": "https://www.amazon.com/DEWALT-DCK240C2-Lithium-Driver-Impact/dp/B00IJ0ALYS/ref=sr_1_11_sspa?crid=1SBK8NW5G0FF3&keywords=cordless%2Bdrill%2Bdriver&qid=1689101722&sprefix=cordless%2Bdrill%2Bdriver%2Caps%2C165&sr=8-11-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9tdGY&th=1&tag=ifixitam-20",
+            "image": "https://guide-images.cdn.ifixit.com/igi/4cZIwchL5PDBbbDF.thumbnail",
+            "affiliate_link": "https://www.amazon.com/DEWALT-DCK240C2-Lithium-Driver-Impact/dp/B00IJ0ALYS/ref=sr_1_11_sspa?crid=1SBK8NW5G0FF3&keywords=cordless%2Bdrill%2Bdriver&qid=1689101722&sprefix=cordless%2Bdrill%2Bdriver%2Caps%2C165&sr=8-11-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9tdGY&th=1&tag=ifixitam-20",
+            "available_on_amazon": true,
+            "view_link": "https://www.amazon.com/DEWALT-DCK240C2-Lithium-Driver-Impact/dp/B00IJ0ALYS/ref=sr_1_11_sspa?crid=1SBK8NW5G0FF3&keywords=cordless%2Bdrill%2Bdriver&qid=1689101722&sprefix=cordless%2Bdrill%2Bdriver%2Caps%2C165&sr=8-11-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9tdGY&th=1&tag=ifixitam-20"
+        },
+        {
+            "name": "6‑in-1 Screwdriver",
+            "url": "https://www.ifixit.com/products/6-in-1-screwdriver",
+            "image": "https://cart-products.cdn.ifixit.com/cart-products/LYcK13TjejldWD5Y.thumbnail",
+            "price": "$6.99",
+            "add_to_cart_url": "https://www.ifixit.com/products/6-in-1-screwdriver"
+        },
+        {
+            "name": "Capacitance meter",
+            "url": "https://www.amazon.com/Honeytek-A6013L-Capacitor-Tester/dp/B0036FQ3FW?ref_=Oct_BSellerC_5011682011_0&pf_rd_p=b8c1f4f2-30ae-5a95-84e0-3fd35fcf96cb&pf_rd_s=merchandised-search-6&pf_rd_t=101&pf_rd_i=5011682011&pf_rd_m=ATVPDKIKX0DER&pf_rd_r=ND1VRZGW5EYMTYQWKDKF&pf_rd_r=ND1VRZGW5EYMTYQWKDKF&pf_rd_p=b8c1f4f2-30ae-5a95-84e0-3fd35fcf96cb&tag=ifixitam-20",
+            "affiliate_link": "https://www.amazon.com/Honeytek-A6013L-Capacitor-Tester/dp/B0036FQ3FW?ref_=Oct_BSellerC_5011682011_0&pf_rd_p=b8c1f4f2-30ae-5a95-84e0-3fd35fcf96cb&pf_rd_s=merchandised-search-6&pf_rd_t=101&pf_rd_i=5011682011&pf_rd_m=ATVPDKIKX0DER&pf_rd_r=ND1VRZGW5EYMTYQWKDKF&pf_rd_r=ND1VRZGW5EYMTYQWKDKF&pf_rd_p=b8c1f4f2-30ae-5a95-84e0-3fd35fcf96cb&tag=ifixitam-20",
+            "available_on_amazon": true,
+            "view_link": "https://www.amazon.com/Honeytek-A6013L-Capacitor-Tester/dp/B0036FQ3FW?ref_=Oct_BSellerC_5011682011_0&pf_rd_p=b8c1f4f2-30ae-5a95-84e0-3fd35fcf96cb&pf_rd_s=merchandised-search-6&pf_rd_t=101&pf_rd_i=5011682011&pf_rd_m=ATVPDKIKX0DER&pf_rd_r=ND1VRZGW5EYMTYQWKDKF&pf_rd_r=ND1VRZGW5EYMTYQWKDKF&pf_rd_p=b8c1f4f2-30ae-5a95-84e0-3fd35fcf96cb&tag=ifixitam-20",
+            "description": "Has to have the MFD or microfarad function to be able to check the capacitor."
+        },
+        {
+            "name": "1/4' Drill bit",
+            "url": "https://www.ifixit.com/Item/1_4%27_Drill_bit",
+            "description": "(Optional)"
+        },
+        {
+            "name": "Phillips #2 Screwdriver",
+            "url": "https://www.ifixit.com/products/6-in-1-screwdriver",
+            "image": "https://cart-products.cdn.ifixit.com/cart-products/LYcK13TjejldWD5Y.thumbnail",
+            "price": "$6.99",
+            "add_to_cart_url": "https://www.ifixit.com/products/6-in-1-screwdriver"
+        },
+        {
+            "name": "Capacitor Discharge Pen",
+            "url": "https://www.ifixit.com/Item/Capacitor_Discharge_Pen"
+        },
+        {
+            "name": "Class 0 Low‑Voltage Rubber Insulating Safety Gloves",
+            "url": "https://www.amazon.com/MAGID-Low-Voltage-Rubber-Insulating-Linemen/dp/B00BAZWX4K/ref=sr_1_1_sspa?keywords=Electrical%2BInsulated%2BGloves&qid=1703715590&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1&tag=ifixitam-20",
+            "affiliate_link": "https://www.amazon.com/MAGID-Low-Voltage-Rubber-Insulating-Linemen/dp/B00BAZWX4K/ref=sr_1_1_sspa?keywords=Electrical%2BInsulated%2BGloves&qid=1703715590&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1&tag=ifixitam-20",
+            "available_on_amazon": true,
+            "view_link": "https://www.amazon.com/MAGID-Low-Voltage-Rubber-Insulating-Linemen/dp/B00BAZWX4K/ref=sr_1_1_sspa?keywords=Electrical%2BInsulated%2BGloves&qid=1703715590&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1&tag=ifixitam-20"
+        },
+        {
+            "name": "Insulated Socket Set",
+            "url": "https://www.amazon.com/Titan-66100-18-Piece-Insulated-Socket/dp/B07LBJGT2W/ref=sr_1_3_sspa?keywords=insulated%2Bsocket%2Bset&qid=1703716616&sr=8-3-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1&tag=ifixitam-20",
+            "image": "https://guide-images.cdn.ifixit.com/igi/d4lfjaU4sviE1T6w.thumbnail",
+            "affiliate_link": "https://www.amazon.com/Titan-66100-18-Piece-Insulated-Socket/dp/B07LBJGT2W/ref=sr_1_3_sspa?keywords=insulated%2Bsocket%2Bset&qid=1703716616&sr=8-3-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9tdGY&psc=1&tag=ifixitam-20",
+            "available_on_amazon": true,
+            "view_link": "https://www.amazon.com/Titan-66100-18-Piece-Insulated-Socket/dp/B07LBJGT2W/ref=sr_1_3_sspa?keywords=insulated%2Bsocket%2Bset&qid=1703716616&sr=8-3-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9tdGY&psc=1&tag=ifixitam-20"
+        }
+    ],
+    "steps": [
+        {
+            "step_number": 1,
+            "title": "Run Capacitor",
+            "content": [
+                "To ensure complete safety, turn off the power supply from the electrical panel or disconnect switch.",
+                "Wait for a few minutes to allow any electrical charge to dissipate. This will ensure safety and prevent any potential hazards."
+            ],
+            "images": [
+                "https://guide-images.cdn.ifixit.com/igi/SBTJQxx52JDOxMQJ.medium",
+                "https://guide-images.cdn.ifixit.com/igi/TBTNZ6Mcro2B1Hhq.medium",
+                "https://guide-images.cdn.ifixit.com/igi/fCElXvC2NPWWwZ6t.medium"
+            ],
+            "images_200x150": [
+                "https://guide-images.cdn.ifixit.com/igi/SBTJQxx52JDOxMQJ.200x150",
+                "https://guide-images.cdn.ifixit.com/igi/TBTNZ6Mcro2B1Hhq.200x150",
+                "https://guide-images.cdn.ifixit.com/igi/fCElXvC2NPWWwZ6t.200x150"
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/149327/309015",
+            "comments_count": 0,
+            "add_comment_url": null
+        },
+        {
+            "step_number": 2,
+            "content": [
+                "Use an insulated socket wrench to remove the four 38 mm bolts that secure the access panel to your AC unit.",
+                "Screw size/type is dependent on the model of your unit.",
+                "Remove the electrical panel cover."
+            ],
+            "images": [
+                "https://guide-images.cdn.ifixit.com/igi/oPfW4flxl4HMEgEW.medium",
+                "https://guide-images.cdn.ifixit.com/igi/LCQcXDZkKS2QO2PI.medium",
+                "https://guide-images.cdn.ifixit.com/igi/Dmqrw3xSxSYGLAmp.medium"
+            ],
+            "images_200x150": [
+                "https://guide-images.cdn.ifixit.com/igi/oPfW4flxl4HMEgEW.200x150",
+                "https://guide-images.cdn.ifixit.com/igi/LCQcXDZkKS2QO2PI.200x150",
+                "https://guide-images.cdn.ifixit.com/igi/Dmqrw3xSxSYGLAmp.200x150"
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/149327/309017",
+            "comments_count": 0,
+            "add_comment_url": null
+        },
+        {
+            "step_number": 3,
+            "content": [
+                "Use either a Phillips #2 screwdriver or a 1/4 inch Phillips bit to remove the two screws securing the capacitor bracket.",
+                "Lift the capacitor away from the electrical panel, with care not to damage or dislodge any wires."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/149327/309019",
+            "comments_count": 0,
+            "add_comment_url": null
+        },
+        {
+            "step_number": 4,
+            "content": [
+                "Pull the wires directly up and off their terminals.",
+                "Note where the wires go based on their color and the number of prongs on their terminals."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/149327/309022",
+            "comments_count": 0,
+            "add_comment_url": null
+        },
+        {
+            "step_number": 5,
+            "content": [
+                "Hazardous situation which can result in moderate injury or death. Though the discharge process is demonstrated with a screwdriver,**use an appropriately-rated capacitor discharge tool**.",
+                "The terminals have stamps on the metal that indicate which terminal is which. One is labeled \"C\" for \"common,\" the next is labeled \"Fan,\" and the last one is labeled \"Hum\" for the compressor.",
+                "Use the capacitor discharge tool to bridge the gap between the terminals labeled \"Hum\" (Compressor) and \"common\" (ground). This will discharge any stored electricity in the capacitance meter to prevent any damage to you and your capacitor meter.",
+                "Repeat the process with the \"fan\" terminal and the \"common\" terminal."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/149327/309029",
+            "comments_count": 0,
+            "add_comment_url": null
+        },
+        {
+            "step_number": 6,
+            "content": [
+                "Use your capacitance meter to read the microfarads between the 3-prong terminal (Hum) and the 4-prong terminal (common).",
+                "Repeat the process between the 1-prong (fan) and the 4-prong terminal (common)."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/149327/309031",
+            "comments_count": 0,
+            "add_comment_url": null
+        },
+        {
+            "step_number": 7,
+            "content": [
+                "Compare the gathered readings with those printed on the capacitor label. If the numbers that you collected are roughly the same (within 0.4 microfarads) then the capacitor doesn't need to be replaced. If the difference is larger than 0.4 microfarads, then it's time to replace the capacitor.",
+                "For example, a 5-microfarad capacitor that tests at 4.5 microfarads needs replacement, even even if it isn’t causing any issues yet.",
+                "If the capacitor is already spent, there is often a visual cue to look out for: it will have a bulging appearance on the top of the cylinder, like an unopened soda can that has been dropped."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/149327/309036",
+            "comments_count": 0,
+            "add_comment_url": null
+        },
+        {
+            "step_number": 8,
+            "content": [
+                "Secure the new capacitor and make sure it is securely mounted or clamped in place.",
+                "Carefully reconnect the wires to the corresponding terminals on the new capacitor.",
+                "It is crucial to connect the wires correctly by matching the color-coded or labeled wires to the appropriate terminals on the capacitor.",
+                "Wear gloves when handling the capacitor to prevent electrical shocks."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/149327/349063",
+            "comments_count": 0,
+            "add_comment_url": null
+        },
+        {
+            "step_number": 9,
+            "content": [
+                "Place the access panel cover securely back onto your AC unit.",
+                "Use a socket wrench to insert and tighten the screws you removed earlier. Make sure the cover is firmly attached.",
+                "Restore power to the AC unit by resetting the circuit breaker or following the unit's power control instructions.",
+                "Ensure that the AC unit is functioning properly and the air is cool."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/149327/348389",
+            "comments_count": 0,
+            "add_comment_url": null
+        }
+    ],
+    "conclusion": "By following these steps and exercising caution, you can safely replace the capacitor in your system, ensuring its continued efficiency and functionality. If uncertain, consult a professional.",
+    "embed_code": {
+        "small": "<iframe id=\"dozuki-embed-149327\" src=\"https://www.ifixit.com/Guide/embed/149327/full\" width=\"600\" allowfullscreen frameborder=\"0\"></iframe> <script>window.addEventListener(\"message\",function(a){var b=document.getElementById(\"dozuki-embed-149327\"),c=a.data[0],d=a.data[1];switch(c){case\"setHeight\":b.style.height=d+\"px\"}},!1);</script>",
+        "medium": "<iframe id=\"dozuki-embed-149327\" src=\"https://www.ifixit.com/Guide/embed/149327/full\" width=\"800\" allowfullscreen frameborder=\"0\"></iframe> <script>window.addEventListener(\"message\",function(a){var b=document.getElementById(\"dozuki-embed-149327\"),c=a.data[0],d=a.data[1];switch(c){case\"setHeight\":b.style.height=d+\"px\"}},!1);</script>",
+        "large": "<iframe id=\"dozuki-embed-149327\" src=\"https://www.ifixit.com/Guide/embed/149327/full\" width=\"1200\" allowfullscreen frameborder=\"0\"></iframe> <script>window.addEventListener(\"message\",function(a){var b=document.getElementById(\"dozuki-embed-149327\"),c=a.data[0],d=a.data[1];switch(c){case\"setHeight\":b.style.height=d+\"px\"}},!1);</script>",
+        "full_guide": "<iframe src=\"https://www.ifixit.com/Guide/embed/149327\" width=\"800\" height=\"584\" allowfullscreen frameborder=\"0\"></iframe>"
+    }
+}

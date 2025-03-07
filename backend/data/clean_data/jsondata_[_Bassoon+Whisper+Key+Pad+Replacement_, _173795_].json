@@ -1,0 +1,114 @@
+{
+    "guide_title": "Bassoon Whisper Key Pad Replacement",
+    "last_updated": "August 12, 2024",
+    "estimated_time": "10 minutes",
+    "difficulty": "Easy",
+    "introduction": "Replacing the whisper key pad is a common repair you might have to make in your journey as a bassoonist. Holding down the whisper key or having the whisper key locked while inserting the bocal can cause the bocal to catch on the whisper key pad. This can result in either a partial tear or even complete removal of the whisper key pad. Especially as a student, there may not be enough time to send your bassoon to the music repair shop.\nInstead, you can use this guide to perform a simple fix that will get you back to playing as soon as possible. Before you begin this procedure, determine if you need to order a new whisper key pad if the old key pad is too damaged to be reused. The size of the key pad will depend on your instrument’s model.",
+    "tools": [
+        {
+            "name": "E6000 Glue",
+            "image": "https://cart-products.cdn.ifixit.com/cart-products/1DwGfPPECLSS2uhS.thumbnail",
+            "link": "https://www.ifixit.com/products/e6000-adhesive-glue",
+            "price": "$2.99",
+            "add_to_cart_link": "https://www.ifixit.com/Guide/Bassoon+Whisper+Key+Pad+Replacement/<https:/www.ifixit.com/products/e6000-adhesive-glue>"
+        },
+        {
+            "name": "Spudger",
+            "image": "https://cart-products.cdn.ifixit.com/cart-products/vy2elt3YPAXL1LmZ.thumbnail",
+            "link": "https://www.ifixit.com/products/spudger",
+            "price": "$3.99 New / Fixite Carbon Fiber$2.99 New / Glass Fiber$149.99 New / Glass Fiber Bundle of 100",
+            "add_to_cart_link": "https://www.ifixit.com/Guide/Bassoon+Whisper+Key+Pad+Replacement/<https:/www.ifixit.com/products/spudger>"
+        }
+    ],
+    "steps": [
+        {
+            "step_number": 1,
+            "title": "Key Pad",
+            "images": [
+                "https://guide-images.cdn.ifixit.com/igi/ddtbbI1gTJNupTRK.medium",
+                "https://guide-images.cdn.ifixit.com/igi/2l4VdicBpCDJUZTE.medium"
+            ],
+            "thumbnails": [
+                "https://guide-images.cdn.ifixit.com/igi/ddtbbI1gTJNupTRK.200x150",
+                "https://guide-images.cdn.ifixit.com/igi/2l4VdicBpCDJUZTE.200x150"
+            ],
+            "description": "Assess the damage to the whisper key. If the bocal is digging into the whisper key pad, gently swivel it away from the whisper key pad.\nIf the whisper key pad is completely missing, skip to step 4.\nMake sure the area around the key pad is clear before proceeding.",
+            "edit_link": "https://www.ifixit.com/Guide/Bassoon+Whisper+Key+Pad+Replacement//Guide/edit/173795/370561",
+            "add_comment_link": "https://www.ifixit.com/Guide/Bassoon+Whisper+Key+Pad+Replacement/",
+            "links": []
+        },
+        {
+            "step_number": 2,
+            "title": null,
+            "images": [
+                "https://guide-images.cdn.ifixit.com/igi/UtOnL5lk5C6lFO4f.medium",
+                "https://guide-images.cdn.ifixit.com/igi/Iha463Yk1RRpKddO.medium",
+                "https://guide-images.cdn.ifixit.com/igi/DZNhUrvCJPiHSUB1.medium"
+            ],
+            "thumbnails": [
+                "https://guide-images.cdn.ifixit.com/igi/UtOnL5lk5C6lFO4f.200x150",
+                "https://guide-images.cdn.ifixit.com/igi/Iha463Yk1RRpKddO.200x150",
+                "https://guide-images.cdn.ifixit.com/igi/DZNhUrvCJPiHSUB1.200x150"
+            ],
+            "description": "Check to make sure the whisper key lock is disengaged. If the whisper key lock is engaged, gently pull back on the tab to release the lock, returning the whisper key to its place.",
+            "edit_link": "https://www.ifixit.com/Guide/Bassoon+Whisper+Key+Pad+Replacement//Guide/edit/173795/370563",
+            "add_comment_link": "https://www.ifixit.com/Guide/Bassoon+Whisper+Key+Pad+Replacement/",
+            "links": []
+        },
+        {
+            "step_number": 3,
+            "title": null,
+            "image": null,
+            "description": "Remove the bocal while making sure to stay clear of the whisper key.",
+            "edit_link": "https://www.ifixit.com/Guide/Bassoon+Whisper+Key+Pad+Replacement//Guide/edit/173795/370562",
+            "add_comment_link": "https://www.ifixit.com/Guide/Bassoon+Whisper+Key+Pad+Replacement/",
+            "links": []
+        },
+        {
+            "step_number": 4,
+            "title": null,
+            "image": null,
+            "description": "Take apart the bassoon and place the wing joint on a flat surface.\nMake sure the whisper key is facing up.",
+            "edit_link": "https://www.ifixit.com/Guide/Bassoon+Whisper+Key+Pad+Replacement//Guide/edit/173795/370564",
+            "add_comment_link": "https://www.ifixit.com/Guide/Bassoon+Whisper+Key+Pad+Replacement/",
+            "links": []
+        },
+        {
+            "step_number": 5,
+            "title": null,
+            "image": null,
+            "description": "Take a flat screwdriver and remove the old glue from the key.",
+            "edit_link": "https://www.ifixit.com/Guide/Bassoon+Whisper+Key+Pad+Replacement//Guide/edit/173795/370565",
+            "add_comment_link": "https://www.ifixit.com/Guide/Bassoon+Whisper+Key+Pad+Replacement/",
+            "links": []
+        },
+        {
+            "step_number": 6,
+            "title": null,
+            "image": null,
+            "description": "If the key pad is still partially attached to the key, use the screwdriver to gently make space between the key and the key pad. Pour a small amount of super glue into this space.\nIf the whisper key pad has completely come off of the key, place a drop of super glue in the middle of the key. Place a new key pad on top of the glue.",
+            "edit_link": "https://www.ifixit.com/Guide/Bassoon+Whisper+Key+Pad+Replacement//Guide/edit/173795/370566",
+            "add_comment_link": "https://www.ifixit.com/Guide/Bassoon+Whisper+Key+Pad+Replacement/",
+            "links": []
+        },
+        {
+            "step_number": 7,
+            "title": null,
+            "image": null,
+            "description": "Gently press down on the key pad, ensuring that the glue does not spill out from the sides. If the glue does spill, wipe off the excess with a paper towel.\nAt this point, the instrument can be played again, but the key pad will not set until the glue has dried.",
+            "edit_link": "https://www.ifixit.com/Guide/Bassoon+Whisper+Key+Pad+Replacement//Guide/edit/173795/370567",
+            "add_comment_link": "https://www.ifixit.com/Guide/Bassoon+Whisper+Key+Pad+Replacement/",
+            "links": []
+        }
+    ],
+    "finish_line": {
+        "text": "Give the author +30 points! You're Finished!",
+        "cancel_link": "https://www.ifixit.com/Guide/Bassoon+Whisper+Key+Pad+Replacement/<#>"
+    },
+    "embed_code": {
+        "small": "<iframe id=\"dozuki-embed-173795\" src=\"https://www.ifixit.com/Guide/embed/173795/full\" width=\"600\" allowfullscreen frameborder=\"0\"></iframe> <script>window.addEventListener(\"message\",function(a){var b=document.getElementById(\"dozuki-embed-173795\"),c=a.data[0],d=a.data[1];switch(c){case\"setHeight\":b.style.height=d+\"px\"}},!1);</script> <iframe src=\"https://www.ifixit.com/Guide/embed/173795\" width=\"600\" height=\"584\" allowfullscreen frameborder=\"0\"></iframe>",
+        "medium": "<iframe id=\"dozuki-embed-173795\" src=\"https://www.ifixit.com/Guide/embed/173795/full\" width=\"800\" allowfullscreen frameborder=\"0\"></iframe> <script>window.addEventListener(\"message\",function(a){var b=document.getElementById(\"dozuki-embed-173795\"),c=a.data[0],d=a.data[1];switch(c){case\"setHeight\":b.style.height=d+\"px\"}},!1);</script> <iframe src=\"https://www.ifixit.com/Guide/embed/173795\" width=\"800\" height=\"584\" allowfullscreen frameborder=\"0\"></iframe>",
+        "large": "<iframe id=\"dozuki-embed-173795\" src=\"https://www.ifixit.com/Guide/embed/173795/full\" width=\"1200\" allowfullscreen frameborder=\"0\"></iframe> <script>window.addEventListener(\"message\",function(a){var b=document.getElementById(\"dozuki-embed-173795\"),c=a.data[0],d=a.data[1];switch(c){case\"setHeight\":b.style.height=d+\"px\"}},!1);</script> <iframe src=\"https://www.ifixit.com/Guide/embed/173795\" width=\"1200\" height=\"584\" allowfullscreen frameborder=\"0\"></iframe>"
+    },
+    "repair_is_noble": "https://www.ifixit.com/Manifesto"
+}

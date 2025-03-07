@@ -1,0 +1,160 @@
+{
+    "metadata": {
+        "title": "Bernina 730 Record Cam Shaft Gear Replacement",
+        "last_updated": "December 4, 2024",
+        "guide_image": "https://guide-images.cdn.ifixit.com/igi/XyXvxZYUwCX5aROh.140x105",
+        "estimated_time": "1 hour",
+        "difficulty": "Moderate",
+        "community_guide": true,
+        "device_links": [
+            {
+                "text": "Bernina 730 Record",
+                "url": "https://www.ifixit.com/Device/Bernina_730_Record"
+            },
+            {
+                "text": "Sewing Machine",
+                "url": "https://www.ifixit.com/Device/Sewing_Machine"
+            },
+            {
+                "text": "Arts, Crafts & Sewing",
+                "url": "https://www.ifixit.com/Device/Arts_Crafts_and_Sewing"
+            },
+            {
+                "text": "Household",
+                "url": "https://www.ifixit.com/Device/Household"
+            },
+            {
+                "text": "Home",
+                "url": "https://www.ifixit.com/Guide"
+            }
+        ],
+        "parts_links": [
+            {
+                "text": "Guides",
+                "url": "https://www.ifixit.com/Device/Bernina_730_Record#Section_Guides"
+            },
+            {
+                "text": "Answers",
+                "url": "https://www.ifixit.com/Answers/Device/Bernina_730_Record"
+            }
+        ],
+        "edit_link": "https://www.ifixit.com/Guide/edit/94269"
+    },
+    "introduction": "Issue: sewing machine bogs down every 8-15 stitches.\nReplace the broken/worn out gear on the stitch cam shaft.",
+    "what_you_need": {
+        "parts": [
+            {
+                "text": "Cam shaft gear",
+                "url": "https://smile.amazon.com/gp/product/B01EWH5TIO/ref=oh_aui_detailpage_o02_s00?ie=UTF8&psc=1&tag=ifixitam-20",
+                "affiliate_link": "https://smile.amazon.com/gp/product/B01EWH5TIO/ref=oh_aui_detailpage_o02_s00?ie=UTF8&psc=1&tag=ifixitam-20",
+                "available_on_amazon": "https://smile.amazon.com/gp/product/B01EWH5TIO/ref=oh_aui_detailpage_o02_s00?ie=UTF8&psc=1&tag=ifixitam-20",
+                "view_link": "https://smile.amazon.com/gp/product/B01EWH5TIO/ref=oh_aui_detailpage_o02_s00?ie=UTF8&psc=1&tag=ifixitam-20"
+            },
+            {
+                "text": "Sewing machine oil",
+                "url": "https://www.amazon.com/Singer-Purpose-Sewing-Machine-3-38-Fluid/dp/B08DN2FHDY/ref=sr_1_4?crid=374T4XCGXQFJ5&dib=eyJ2IjoiMSJ9.rPbMgRjd97gOj0fDe7QqSk-QT9d5-LMmtHyNJq6Qs21FogKtBzVV6CfdCe1iiJXwX1WEKFRxKmNt6E_wBAKCGrmtb95tmnc-E9YK5Nqe_kygYn4H7ZulivYmUMjf8oe33oS0Qra5pBHw3jzZJWA4p24aF8NNCBIlIR34YIKBQrCTlzWoVs3-fUmO8ZXbtnMCH07C-dmjXvGGI68eBmKN9-B7adbpKvhBKdVWZrEC5NmuOJzOyhbRgyTJe83ikE5R5qxJrw0PX6WiU6oclNnpIKIjGngv9fuZbTz0JS6Llkw.GgEkCFw_kCqzMtyyKkJ7LgGUXjRyKAvWaMlTlG2HHEQ&dib_tag=se&keywords=sewing%2Bmachine%2Boil&qid=1716306462&sprefix=sewing%2Bmachine%2Boil%2Caps%2C303&sr=8-4&tag=ifixitam-20",
+                "affiliate_link": "https://www.amazon.com/Singer-Purpose-Sewing-Machine-3-38-Fluid/dp/B08DN2FHDY/ref=sr_1_4?crid=374T4XCGXQFJ5&dib=eyJ2IjoiMSJ9.rPbMgRjd97gOj0fDe7QqSk-QT9d5-LMmtHyNJq6Qs21FogKtBzVV6CfdCe1iiJXwX1WEKFRxKmNt6E_wBAKCGrmtb95tmnc-E9YK5Nqe_kygYn4H7ZulivYmUMjf8oe33oS0Qra5pBHw3jzZJWA4p24aF8NNCBIlIR34YIKBQrCTlzWoVs3-fUmO8ZXbtnMCH07C-dmjXvGGI68eBmKN9-B7adbpKvhBKdVWZrEC5NmuOJzOyhbRgyTJe83ikE5R5qxJrw0PX6WiU6oclNnpIKIjGngv9fuZbTz0JS6Llkw.GgEkCFw_kCqzMtyyKkJ7LgGUXjRyKAvWaMlTlG2HHEQ&dib_tag=se&keywords=sewing%2Bmachine%2Boil&qid=1716306462&sprefix=sewing%2Bmachine%2Boil%2Caps%2C303&sr=8-4&tag=ifixitam-20",
+                "available_on_amazon": "https://www.amazon.com/Singer-Purpose-Sewing-Machine-3-38-Fluid/dp/B08DN2FHDY/ref=sr_1_4?crid=374T4XCGXQFJ5&dib=eyJ2IjoiMSJ9.rPbMgRjd97gOj0fDe7QqSk-QT9d5-LMmtHyNJq6Qs21FogKtBzVV6CfdCe1iiJXwX1WEKFRxKmNt6E_wBAKCGrmtb95tmnc-E9YK5Nqe_kygYn4H7ZulivYmUMjf8oe33oS0Qra5pBHw3jzZJWA4p24aF8NNCBIlIR34YIKBQrCTlzWoVs3-fUmO8ZXbtnMCH07C-dmjXvGGI68eBmKN9-B7adbpKvhBKdVWZrEC5NmuOJzOyhbRgyTJe83ikE5R5qxJrw0PX6WiU6oclNnpIKIjGngv9fuZbTz0JS6Llkw.GgEkCFw_kCqzMtyyKkJ7LgGUXjRyKAvWaMlTlG2HHEQ&dib_tag=se&keywords=sewing%2Bmachine%2Boil&qid=1716306462&sprefix=sewing%2Bmachine%2Boil%2Caps%2C303&sr=8-4&tag=ifixitam-20",
+                "view_link": "https://www.amazon.com/Singer-Purpose-Sewing-Machine-3-38-Fluid/dp/B08DN2FHDY/ref=sr_1_4?crid=374T4XCGXQFJ5&dib=eyJ2IjoiMSJ9.rPbMgRjd97gOj0fDe7QqSk-QT9d5-LMmtHyNJq6Qs21FogKtBzVV6CfdCe1iiJXwX1WEKFRxKmNt6E_wBAKCGrmtb95tmnc-E9YK5Nqe_kygYn4H7ZulivYmUMjf8oe33oS0Qra5pBHw3jzZJWA4p24aF8NNCBIlIR34YIKBQrCTlzWoVs3-fUmO8ZXbtnMCH07C-dmjXvGGI68eBmKN9-B7adbpKvhBKdVWZrEC5NmuOJzOyhbRgyTJe83ikE5R5qxJrw0PX6WiU6oclNnpIKIjGngv9fuZbTz0JS6Llkw.GgEkCFw_kCqzMtyyKkJ7LgGUXjRyKAvWaMlTlG2HHEQ&dib_tag=se&keywords=sewing%2Bmachine%2Boil&qid=1716306462&sprefix=sewing%2Bmachine%2Boil%2Caps%2C303&sr=8-4&tag=ifixitam-20"
+            }
+        ],
+        "tools": [
+            {
+                "text": "Jeweler's flathead screwdriver",
+                "url": "https://www.ifixit.com/Item/Jeweler%27s_flathead_screwdriver"
+            },
+            {
+                "text": "No. 2 flathead screwdriver",
+                "url": "https://www.ifixit.com/Item/No._2_flathead_screwdriver"
+            },
+            {
+                "text": "Large Needle Nose Pliers",
+                "url": "https://www.ifixit.com/products/large-needle-nose-pliers",
+                "image": "https://cart-products.cdn.ifixit.com/cart-products/xsuUhWaHMfDB6FnN.thumbnail",
+                "price": "$4.99"
+            }
+        ]
+    },
+    "steps": [
+        {
+            "step_number": 1,
+            "title": "Remove Top Cover",
+            "text": "Open the top of the machine to expose the internal mechanism.\nIt is easier to replace the gear without the top cover in place. Loosen the screw holding the cover arm on. Remove the pin and set aside for later.\nRemove the two screws holding the hinges. Set the cover aside.",
+            "image": "https://guide-images.cdn.ifixit.com/igi/XyXvxZYUwCX5aROh.medium",
+            "image_links": [
+                "https://guide-images.cdn.ifixit.com/igi/XyXvxZYUwCX5aROh.200x150",
+                "https://guide-images.cdn.ifixit.com/igi/pTUcOCiQWPMSgVN3.200x150",
+                "https://guide-images.cdn.ifixit.com/igi/HQWWGhINATD4wOTN.200x150"
+            ],
+            "edit_link": "https://www.ifixit.com/Guide/edit/94269/175240",
+            "comment_links": [],
+            "additional_images": [
+                "https://guide-images.cdn.ifixit.com/igi/pTUcOCiQWPMSgVN3.medium",
+                "https://guide-images.cdn.ifixit.com/igi/HQWWGhINATD4wOTN.medium"
+            ]
+        },
+        {
+            "step_number": 2,
+            "title": "Remove Stitch Selector",
+            "text": "Remove the three screws holding the assembly down. In my case one of the screws was stuck and I had to use locking pliers to loosen it.\nPush the needle position indicator to the side to access the screw beneath it.\nPull the assembly to the left and up. It should come out easily.",
+            "image": "https://guide-images.cdn.ifixit.com/igi/aVNk6wdHKbtVVqVF.medium",
+            "image_links": [
+                "https://guide-images.cdn.ifixit.com/igi/aVNk6wdHKbtVVqVF.200x150",
+                "https://guide-images.cdn.ifixit.com/igi/kteWaTPYXPfjVInO.200x150",
+                "https://guide-images.cdn.ifixit.com/igi/XKbiNIGjh3QjfXIT.200x150"
+            ],
+            "edit_link": "https://www.ifixit.com/Guide/edit/94269/175241",
+            "comment_links": [],
+            "additional_images": [
+                "https://guide-images.cdn.ifixit.com/igi/kteWaTPYXPfjVInO.medium",
+                "https://guide-images.cdn.ifixit.com/igi/XKbiNIGjh3QjfXIT.medium"
+            ]
+        },
+        {
+            "step_number": 3,
+            "title": "Remove the shaft",
+            "text": "The shaft is held in by the set screws on the gear hubs: 1 on the cam gear, 2 on the little pinion gear 90 degrees apart. Loosen them 3 turns or so with a jewelers screwdriver.\nSlide the pinion gear to the end of the shaft. Gently slide the shaft back with needle nose pliers. Catch the gear before it falls.\nPush the shaft out the back then finish pulling it out.",
+            "image_links": [],
+            "edit_link": "https://www.ifixit.com/Guide/edit/94269/175242",
+            "comment_links": []
+        },
+        {
+            "step_number": 4,
+            "title": "Remove the gear",
+            "text": "Loosen the two screws holding the gear and cam assembly together so that the screws can come out. Keep the screws in the holes to keep everything together.\nPush the gear shaft with fingers or screwdriver to slide it out. It may require the use of two screwdrivers to pry out.",
+            "image_links": [],
+            "edit_link": "https://www.ifixit.com/Guide/edit/94269/175243",
+            "comment_links": []
+        },
+        {
+            "step_number": 5,
+            "title": "Replace the gear",
+            "text": "Insert the new gear shaft into the cam assembly. Line up the holes and thread the screws in.\nThe new gear I bought came with an Allen head set screw so I swapped the old flat head setscrew into the new shaft.\nSet the gear and cam assembly in the sewing machine.",
+            "image_links": [],
+            "edit_link": "https://www.ifixit.com/Guide/edit/94269/175244",
+            "comment_links": []
+        },
+        {
+            "step_number": 6,
+            "title": "Insert the shaft",
+            "text": "Slide the shaft in, small end first, until it just protrudes from bearing on the gear side.\nHold the pinion gear in place and slide the shaft the remainder of the way into it.\nMake sure the shaft is flush with the back of the machine and the pinion gear is on as far as it will go.\nTighten the set screws on the gears (there are 2 on the pinion).\nNylon gears are supposedly self lubricating but I find a little sewing machine oil is useful since it is driven by a worm gear.",
+            "image_links": [],
+            "edit_link": "https://www.ifixit.com/Guide/edit/94269/175245",
+            "comment_links": []
+        },
+        {
+            "step_number": 7,
+            "title": "Install Needle Indicator",
+            "text": "Slide the needle indicator in from the left. Push the stitch selector aside as needed.\nInstall the three screws in reverse order that you removed them.\nThe needle indicator (white with black diamonds) rides on a lever, touching a black gear, that is driven by the pinion gear from earlier. Make sure this lever is up and touching the black gear.",
+            "image_links": [],
+            "edit_link": "https://www.ifixit.com/Guide/edit/94269/175246",
+            "comment_links": []
+        }
+    ],
+    "conclusion": {
+        "text": "Turn the machine manually at least one full turn to make sure everything is properly in it's place.",
+        "author_points": 30,
+        "cancel_link": "https://www.ifixit.com/Guide/Bernina+730+Record+Cam+Shaft+Gear+Replacement/<#>"
+    },
+    "embed_code": "<iframe id=\"dozuki-embed-94269\" src=\"https://www.ifixit.com/Guide/embed/94269/full\" width=\"800\" allowfullscreen frameborder=\"0\"></iframe> <script>window.addEventListener(\"message\",function(a){var b=document.getElementById(\"dozuki-embed-94269\"),c=a.data[0],d=a.data[1];switch(c){case\"setHeight\":b.style.height=d+\"px\"}},!1);</script> <iframe src=\"https://www.ifixit.com/Guide/embed/94269\" width=\"800\" height=\"584\" allowfullscreen frameborder=\"0\"></iframe>"
+}

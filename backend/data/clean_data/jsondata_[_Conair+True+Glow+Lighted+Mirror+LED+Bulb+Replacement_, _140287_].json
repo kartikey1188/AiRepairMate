@@ -1,0 +1,210 @@
+{
+    "metadata": {
+        "title": "Conair True Glow Lighted Mirror LED Bulb Replacement",
+        "last_updated": "May 13, 2024",
+        "estimated_time": "2 - 5 minutes",
+        "difficulty": "Easy",
+        "guide_url": "https://www.ifixit.com/Guide/Conair+True+Glow+Lighted+Mirror+LED+Bulb+Replacement/",
+        "guide_id": 140287,
+        "device_categories": [
+            {
+                "name": "Health And Personal Care",
+                "url": "https://www.ifixit.com/Guide/Conair+True+Glow+Lighted+Mirror+LED+Bulb+Replacement/<https://www.ifixit.com/Device/Health_And_Personal_Care>"
+            },
+            {
+                "name": "Household",
+                "url": "https://www.ifixit.com/Guide/Conair+True+Glow+Lighted+Mirror+LED+Bulb+Replacement/<https://www.ifixit.com/Device/Household>"
+            },
+            {
+                "name": "Home",
+                "url": "https://www.ifixit.com/Guide/Conair+True+Glow+Lighted+Mirror+LED+Bulb+Replacement/<https://www.ifixit.com/Guide>"
+            }
+        ],
+        "parts_url": "https://www.ifixit.com/Guide/Conair+True+Glow+Lighted+Mirror+LED+Bulb+Replacement/<https://www.ifixit.com/Device/Health_And_Personal_Care#Section_Guides>",
+        "answers_url": "https://www.ifixit.com/Guide/Conair+True+Glow+Lighted+Mirror+LED+Bulb+Replacement/</Answers/Device/Health_And_Personal_Care>",
+        "edit_url": "https://www.ifixit.com/Guide/Conair+True+Glow+Lighted+Mirror+LED+Bulb+Replacement/</Guide/edit/140287>",
+        "guide_image": "https://guide-images.cdn.ifixit.com/igi/SPKBa6jqkBNghVrC.140x105",
+        "embed_code": {
+            "small": "<iframe id=\"dozuki-embed-140287\" src=\"https://www.ifixit.com/Guide/embed/140287/full\" width=\"600\" allowfullscreen frameborder=\"0\"></iframe> <script>window.addEventListener(\"message\",function(a){var b=document.getElementById(\"dozuki-embed-140287\"),c=a.data[0],d=a.data[1];switch(c){case\"setHeight\":b.style.height=d+\"px\"}},!1);</script>",
+            "medium": "<iframe id=\"dozuki-embed-140287\" src=\"https://www.ifixit.com/Guide/embed/140287/full\" width=\"800\" allowfullscreen frameborder=\"0\"></iframe> <script>window.addEventListener(\"message\",function(a){var b=document.getElementById(\"dozuki-embed-140287\"),c=a.data[0],d=a.data[1];switch(c){case\"setHeight\":b.style.height=d+\"px\"}},!1);</script>",
+            "large": "<iframe id=\"dozuki-embed-140287\" src=\"https://www.ifixit.com/Guide/embed/140287/full\" width=\"1200\" allowfullscreen frameborder=\"0\"></iframe> <script>window.addEventListener(\"message\",function(a){var b=document.getElementById(\"dozuki-embed-140287\"),c=a.data[0],d=a.data[1];switch(c){case\"setHeight\":b.style.height=d+\"px\"}},!1);</script>",
+            "single_step_embed": "<iframe src=\"https://www.ifixit.com/Guide/embed/140287\" width=\"800\" height=\"584\" allowfullscreen frameborder=\"0\"></iframe>"
+        }
+    },
+    "introduction": {
+        "text": "Use this guide to replace a faulty or shattered light bulb in your Conair True Glow Lighted Mirror (model TGBE104XCLED).\nThe light bulb is a piece of hardware that is used to convert electricity into light, consisting of a source of illumination enclosed within a transparent or translucent shell, typically having a rounded shape. For this device, use an all-purpose fluorescent 8W (watt) LED light bulb.\nIf your bulb is shattered, make sure to wear proper clothing and eyewear before beginning this guide.",
+        "step_url": "https://www.ifixit.com/Guide/Conair+True+Glow+Lighted+Mirror+LED+Bulb+Replacement/<#s279648>"
+    },
+    "parts": [
+        {
+            "name": "all‑purpose fluorescent 8W (watt) LED light bulb",
+            "url": "https://www.ifixit.com/Guide/Conair+True+Glow+Lighted+Mirror+LED+Bulb+Replacement/</Item/all-purpose_fluorescent_8W_%28watt%29_LED_light_bulb>",
+            "image_url": ""
+        }
+    ],
+    "tools": [
+        {
+            "name": "Phillips #00 Screwdriver",
+            "url": "https://www.ifixit.com/Guide/Conair+True+Glow+Lighted+Mirror+LED+Bulb+Replacement/<https://www.ifixit.com/products/phillips-00-screwdriver>",
+            "price_new_ifixit": "$5.49",
+            "price_new_moody": "$8.99",
+            "add_to_cart_url": "https://www.ifixit.com/Guide/Conair+True+Glow+Lighted+Mirror+LED+Bulb+Replacement/<https://www.ifixit.com/products/phillips-00-screwdriver>",
+            "image_url": "https://cart-products.cdn.ifixit.com/cart-products/upNtpW5ghNgA3abG.thumbnail"
+        }
+    ],
+    "steps": [
+        {
+            "step_number": 1,
+            "title": "LED Bulb",
+            "step_url": "https://www.ifixit.com/Guide/Conair+True+Glow+Lighted+Mirror+LED+Bulb+Replacement/<#s279648>",
+            "instructions": [
+                "Unplug and remove batteries to make sure the ring light does not turn on while repairing."
+            ],
+            "images": [
+                {
+                    "original": "https://guide-images.cdn.ifixit.com/igi/SgnCLUOQMvVQ3JFW.medium",
+                    "thumbnail": ""
+                }
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/Conair+True+Glow+Lighted+Mirror+LED+Bulb+Replacement/</Guide/edit/140287/279648>",
+            "comments_section": {
+                "add_comment_url": null,
+                "max_length": 1024
+            }
+        },
+        {
+            "step_number": 2,
+            "title": "",
+            "step_url": "https://www.ifixit.com/Guide/Conair+True+Glow+Lighted+Mirror+LED+Bulb+Replacement/<#s279649>",
+            "instructions": [
+                "Remove the two 2 mm screws on the side of the ring mirror (one on each side) using a Phillips #00 screwdriver."
+            ],
+            "images": [
+                {
+                    "original": "https://guide-images.cdn.ifixit.com/igi/JVcAFqZNiWJkuwAo.medium",
+                    "thumbnail": "https://guide-images.cdn.ifixit.com/igi/JVcAFqZNiWJkuwAo.200x150"
+                },
+                {
+                    "original": "https://guide-images.cdn.ifixit.com/igi/U3kE5FdyayHAS6wI.medium",
+                    "thumbnail": "https://guide-images.cdn.ifixit.com/igi/U3kE5FdyayHAS6wI.200x150"
+                },
+                {
+                    "original": "https://guide-images.cdn.ifixit.com/igi/AARATQxGhZgnLQNw.medium",
+                    "thumbnail": "https://guide-images.cdn.ifixit.com/igi/AARATQxGhZgnLQNw.200x150"
+                }
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/Conair+True+Glow+Lighted+Mirror+LED+Bulb+Replacement/</Guide/edit/140287/279649>",
+            "comments_section": {
+                "add_comment_url": null,
+                "max_length": 1024
+            }
+        },
+        {
+            "step_number": 3,
+            "title": "",
+            "step_url": "https://www.ifixit.com/Guide/Conair+True+Glow+Lighted+Mirror+LED+Bulb+Replacement/<#s279651>",
+            "instructions": [
+                "Push the cover towards you and slide away from the rest of the mirror."
+            ],
+            "images": [],
+            "edit_url": "https://www.ifixit.com/Guide/Conair+True+Glow+Lighted+Mirror+LED+Bulb+Replacement/</Guide/edit/140287/279651>",
+            "comments_section": {
+                "add_comment_url": null,
+                "max_length": 1024
+            }
+        },
+        {
+            "step_number": 4,
+            "title": "",
+            "step_url": "https://www.ifixit.com/Guide/Conair+True+Glow+Lighted+Mirror+LED+Bulb+Replacement/<#s279653>",
+            "instructions": [
+                "Using your hands, gently unscrew the old LED light bulb in a counter-clockwise direction."
+            ],
+            "images": [],
+            "edit_url": "https://www.ifixit.com/Guide/Conair+True+Glow+Lighted+Mirror+LED+Bulb+Replacement/</Guide/edit/140287/279653>",
+            "comments_section": {
+                "add_comment_url": null,
+                "max_length": 1024
+            }
+        },
+        {
+            "step_number": 5,
+            "title": "",
+            "step_url": "https://www.ifixit.com/Guide/Conair+True+Glow+Lighted+Mirror+LED+Bulb+Replacement/<#s279654>",
+            "instructions": [
+                "Use your hands to screw in the new LED light bulb in a clockwise direction."
+            ],
+            "images": [],
+            "edit_url": "https://www.ifixit.com/Guide/Conair+True+Glow+Lighted+Mirror+LED+Bulb+Replacement/</Guide/edit/140287/279654>",
+            "comments_section": {
+                "add_comment_url": null,
+                "max_length": 1024
+            }
+        },
+        {
+            "step_number": 6,
+            "title": "",
+            "step_url": "https://www.ifixit.com/Guide/Conair+True+Glow+Lighted+Mirror+LED+Bulb+Replacement/<#s279655>",
+            "instructions": [
+                "Take the cover and push it back down in place."
+            ],
+            "images": [],
+            "edit_url": "https://www.ifixit.com/Guide/Conair+True+Glow+Lighted+Mirror+LED+Bulb+Replacement/</Guide/edit/140287/279655>",
+            "comments_section": {
+                "add_comment_url": null,
+                "max_length": 1024
+            }
+        },
+        {
+            "step_number": 7,
+            "title": "",
+            "step_url": "https://www.ifixit.com/Guide/Conair+True+Glow+Lighted+Mirror+LED+Bulb+Replacement/<#s279656>",
+            "instructions": [
+                "Screw in the two 2 mm screws on each side of the mirror using a Phillips #00 screwdriver."
+            ],
+            "images": [],
+            "edit_url": "https://www.ifixit.com/Guide/Conair+True+Glow+Lighted+Mirror+LED+Bulb+Replacement/</Guide/edit/140287/279656>",
+            "comments_section": {
+                "add_comment_url": null,
+                "max_length": 1024
+            }
+        },
+        {
+            "step_number": 8,
+            "title": "",
+            "step_url": "https://www.ifixit.com/Guide/Conair+True+Glow+Lighted+Mirror+LED+Bulb+Replacement/<#s279657>",
+            "instructions": [
+                "Plug the mirror in and reinsert batteries to turn it on."
+            ],
+            "images": [],
+            "edit_url": "https://www.ifixit.com/Guide/Conair+True+Glow+Lighted+Mirror+LED+Bulb+Replacement/</Guide/edit/140287/279657>",
+            "comments_section": {
+                "add_comment_url": null,
+                "max_length": 1024
+            }
+        },
+        {
+            "step_number": 9,
+            "title": "",
+            "step_url": "https://www.ifixit.com/Guide/Conair+True+Glow+Lighted+Mirror+LED+Bulb+Replacement/<#s279658>",
+            "instructions": [
+                "Enjoy your fixed LED ring mirror light!"
+            ],
+            "images": [],
+            "edit_url": "https://www.ifixit.com/Guide/Conair+True+Glow+Lighted+Mirror+LED+Bulb+Replacement/</Guide/edit/140287/279658>",
+            "comments_section": {
+                "add_comment_url": null,
+                "max_length": 1024
+            }
+        }
+    ],
+    "conclusion": {
+        "text": "Finish Line",
+        "almost_done": "Almost done!"
+    },
+    "additional_info": {
+        "give_author_points": "Give the author +30 points!  You're Finished!",
+        "cancel_guide_completion_url": "https://www.ifixit.com/Guide/Conair+True+Glow+Lighted+Mirror+LED+Bulb+Replacement/<#>",
+        "completed_count": 1
+    }
+}

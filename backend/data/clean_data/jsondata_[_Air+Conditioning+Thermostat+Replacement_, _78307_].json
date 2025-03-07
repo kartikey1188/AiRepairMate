@@ -1,0 +1,136 @@
+{
+    "title": "Air Conditioning Thermostat Replacement",
+    "last_updated": "March 18, 2021",
+    "estimated_time": "15 - 30 minutes",
+    "difficulty": "Easy",
+    "introduction": "This is an easy step-by-step walkthrough guide for replacing an Emerson thermostat. This replacement will assist anyone moving into a new home or apartment that has a vintage air conditioning thermostat and could use an effective replacement.\nWhen working on an air conditioning unit, it is necessary to locate the circuit breaker that supplies the power. You will be dealing with electrical wiring terminals, so to be as safe as possible, turn off the electrical circuit breaker in order to perform a safe replacement.",
+    "parts": [
+        {
+            "name": "New Thermostat",
+            "url": "https://www.ifixit.com/Item/New_Thermostat"
+        }
+    ],
+    "tools": [
+        {
+            "name": "Flathead 3/32\" or 2.5 mm Screwdriver",
+            "url": "https://www.ifixit.com/products/flathead-3-32-or-2-5-mm-screwdriver",
+            "image": "https://cart-products.cdn.ifixit.com/cart-products/JsCoFJUVWU2hrkes.thumbnail",
+            "price": "$5.49",
+            "add_to_cart_url": "https://www.ifixit.com/products/flathead-3-32-or-2-5-mm-screwdriver"
+        },
+        {
+            "name": "Small Phillips Screwdriver",
+            "url": "https://www.ifixit.com/Item/Small_Phillips_Screwdriver"
+        },
+        {
+            "name": "Large Needle Nose Pliers",
+            "url": "https://www.ifixit.com/products/large-needle-nose-pliers",
+            "image": "https://cart-products.cdn.ifixit.com/cart-products/xsuUhWaHMfDB6FnN.thumbnail",
+            "price": "$4.99",
+            "add_to_cart_url": "https://www.ifixit.com/products/large-needle-nose-pliers"
+        }
+    ],
+    "steps": [
+        {
+            "step_number": 1,
+            "title": "Turn Off the Power",
+            "content": [
+                "Before you begin, locate the circuit breaker switchboard for the housing unit.",
+                "Find the air conditioning breaker that’s typically labeled inside the breaker's panel cover.",
+                "Turn off the electrical breaker switch that supplies the air conditioning thermostat."
+            ],
+            "images": [
+                "https://guide-images.cdn.ifixit.com/igi/EpXCTwFAaK5Wh1VO.medium",
+                "https://guide-images.cdn.ifixit.com/igi/fBB21fgYjw12DSHw.medium",
+                "https://guide-images.cdn.ifixit.com/igi/JUT4CaVhvIMMNC4A.medium"
+            ],
+            "images_200x150": [
+                "https://guide-images.cdn.ifixit.com/igi/EpXCTwFAaK5Wh1VO.200x150",
+                "https://guide-images.cdn.ifixit.com/igi/fBB21fgYjw12DSHw.200x150",
+                "https://guide-images.cdn.ifixit.com/igi/JUT4CaVhvIMMNC4A.200x150"
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/78307/156565",
+            "comments_count": 0,
+            "add_comment_url": null
+        },
+        {
+            "step_number": 2,
+            "title": "Remove the Existing Thermostat",
+            "content": [
+                "Separate the thermostat casing off of the wall plate. It should come off easily using your hands, but a pair of pliers can be used if it's being stubborn.",
+                "Take a picture using your phone's camera of the color-coded wiring, so it will be easier to re-attach the wiring to the new thermostat."
+            ],
+            "images": [
+                "https://guide-images.cdn.ifixit.com/igi/mpAHDkTRRmeLUQvS.medium"
+            ],
+            "images_200x150": [
+                "https://guide-images.cdn.ifixit.com/igi/mpAHDkTRRmeLUQvS.200x150",
+                "https://guide-images.cdn.ifixit.com/igi/NMNeexPKZBwZ2aBJ.200x150",
+                "https://guide-images.cdn.ifixit.com/igi/oAPoDTfYkMK4YkQe.200x150"
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/78307/156566",
+            "comments_count": 0,
+            "add_comment_url": null
+        },
+        {
+            "step_number": 3,
+            "content": [
+                "Use the Flathead 3/32\" 2.5 mm Screwdriver to separate the color coded wiring.",
+                "Use the Phillips or flathead screwdriver to separate and un-wrap each of the color coded wires. (For example: notice the yellow wire)",
+                "Use the Phillips or flathead screwdriver depending on the type of model, to remove the Phillips #0 Plus screw, in order to remove the base plate."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/78307/156567",
+            "comments_count": 0,
+            "add_comment_url": null
+        },
+        {
+            "step_number": 4,
+            "content": [
+                "Remove the old base plate of the thermostat.",
+                "Screw in the new base plate of the Thermostat using the Phillips or flathead screwdriver to screw in the Phillips #0 Plus screw drive.",
+                "Using the screwdriver; reconnect the color-coded wring based on the photo taken with your camera. (For example: Notice the yellow wiring)"
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/78307/156568",
+            "comments_count": 0,
+            "add_comment_url": null
+        },
+        {
+            "step_number": 5,
+            "content": [
+                "Use your fingers to wrap the copper around the terminal slots, Use your Flathead 3/32\" 2.5 mm Screwdriver to tighten the terminal slots. (For example: Notice the yellow wiring)",
+                "Fasten the terminal slots using your Phillips Flathead 3/32\" 2.5 mm Screwdriver."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/78307/156569",
+            "comments_count": 0,
+            "add_comment_url": null
+        },
+        {
+            "step_number": 6,
+            "content": [
+                "Place the new thermostat casing over the base plate.",
+                "Snap on the thermostat casing."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/78307/156570",
+            "comments_count": 0,
+            "add_comment_url": null
+        },
+        {
+            "step_number": 7,
+            "content": [
+                "Locate the circuit breaker switchboard for the housing unit.",
+                "Locate the air conditioning electrical breaker switch.",
+                "Turn on the electrical breaker switch that the air conditioning thermostat supplies."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/78307/156571",
+            "comments_count": 0,
+            "add_comment_url": null
+        }
+    ],
+    "conclusion": "To reassemble your device, follow these instructions in reverse order.",
+    "embed_code": {
+        "small": "<iframe id=\"dozuki-embed-78307\" src=\"https://www.ifixit.com/Guide/embed/78307/full\" width=\"600\" allowfullscreen frameborder=\"0\"></iframe> <script>window.addEventListener(\"message\",function(a){var b=document.getElementById(\"dozuki-embed-78307\"),c=a.data[0],d=a.data[1];switch(c){case\"setHeight\":b.style.height=d+\"px\"}},!1);</script>",
+        "medium": "<iframe id=\"dozuki-embed-78307\" src=\"https://www.ifixit.com/Guide/embed/78307/full\" width=\"800\" allowfullscreen frameborder=\"0\"></iframe> <script>window.addEventListener(\"message\",function(a){var b=document.getElementById(\"dozuki-embed-78307\"),c=a.data[0],d=a.data[1];switch(c){case\"setHeight\":b.style.height=d+\"px\"}},!1);</script>",
+        "large": "<iframe id=\"dozuki-embed-78307\" src=\"https://www.ifixit.com/Guide/embed/78307/full\" width=\"1200\" allowfullscreen frameborder=\"0\"></iframe> <script>window.addEventListener(\"message\",function(a){var b=document.getElementById(\"dozuki-embed-78307\"),c=a.data[0],d=a.data[1];switch(c){case\"setHeight\":b.style.height=d+\"px\"}},!1);</script>",
+        "full_guide": "<iframe src=\"https://www.ifixit.com/Guide/embed/78307\" width=\"800\" height=\"584\" allowfullscreen frameborder=\"0\"></iframe>"
+    }
+}

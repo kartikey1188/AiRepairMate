@@ -1,0 +1,154 @@
+{
+    "metadata": {
+        "title": "Delta Push Valve Shower Diverter RP5649 Replacement",
+        "last_updated": "June 10, 2021",
+        "estimated_time": "15 - 35 minutes",
+        "difficulty": "Easy",
+        "introduction": "If your Delta Push Valve shower diverter is leaky, stuck into place, or needs to be replaced for any reason, this guide is for you. Your shower diverter plays an important role in diverting water back and forth between the tub faucet and the shower head. A plumber visit can be costly, but the fix can be easy and save you time, stress, and money. This process should take 25 minutes max with a few simple tools no hazards on the job. The guide will walk you through how to disassemble your shower valve, replace the diverter, and put it all back together again in functioning order. This guide works to repair or replace a Delta Push Valve style diverter, or a model RP5649. If you have a different type of diverter, this guide may not work for you."
+    },
+    "parts": [
+        {
+            "name": "Delta Push Button Diverter Valve",
+            "url": "https://www.homedepot.com/p/Delta-Push-Button-Diverter-RP5649/203170115",
+            "for_sale_from_another_site": true,
+            "view_link": "https://www.homedepot.com/p/Delta-Push-Button-Diverter-RP5649/203170115"
+        }
+    ],
+    "tools": [
+        {
+            "name": "Phillips #2 Screwdriver",
+            "url": "https://www.ifixit.com/products/6-in-1-screwdriver",
+            "image_url": "https://cart-products.cdn.ifixit.com/cart-products/LYcK13TjejldWD5Y.thumbnail",
+            "price": "$6.99",
+            "add_to_cart": true
+        },
+        {
+            "name": "7/8\" Wrench",
+            "url": "https://www.homedepot.com/p/Husky-7-8-in-12-Point-SAE-Full-Polish-Combination-Wrench-HCW78/202916153",
+            "for_sale_from_another_site": true,
+            "view_link": "https://www.homedepot.com/p/Husky-7-8-in-12-Point-SAE-Full-Polish-Combination-Wrench-HCW78/202916153"
+        },
+        {
+            "name": "7/8in Deep Socket 6 Point Drive",
+            "url": "https://www.homedepot.com/p/Husky-3-8-in-Drive-7-8-in-6-Point-SAE-Deep-Socket-H3D6PDP78/202913522",
+            "for_sale_from_another_site": true,
+            "view_link": "https://www.homedepot.com/p/Husky-3-8-in-Drive-7-8-in-6-Point-SAE-Deep-Socket-H3D6PDP78/202913522"
+        },
+        {
+            "name": "Socket Wrench",
+            "url": "https://www.amazon.com/s?k=ratchet%2Bsocket%2Bwrench&crid=2D2VUQVM96VM&sprefix=ratchet%2Bsocket%2Bwrench%2Caps%2C195&ref=nb_sb_noss_1&tag=ifixitam-20",
+            "image_url": "https://guide-images.cdn.ifixit.com/igi/FM3gDp5dqGGRMY3b.thumbnail",
+            "affiliate_link": true,
+            "available_for_sale": "https://www.amazon.com/s?k=ratchet%2Bsocket%2Bwrench&crid=2D2VUQVM96VM&sprefix=ratchet%2Bsocket%2Bwrench%2Caps%2C195&ref=nb_sb_noss_1&tag=ifixitam-20",
+            "view_link": "https://www.amazon.com/s?k=ratchet%2Bsocket%2Bwrench&crid=2D2VUQVM96VM&sprefix=ratchet%2Bsocket%2Bwrench%2Caps%2C195&ref=nb_sb_noss_1&tag=ifixitam-20"
+        },
+        {
+            "name": "6‑in-1 Screwdriver",
+            "url": "https://www.ifixit.com/products/6-in-1-screwdriver",
+            "image_url": "https://cart-products.cdn.ifixit.com/cart-products/LYcK13TjejldWD5Y.thumbnail",
+            "price": "$6.99",
+            "add_to_cart": true
+        },
+        {
+            "name": "Phillips #2 Screwdriver",
+            "url": "https://www.ifixit.com/products/6-in-1-screwdriver",
+            "image_url": "https://cart-products.cdn.ifixit.com/cart-products/LYcK13TjejldWD5Y.thumbnail",
+            "price": "$6.99",
+            "add_to_cart": true
+        },
+        {
+            "name": "7/8\" Wrench",
+            "url": "https://www.homedepot.com/p/Husky-7-8-in-12-Point-SAE-Full-Polish-Combination-Wrench-HCW78/202916153",
+            "for_sale_from_another_site": true,
+            "view_link": "https://www.homedepot.com/p/Husky-7-8-in-12-Point-SAE-Full-Polish-Combination-Wrench-HCW78/202916153"
+        },
+        {
+            "name": "7/8in Deep Socket 6 Point Drive",
+            "url": "https://www.homedepot.com/p/Husky-3-8-in-Drive-7-8-in-6-Point-SAE-Deep-Socket-H3D6PDP78/202913522",
+            "for_sale_from_another_site": true,
+            "view_link": "https://www.homedepot.com/p/Husky-3-8-in-Drive-7-8-in-6-Point-SAE-Deep-Socket-H3D6PDP78/202913522"
+        }
+    ],
+    "steps": [
+        {
+            "step_number": 1,
+            "title": "Delta Push Valve Shower Diverter",
+            "instructions": [
+                "Remove the decorative cap off of the knob by pushing a flathead screwdriver underneath the cap.",
+                "For this step, you can use anything that can get into the seam, such as metal spudger."
+            ],
+            "image_url": "https://guide-images.cdn.ifixit.com/igi/QuDityYZRGXbDoXE.medium",
+            "edit_url": "https://www.ifixit.com/Guide/edit/142173/285707",
+            "add_comment_url": "https://www.ifixit.com/Guide/Delta+Push+Valve+Shower+Diverter+RP5649+Replacement/#",
+            "links": []
+        },
+        {
+            "step_number": 2,
+            "instructions": [
+                "With a Phillips #2 screwdriver, remove the screw inside of the knob. Pull to remove the shower knob.",
+                "Keep track of this screw to ensure that it does not get lost."
+            ],
+            "image_url": "https://guide-images.cdn.ifixit.com/igi/WJbgBJABD6k1wN5j.medium",
+            "additional_images": [
+                "https://guide-images.cdn.ifixit.com/igi/WJbgBJABD6k1wN5j.200x150",
+                "https://guide-images.cdn.ifixit.com/igi/yEiWPXl3ucKYPZkv.200x150",
+                "https://guide-images.cdn.ifixit.com/igi/jAURL5UDYAdqEctk.200x150"
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/142173/285708",
+            "add_comment_url": "https://www.ifixit.com/Guide/Delta+Push+Valve+Shower+Diverter+RP5649+Replacement/#",
+            "links": []
+        },
+        {
+            "step_number": 3,
+            "instructions": [
+                "Using a flathead screwdriver remove the two screws holding the faceplate in place.",
+                "Remember to mark where each screw went to avoid confusion when putting everything back together."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/142173/285709",
+            "add_comment_url": "https://www.ifixit.com/Guide/Delta+Push+Valve+Shower+Diverter+RP5649+Replacement/#",
+            "links": []
+        },
+        {
+            "step_number": 4,
+            "instructions": [
+                "Use the 3/8 in. Drive 7/8 in. 6-Point SAE deep socket to remove the old diverter. Place the deep socket over the diverter and unscrew.",
+                "If the diverter does not come loose with just the deep socket, you can attach a ratcheting wrench to unscrew it."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/142173/285710",
+            "add_comment_url": "https://www.ifixit.com/Guide/Delta+Push+Valve+Shower+Diverter+RP5649+Replacement/#",
+            "links": []
+        },
+        {
+            "step_number": 5,
+            "instructions": [
+                "Insert the new diverter in place of the old one. Tighten with the deep socket or wrench.",
+                "Make sure the diverter is on tight! Water will leak out from the diverter if it is not tightened properly."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/142173/285711",
+            "add_comment_url": "https://www.ifixit.com/Guide/Delta+Push+Valve+Shower+Diverter+RP5649+Replacement/#",
+            "links": []
+        },
+        {
+            "step_number": 6,
+            "instructions": [
+                "Reassemble the faceplate and knob. Remember to place the screws back in the places they were originally.",
+                "You will want to make sure the screws are properly lined up before screwing them into the face plate. Without lining them up, they will not tighten and the face plate will fall off. If this happens, push the screws in until you feel a slight _click_ into place, then screw them back in."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/142173/285712",
+            "add_comment_url": "https://www.ifixit.com/Guide/Delta+Push+Valve+Shower+Diverter+RP5649+Replacement/#",
+            "links": []
+        }
+    ],
+    "embed_guide": {
+        "single_step_url": "https://www.ifixit.com/Guide/embed/142173",
+        "full_guide_url": "https://www.ifixit.com/Guide/embed/142173/full",
+        "sizes": {
+            "small": 600,
+            "medium": 800,
+            "large": 1200
+        }
+    },
+    "repair_is_noble_url": "https://www.ifixit.com/Manifesto",
+    "license_url": "https://www.ifixit.com/Info/Licensing",
+    "guide_url": "https://www.ifixit.com/Guide/Delta+Push+Valve+Shower+Diverter+RP5649+Replacement/142173"
+}

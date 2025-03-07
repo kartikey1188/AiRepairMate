@@ -1,0 +1,93 @@
+{
+    "metadata": {
+        "title": "Brother XR-40 Bobbin Replacement",
+        "last_updated": "October 23, 2022",
+        "guide_image": "https://guide-images.cdn.ifixit.com/igi/p3KTqXCStPgAMPRJ.140x105",
+        "estimated_time": "2 minutes",
+        "difficulty": "Easy",
+        "featured_guide": true,
+        "featured_student_guide": true,
+        "device_links": [
+            {
+                "text": "Brother XR-40",
+                "url": "https://www.ifixit.com/Device/Brother_XR-40"
+            },
+            {
+                "text": "Sewing Machine",
+                "url": "https://www.ifixit.com/Device/Sewing_Machine"
+            },
+            {
+                "text": "Arts, Crafts & Sewing",
+                "url": "https://www.ifixit.com/Device/Arts_Crafts_and_Sewing"
+            },
+            {
+                "text": "Household",
+                "url": "https://www.ifixit.com/Device/Household"
+            },
+            {
+                "text": "Home",
+                "url": "https://www.ifixit.com/Guide"
+            }
+        ],
+        "parts_links": [
+            {
+                "text": "Guides",
+                "url": "https://www.ifixit.com/Device/Brother_XR-40#Section_Guides"
+            },
+            {
+                "text": "Answers",
+                "url": "https://www.ifixit.com/Answers/Device/Brother_XR-40"
+            }
+        ],
+        "edit_link": "https://www.ifixit.com/Guide/edit/22731"
+    },
+    "introduction": "The bobbin is crucial to a functional sewing machine! This guide will take you through the steps to replace it.",
+    "steps": [
+        {
+            "step_number": 1,
+            "title": "Bobbin",
+            "text": "Pull off the storage area beneath the needle.",
+            "image": "https://guide-images.cdn.ifixit.com/igi/hrxGYM3QqywJKZQJ.medium",
+            "image_links": [
+                "https://guide-images.cdn.ifixit.com/igi/hrxGYM3QqywJKZQJ.200x150",
+                "https://guide-images.cdn.ifixit.com/igi/yn1kmGl5AEHHmakP.200x150"
+            ],
+            "edit_link": "https://www.ifixit.com/Guide/edit/22731/59512",
+            "comment_links": [],
+            "additional_images": [
+                "https://guide-images.cdn.ifixit.com/igi/yn1kmGl5AEHHmakP.medium"
+            ]
+        },
+        {
+            "step_number": 2,
+            "title": "",
+            "text": "Flip open the tab below the needle.",
+            "image": "https://guide-images.cdn.ifixit.com/igi/OIO6M3QjLdJnPyNP.medium",
+            "image_links": [],
+            "edit_link": "https://www.ifixit.com/Guide/edit/22731/59513",
+            "comment_links": []
+        },
+        {
+            "step_number": 3,
+            "title": "",
+            "text": "Pull on the end of the rectangular tab on the bobbin case. This will pop off the bobbin and bobbin case.",
+            "image_links": [],
+            "edit_link": "https://www.ifixit.com/Guide/edit/22731/59514",
+            "comment_links": []
+        },
+        {
+            "step_number": 4,
+            "title": "",
+            "text": "Pull the bobbin out of the bobbin case.",
+            "image_links": [],
+            "edit_link": "https://www.ifixit.com/Guide/edit/22731/59515",
+            "comment_links": []
+        }
+    ],
+    "conclusion": {
+        "text": "To reassemble your device, follow these instructions in reverse order.",
+        "author_points": 30,
+        "cancel_link": "https://www.ifixit.com/Guide/Brother+XR-40+Bobbin+Replacement/<#>"
+    },
+    "embed_code": "<iframe id=\"dozuki-embed-22731\" src=\"https://www.ifixit.com/Guide/embed/22731/full\" width=\"800\" allowfullscreen frameborder=\"0\"></iframe> <script>window.addEventListener(\"message\",function(a){var b=document.getElementById(\"dozuki-embed-22731\"),c=a.data[0],d=a.data[1];switch(c){case\"setHeight\":b.style.height=d+\"px\"}},!1);</script> <iframe src=\"https://www.ifixit.com/Guide/embed/22731\" width=\"800\" height=\"584\" allowfullscreen frameborder=\"0\"></iframe>"
+}

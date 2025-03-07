@@ -1,0 +1,127 @@
+{
+    "metadata": {
+        "title": "Bidet Sprayer Hose Replacement",
+        "last_updated": "September 17, 2021",
+        "comments": 0,
+        "completed": 0,
+        "favorites": 0,
+        "estimated_time": "10 - 20 minutes",
+        "difficulty": "Easy",
+        "introduction": "More often than not, the hose component of the bidet sprayer is usually the thing that is damaged unintentionally. It is typically damaged due to an awkward resting position or from extensive use. The hose may start to leak while the rest of the components such as the sprayer itself is still functional.\nThis is guide will highlight the steps required to safely uninstall the bidet from the toilet and then replacing the hose from the sprayer."
+    },
+    "tools": [],
+    "parts": [],
+    "steps": [
+        {
+            "step_number": 1,
+            "title": "Spray Hose",
+            "images": [
+                "https://guide-images.cdn.ifixit.com/igi/UnvboR1oytgGTOIE.medium",
+                "https://guide-images.cdn.ifixit.com/igi/DPJsnGXQCeTVAmYC.medium"
+            ],
+            "thumbnails": [
+                "https://guide-images.cdn.ifixit.com/igi/UnvboR1oytgGTOIE.200x150",
+                "https://guide-images.cdn.ifixit.com/igi/DPJsnGXQCeTVAmYC.200x150"
+            ],
+            "instructions": [
+                "Turn off the main water valve under the toilet.",
+                "Rotate it clockwise until it is completely shut."
+            ],
+            "links": [
+                {
+                    "text": "Edit",
+                    "url": "/Guide/edit/143032/288873"
+                }
+            ]
+        },
+        {
+            "step_number": 2,
+            "title": "",
+            "image": "https://guide-images.cdn.ifixit.com/igi/AQXvbAWLvfXGMUP3.medium",
+            "instructions": [
+                "Push this valve downwards to shut off the bidet sprayer."
+            ],
+            "links": [
+                {
+                    "text": "Edit",
+                    "url": "/Guide/edit/143032/288877"
+                }
+            ]
+        },
+        {
+            "step_number": 3,
+            "title": "",
+            "instructions": [
+                "Disconnect the tee connector from the water supply by turning the knob counterclockwise.",
+                "Turn the knob counterclockwise to detach the tee connector from the toilet.",
+                "**You may also flush out any water inside the bidet by straightening the hose and any water remaining will pour out of the end of the hose.**"
+            ],
+            "links": [
+                {
+                    "text": "Edit",
+                    "url": "/Guide/edit/143032/288883"
+                }
+            ]
+        },
+        {
+            "step_number": 4,
+            "title": "",
+            "instructions": [
+                "Unscrew the sprayer from the hose.",
+                "Unscrew the hose from the tee connector."
+            ],
+            "links": [
+                {
+                    "text": "Edit",
+                    "url": "/Guide/edit/143032/288887"
+                }
+            ]
+        },
+        {
+            "step_number": 5,
+            "title": "",
+            "instructions": [
+                "Attach the new/replacement hose with the tee connector. The valve should be on the opposite side.",
+                "Attach the hose to the sprayer."
+            ],
+            "links": [
+                {
+                    "text": "Edit",
+                    "url": "/Guide/edit/143032/288888"
+                }
+            ]
+        },
+        {
+            "step_number": 6,
+            "title": "",
+            "instructions": [
+                "Start by reattaching the tee connector to the toilet. Turn the knob clockwise.",
+                "Connect the tee connector to the main water supply line. Turn the knob counterclockwise.",
+                "**Make sure the bidet is placed well enough to not overextend the hose.**"
+            ],
+            "links": [
+                {
+                    "text": "Edit",
+                    "url": "/Guide/edit/143032/288889"
+                }
+            ]
+        },
+        {
+            "step_number": 7,
+            "title": "",
+            "instructions": [
+                "Push the valve upwards to turn on the bidet.",
+                "Turn the main water valve counterclockwise to turn on the toilet water supply.",
+                "Test out the new hose by using the sprayer and checking for any leaks."
+            ],
+            "links": [
+                {
+                    "text": "Edit",
+                    "url": "/Guide/edit/143032/288890"
+                }
+            ]
+        }
+    ],
+    "conclusion": "To prevent further leaks, rest the device in a manner so that the hose is not stretched extensively or placed in a twisted position.",
+    "embed_code": "<iframe id=\"dozuki-embed-143032\" src=\"https://www.ifixit.com/Guide/embed/143032/full\" width=\"800\" allowfullscreen frameborder=\"0\"></iframe> <script>window.addEventListener(\"message\",function(a){var b=document.getElementById(\"dozuki-embed-143032\"),c=a.data[0],d=a.data[1];switch(c){case\"setHeight\":b.style.height=d+\"px\"}},!1);</script> <iframe src=\"https://www.ifixit.com/Guide/embed/143032\" width=\"800\" height=\"584\" allowfullscreen frameborder=\"0\"></iframe>"
+}

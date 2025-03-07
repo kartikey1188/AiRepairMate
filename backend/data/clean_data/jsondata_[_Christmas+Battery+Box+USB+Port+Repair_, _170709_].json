@@ -1,0 +1,130 @@
+{
+    "metadata": {
+        "title": "Christmas Battery Box USB Port Repair",
+        "last_updated": "May 10, 2024",
+        "time_estimate": "15 minutes",
+        "difficulty": "Moderate",
+        "introduction": "If you have a Christmas battery box containing a loose USB port causing your Christmas lights to glitch or lag, please follow this helpful guide for a quick fix. Repairing a USB port is a task that can be easily accomplished within a fifteen-minute time frame. This guide is a cost-effective and time-saving way to repair a Christmas battery box without discarding it in the trash, which helps to reduce electronic waste. To complete this repair, one will need a soldering kit, a spudger or screwdriver, and safety glasses.",
+        "tools_needed": [
+            {
+                "name": "Safety Glasses",
+                "image": "https://cart-products.cdn.ifixit.com/cart-products/U15SqtxhPHujU1Sc.thumbnail",
+                "link": "https://www.ifixit.com/products/safety-glasses",
+                "price": "$3.19"
+            },
+            {
+                "name": "Spudger",
+                "image": "https://cart-products.cdn.ifixit.com/cart-products/vy2elt3YPAXL1LmZ.thumbnail",
+                "link": "https://www.ifixit.com/products/spudger",
+                "price": "$3.99 New / Fixite Carbon Fiber$2.99 New / Glass Fiber$149.99 New / Glass Fiber Bundle of 100",
+                "optional": true
+            },
+            {
+                "name": "Soldering Workstation",
+                "image": "https://cart-products.cdn.ifixit.com/cart-products/dIfDOMnSEGhxZmJY.thumbnail",
+                "link": "https://www.ifixit.com/products/soldering-workstation",
+                "price": "$49.99",
+                "view_link": "https://www.ifixit.com/products/soldering-workstation"
+            }
+        ],
+        "categories": [
+            {
+                "name": "Christmas Lights",
+                "link": "https://www.ifixit.com/Device/Christmas_Lights"
+            },
+            {
+                "name": "Lighting",
+                "link": "https://www.ifixit.com/Device/Lighting"
+            },
+            {
+                "name": "Household",
+                "link": "https://www.ifixit.com/Device/Household"
+            },
+            {
+                "name": "Home",
+                "link": "https://www.ifixit.com/Guide"
+            }
+        ],
+        "guide_links": {
+            "guides_link": "https://www.ifixit.com/Device/Christmas_Lights#Section_Guides",
+            "troubleshooting_link": "https://www.ifixit.com/Troubleshooting/Christmas_Lights",
+            "edit_link": "https://www.ifixit.com/Guide/edit/170709"
+        }
+    },
+    "steps": [
+        {
+            "step_number": 1,
+            "title": "Step 1",
+            "step_link": "https://www.ifixit.com/Guide/Christmas+Battery+Box+USB+Port+Repair/<#s362526>",
+            "edit_link": "https://www.ifixit.com/Guide/edit/170709/362526",
+            "images": [
+                {
+                    "original": "https://guide-images.cdn.ifixit.com/igi/OON6R3XBPHEXFntO.medium",
+                    "thumbnail": "https://guide-images.cdn.ifixit.com/igi/OON6R3XBPHEXFntO.200x150"
+                },
+                {
+                    "original": "https://guide-images.cdn.ifixit.com/igi/hp3AXVtpXqFVPoVZ.medium",
+                    "thumbnail": "https://guide-images.cdn.ifixit.com/igi/hp3AXVtpXqFVPoVZ.200x150"
+                },
+                {
+                    "original": "https://guide-images.cdn.ifixit.com/igi/IwVceJkqLjqbQKYO.medium",
+                    "thumbnail": "https://guide-images.cdn.ifixit.com/igi/IwVceJkqLjqbQKYO.200x150"
+                }
+            ],
+            "text": "Place both thumbs, one on each side of the front cover of the battery box, and push the plastic cover upwards until it slides off the box.\nPlace the cover to the side.",
+            "comments_link": "https://www.ifixit.com/Guide/Christmas+Battery+Box+USB+Port+Repair/#comments"
+        },
+        {
+            "step_number": 2,
+            "title": "Step 2",
+            "step_link": "https://www.ifixit.com/Guide/Christmas+Battery+Box+USB+Port+Repair/<#s362527>",
+            "edit_link": "https://www.ifixit.com/Guide/edit/170709/362527",
+            "images": [
+                {
+                    "original": "https://guide-images.cdn.ifixit.com/igi/AbVL2lJDwsMNk1b6.medium",
+                    "thumbnail": "https://guide-images.cdn.ifixit.com/igi/AbVL2lJDwsMNk1b6.200x150"
+                },
+                {
+                    "original": "https://guide-images.cdn.ifixit.com/igi/Y4Irud2iFSqNWTwl.medium",
+                    "thumbnail": "https://guide-images.cdn.ifixit.com/igi/Y4Irud2iFSqNWTwl.200x150"
+                }
+            ],
+            "text": "Pry each battery out with your fingernails, or use any flathead tool like a spudger or flathead screwdriver to remove batteries.\nPlace batteries to the side.",
+            "comments_link": "https://www.ifixit.com/Guide/Christmas+Battery+Box+USB+Port+Repair/#comments"
+        },
+        {
+            "step_number": 3,
+            "title": "Step 3",
+            "step_link": "https://www.ifixit.com/Guide/Christmas+Battery+Box+USB+Port+Repair/<#s362528>",
+            "edit_link": "https://www.ifixit.com/Guide/edit/170709/362528",
+            "text": "There will be a plastic cover over a green circuit board. Use a spudger or appropriate size screwdriver to wedge in between the cover and the board. Lift up the plastic cover with your tool of choice until the cover is pried off gently.\nThere will be a wire connecting the circuit board to the battery port. Use a spudger or screwdriver to pry the circuit board out of the box and place it to the side with the wire still intact.",
+            "comments_link": "https://www.ifixit.com/Guide/Christmas+Battery+Box+USB+Port+Repair/#comments"
+        },
+        {
+            "step_number": 4,
+            "title": "Step 4",
+            "step_link": "https://www.ifixit.com/Guide/Christmas+Battery+Box+USB+Port+Repair/<#s362529>",
+            "edit_link": "https://www.ifixit.com/Guide/edit/170709/362529",
+            "text": "Put on safety glasses while soldering. This will protect your eyes from any potential tiny particles of soldered metal that may break off during the soldering process.\nWhen handling the soldering kit, be careful not to touch the hot iron with your hands to avoid any burns.\nTake out the soldering metal kit. Follow closely the instructions of your soldering kit and solder the USB port.\nHeat the soldering iron and melt some solder onto the tip. Touch the tip to the wire end and the battery terminal at the same time and let the solder flow into the joint. Be careful not to overheat the battery or damage it.\nRepeat for the other wire and terminal.",
+            "comments_link": "https://www.ifixit.com/Guide/Christmas+Battery+Box+USB+Port+Repair/#comments"
+        },
+        {
+            "step_number": 5,
+            "title": "Step 5",
+            "step_link": "https://www.ifixit.com/Guide/Christmas+Battery+Box+USB+Port+Repair/<#s362530>",
+            "edit_link": "https://www.ifixit.com/Guide/edit/170709/362530",
+            "text": "Return the circuit board to the battery box.\nGrab the circuit board. Place it inside the box and press down.\nPlace the plastic cover over the circuit board and snap back into place.",
+            "comments_link": "https://www.ifixit.com/Guide/Christmas+Battery+Box+USB+Port+Repair/#comments"
+        },
+        {
+            "step_number": 6,
+            "title": "Step 6",
+            "step_link": "https://www.ifixit.com/Guide/Christmas+Battery+Box+USB+Port+Repair/<#s362531>",
+            "edit_link": "https://www.ifixit.com/Guide/edit/170709/362531",
+            "text": "Return all 3 batteries back into their correct places.\nMake sure the positive ends on the batteries are aligned opposite the springs and the negative ends are aligned to the springs for correct electrical connectivity.\nPlace the plastic cover over the box and slide it down until it snaps closed with your thumbs.\nAfter this step, the repair is done. Try turning the on switch of your lights, and test out your working lights.\nIf the lights are still lagging or not lighting, double-check if the batteries are placed in their correct placements. Another option is to follow steps 1 through 6 again.",
+            "comments_link": "https://www.ifixit.com/Guide/Christmas+Battery+Box+USB+Port+Repair/#comments"
+        }
+    ],
+    "conclusion": "To reassemble your device, follow these instructions in reverse order.",
+    "embed_code": "<iframe id=\"dozuki-embed-170709\" src=\"https://www.ifixit.com/Guide/embed/170709/full\" width=\"800\" allowfullscreen frameborder=\"0\"></iframe> <script>window.addEventListener(\"message\",function(a){var b=document.getElementById(\"dozuki-embed-170709\"),c=a.data[0],d=a.data[1];switch(c){case\"setHeight\":b.style.height=d+\"px\"}},!1);</script> <iframe src=\"https://www.ifixit.com/Guide/embed/170709\" width=\"800\" height=\"584\" allowfullscreen frameborder=\"0\"></iframe>"
+}

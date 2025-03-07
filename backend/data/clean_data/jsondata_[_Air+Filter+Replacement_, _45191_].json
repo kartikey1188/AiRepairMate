@@ -1,0 +1,94 @@
+{
+    "guide_title": "Air Filter Replacement",
+    "last_updated": "December 4, 2015",
+    "estimated_time": "No estimate",
+    "difficulty": "Moderate",
+    "introduction": "It is not common knowledge to replace the filter in a fan coil system despite the fact that it may seem so to others. This guide will ensure that you are able to replace the existing filter in your fan coil system in a quick and effective manner. People will spend money to have someone come in and repair their fan coil due to damage caused by dust and residue build-up on the filter. Meanwhile, this damage can be avoided altogether by regular filter changes. A fan coil filter should be replaced every 2-3 months to ensure clean air quality in the household.",
+    "tools_needed": [
+        {
+            "name": "Phillips #1 Screwdriver",
+            "image_url": "https://cart-products.cdn.ifixit.com/cart-products/dFxEXEXNVRdNBvCX.thumbnail",
+            "product_url": "https://www.ifixit.com/products/phillips-1-screwdriver",
+            "prices": {
+                "ifixit": "$5.49 New",
+                "moody": "$8.99 New / Moody - Made in USA"
+            }
+        },
+        {
+            "name": "Paper Towels",
+            "image_url": "https://guide-images.cdn.ifixit.com/igi/bWQnjOpIKvvVsqPB.thumbnail",
+            "product_url": "http://www.amazon.com/Sparkle-Paper-Towels-Giant-Pick-A-Size/dp/B00BGN8PLG/ref=sr_1_1?ie=UTF8&qid=1390949049&sr=8-1&keywords=paper%2Btowel&tag=ifixitam-20",
+            "affiliate_link": "http://www.amazon.com/Sparkle-Paper-Towels-Giant-Pick-A-Size/dp/B00BGN8PLG/ref=sr_1_1?ie=UTF8&qid=1390949049&sr=8-1&keywords=paper%2Btowel&tag=ifixitam-20",
+            "amazon_link": "http://www.amazon.com/Sparkle-Paper-Towels-Giant-Pick-A-Size/dp/B00BGN8PLG/ref=sr_1_1?ie=UTF8&qid=1390949049&sr=8-1&keywords=paper%2Btowel&tag=ifixitam-20"
+        }
+    ],
+    "steps": [
+        {
+            "step_number": 1,
+            "title": "Filter",
+            "step_id": "s100316",
+            "image_url": "https://guide-images.cdn.ifixit.com/igi/uSf2rNVfLWh6ta2j.medium",
+            "image_alt_text": "Air Filter Replacement, Filter: step 1, image 1 of 1",
+            "instructions": [
+                "Locate air filter grille",
+                "This is usually found near the thermostat",
+                "Some systems contain multiple filters",
+                "Not all duct systems have a filter grill. Some are filtered at the air handling appliance"
+            ],
+            "links": {
+                "edit_step_link": "https://www.ifixit.com/Guide/edit/45191/100316"
+            }
+        },
+        {
+            "step_number": 2,
+            "title": "Open the grill",
+            "step_id": "s100317",
+            "image_urls": [
+                "https://guide-images.cdn.ifixit.com/igi/X5TGkxKabX1CrE2B.medium",
+                "https://guide-images.cdn.ifixit.com/igi/kvMBamX2u1JISugP.medium"
+            ],
+            "image_alt_text": [
+                "Air Filter Replacement, Open the grill: step 2, image 1 of 2",
+                "Air Filter Replacement, Open the grill: step 2, image 2 of 2"
+            ],
+            "thumbnail_urls": [
+                "https://guide-images.cdn.ifixit.com/igi/X5TGkxKabX1CrE2B.200x150",
+                "https://guide-images.cdn.ifixit.com/igi/kvMBamX2u1JISugP.200x150"
+            ],
+            "instructions": [
+                "Pull out both latches so that they are perpendicular to the wall",
+                "Pull grill open from top center"
+            ],
+            "links": {
+                "edit_step_link": "https://www.ifixit.com/Guide/edit/45191/100317"
+            }
+        },
+        {
+            "step_number": 3,
+            "title": "Remove used filter",
+            "step_id": "s100318",
+            "instructions": [
+                "Remove the dirty filter"
+            ],
+            "links": {
+                "edit_step_link": "https://www.ifixit.com/Guide/edit/45191/100318"
+            }
+        },
+        {
+            "step_number": 4,
+            "title": "Install new filter and close grill",
+            "step_id": "s100319",
+            "instructions": [
+                "If you aren't sure if the filter is ready to be changed just remember this is what cleans the air you are breathing.",
+                "Never wash or reuse a disposable filter",
+                "Pleated filters remove more dirt from the air than fiberglass filters. But their density restricts the air flow more. This can create problems in some systems. Experiment with both and see which is best for you and your system.",
+                "Filters should be checked every 30 days on residential applications and every 15 days on commercial applications."
+            ],
+            "links": {
+                "edit_step_link": "https://www.ifixit.com/Guide/edit/45191/100319"
+            }
+        }
+    ],
+    "conclusion": "To reassemble your device, follow these instructions in reverse order.",
+    "embed_code": "<iframe id=\"dozuki-embed-45191\" src=\"https://www.ifixit.com/Guide/embed/45191/full\" width=\"800\" allowfullscreen frameborder=\"0\"></iframe> <script>window.addEventListener(\"message\",function(a){var b=document.getElementById(\"dozuki-embed-45191\"),c=a.data[0],d=a.data[1];switch(c){case\"setHeight\":b.style.height=d+\"px\"}},!1);</script> <iframe src=\"https://www.ifixit.com/Guide/embed/45191\" width=\"800\" height=\"584\" allowfullscreen frameborder=\"0\"></iframe>"
+}

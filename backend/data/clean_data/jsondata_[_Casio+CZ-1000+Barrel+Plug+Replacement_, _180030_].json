@@ -1,0 +1,109 @@
+{
+    "title": "Casio CZ-1000 Barrel Plug Replacement",
+    "last_updated": "January 2, 2025",
+    "time_estimate": "10 - 20 minutes",
+    "difficulty": "Moderate",
+    "introduction": "Use this guide to replace the barrel plug on your Casio CZ-1000 synthesizer. The barrel plug is an essential component that connects your device to its power source. Over time, it may wear out, become damaged, or lose its connection, causing power issues. This step-by-step guide will walk you through the replacement process, ensuring your synthesizer can function properly again. You’ll need to know how to use basic tools like a soldering iron and a lint-free cloth, as well as some patience if you are new to soldering.",
+    "tools": [
+        {
+            "name": "Scissors",
+            "url": "https://www.ifixit.com/products/utility-scissors",
+            "image_url": "https://cart-products.cdn.ifixit.com/cart-products/YZFc6xfCFTuHFhsP.thumbnail",
+            "price": "$5.59",
+            "add_to_cart_url": "https://www.ifixit.com/products/utility-scissors"
+        },
+        {
+            "name": "Phillips #1 Screwdriver",
+            "url": "https://www.ifixit.com/products/phillips-1-screwdriver",
+            "image_url": "https://cart-products.cdn.ifixit.com/cart-products/dFxEXEXNVRdNBvCX.thumbnail",
+            "price": [
+                "$5.49 New / iFixit",
+                "$8.99 New / Moody - Made in USA"
+            ],
+            "add_to_cart_url": "https://www.ifixit.com/products/phillips-1-screwdriver"
+        },
+        {
+            "name": "Soldering Iron",
+            "url": "https://www.ifixit.com/products/soldering-iron-60w-hakko-503f",
+            "image_url": "https://cart-products.cdn.ifixit.com/cart-products/2KG6DMqwajhHw4fA.thumbnail",
+            "price": "$19.99",
+            "add_to_cart_url": "https://www.ifixit.com/products/soldering-iron-60w-hakko-503f"
+        },
+        {
+            "name": "Paper Towels",
+            "url": "http://www.amazon.com/Sparkle-Paper-Towels-Giant-Pick-A-Size/dp/B00BGN8PLG/ref=sr_1_1?ie=UTF8&qid=1390949049&sr=8-1&keywords=paper%2Btowel&tag=ifixitam-20",
+            "image_url": "https://guide-images.cdn.ifixit.com/igi/bWQnjOpIKvvVsqPB.thumbnail",
+            "availability": "Available for sale on Amazon",
+            "view_url": "http://www.amazon.com/Sparkle-Paper-Towels-Giant-Pick-A-Size/dp/B00BGN8PLG/ref=sr_1_1?ie=UTF8&qid=1390949049&sr=8-1&keywords=paper%2Btowel&tag=ifixitam-20",
+            "affiliate_link": "http://www.amazon.com/Sparkle-Paper-Towels-Giant-Pick-A-Size/dp/B00BGN8PLG/ref=sr_1_1?ie=UTF8&qid=1390949049&sr=8-1&keywords=paper%2Btowel&tag=ifixitam-20"
+        }
+    ],
+    "steps": [
+        {
+            "step_number": 1,
+            "title": "Backplate",
+            "image_url": [
+                "https://guide-images.cdn.ifixit.com/igi/AxavRoIe5aKFUVFZ.medium",
+                "https://guide-images.cdn.ifixit.com/igi/QHLSMuQMkEX5gJGm.medium"
+            ],
+            "image_alt": [
+                "https://guide-images.cdn.ifixit.com/igi/AxavRoIe5aKFUVFZ.200x150",
+                "https://guide-images.cdn.ifixit.com/igi/QHLSMuQMkEX5gJGm.200x150"
+            ],
+            "instructions": [
+                "Use a Phillips #1 screwdriver to remove the eleven 7.5 mm screws securing the back plate."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/180030/384959",
+            "comment_count": 0
+        },
+        {
+            "step_number": 2,
+            "image_url": "https://guide-images.cdn.ifixit.com/igi/3gI6qEMThnraVaOv.medium",
+            "image_alt": [
+                "https://guide-images.cdn.ifixit.com/igi/3gI6qEMThnraVaOv.200x150",
+                "https://guide-images.cdn.ifixit.com/igi/xYmHXiL5RYgesGQt.200x150",
+                "https://guide-images.cdn.ifixit.com/igi/6CBlwtt5NAsdgU4H.200x150"
+            ],
+            "instructions": [
+                "Using a Phillips #1 screwdriver, remove all 14 5.5 mm screws from the two motherboards.",
+                "These screws secure the motherboards to the keyboard assembly and the dial on the right side."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/180030/384962",
+            "comment_count": 0
+        },
+        {
+            "step_number": 3,
+            "instructions": [
+                "Carefully cut the zip tie located in the right-hand corner using a pair of scissors or wire cutters.",
+                "Be sure to avoid cutting any nearby wires or components.",
+                "Gently slide all the plugs out of their sockets.",
+                "This will prevent them from catching on anything or damaging the connectors as you lift."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/180030/384963",
+            "comment_count": 0
+        },
+        {
+            "step_number": 4,
+            "title": "Barrel Plug",
+            "instructions": [
+                "Clean the area around the barrel plug on the board using a lint-free cloth or a paper towel to remove dust or debris.",
+                "This ensures a clean working surface and better visibility of the solder joints."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/180030/384508",
+            "comment_count": 0
+        },
+        {
+            "step_number": 5,
+            "instructions": [
+                "Hold the soldering iron against the solder joint for a few seconds to melt it, then gently pull the barrel plug out while the solder is liquid."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/180030/384511",
+            "comment_count": 0
+        }
+    ],
+    "conclusion": "To reassemble your device, follow these instructions in reverse order.",
+    "completed_message": "",
+    "embed_code": "<iframe id=\"dozuki-embed-180030\" src=\"https://www.ifixit.com/Guide/embed/180030/full\" width=\"800\" allowfullscreen frameborder=\"0\"></iframe> <script>window.addEventListener(\"message\",function(a){var b=document.getElementById(\"dozuki-embed-180030\"),c=a.data[0],d=a.data[1];switch(c){case\"setHeight\":b.style.height=d+\"px\"}},!1);</script> <iframe src=\"https://www.ifixit.com/Guide/embed/180030\" width=\"800\" height=\"584\" allowfullscreen frameborder=\"0\"></iframe>",
+    "repair_is_noble_url": "https://www.ifixit.com/Manifesto",
+    "license_url": "https://www.ifixit.com/Info/Licensing"
+}

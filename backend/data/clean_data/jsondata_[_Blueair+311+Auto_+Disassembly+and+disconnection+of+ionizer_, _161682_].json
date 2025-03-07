@@ -1,0 +1,80 @@
+{
+    "title": "Blueair 311 Auto: Disassembly and disconnection of ionizer",
+    "last_updated": "July 6, 2023",
+    "estimated_time": "10 minutes",
+    "difficulty": "Easy",
+    "community_guide": true,
+    "introduction": "The Blueair 311 Auto air filter has a built in high voltage ionizer. The high voltage ionizer presumably greatly increases the performance of the filter with very small (smoke-like) particles. But, if you are concerned about the long term health and indoor air quality impact of the ionizer, but want to still use the filter otherwise, follow this guide to disassemble, internally disconnect & disable the high voltage ionizer, and then reassemble the filter.",
+    "tools": [
+        {
+            "name": "Phillips #2 Screwdriver",
+            "url": "https://www.ifixit.com/products/6-in-1-screwdriver",
+            "image": "https://cart-products.cdn.ifixit.com/cart-products/LYcK13TjejldWD5Y.thumbnail",
+            "price": "$6.99",
+            "add_to_cart_url": "https://www.ifixit.com/products/6-in-1-screwdriver"
+        }
+    ],
+    "steps": [
+        {
+            "step_number": 1,
+            "title": "Remove the top fan housing from the base",
+            "content": [
+                "Unplug the power adapter of the air filter",
+                "Grab the top (white) housing, rotate it counter-clockwise, and lift it to detach it from the base."
+            ],
+            "image": "https://guide-images.cdn.ifixit.com/igi/3eYvFSMEFSLyQvVL.medium",
+            "edit_url": "https://www.ifixit.com/Guide/edit/161682/341209",
+            "comments_count": 0,
+            "add_comment_url": null
+        },
+        {
+            "step_number": 2,
+            "title": "Remove screws",
+            "content": [
+                "Rotate the filter top to be upside down.",
+                "Remove the 4 phillips head screws (red)",
+                "Remove the 4 phillips head screws (blue). These screws need a long/skinny screwdriver to reach, as they are sunk into plastic holes. But, they seem to be the same screws as the red screws.",
+                "Optionally, you can remove the 1 screw holding on the LED for the indicator on the front, and the plastic tab for the (presumably) particle sensing, but it is easier to reassemble if you do not remove those fasteners."
+            ],
+            "images": [
+                "https://guide-images.cdn.ifixit.com/igi/dBYqvToZkOWMG2LY.medium",
+                "https://guide-images.cdn.ifixit.com/igi/YX2GFdHxPBPDXvfU.medium"
+            ],
+            "images_200x150": [
+                "https://guide-images.cdn.ifixit.com/igi/dBYqvToZkOWMG2LY.200x150",
+                "https://guide-images.cdn.ifixit.com/igi/YX2GFdHxPBPDXvfU.200x150"
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/161682/341210",
+            "comments_count": 0,
+            "add_comment_url": null
+        },
+        {
+            "step_number": 3,
+            "title": "Lift the black top from the white housing",
+            "content": [
+                "Lift the black top from the white housing. Lift from the side where the white clips are."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/161682/341211",
+            "comments_count": 1,
+            "add_comment_url": null
+        },
+        {
+            "step_number": 4,
+            "title": "Disconnect the ionizer power cable",
+            "content": [
+                "Unclip the connector for the 2-wire ionizer power cable, and disconnect if from the printed circuit board (PCB)",
+                "Note: It is possible & easier to unclip the connector, without fully removing the PCB, i.e. by reaching behind the PCB, and applying pressure purely by the feeling of the clip, to unclip it. These photos are just for clarity."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/161682/341212",
+            "comments_count": 0,
+            "add_comment_url": null
+        }
+    ],
+    "conclusion": "To reassemble your device, follow these instructions in reverse order.",
+    "embed_code": {
+        "small": "<iframe id=\"dozuki-embed-161682\" src=\"https://www.ifixit.com/Guide/embed/161682/full\" width=\"600\" allowfullscreen frameborder=\"0\"></iframe> <script>window.addEventListener(\"message\",function(a){var b=document.getElementById(\"dozuki-embed-161682\"),c=a.data[0],d=a.data[1];switch(c){case\"setHeight\":b.style.height=d+\"px\"}},!1);</script>",
+        "medium": "<iframe id=\"dozuki-embed-161682\" src=\"https://www.ifixit.com/Guide/embed/161682/full\" width=\"800\" allowfullscreen frameborder=\"0\"></iframe> <script>window.addEventListener(\"message\",function(a){var b=document.getElementById(\"dozuki-embed-161682\"),c=a.data[0],d=a.data[1];switch(c){case\"setHeight\":b.style.height=d+\"px\"}},!1);</script>",
+        "large": "<iframe id=\"dozuki-embed-161682\" src=\"https://www.ifixit.com/Guide/embed/161682/full\" width=\"1200\" allowfullscreen frameborder=\"0\"></iframe> <script>window.addEventListener(\"message\",function(a){var b=document.getElementById(\"dozuki-embed-161682\"),c=a.data[0],d=a.data[1];switch(c){case\"setHeight\":b.style.height=d+\"px\"}},!1);</script>",
+        "full_guide": "<iframe src=\"https://www.ifixit.com/Guide/embed/161682\" width=\"800\" height=\"584\" allowfullscreen frameborder=\"0\"></iframe>"
+    }
+}

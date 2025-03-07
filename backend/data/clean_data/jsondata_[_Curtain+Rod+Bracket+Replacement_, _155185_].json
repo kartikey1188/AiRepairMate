@@ -1,0 +1,183 @@
+{
+    "metadata": {
+        "title": "Curtain Rod Bracket Replacement",
+        "last_updated": "December 14, 2022",
+        "estimated_time": "10 - 15 minutes",
+        "difficulty": "Easy",
+        "introduction": "If your curtain rod bracket has been ripped out of the wall, use this guide to securely reattach the bracket to the wall.\nIt is common for a curtain rod bracket to come apart from the wall as a result of accidental tension. A broken bracket may leave you without curtains that provide you privacy in your home.\nBefore using this guide, confirm that the screws have been stripped from the wall and cannot be screwed directly back in without further action. Otherwise, the bracket can be screwed in without additional steps.\nBefore beginning, confirm that all screws, drill bits, and anchors are the same size as your bracket to avoid any mistakes.\nCaution: Step three requires you to use a cordless drill to drill a hole in the wall. Remember to keep your hands and hair away from the electric drill at all times.",
+        "needs_better_images": true,
+        "needs_more_images": true,
+        "better_introduction": true
+    },
+    "parts": [
+        {
+            "name": "Drywall Anchor (1/4\")",
+            "url": "https://www.amazon.com/JQK-Hardware-Stainless-Adjustable-HBC100-P2/dp/B07C6B8KQW/ref=sr_1_5?crid=32L06P0QP7LEH&keywords=ball%2Bcatch&qid=1672159736&sprefix=ball%2Bcatch%2Caps%2C82&sr=8-5&th=1&tag=ifixitam-20",
+            "for_sale_from_another_site": true,
+            "view_link": "https://www.amazon.com/JQK-Hardware-Stainless-Adjustable-HBC100-P2/dp/B07C6B8KQW/ref=sr_1_5?crid=32L06P0QP7LEH&keywords=ball%2Bcatch&qid=1672159736&sprefix=ball%2Bcatch%2Caps%2C82&sr=8-5&th=1&tag=ifixitam-20",
+            "quantity": "×2"
+        },
+        {
+            "name": "Screw 1/4\"",
+            "url": "https://www.walmart.com/ip/Everbilt-Ribbed-Plastic-Drywall-Anchors-with-Screws-10-12-x-1-1-4-2-Pack/320299995",
+            "for_sale_from_another_site": true,
+            "view_link": "https://www.walmart.com/ip/Everbilt-Ribbed-Plastic-Drywall-Anchors-with-Screws-10-12-x-1-1-4-2-Pack/320299995",
+            "quantity": "×2"
+        }
+    ],
+    "tools": [
+        {
+            "name": "Power Drill",
+            "url": "https://www.amazon.com/DECKER-DCK240C2-Lithium-Driver-Impact/dp/B00IJ0ALYS/ref=sr_1_11_sspa?crid=1SBK8NW5G0FF3&keywords=cordless%2Bdrill%2Bdriver&qid=1689101722&sprefix=cordless%2Bdrill%2Bdriver%2Caps%2C165&sr=8-11-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9tdGY&th=1&tag=ifixitam-20",
+            "image_url": "https://guide-images.cdn.ifixit.com/igi/4cZIwchL5PDBbbDF.thumbnail",
+            "affiliate_link": true,
+            "available_for_sale": "https://www.amazon.com/DEWALT-DCK240C2-Lithium-Driver-Impact/dp/B00IJ0ALYS/ref=sr_1_11_sspa?crid=1SBK8NW5G0FF3&keywords=cordless%2Bdrill%2Bdriver&qid=1689101722&sprefix=cordless%2Bdrill%2Bdriver%2Caps%2C165&sr=8-11-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9tdGY&th=1&tag=ifixitam-20",
+            "view_link": "https://www.amazon.com/DEWALT-DCK240C2-Lithium-Driver-Impact/dp/B00IJ0ALYS/ref=sr_1_11_sspa?crid=1SBK8NW5G0FF3&keywords=cordless%2Bdrill%2Bdriver&qid=1689101722&sprefix=cordless%2Bdrill%2Bdriver%2Caps%2C165&sr=8-11-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9tdGY&th=1&tag=ifixitam-20"
+        },
+        {
+            "name": "Tape Measure",
+            "url": "https://smile.amazon.com/tape-measure/s?k=tape%2Bmeasure&tag=ifixitam-20",
+            "image_url": "https://guide-images.cdn.ifixit.com/igi/wvvdDjB4he1jeHPV.thumbnail",
+            "affiliate_link": true,
+            "available_for_sale": "https://smile.amazon.com/tape-measure/s?k=tape%2Bmeasure&tag=ifixitam-20",
+            "view_link": "https://smile.amazon.com/tape-measure/s?k=tape%2Bmeasure&tag=ifixitam-20"
+        },
+        {
+            "name": "Pencil",
+            "url": "https://smile.amazon.com/pencil/s?k=pencil&tag=ifixitam-20",
+            "image_url": "https://guide-images.cdn.ifixit.com/igi/mOH3Pw3YI22tfjfB.thumbnail",
+            "affiliate_link": true,
+            "available_for_sale": "https://smile.amazon.com/pencil/s?k=pencil&tag=ifixitam-20",
+            "view_link": "https://smile.amazon.com/pencil/s?k=pencil&tag=ifixitam-20"
+        },
+        {
+            "name": "Phillips #3 Screwdriver",
+            "url": "https://www.amazon.com/TEKTON-26683-Phillips-4-Inch-Screwdriver/dp/B014US22SA/ref=sr_1_3?crid=1LE2VY6DZGY9L&keywords=phillips%2B%233&qid=1705531535&sprefix=phillips%2B3%2Caps%2C165&sr=8-3&th=1&tag=ifixitam-20",
+            "image_url": "https://guide-images.cdn.ifixit.com/igi/LKnoF6QLHAdy1O65.thumbnail",
+            "affiliate_link": true,
+            "available_for_sale": "https://www.amazon.com/TEKTON-26683-Phillips-4-Inch-Screwdriver/dp/B014US22SA/ref=sr_1_3?crid=1LE2VY6DZGY9L&keywords=phillips%2B%233&qid=1705531535&sprefix=phillips%2B3%2Caps%2C165&sr=8-3&th=1&tag=ifixitam-20",
+            "view_link": "https://www.amazon.com/TEKTON-26683-Phillips-4-Inch-Screwdriver/dp/B014US22SA/ref=sr_1_3?crid=1LE2VY6DZGY9L&keywords=phillips%2B%233&qid=1705531535&sprefix=phillips%2B3%2Caps%2C165&sr=8-3&th=1&tag=ifixitam-20"
+        },
+        {
+            "name": "Hammer",
+            "url": "https://smile.amazon.com/-/en/Hammers/b/?ie=UTF8&node=553190&tag=ifixitam-20",
+            "image_url": "https://guide-images.cdn.ifixit.com/igi/IUtvcdnHhRTX2Tbo.thumbnail",
+            "affiliate_link": true,
+            "available_for_sale": "https://smile.amazon.com/-/en/Hammers/b/?ie=UTF8&node=553190&tag=ifixitam-20",
+            "view_link": "https://smile.amazon.com/-/en/Hammers/b/?ie=UTF8&node=553190&tag=ifixitam-20"
+        },
+        {
+            "name": "1/4\" Drill bit",
+            "url": "https://www.ifixit.com/Item/1_4%22_Drill_bit"
+        },
+        {
+            "name": "Paint",
+            "url": "https://www.ifixit.com/Item/Paint"
+        }
+    ],
+    "steps": [
+        {
+            "step_number": 1,
+            "title": "Ball Catch",
+            "instructions": [
+                "If the bracket is still partially attached, use a screwdriver to remove the remaining screw(s), then remove the bracket from the wall completely."
+            ],
+            "image_url": "https://guide-images.cdn.ifixit.com/igi/NWQO2B2yLlMKoxVs.medium",
+            "additional_images": [
+                "https://guide-images.cdn.ifixit.com/igi/NWQO2B2yLlMKoxVs.200x150",
+                "https://guide-images.cdn.ifixit.com/igi/rDe4RpU4giwMVLCP.200x150"
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/155185/323413",
+            "add_comment_url": "https://www.ifixit.com/Guide/Curtain+Rod+Bracket+Replacement/#",
+            "links": []
+        },
+        {
+            "step_number": 2,
+            "instructions": [
+                "Observe the hole of the screw(s) that was ripped out of the wall.",
+                "Determine whether the plastic anchor will fit in the current size of the hole.",
+                "If the hole is smaller than the anchor, continue to Step 3. If the hole is bigger, complete this [guide](https://www.ifixit.com/Guide/Curtain+Rod+Bracket+Replacement/<https:/www.ifixit.com/Guide/Patching+a+Hole+in+Drywall/40249>) on patching a hole in dry wall."
+            ],
+            "image_url": "https://guide-images.cdn.ifixit.com/igi/lsX2heLRCaGf5V3X.medium",
+            "additional_images": [
+                "https://guide-images.cdn.ifixit.com/igi/lsX2heLRCaGf5V3X.200x150",
+                "https://guide-images.cdn.ifixit.com/igi/eL2hUtFLRruyZ6Bt.200x150"
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/155185/323414",
+            "add_comment_url": "https://www.ifixit.com/Guide/Curtain+Rod+Bracket+Replacement/#",
+            "links": [
+                {
+                    "text": "guide",
+                    "url": "https://www.ifixit.com/Guide/Patching+a+Hole+in+Drywall/40249"
+                }
+            ]
+        },
+        {
+            "step_number": 3,
+            "instructions": [
+                "Use a ¼ inch drill bit to drill the hole(s) that the anchor will be placed into. Drill into the wall and continue drilling as you pull out of the wall.",
+                "Avoid placing hands near the drill bit while in use. If you have medium to long-length hair, tie your hair back to avoid possible injury."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/155185/323415",
+            "add_comment_url": "https://www.ifixit.com/Guide/Curtain+Rod+Bracket+Replacement/#",
+            "links": []
+        },
+        {
+            "step_number": 4,
+            "instructions": [
+                "Hammer the hollow wall anchor(s) into the hole until flush with the drywall."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/155185/323416",
+            "add_comment_url": "https://www.ifixit.com/Guide/Curtain+Rod+Bracket+Replacement/#",
+            "links": []
+        },
+        {
+            "step_number": 5,
+            "instructions": [
+                "Paint the wall anchor and any surrounding area that has been damaged so that it matches the wall."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/155185/323417",
+            "add_comment_url": "https://www.ifixit.com/Guide/Curtain+Rod+Bracket+Replacement/#",
+            "links": []
+        },
+        {
+            "step_number": 6,
+            "instructions": [
+                "Screw the bracket into the anchor(s) with a screwdriver. The bracket will be secured to the wall."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/155185/323418",
+            "add_comment_url": "https://www.ifixit.com/Guide/Curtain+Rod+Bracket+Replacement/#",
+            "links": []
+        },
+        {
+            "step_number": 7,
+            "instructions": [
+                "Touch up with paint if necessary."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/155185/323419",
+            "add_comment_url": "https://www.ifixit.com/Guide/Curtain+Rod+Bracket+Replacement/#",
+            "links": []
+        },
+        {
+            "step_number": 8,
+            "instructions": [
+                "Rehang your curtain rod and curtains by placing the rod onto the bracket."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/155185/323420",
+            "add_comment_url": "https://www.ifixit.com/Guide/Curtain+Rod+Bracket+Replacement/#",
+            "links": []
+        }
+    ],
+    "embed_guide": {
+        "single_step_url": "https://www.ifixit.com/Guide/embed/155185",
+        "full_guide_url": "https://www.ifixit.com/Guide/embed/155185/full",
+        "sizes": {
+            "small": 600,
+            "medium": 800,
+            "large": 1200
+        }
+    },
+    "repair_is_noble_url": "https://www.ifixit.com/Manifesto",
+    "license_url": "https://www.ifixit.com/Info/Licensing",
+    "guide_url": "https://www.ifixit.com/Guide/Curtain+Rod+Bracket+Replacement/155185"
+}

@@ -1,0 +1,204 @@
+{
+    "guide_title": "Fixing a chair that squeaks",
+    "last_updated": "July 10, 2023",
+    "time_estimate": "30 minutes",
+    "difficulty": "Moderate",
+    "introduction": "Do you have a chair that squeaks? Do you sit in it expecting to have a good and relaxing time but with your every move it does a loud and gruesome **_SQUEAK_**. Tired of your wooden chair squeaking? Well, continue right along and read my fast fix project. This is a guide to repair a wood dining chair that is awfully squeaky. One of the legs has become squeaky due to loose dowels and screws within it. I will be providing you with my method, tools, and photos throughout the repair so that you too can rid your chair of its terrible squeaks.",
+    "tools_and_materials": {
+        "tools": [
+            {
+                "name": "Hex/ Allen wrench",
+                "url": "https://www.ifixit.com/Guide/Fixing++a+chair+that+squeaks/Item/Hex_Allen_wrench"
+            },
+            {
+                "name": "Wood Glue",
+                "url": "https://www.amazon.com/Gorilla-18-Ultimate-Waterproof-Natural/dp/B08J1MJ28D/ref=sr_1_6?crid=2WPYRQTDSI2GV&dib=eyJ2IjoiMSJ9.pW8IMwreLsHurWTLJzVoAQHrokStjnQN6X901auWgdOm8FYgD-of2HTlTR35mE568eezHbXPuOgAXppoFD7Kx2alkLYDv22JUg-UKHNH6GsdK6Djooj3IroAL2FefkRJv7h8GAa47-QeDOHsHInkvVweIPve4Td7TMoBMHx0LpnHFUa-QXrs70_Dco_5FuiP0u-TNgiZy689SpqJdjJheFpSToH9_ZIMOYUxdOZPhEnN4JRfgF-ImfUf9hDmMbHM1TcivEYsOfPej0umYwODYVw8wPtBrjj_SYWziYvm3gk.Hd65dN2t1WgtxcdopIYkGJ4grFoBZdSQintky94tRAU&dib_tag=se&keywords=wood%2Bglue&qid=1715796465&sprefix=wood%2Bglu%2Caps%2C148&sr=8-6&th=1&tag=ifixitam-20",
+                "affiliate_link": true,
+                "available_on_amazon": true
+            },
+            {
+                "name": "Large Clamp",
+                "url": "https://www.amazon.com/Yost-Tools-F106-6-FClamp/dp/B078V72355/ref=sr_1_1_sspa?keywords=large%2Bclamp&qid=1563301197&s=gateway&sr=8-1-spons&psc=1&tag=ifixitam-20",
+                "affiliate_link": true,
+                "available_on_amazon": true
+            },
+            {
+                "name": "Microfiber Cleaning Cloths",
+                "url": "https://www.ifixit.com/products/microfiber-cleaning-cloths",
+                "price": "$3.99",
+                "add_to_cart": true
+            },
+            {
+                "name": "6‑in-1 Screwdriver",
+                "url": "https://www.ifixit.com/products/6-in-1-screwdriver",
+                "price": "$6.99",
+                "add_to_cart": true
+            }
+        ]
+    },
+    "steps": [
+        {
+            "step_number": 1,
+            "step_title": "Fixing a chair that squeaks",
+            "images": [
+                {
+                    "url": "https://guide-images.cdn.ifixit.com/igi/Nh6yVhZ53rH5TyT5.medium",
+                    "alt_text": "Fixing a chair that squeaks, Fixing a chair that squeaks: step 1, image 1 of 2"
+                },
+                {
+                    "url": "https://guide-images.cdn.ifixit.com/igi/V4ft5XpJHRTCGLHK.medium",
+                    "alt_text": "Fixing a chair that squeaks, Fixing a chair that squeaks: step 1, image 2 of 2"
+                }
+            ],
+            "text": "Examine chair to find source of squeaking. It can be from the legs, back, or the seat.\n_To find the source of squeaking you can flip the chair and place it upside down on the ground and observe how the legs are attached to the seat. You can grab each leg with your hand(s) and move it around to see if you can find the squeak. Another way you can check for squeaks is by sitting in the chair and wiggling to locate the squeak._",
+            "links": [
+                {
+                    "type": "edit",
+                    "url": "https://www.ifixit.com/Guide/edit/131597/259141"
+                }
+            ]
+        },
+        {
+            "step_number": 2,
+            "step_title": null,
+            "images": [
+                {
+                    "url": "https://guide-images.cdn.ifixit.com/igi/nIngvNraRL4gljbV.medium",
+                    "alt_text": "Fixing a chair that squeaks: step 2, image 1 of 1"
+                }
+            ],
+            "text": "Grab your hex wrench and/or screwdriver.\nUse the head for the screwdriver that best fits your screws/bolts and the same goes for the allen wrench.",
+            "links": [
+                {
+                    "type": "edit",
+                    "url": "https://www.ifixit.com/Guide/edit/131597/261028"
+                }
+            ]
+        },
+        {
+            "step_number": 3,
+            "step_title": null,
+            "images": [],
+            "text": "Using the hex wrench and/or screwdriver tighten any loose screws underneath the chair and check again for squeaking.",
+            "links": [
+                {
+                    "type": "edit",
+                    "url": "https://www.ifixit.com/Guide/edit/131597/259142"
+                }
+            ]
+        },
+        {
+            "step_number": 4,
+            "step_title": null,
+            "images": [],
+            "text": "If the chair is still squeaking remove all screws from the leg(s) that is/are squeaking.\nThe dowel is now exposed.\n_Once you remove the screws you will be able to freely move the leg and any additional wood attached to it. Removing the additional wood will expose dowels, be sure to note where you removed the wood and position so you can correctly reassemble it later._",
+            "links": [
+                {
+                    "type": "edit",
+                    "url": "https://www.ifixit.com/Guide/edit/131597/259143"
+                }
+            ]
+        },
+        {
+            "step_number": 5,
+            "step_title": null,
+            "images": [],
+            "text": "The wooden dowels are exposed after removing all the screws.\nGrab your wood glue.",
+            "links": [
+                {
+                    "type": "edit",
+                    "url": "https://www.ifixit.com/Guide/edit/131597/259144"
+                }
+            ]
+        },
+        {
+            "step_number": 6,
+            "step_title": null,
+            "images": [],
+            "text": "Apply the wood glue where the dowels are located, be sure to get the glue inside the holes.\n_Try to do this step as clean as you can, it can get very messy and wood glue can ruin wood._",
+            "links": [
+                {
+                    "type": "edit",
+                    "url": "https://www.ifixit.com/Guide/edit/131597/259145"
+                }
+            ]
+        },
+        {
+            "step_number": 7,
+            "step_title": null,
+            "images": [],
+            "text": "Place the wood you removed from the chair back to the appropriate regions of the chair.",
+            "links": [
+                {
+                    "type": "edit",
+                    "url": "https://www.ifixit.com/Guide/edit/131597/259146"
+                }
+            ]
+        },
+        {
+            "step_number": 8,
+            "step_title": null,
+            "images": [],
+            "text": "Once you’ve placed all wood back in their correct positions grab your hex wrench/screwdriver, and cloth.\nWet the cloth and and remove any excess glue from the chair.\n_DO NOT let the glue dry as it will ruin your wood._\nUse the correct head size and allen wrench for your screws/bolts.",
+            "links": [
+                {
+                    "type": "edit",
+                    "url": "https://www.ifixit.com/Guide/edit/131597/261029"
+                }
+            ]
+        },
+        {
+            "step_number": 9,
+            "step_title": null,
+            "images": [],
+            "text": "Put the screws back into the chair using the screwdriver/hex wrench.",
+            "links": [
+                {
+                    "type": "edit",
+                    "url": "https://www.ifixit.com/Guide/edit/131597/259147"
+                }
+            ]
+        },
+        {
+            "step_number": 10,
+            "step_title": null,
+            "images": [],
+            "text": "Grab your clamp(s) for the chair.",
+            "links": [
+                {
+                    "type": "edit",
+                    "url": "https://www.ifixit.com/Guide/edit/131597/259148"
+                }
+            ]
+        },
+        {
+            "step_number": 11,
+            "step_title": null,
+            "images": [],
+            "text": "Secure the clamp(s) onto the chair and occasionally check for dripping glue.\nLet the chair sit with clamp(s) on for a minimum of 24 hours.\n_DO NOT use the chair while clamps are attached and glue is wet, the glue will be misplaced and the chair will still squeak._",
+            "links": [
+                {
+                    "type": "edit",
+                    "url": "https://www.ifixit.com/Guide/edit/131597/259149"
+                }
+            ]
+        },
+        {
+            "step_number": 12,
+            "step_title": null,
+            "images": [],
+            "text": "You have now completed the necessary steps to rid the terrible squeaks from your wooden chairs.\nIf you have more wooden chairs that squeak you will have to repeat this procedure.\nThank you for reading!",
+            "links": [
+                {
+                    "type": "edit",
+                    "url": "https://www.ifixit.com/Guide/edit/131597/263766"
+                }
+            ]
+        }
+    ],
+    "conclusion": "To fix your squeaky chair device, follow these simple instructions.",
+    "embed_guide": {
+        "single_step_code": "<iframe id=\"dozuki-embed-131597\" src=\"https://www.ifixit.com/Guide/embed/131597/full\" width=\"800\" allowfullscreen frameborder=\"0\"></iframe> <script>window.addEventListener(\"message\",function(a){var b=document.getElementById(\"dozuki-embed-131597\"),c=a.data[0],d=a.data[1];switch(c){case\"setHeight\":b.style.height=d+\"px\"}},!1);</script>",
+        "full_guide_code": "<iframe src=\"https://www.ifixit.com/Guide/embed/131597\" width=\"800\" height=\"584\" allowfullscreen frameborder=\"0\"></iframe>"
+    }
+}

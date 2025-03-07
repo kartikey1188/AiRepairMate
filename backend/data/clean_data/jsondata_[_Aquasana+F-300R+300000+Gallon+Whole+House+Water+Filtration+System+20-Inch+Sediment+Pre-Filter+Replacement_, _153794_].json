@@ -1,0 +1,205 @@
+{
+    "metadata": {
+        "title": "Aquasana F-300R 300,000 Gallon Whole House Water Filtration System 20-Inch Sediment Pre-Filter Replacement",
+        "last_updated": "December 27, 2022",
+        "estimated_time": "15 - 20 minutes",
+        "difficulty": "Easy",
+        "featured_student_guide": true,
+        "introduction": "Use this guide to replace the 20-inch sediment pre-filter for your Aquasana F-300R 300,000-gallon whole house water filtration system.\nThe sediment pre-filter keeps rust, dirt, and sediment particles from entering the main filter unit.\nAfter 2-3 months of use (when the pre-filter darkens or water flow slows), the sediment pre-filter must be replaced. When this pre-filter is not replaced in a timely manner, water pressure can drop, and sediment particles can enter and clog the main filter tank."
+    },
+    "parts": [
+        {
+            "name": "Aquasana pre‑filter (EQ 304-20)",
+            "url": "https://www.amazon.com/Aquasana-Replacement-20-Inch-Sediment-Pre-filters/dp/B00EEGW68A/ref=sr_1_5?crid=3FXGJSUMQZ379&keywords=aquasana%2Bpre-filter%2Beq304-20&qid=1665246347&sprefix=aquasana%2Bpre-filter%2Beq304-20%2Caps%2C129&sr=8-5&th=1&tag=ifixitam-20",
+            "affiliate_link": true,
+            "available_for_sale": "https://www.amazon.com/Aquasana-Replacement-20-Inch-Sediment-Pre-filters/dp/B00EEGW68A/ref=sr_1_5?crid=3FXGJSUMQZ379&keywords=aquasana%2Bpre-filter%2Beq304-20&qid=1665246347&sprefix=aquasana%2Bpre-filter%2Beq304-20%2Caps%2C129&sr=8-5&th=1&tag=ifixitam-20",
+            "view_link": "https://www.amazon.com/Aquasana-Replacement-20-Inch-Sediment-Pre-filters/dp/B00EEGW68A/ref=sr_1_5?crid=3FXGJSUMQZ379&keywords=aquasana%2Bpre-filter%2Beq304-20&qid=1665246347&sprefix=aquasana%2Bpre-filter%2Beq304-20%2Caps%2C129&sr=8-5&th=1&tag=ifixitam-20"
+        }
+    ],
+    "tools": [
+        {
+            "name": "Water filter housing wrench",
+            "url": "https://www.amazon.com/Aquasana-Replacement-20-Inch-Sediment-Pre-filters/dp/B00EEGW68A/ref=sr_1_5?crid=3FXGJSUMQZ379&keywords=aquasana%2Bpre-filter%2Beq304-20&qid=1665246347&sprefix=aquasana%2Bpre-filter%2Beq304-20%2Caps%2C129&sr=8-5&th=1&tag=ifixitam-20",
+            "affiliate_link": true,
+            "available_for_sale": "https://www.amazon.com/Aquasana-Replacement-20-Inch-Sediment-Pre-filters/dp/B00EEGW68A/ref=sr_1_5?crid=3FXGJSUMQZ379&keywords=aquasana%2Bpre-filter%2Beq304-20&qid=1665246347&sprefix=aquasana%2Bpre-filter%2Beq304-20%2Caps%2C129&sr=8-5&th=1&tag=ifixitam-20",
+            "view_link": "https://www.amazon.com/Aquasana-Replacement-20-Inch-Sediment-Pre-filters/dp/B00EEGW68A/ref=sr_1_5?crid=3FXGJSUMQZ379&keywords=aquasana%2Bpre-filter%2Beq304-20&qid=1665246347&sprefix=aquasana%2Bpre-filter%2Beq304-20%2Caps%2C129&sr=8-5&th=1&tag=ifixitam-20"
+        },
+        {
+            "name": "Vaseline",
+            "url": "https://www.amazon.com/Vaseline-Original-Petroleum-Jelly-50ml/dp/B01M1V84CY/ref=sr_1_2?crid=2JL73RRCXLMEC&keywords=vaseline&qid=1672160528&sprefix=vaseline%2Caps%2C130&sr=8-2&tag=ifixitam-20",
+            "affiliate_link": true,
+            "available_for_sale": "https://www.amazon.com/Vaseline-Original-Petroleum-Jelly-50ml/dp/B01M1V84CY/ref=sr_1_2?crid=2JL73RRCXLMEC&keywords=vaseline&qid=1672160528&sprefix=vaseline%2Caps%2C130&sr=8-2&tag=ifixitam-20",
+            "view_link": "https://www.amazon.com/Vaseline-Original-Petroleum-Jelly-50ml/dp/B01M1V84CY/ref=sr_1_2?crid=2JL73RRCXLMEC&keywords=vaseline&qid=1672160528&sprefix=vaseline%2Caps%2C130&sr=8-2&tag=ifixitam-20"
+        },
+        {
+            "name": "Towel",
+            "url": "https://amzn.com/B002S52ZJ4?tag=ifixitam-20",
+            "image_url": "https://guide-images.cdn.ifixit.com/igi/iiyVFeyBM14s4YMC.thumbnail",
+            "affiliate_link": true,
+            "available_for_sale": "https://amzn.com/B002S52ZJ4?tag=ifixitam-20",
+            "view_link": "https://amzn.com/B002S52ZJ4?tag=ifixitam-20"
+        },
+        {
+            "name": "Dish Soap",
+            "url": "http://www.amazon.com/s/ref=sr_st_review-rank?keywords=dish%2Bsoap&fst=as%3Aoff&rh=n%3A3760901%2Ck%3Adish%2Bsoap&qid=1445546687&sort=review-rank&tag=ifixitam-20",
+            "affiliate_link": true,
+            "available_for_sale": "http://www.amazon.com/s/ref=sr_st_review-rank?keywords=dish%2Bsoap&fst=as%3Aoff&rh=n%3A3760901%2Ck%3Adish%2Bsoap&qid=1445546687&sort=review-rank&tag=ifixitam-20",
+            "view_link": "http://www.amazon.com/s/ref=sr_st_review-rank?keywords=dish%2Bsoap&fst=as%3Aoff&rh=n%3A3760901%2Ck%3Adish%2Bsoap&qid=1445546687&sort=review-rank&tag=ifixitam-20"
+        },
+        {
+            "name": "Glass and Water Bottle Brush",
+            "url": "https://www.amazon.com/Scotch-Brite-Reaches-Glasses-Bottles-Bristles/dp/B009S1HA6Y/ref=sr_1_9?crid=1R4A6R94L0FLS&keywords=bottle%2Bbrush&qid=1672160609&sprefix=bottle%2Bbrush%2Caps%2C80&sr=8-9&tag=ifixitam-20",
+            "image_url": "https://guide-images.cdn.ifixit.com/igi/wM3mD1iXjG2G24c1.thumbnail",
+            "affiliate_link": true,
+            "available_for_sale": "https://www.amazon.com/Scotch-Brite-Reaches-Glasses-Bottles-Bristles/dp/B009S1HA6Y/ref=sr_1_9?crid=1R4A6R94L0FLS&keywords=bottle%2Bbrush&qid=1672160609&sprefix=bottle%2Bbrush%2Caps%2C80&sr=8-9&tag=ifixitam-20",
+            "view_link": "https://www.amazon.com/Scotch-Brite-Reaches-Glasses-Bottles-Bristles/dp/B009S1HA6Y/ref=sr_1_9?crid=1R4A6R94L0FLS&keywords=bottle%2Bbrush&qid=1672160609&sprefix=bottle%2Bbrush%2Caps%2C80&sr=8-9&tag=ifixitam-20"
+        }
+    ],
+    "steps": [
+        {
+            "step_number": 1,
+            "title": "20-inch Sediment Pre-Filter",
+            "instructions": [
+                "Turn off the water supply by turning the water valve(s) to be horizontal, or perpendicular to the water pipe.",
+                "You may have one or two valves depending on the installation of your system."
+            ],
+            "image_url": "https://guide-images.cdn.ifixit.com/igi/aAvJLAkJJgrRaSaE.medium",
+            "additional_images": [
+                "https://guide-images.cdn.ifixit.com/igi/aAvJLAkJJgrRaSaE.200x150",
+                "https://guide-images.cdn.ifixit.com/igi/6NSODZYKfF4SBeLy.200x150"
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/153794/319516",
+            "add_comment_url": "https://www.ifixit.com/Guide/Aquasana+F-300R+300000+Gallon+Whole+House+Water+Filtration+System+20-Inch+Sediment+Pre-Filter+Replacement/#",
+            "links": []
+        },
+        {
+            "step_number": 2,
+            "instructions": [
+                "Press the black pressure release button on top of the filter housing.",
+                "Hold the button down for 5 seconds."
+            ],
+            "image_url": "https://guide-images.cdn.ifixit.com/igi/DhSEgyMfohNTY43a.medium",
+            "additional_images": [
+                "https://guide-images.cdn.ifixit.com/igi/DhSEgyMfohNTY43a.200x150",
+                "https://guide-images.cdn.ifixit.com/igi/i5LPBZEMyuewJYif.200x150"
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/153794/319517",
+            "add_comment_url": "https://www.ifixit.com/Guide/Aquasana+F-300R+300000+Gallon+Whole+House+Water+Filtration+System+20-Inch+Sediment+Pre-Filter+Replacement/#",
+            "links": []
+        },
+        {
+            "step_number": 3,
+            "instructions": [
+                "Unscrew the filter housing canister clockwise with a water filter housing wrench."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/153794/319518",
+            "add_comment_url": "https://www.ifixit.com/Guide/Aquasana+F-300R+300000+Gallon+Whole+House+Water+Filtration+System+20-Inch+Sediment+Pre-Filter+Replacement/#",
+            "links": []
+        },
+        {
+            "step_number": 4,
+            "instructions": [
+                "Remove the dirty pre-filter and dispose of it."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/153794/319519",
+            "add_comment_url": "https://www.ifixit.com/Guide/Aquasana+F-300R+300000+Gallon+Whole+House+Water+Filtration+System+20-Inch+Sediment+Pre-Filter+Replacement/#",
+            "links": []
+        },
+        {
+            "step_number": 5,
+            "instructions": [
+                "Wash the filter housing canister with dish soap and water.",
+                "You may need a long-handled cleaning brush to scrub off dirt and debris.",
+                "Rinse and dry the filter housing canister."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/153794/319520",
+            "add_comment_url": "https://www.ifixit.com/Guide/Aquasana+F-300R+300000+Gallon+Whole+House+Water+Filtration+System+20-Inch+Sediment+Pre-Filter+Replacement/#",
+            "links": []
+        },
+        {
+            "step_number": 6,
+            "instructions": [
+                "Remove the O-ring from the housing canister."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/153794/319521",
+            "add_comment_url": "https://www.ifixit.com/Guide/Aquasana+F-300R+300000+Gallon+Whole+House+Water+Filtration+System+20-Inch+Sediment+Pre-Filter+Replacement/#",
+            "links": []
+        },
+        {
+            "step_number": 7,
+            "instructions": [
+                "Clean off old grease on the O-ring with a towel."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/153794/319522",
+            "add_comment_url": "https://www.ifixit.com/Guide/Aquasana+F-300R+300000+Gallon+Whole+House+Water+Filtration+System+20-Inch+Sediment+Pre-Filter+Replacement/#",
+            "links": []
+        },
+        {
+            "step_number": 8,
+            "instructions": [
+                "Replace the O-ring.",
+                "Apply Vaseline or lube around the seal."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/153794/319523",
+            "add_comment_url": "https://www.ifixit.com/Guide/Aquasana+F-300R+300000+Gallon+Whole+House+Water+Filtration+System+20-Inch+Sediment+Pre-Filter+Replacement/#",
+            "links": []
+        },
+        {
+            "step_number": 9,
+            "instructions": [
+                "Place the new pre-filter in the center of the filter housing canister."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/153794/319524",
+            "add_comment_url": "https://www.ifixit.com/Guide/Aquasana+F-300R+300000+Gallon+Whole+House+Water+Filtration+System+20-Inch+Sediment+Pre-Filter+Replacement/#",
+            "links": []
+        },
+        {
+            "step_number": 10,
+            "instructions": [
+                "Screw the filter housing canister counter-clockwise with your hands."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/153794/319525",
+            "add_comment_url": "https://www.ifixit.com/Guide/Aquasana+F-300R+300000+Gallon+Whole+House+Water+Filtration+System+20-Inch+Sediment+Pre-Filter+Replacement/#",
+            "links": []
+        },
+        {
+            "step_number": 11,
+            "instructions": [
+                "Tighten the filter housing canister with the filter wrench."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/153794/319526",
+            "add_comment_url": "https://www.ifixit.com/Guide/Aquasana+F-300R+300000+Gallon+Whole+House+Water+Filtration+System+20-Inch+Sediment+Pre-Filter+Replacement/#",
+            "links": []
+        },
+        {
+            "step_number": 12,
+            "instructions": [
+                "Turn on the water supply by turning the water valve(s) to be vertical, or parallel to the water pipe."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/153794/319527",
+            "add_comment_url": "https://www.ifixit.com/Guide/Aquasana+F-300R+300000+Gallon+Whole+House+Water+Filtration+System+20-Inch+Sediment+Pre-Filter+Replacement/#",
+            "links": []
+        },
+        {
+            "step_number": 13,
+            "instructions": [
+                "Run water in a sink or tub for 1-2 minutes to flush out the system and remove any air in the pipes."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/153794/319538",
+            "add_comment_url": "https://www.ifixit.com/Guide/Aquasana+F-300R+300000+Gallon+Whole+House+Water+Filtration+System+20-Inch+Sediment+Pre-Filter+Replacement/#",
+            "links": []
+        }
+    ],
+    "embed_guide": {
+        "single_step_url": "https://www.ifixit.com/Guide/embed/153794",
+        "full_guide_url": "https://www.ifixit.com/Guide/embed/153794/full",
+        "sizes": {
+            "small": 600,
+            "medium": 800,
+            "large": 1200
+        }
+    },
+    "repair_is_noble_url": "https://www.ifixit.com/Manifesto",
+    "license_url": "https://www.ifixit.com/Info/Licensing",
+    "guide_url": "https://www.ifixit.com/Guide/Aquasana+F-300R+300000+Gallon+Whole+House+Water+Filtration+System+20-Inch+Sediment+Pre-Filter+Replacement/153794"
+}

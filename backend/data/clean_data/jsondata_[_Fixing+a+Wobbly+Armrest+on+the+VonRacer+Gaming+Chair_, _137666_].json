@@ -1,0 +1,104 @@
+{
+    "guide_title": "Fixing a Wobbly Armrest on the VonRacer Gaming Chair",
+    "last_updated": "December 29, 2020",
+    "time_estimate": "15 minutes",
+    "difficulty": "Easy",
+    "introduction": "In this guide, I will be showing you how to fix a wobbly arm rest on the Von Racer gaming chair. I know how frustrating it can be when the arm rest can ruin your aim when playing a video game, or just for regular work in general. Make sure to have some space to be able to set the chair in different positions for easy accessibility to the screws.\nThere are 2 reasons why the arm rest may be wobbling, either the M8 bolts aren’t aligned and tightened properly on the bottom cushion, or the screws inside the arm rest itself may be loose.",
+    "tools_and_materials": {
+        "tools": [
+            {
+                "name": "8mm Hex Key",
+                "url": "https://www.amazon.com/s?k=8mm%2Bhex%2Bkey&crid=GUM8Z7ZBI3CQ&sprefix=8mm%2Bhex%2Bkey%2Caps%2C221&ref=nb_sb_noss_2&tag=ifixitam-20",
+                "affiliate_link": true,
+                "available_on_amazon": true
+            },
+            {
+                "name": "Phillips #1 Screwdriver",
+                "url": "https://www.ifixit.com/products/phillips-1-screwdriver",
+                "price": "$5.49 New / iFixit$8.99 New / Moody - Made in USA",
+                "add_to_cart": true
+            }
+        ]
+    },
+    "steps": [
+        {
+            "step_number": 1,
+            "step_title": "Fixing a Wobbly Armrest on the VonRacer Gaming Chair",
+            "images": [
+                {
+                    "url": "https://guide-images.cdn.ifixit.com/igi/smcgQXMB2BMXoREi.medium",
+                    "alt_text": "Fixing a Wobbly Armrest on the VonRacer Gaming Chair, Fixing a Wobbly Armrest on the VonRacer Gaming Chair: step 1, image 1 of 3"
+                },
+                {
+                    "url": "https://guide-images.cdn.ifixit.com/igi/VxGZpCFpXvPKVenh.medium",
+                    "alt_text": "Fixing a Wobbly Armrest on the VonRacer Gaming Chair, Fixing a Wobbly Armrest on the VonRacer Gaming Chair: step 1, image 2 of 3"
+                },
+                {
+                    "url": "https://guide-images.cdn.ifixit.com/igi/AW1uOwhIixXIQHDy.medium",
+                    "alt_text": "Fixing a Wobbly Armrest on the VonRacer Gaming Chair, Fixing a Wobbly Armrest on the VonRacer Gaming Chair: step 1, image 3 of 3"
+                }
+            ],
+            "text": "To be able to reach the bolts on the bottom of the seat in an easily accessible manner, you should pull out the leg rest and recline the seat all the way back.\nAfter doing so, put the chair on its side.\nThis is recommended to be able to have an easier time removing the screws.",
+            "links": [
+                {
+                    "type": "edit",
+                    "url": "https://www.ifixit.com/Guide/edit/137666/274519"
+                }
+            ]
+        },
+        {
+            "step_number": 2,
+            "step_title": null,
+            "images": [
+                {
+                    "url": "https://guide-images.cdn.ifixit.com/igi/eqBcPWrGbYivWwXS.medium",
+                    "alt_text": "Fixing a Wobbly Armrest on the VonRacer Gaming Chair: step 2, image 1 of 3"
+                },
+                {
+                    "url": "https://guide-images.cdn.ifixit.com/igi/rMMdcYQy2fxjJ4IR.200x150",
+                    "alt_text": "Fixing a Wobbly Armrest on the VonRacer Gaming Chair: step 2, image 2 of 3"
+                },
+                {
+                    "url": "https://guide-images.cdn.ifixit.com/igi/BM2NSb2dHIxSTWa5.200x150",
+                    "alt_text": "Fixing a Wobbly Armrest on the VonRacer Gaming Chair: step 2, image 3 of 3"
+                }
+            ],
+            "text": "Remove the two 25 mm arm rest bolts with an M8 hex screwdriver.\nRemove the arm rest.",
+            "links": [
+                {
+                    "type": "edit",
+                    "url": "https://www.ifixit.com/Guide/edit/137666/274520"
+                }
+            ]
+        },
+        {
+            "step_number": 3,
+            "step_title": null,
+            "images": [],
+            "text": "Tighten the three screws on the arm rest, one for the elbow joint and two for the arm rest cushion, with a Phillips #1 screwdriver.\nGive the arm rest a shake to ensure there is no wobble in the two joints.",
+            "links": [
+                {
+                    "type": "edit",
+                    "url": "https://www.ifixit.com/Guide/edit/137666/274522"
+                }
+            ]
+        },
+        {
+            "step_number": 4,
+            "step_title": null,
+            "images": [],
+            "text": "Align the arm rest with the two screw holes on the bottom of the seat.\nReplace the two 25 mm M8 hex screws to secure the arm rest.\nBe sure to sufficiently tighten these screws to eliminate any wobble.",
+            "links": [
+                {
+                    "type": "edit",
+                    "url": "https://www.ifixit.com/Guide/edit/137666/274523"
+                }
+            ]
+        }
+    ],
+    "conclusion": "To reassemble your device, follow these instructions in reverse order.",
+    "embed_guide": {
+        "single_step_code": "<iframe id=\"dozuki-embed-137666\" src=\"https://www.ifixit.com/Guide/embed/137666/full\" width=\"800\" allowfullscreen frameborder=\"0\"></iframe> <script>window.addEventListener(\"message\",function(a){var b=document.getElementById(\"dozuki-embed-137666\"),c=a.data[0],d=a.data[1];switch(c){case\"setHeight\":b.style.height=d+\"px\"}},!1);</script>",
+        "full_guide_code": "<iframe src=\"https://www.ifixit.com/Guide/embed/137666\" width=\"800\" height=\"584\" allowfullscreen frameborder=\"0\"></iframe>"
+    }
+}

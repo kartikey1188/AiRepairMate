@@ -1,0 +1,126 @@
+{
+    "guide_title": "Fender Jazz Bass Strings Replacement",
+    "last_updated": "November 13, 2022",
+    "estimated_time": "10 - 15 minutes",
+    "difficulty": "Easy",
+    "needs_more_images": true,
+    "introduction": "String replacement of a Fender Jazz Bass is a common replacement on the bass that can be dependent on how often you play and the type of stress you are putting on your strings. Learning the basics of string replacement will allow you to tune your bass more to your personalized liking and to fear not if a string is to break.\nString replacement can be a very basic task, however, it is always an option to elevate your string replacement task with tools that might make it easier. These instructions give you a idea of the essential tasks that are required to have fresh sounding strings in no time.",
+    "parts": [
+        {
+            "name": "Bass Guitar Strings",
+            "link": "https://www.amazon.com/Ernie-Ball-Regular-Slinky-Nickel/dp/B000MFL7UU/ref=sr_1_3?keywords=4%2Bstring%2Bbass%2Bguitar%2Bstrings&qid=1565282385&s=gateway&sr=8-3&tag=ifixitam-20",
+            "affiliate_link": "https://www.amazon.com/Ernie-Ball-Regular-Slinky-Nickel/dp/B000MFL7UU/ref=sr_1_3?keywords=4%2Bstring%2Bbass%2Bguitar%2Bstrings&qid=1565282385&s=gateway&sr=8-3&tag=ifixitam-20",
+            "available_on_amazon": "https://www.amazon.com/Ernie-Ball-Regular-Slinky-Nickel/dp/B000MFL7UU/ref=sr_1_3?keywords=4%2Bstring%2Bbass%2Bguitar%2Bstrings&qid=1565282385&s=gateway&sr=8-3&tag=ifixitam-20",
+            "view_link": "https://www.amazon.com/Ernie-Ball-Regular-Slinky-Nickel/dp/B000MFL7UU/ref=sr_1_3?keywords=4%2Bstring%2Bbass%2Bguitar%2Bstrings&qid=1565282385&s=gateway&sr=8-3&tag=ifixitam-20>"
+        }
+    ],
+    "tools": [
+        {
+            "name": "Wire Cutters/Side Cutters",
+            "image": "https://guide-images.cdn.ifixit.com/igi/DiTSjGCNA5rUZxVB.thumbnail",
+            "link": "https://www.amazon.com/dp/B007HGNTTY/?tag=ifixitam-20",
+            "affiliate_link": "https://www.amazon.com/dp/B007HGNTTY/?tag=ifixitam-20",
+            "available_on_amazon": "https://www.amazon.com/dp/B007HGNTTY/?tag=ifixitam-20",
+            "view_link": "https://www.amazon.com/dp/B007HGNTTY/?tag=ifixitam-20>"
+        },
+        {
+            "name": "Power Drill",
+            "image": "https://guide-images.cdn.ifixit.com/igi/Ki5FSI2EbF6KWaHJ.thumbnail",
+            "link": "https://www.amazon.com/DECKER-LD120VA-20-Volt-Lithium-Accessories/dp/B006V6YAPI/ref=sr_1_1_sspa?crid=JY8JHU6VNK6Q&keywords=power%2Bdrill&qid=1687374454&s=hi&sprefix=power%2Bdrill%2Ctools%2C148&sr=1-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1&tag=ifixitam-20",
+            "optional": true,
+            "affiliate_link": "https://www.amazon.com/DECKER-LD120VA-20-Volt-Lithium-Accessories/dp/B006V6YAPI/ref=sr_1_1_sspa?crid=JY8JHU6VNK6Q&keywords=power%2Bdrill&qid=1687374454&s=hi&sprefix=power%2Bdrill%2Ctools%2C148&sr=1-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1&tag=ifixitam-20",
+            "available_on_amazon": "https://www.amazon.com/DECKER-LD120VA-20-Volt-Lithium-Accessories/dp/B006V6YAPI/ref=sr_1_1_sspa?crid=JY8JHU6VNK6Q&keywords=power%2Bdrill&qid=1687374454&s=hi&sprefix=power%2Bdrill%2Ctools%2C148&sr=1-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1&tag=ifixitam-20",
+            "view_link": "https://www.amazon.com/DECKER-LD120VA-20-Volt-Lithium-Accessories/dp/B006V6YAPI/ref=sr_1_1_sspa?crid=JY8JHU6VNK6Q&keywords=power%2Bdrill&qid=1687374454&s=hi&sprefix=power%2Bdrill%2Ctools%2C148&sr=1-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1&tag=ifixitam-20>"
+        },
+        {
+            "name": "Guitar string winder and cutter",
+            "image": "https://guide-images.cdn.ifixit.com/igi/btrtwOJPQLPE4TdT.thumbnail",
+            "link": "http://www.amazon.com/Planet-Waves-Winder-String-Cutter/dp/B0002E1G5C/ref=sr_1_1?s=musical-instruments&ie=UTF8&qid=1412627127&sr=1-1&keywords=guitar%2Bstring%2Bwinder&tag=ifixitam-20",
+            "optional": true,
+            "affiliate_link": "http://www.amazon.com/Planet-Waves-Winder-String-Cutter/dp/B0002E1G5C/ref=sr_1_1?s=musical-instruments&ie=UTF8&qid=1412627127&sr=1-1&keywords=guitar%2Bstring%2Bwinder&tag=ifixitam-20",
+            "available_on_amazon": "http://www.amazon.com/Planet-Waves-Winder-String-Cutter/dp/B0002E1G5C/ref=sr_1_1?s=musical-instruments&ie=UTF8&qid=1412627127&sr=1-1&keywords=guitar%2Bstring%2Bwinder&tag=ifixitam-20",
+            "view_link": "http://www.amazon.com/Planet-Waves-Winder-String-Cutter/dp/B0002E1G5C/ref=sr_1_1?s=musical-instruments&ie=UTF8&qid=1412627127&sr=1-1&keywords=guitar%2Bstring%2Bwinder&tag=ifixitam-20>"
+        }
+    ],
+    "steps": [
+        {
+            "step_number": 1,
+            "title": "Strings",
+            "images": [
+                "https://guide-images.cdn.ifixit.com/igi/PZ13AvuKrNWgu5Ff.medium",
+                "https://guide-images.cdn.ifixit.com/igi/XgALmq1fPmq2bEUU.medium"
+            ],
+            "thumbnails": [
+                "https://guide-images.cdn.ifixit.com/igi/PZ13AvuKrNWgu5Ff.200x150",
+                "https://guide-images.cdn.ifixit.com/igi/XgALmq1fPmq2bEUU.200x150"
+            ],
+            "description": "Loosen the strings by turning the tuning pegs.",
+            "edit_link": "https://www.ifixit.com/Guide/Fender+Jazz+Bass+Strings+Replacement//Guide/edit/166118/349529",
+            "add_comment_link": "https://www.ifixit.com/Guide/Fender+Jazz+Bass+Strings+Replacement/",
+            "links": []
+        },
+        {
+            "step_number": 2,
+            "title": null,
+            "images": [
+                "https://guide-images.cdn.ifixit.com/igi/pFMnfQyLYCbKjFbj.medium",
+                "https://guide-images.cdn.ifixit.com/igi/rrXWNFVHDVSKMXbN.medium"
+            ],
+            "thumbnails": [
+                "https://guide-images.cdn.ifixit.com/igi/pFMnfQyLYCbKjFbj.200x150",
+                "https://guide-images.cdn.ifixit.com/igi/rrXWNFVHDVSKMXbN.200x150"
+            ],
+            "description": "Once the strings are loose, remove them from the tuning pegs.\nIf you prefer, you can also cut the strings off.",
+            "edit_link": "https://www.ifixit.com/Guide/Fender+Jazz+Bass+Strings+Replacement//Guide/edit/166118/349530",
+            "add_comment_link": "https://www.ifixit.com/Guide/Fender+Jazz+Bass+Strings+Replacement/",
+            "links": []
+        },
+        {
+            "step_number": 3,
+            "title": null,
+            "image": null,
+            "description": "Reach under the bridge to pull out the end of each string.",
+            "edit_link": "https://www.ifixit.com/Guide/Fender+Jazz+Bass+Strings+Replacement//Guide/edit/166118/349531",
+            "add_comment_link": "https://www.ifixit.com/Guide/Fender+Jazz+Bass+Strings+Replacement/",
+            "links": []
+        },
+        {
+            "step_number": 4,
+            "title": null,
+            "image": null,
+            "description": "Insert the end of the string with no knob on the bottom through the bridge first.\nPull each string through to the top of the neck.",
+            "edit_link": "https://www.ifixit.com/Guide/Fender+Jazz+Bass+Strings+Replacement//Guide/edit/166118/349532",
+            "add_comment_link": "https://www.ifixit.com/Guide/Fender+Jazz+Bass+Strings+Replacement/",
+            "links": []
+        },
+        {
+            "step_number": 5,
+            "title": null,
+            "image": null,
+            "description": "Insert the strings into the indentations on the nut.\nWrap the strings around the tuning pegs about two times.",
+            "edit_link": "https://www.ifixit.com/Guide/Fender+Jazz+Bass+Strings+Replacement//Guide/edit/166118/349534",
+            "add_comment_link": "https://www.ifixit.com/Guide/Fender+Jazz+Bass+Strings+Replacement/",
+            "links": []
+        },
+        {
+            "step_number": 6,
+            "title": null,
+            "image": null,
+            "description": "Tighten the tuning pegs until the bass is in tune.\nThe standard tuning for a bass is E A D G.\nYou will have excess string hanging off the pegs of the bass.",
+            "edit_link": "https://www.ifixit.com/Guide/Fender+Jazz+Bass+Strings+Replacement//Guide/edit/166118/349535",
+            "add_comment_link": "https://www.ifixit.com/Guide/Fender+Jazz+Bass+Strings+Replacement/",
+            "links": []
+        }
+    ],
+    "conclusion": "After you remove the first string, you will reassemble and continue the process until you have changed all four strings.",
+    "finish_line": {
+        "text": "Give the author +30 points! You're Finished!",
+        "cancel_link": "https://www.ifixit.com/Guide/Fender+Jazz+Bass+Strings+Replacement/<#>"
+    },
+    "embed_code": {
+        "small": "<iframe id=\"dozuki-embed-166118\" src=\"https://www.ifixit.com/Guide/embed/166118/full\" width=\"600\" allowfullscreen frameborder=\"0\"></iframe> <script>window.addEventListener(\"message\",function(a){var b=document.getElementById(\"dozuki-embed-166118\"),c=a.data[0],d=a.data[1];switch(c){case\"setHeight\":b.style.height=d+\"px\"}},!1);</script> <iframe src=\"https://www.ifixit.com/Guide/embed/166118\" width=\"600\" height=\"584\" allowfullscreen frameborder=\"0\"></iframe>",
+        "medium": "<iframe id=\"dozuki-embed-166118\" src=\"https://www.ifixit.com/Guide/embed/166118/full\" width=\"800\" allowfullscreen frameborder=\"0\"></iframe> <script>window.addEventListener(\"message\",function(a){var b=document.getElementById(\"dozuki-embed-166118\"),c=a.data[0],d=a.data[1];switch(c){case\"setHeight\":b.style.height=d+\"px\"}},!1);</script> <iframe src=\"https://www.ifixit.com/Guide/embed/166118\" width=\"800\" height=\"584\" allowfullscreen frameborder=\"0\"></iframe>",
+        "large": "<iframe id=\"dozuki-embed-166118\" src=\"https://www.ifixit.com/Guide/embed/166118/full\" width=\"1200\" allowfullscreen frameborder=\"0\"></iframe> <script>window.addEventListener(\"message\",function(a){var b=document.getElementById(\"dozuki-embed-166118\"),c=a.data[0],d=a.data[1];switch(c){case\"setHeight\":b.style.height=d+\"px\"}},!1);</script> <iframe src=\"https://www.ifixit.com/Guide/embed/166118\" width=\"1200\" height=\"584\" allowfullscreen frameborder=\"0\"></iframe>"
+    },
+    "repair_is_noble": "https://www.ifixit.com/Manifesto"
+}

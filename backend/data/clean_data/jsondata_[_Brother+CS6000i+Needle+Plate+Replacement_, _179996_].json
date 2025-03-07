@@ -1,0 +1,121 @@
+{
+    "metadata": {
+        "title": "Brother CS6000i Needle Plate Replacement",
+        "last_updated": "December 31, 2024",
+        "guide_image": "https://guide-images.cdn.ifixit.com/igi/oHlMsVXfeY4DdeUi.140x105",
+        "estimated_time": "15 - 20 minutes",
+        "difficulty": "Moderate",
+        "device_links": [
+            {
+                "text": "Brother CS6000i",
+                "url": "https://www.ifixit.com/Device/Brother_CS6000i"
+            },
+            {
+                "text": "Sewing Machine",
+                "url": "https://www.ifixit.com/Device/Sewing_Machine"
+            },
+            {
+                "text": "Arts, Crafts & Sewing",
+                "url": "https://www.ifixit.com/Device/Arts_Crafts_and_Sewing"
+            },
+            {
+                "text": "Household",
+                "url": "https://www.ifixit.com/Device/Household"
+            },
+            {
+                "text": "Home",
+                "url": "https://www.ifixit.com/Guide"
+            }
+        ],
+        "parts_links": [
+            {
+                "text": "Guides",
+                "url": "https://www.ifixit.com/Device/Brother_CS6000i#Section_Guides"
+            },
+            {
+                "text": "Troubleshooting",
+                "url": "https://www.ifixit.com/Troubleshooting/Brother_CS6000i"
+            }
+        ],
+        "edit_link": "https://www.ifixit.com/Guide/edit/179996"
+    },
+    "introduction": "This guide will teach you how to replace the metal needle plate on the Brother CS6000i. You will need a Phillips #2 screwdriver as well as a 4mm flathead screwdriver. It will take about 15-20 minutes.",
+    "what_you_need": {
+        "tools": [
+            {
+                "text": "Phillips #2 Screwdriver",
+                "url": "https://www.ifixit.com/products/6-in-1-screwdriver",
+                "image": "https://cart-products.cdn.ifixit.com/cart-products/LYcK13TjejldWD5Y.thumbnail",
+                "price": "$6.99"
+            },
+            {
+                "text": "Flathead 4 mm Screwdriver",
+                "url": "https://www.ifixit.com/products/flathead-4-mm-screwdriver",
+                "image": "https://cart-products.cdn.ifixit.com/cart-products/6PhKONVIKrNmcGur.thumbnail",
+                "price": "$5.49"
+            }
+        ]
+    },
+    "steps": [
+        {
+            "step_number": 1,
+            "title": "Body",
+            "text": "Remove the five 20 mm Phillips #2 screws on the back of the device.\nRemove the single 28 mm Phillips #2 screw on the back of the device.\nRemove the single 23 mm Phillips #2 screw on the back of the device.",
+            "image": "https://guide-images.cdn.ifixit.com/igi/gHBCqmQxl1xlTgNJ.medium",
+            "image_links": [
+                "https://guide-images.cdn.ifixit.com/igi/gHBCqmQxl1xlTgNJ.200x150",
+                "https://guide-images.cdn.ifixit.com/igi/4brVwmOqhKKA2aEh.200x150"
+            ],
+            "edit_link": "https://www.ifixit.com/Guide/edit/179996/384127",
+            "comment_links": [],
+            "additional_images": [
+                "https://guide-images.cdn.ifixit.com/igi/4brVwmOqhKKA2aEh.medium"
+            ]
+        },
+        {
+            "step_number": 2,
+            "title": "",
+            "text": "Pull the white cover off.",
+            "image": "https://guide-images.cdn.ifixit.com/igi/khTF4unDjLUHG6BN.medium",
+            "image_links": [
+                "https://guide-images.cdn.ifixit.com/igi/khTF4unDjLUHG6BN.200x150",
+                "https://guide-images.cdn.ifixit.com/igi/2bMLWSYLw5hesvYu.200x150"
+            ],
+            "edit_link": "https://www.ifixit.com/Guide/edit/179996/384130",
+            "comment_links": [],
+            "additional_images": [
+                "https://guide-images.cdn.ifixit.com/igi/2bMLWSYLw5hesvYu.medium"
+            ]
+        },
+        {
+            "step_number": 3,
+            "title": "",
+            "text": "Remove the final screw, a 11 mm Phillips #2.\nAfter removing all eight screws, you will have five 2 mm screws, one 28 mm screw, one 23 mm screw, and one 11 mm screw, all of which are Phillips #2.",
+            "image_links": [],
+            "edit_link": "https://www.ifixit.com/Guide/edit/179996/384131",
+            "comment_links": []
+        },
+        {
+            "step_number": 4,
+            "title": "",
+            "text": "Slightly pull apart the two halves of the machine, taking care not to strain the attached cables.\nUnhook the white wires that are connected to the motherboard.\nFully separate the two halves.",
+            "image_links": [],
+            "edit_link": "https://www.ifixit.com/Guide/edit/179996/384133",
+            "comment_links": []
+        },
+        {
+            "step_number": 5,
+            "title": "Needle Plate",
+            "text": "Remove the two screws securing the needle plate with a 4mm flathead screwdriver.",
+            "image_links": [],
+            "edit_link": "https://www.ifixit.com/Guide/edit/179996/384329",
+            "comment_links": []
+        }
+    ],
+    "conclusion": {
+        "text": "To reassemble your device, follow these instructions in reverse order.",
+        "author_points": 30,
+        "cancel_link": "https://www.ifixit.com/Guide/Brother+CS6000i+Needle+Plate+Replacement/<#>"
+    },
+    "embed_code": "<iframe id=\"dozuki-embed-179996\" src=\"https://www.ifixit.com/Guide/embed/179996/full\" width=\"800\" allowfullscreen frameborder=\"0\"></iframe> <script>window.addEventListener(\"message\",function(a){var b=document.getElementById(\"dozuki-embed-179996\"),c=a.data[0],d=a.data[1];switch(c){case\"setHeight\":b.style.height=d+\"px\"}},!1);</script> <iframe src=\"https://www.ifixit.com/Guide/embed/179996\" width=\"800\" height=\"584\" allowfullscreen frameborder=\"0\"></iframe>"
+}

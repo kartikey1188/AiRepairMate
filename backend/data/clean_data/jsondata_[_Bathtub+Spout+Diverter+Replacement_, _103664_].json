@@ -1,0 +1,117 @@
+{
+    "metadata": {
+        "title": "Bathtub Spout Diverter Replacement",
+        "last_updated": "July 26, 2024",
+        "estimated_time": "15 - 30 minutes",
+        "difficulty": "Moderate",
+        "community_contributed_guide": true,
+        "introduction": "Manufacturer Whirlpool: USSPA, model Taurus and others.\nChange Gecko pressure switch"
+    },
+    "parts": [
+        {
+            "name": "Druckschalter Gecko",
+            "url": "http://www.aqua-whirlpools.de/whirlpool-ersatzteile/ersatzteile-usspa/druckschalter",
+            "for_sale_from_another_site": true,
+            "additional_info": "Available for sale on Aqua Whirlpools",
+            "view_link": "http://www.aqua-whirlpools.de/whirlpool-ersatzteile/ersatzteile-usspa/druckschalter"
+        }
+    ],
+    "tools": [
+        {
+            "name": "Kreuzschlitz-Schraubenzieher",
+            "url": "https://www.ifixit.com/Item/Kreuzschlitz-Schraubenzieher"
+        },
+        {
+            "name": "Zange Seitenschneider",
+            "url": "https://www.ifixit.com/Item/Zange_Seitenschneider"
+        },
+        {
+            "name": "Maulschlüssel",
+            "url": "https://www.ifixit.com/Item/Maulschl%C3%BCssel"
+        }
+    ],
+    "steps": [
+        {
+            "step_number": 1,
+            "title": "Gecko pressure switch",
+            "instructions": [
+                "Locate the pressure valve"
+            ],
+            "image_url": "https://guide-images.cdn.ifixit.com/igi/aAvJLAkJJgrRaSaE.medium",
+            "additional_images": [
+                "https://guide-images.cdn.ifixit.com/igi/aAvJLAkJJgrRaSaE.200x150",
+                "https://guide-images.cdn.ifixit.com/igi/6NSODZYKfF4SBeLy.200x150"
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/158956/63277",
+            "add_comment_url": "https://www.ifixit.com/Guide/Replace+Whirlpool+pressure+switch/#",
+            "links": []
+        },
+        {
+            "step_number": 2,
+            "instructions": [
+                "Use a Phillips screwdriver to loosen the screw",
+                "open the lid"
+            ],
+            "image_url": "https://guide-images.cdn.ifixit.com/igi/DhSEgyMfohNTY43a.medium",
+            "additional_images": [
+                "https://guide-images.cdn.ifixit.com/igi/DhSEgyMfohNTY43a.200x150",
+                "https://guide-images.cdn.ifixit.com/igi/i5LPBZEMyuewJYif.200x150"
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/158956/63278",
+            "add_comment_url": "https://www.ifixit.com/Guide/Replace+Whirlpool+pressure+switch/#",
+            "links": []
+        },
+        {
+            "step_number": 3,
+            "instructions": [
+                "Disconnect the plug from the pressure switch"
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/158956/63279",
+            "add_comment_url": "https://www.ifixit.com/Guide/Replace+Whirlpool+pressure+switch/#",
+            "links": []
+        },
+        {
+            "step_number": 4,
+            "instructions": [
+                "Route the pressure switch cable out of the control box"
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/158956/63280",
+            "add_comment_url": "https://www.ifixit.com/Guide/Replace+Whirlpool+pressure+switch/#",
+            "links": []
+        },
+        {
+            "step_number": 5,
+            "instructions": [
+                "Cut off the cable ties",
+                "Peel off the rubber",
+                "Pull off the electrical contacts",
+                "It doesn't matter which way around the contacts are reconnected during assembly"
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/158956/63281",
+            "add_comment_url": "https://www.ifixit.com/Guide/Replace+Whirlpool+pressure+switch/#",
+            "links": []
+        },
+        {
+            "step_number": 6,
+            "instructions": [
+                "Unscrew the pressure switch with an open-end wrench",
+                "Check whether there is any dirt in the openings of the pressure switch and the holder. If necessary, remove the dirt."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/158956/63282",
+            "add_comment_url": "https://www.ifixit.com/Guide/Replace+Whirlpool+pressure+switch/#",
+            "links": []
+        }
+    ],
+    "embed_guide": {
+        "single_step_url": "https://www.ifixit.com/Guide/embed/158956",
+        "full_guide_url": "https://www.ifixit.com/Guide/embed/158956/full",
+        "sizes": {
+            "small": 600,
+            "medium": 800,
+            "large": 1200
+        }
+    },
+    "repair_is_noble_url": "https://www.ifixit.com/Manifesto",
+    "license_url": "https://www.ifixit.com/Info/Licensing",
+    "guide_url": "https://www.ifixit.com/Guide/Replace+Whirlpool+pressure+switch/158956"
+}

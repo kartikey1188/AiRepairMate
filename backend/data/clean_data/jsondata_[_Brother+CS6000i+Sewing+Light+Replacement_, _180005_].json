@@ -1,0 +1,159 @@
+{
+    "metadata": {
+        "title": "Brother CS6000i Sewing Light Replacement",
+        "last_updated": "December 31, 2024",
+        "guide_image": "https://guide-images.cdn.ifixit.com/igi/Xg5rxDZejT13pv2V.140x105",
+        "estimated_time": "15 minutes",
+        "difficulty": "Moderate",
+        "device_links": [
+            {
+                "text": "Brother CS6000i",
+                "url": "https://www.ifixit.com/Device/Brother_CS6000i"
+            },
+            {
+                "text": "Sewing Machine",
+                "url": "https://www.ifixit.com/Device/Sewing_Machine"
+            },
+            {
+                "text": "Arts, Crafts & Sewing",
+                "url": "https://www.ifixit.com/Device/Arts_Crafts_and_Sewing"
+            },
+            {
+                "text": "Household",
+                "url": "https://www.ifixit.com/Device/Household"
+            },
+            {
+                "text": "Home",
+                "url": "https://www.ifixit.com/Guide"
+            }
+        ],
+        "parts_links": [
+            {
+                "text": "Guides",
+                "url": "https://www.ifixit.com/Device/Brother_CS6000i#Section_Guides"
+            },
+            {
+                "text": "Troubleshooting",
+                "url": "https://www.ifixit.com/Troubleshooting/Brother_CS6000i"
+            }
+        ],
+        "edit_link": "https://www.ifixit.com/Guide/edit/180005"
+    },
+    "introduction": "If your Brother CS6000i sewing light is flickering, dim, or not working at all, use this guide to replace the old LED light.\nBefore you begin, inspect the light for any debris or build up on the bulb. If the bulb is dirty, this could cause it to illuminate less. Make sure this is not the case before disassembling the sewing machine.\nStep 5 requires you to remove the light wiring from the PSU. A faulty connection beforehand could be the reason for the light not working. Make sure that the faulty connection is not the issue before buying a new part to replace the light system.\nBefore beginning, make sure the sewing machine is not connected to any power.",
+    "what_you_need": {
+        "tools": [
+            {
+                "text": "Phillips #2 Screwdriver",
+                "url": "https://www.ifixit.com/products/6-in-1-screwdriver",
+                "image": "https://cart-products.cdn.ifixit.com/cart-products/LYcK13TjejldWD5Y.thumbnail",
+                "price": "$6.99"
+            },
+            {
+                "text": "Phillips #00 Screwdriver",
+                "url": "https://www.ifixit.com/products/phillips-00-screwdriver",
+                "image": "https://cart-products.cdn.ifixit.com/cart-products/upNtpW5ghNgA3abG.thumbnail",
+                "price": "$5.49 New / iFixit$8.99 New / Moody - Made in USA"
+            },
+            {
+                "text": "1 x small phillips head screwdriver",
+                "url": "https://www.ifixit.com/products/phillips-1-screwdriver",
+                "image": "https://cart-products.cdn.ifixit.com/cart-products/dFxEXEXNVRdNBvCX.thumbnail",
+                "price": "$5.49"
+            }
+        ]
+    },
+    "steps": [
+        {
+            "step_number": 1,
+            "title": "Body",
+            "text": "Remove the five 20 mm Phillips #2 screws on the back of the device.\nRemove the single 28 mm Phillips #2 screw on the back of the device.\nRemove the single 23 mm Phillips #2 screw on the back of the device.",
+            "image": "https://guide-images.cdn.ifixit.com/igi/gHBCqmQxl1xlTgNJ.medium",
+            "image_links": [
+                "https://guide-images.cdn.ifixit.com/igi/gHBCqmQxl1xlTgNJ.200x150",
+                "https://guide-images.cdn.ifixit.com/igi/4brVwmOqhKKA2aEh.200x150"
+            ],
+            "edit_link": "https://www.ifixit.com/Guide/edit/180005/384127",
+            "comment_links": [],
+            "additional_images": [
+                "https://guide-images.cdn.ifixit.com/igi/4brVwmOqhKKA2aEh.medium"
+            ]
+        },
+        {
+            "step_number": 2,
+            "title": "",
+            "text": "Pull the white cover off.",
+            "image": "https://guide-images.cdn.ifixit.com/igi/khTF4unDjLUHG6BN.medium",
+            "image_links": [
+                "https://guide-images.cdn.ifixit.com/igi/khTF4unDjLUHG6BN.200x150",
+                "https://guide-images.cdn.ifixit.com/igi/2bMLWSYLw5hesvYu.200x150"
+            ],
+            "edit_link": "https://www.ifixit.com/Guide/edit/180005/384130",
+            "comment_links": [],
+            "additional_images": [
+                "https://guide-images.cdn.ifixit.com/igi/2bMLWSYLw5hesvYu.medium"
+            ]
+        },
+        {
+            "step_number": 3,
+            "title": "",
+            "text": "Remove the final screw, a 11 mm Phillips #2.\nAfter removing all eight screws, you will have five 2 mm screws, one 28 mm screw, one 23 mm screw, and one 11 mm screw, all of which are Phillips #2.",
+            "image_links": [],
+            "edit_link": "https://www.ifixit.com/Guide/edit/180005/384131",
+            "comment_links": []
+        },
+        {
+            "step_number": 4,
+            "title": "",
+            "text": "Slightly pull apart the two halves of the machine, taking care not to strain the attached cables.\nUnhook the white wires that are connected to the motherboard.\nFully separate the two halves.",
+            "image_links": [],
+            "edit_link": "https://www.ifixit.com/Guide/edit/180005/384133",
+            "comment_links": []
+        },
+        {
+            "step_number": 5,
+            "title": "Sewing Light",
+            "text": "Use a Phillips #2 screwdriver to remove the single 16 mm Phillips #2 screw.\nRemove the metal plate.",
+            "image_links": [],
+            "edit_link": "https://www.ifixit.com/Guide/edit/180005/384386",
+            "comment_links": []
+        },
+        {
+            "step_number": 6,
+            "title": "",
+            "text": "Use a Phillips #2 screwdriver to remove the two 16 mm Phillips #2 screws.\nRemove the metal plate underneath screws once screws are removed.",
+            "image_links": [],
+            "edit_link": "https://www.ifixit.com/Guide/edit/180005/384387",
+            "comment_links": []
+        },
+        {
+            "step_number": 7,
+            "title": "",
+            "text": "Use a standoff tip to remove the 10 mm Phillips #2 screw directly next to the lightbulb.",
+            "image_links": [],
+            "edit_link": "https://www.ifixit.com/Guide/edit/180005/384388",
+            "comment_links": []
+        },
+        {
+            "step_number": 8,
+            "title": "",
+            "text": "Disconnect the light connector from the PCB.",
+            "image_links": [],
+            "edit_link": "https://www.ifixit.com/Guide/edit/180005/384389",
+            "comment_links": []
+        },
+        {
+            "step_number": 9,
+            "title": "",
+            "text": "Remove the light.",
+            "image_links": [],
+            "edit_link": "https://www.ifixit.com/Guide/edit/180005/384557",
+            "comment_links": []
+        }
+    ],
+    "conclusion": {
+        "text": "**To reassemble your device, follow the above steps in reverse order.** Take your e-waste to an [R2 or e-Stewards certified recycler](https://www.ifixit.com/Wiki/E-Waste>).Repair didn’t go as planned? Try some [basic troubleshooting](https://www.ifixit.com/Wiki/Troubleshooting_Problems_After_a_Repair>) or ask our [Answers community](https://www.ifixit.com/Answers>) for help.",
+        "author_points": 30,
+        "cancel_link": "https://www.ifixit.com/Guide/Brother+CS6000i+Sewing+Light+Replacement/<#>"
+    },
+    "embed_code": "<iframe id=\"dozuki-embed-180005\" src=\"https://www.ifixit.com/Guide/embed/180005/full\" width=\"800\" allowfullscreen frameborder=\"0\"></iframe> <script>window.addEventListener(\"message\",function(a){var b=document.getElementById(\"dozuki-embed-180005\"),c=a.data[0],d=a.data[1];switch(c){case\"setHeight\":b.style.height=d+\"px\"}},!1);</script> <iframe src=\"https://www.ifixit.com/Guide/embed/180005\" width=\"800\" height=\"584\" allowfullscreen frameborder=\"0\"></iframe>"
+}

@@ -1,0 +1,111 @@
+{
+    "guide_title": "Coin Display Case Glass Attachment",
+    "last_updated": "September 26, 2023",
+    "time_estimate": "30 minutes",
+    "difficulty": "Very easy",
+    "action_shots": true,
+    "introduction": "This guide shows the best way to properly glue the glass of a coin display case into its place. To ensure the bond is strong, make sure the areas being glued are clean, dry, and have space to set without interference. The coin glass case is made of wood, and the glass is a Plexiglas mix. This process involves cleaning the glass with a paper towel and glass cleaner, then using super glue to attach the pane.",
+    "tools_and_materials": {
+        "tools": [
+            {
+                "name": "Crazy Glue",
+                "url": "http://www.amazon.com/Krazy-Glue-KG48348MR-Precision-0-18-Ounce/dp/B000BKO6DG/ref=sr_1_1?ie=UTF8&qid=1407530883&sr=8-1&keywords=crazy%2Bglue&tag=ifixitam-20",
+                "affiliate_link": true,
+                "available_on_amazon": true
+            },
+            {
+                "name": "Glass Cleaner",
+                "url": "https://www.amazon.com/Method-Glass-Cleaner-Spray-Ounce/dp/B07KQKKL81/ref=zg_bs_g_15356151_sccl_10/143-1628581-7469747?psc=1&tag=ifixitam-20",
+                "affiliate_link": true,
+                "available_on_amazon": true
+            },
+            {
+                "name": "Paper Towels",
+                "url": "http://www.amazon.com/Sparkle-Paper-Towels-Giant-Pick-A-Size/dp/B00BGN8PLG/ref=sr_1_1?ie=UTF8&qid=1390949049&sr=8-1&keywords=paper%2Btowel&tag=ifixitam-20",
+                "affiliate_link": true,
+                "available_on_amazon": true
+            }
+        ]
+    },
+    "steps": [
+        {
+            "step_number": 1,
+            "step_title": "Coin Display Case Glass Attachment",
+            "images": [
+                {
+                    "url": "https://guide-images.cdn.ifixit.com/igi/1SR6d5kkePydrJQc.medium",
+                    "alt_text": "Coin Display Case Glass Attachment, Coin Display Case Glass Attachment: step 1, image 1 of 2"
+                },
+                {
+                    "url": "https://guide-images.cdn.ifixit.com/igi/IPNNBkMEcjTSeAMl.medium",
+                    "alt_text": "Coin Display Case Glass Attachment, Coin Display Case Glass Attachment: step 1, image 2 of 2"
+                }
+            ],
+            "text": "Clean the display case thoroughly with glass cleaner and a paper towel.",
+            "links": [
+                {
+                    "type": "edit",
+                    "url": "https://www.ifixit.com/Guide/edit/61286/128092"
+                }
+            ]
+        },
+        {
+            "step_number": 2,
+            "step_title": null,
+            "images": [
+                {
+                    "url": "https://guide-images.cdn.ifixit.com/igi/RLWtLhnaYbuGojm1.medium",
+                    "alt_text": "Coin Display Case Glass Attachment: step 2, image 1 of 1"
+                }
+            ],
+            "text": "Gently pry the glass away from the glue on the frame. Be careful not to shatter the glass.",
+            "links": [
+                {
+                    "type": "edit",
+                    "url": "https://www.ifixit.com/Guide/edit/61286/128093"
+                }
+            ]
+        },
+        {
+            "step_number": 3,
+            "step_title": null,
+            "images": [],
+            "text": "Apply a thin, solid line of a strong adhesive, such as Gorilla Glue, to the entire inner border of the display case where the glass attaches.",
+            "links": [
+                {
+                    "type": "edit",
+                    "url": "https://www.ifixit.com/Guide/edit/61286/128097"
+                }
+            ]
+        },
+        {
+            "step_number": 4,
+            "step_title": null,
+            "images": [],
+            "text": "Gently, but firmly, press the glass back into the felt lining. Run your finger with firm pressure along the entire lining of the glass two times.",
+            "links": [
+                {
+                    "type": "edit",
+                    "url": "https://www.ifixit.com/Guide/edit/61286/128098"
+                }
+            ]
+        },
+        {
+            "step_number": 5,
+            "step_title": null,
+            "images": [],
+            "text": "Allow the glue to set for 2-4 hours for the strongest bond.\nKeep the case in the upright position while the glue sets.\nDo**not** close or shut the case during the drying/setting process.",
+            "links": [
+                {
+                    "type": "edit",
+                    "url": "https://www.ifixit.com/Guide/edit/61286/130325"
+                }
+            ]
+        }
+    ],
+    "conclusion": "Allow the glass and glue to bond for at least 6 hours before using the case.",
+    "embed_guide": {
+        "single_step_code": "<iframe id=\"dozuki-embed-61286\" src=\"https://www.ifixit.com/Guide/embed/61286/full\" width=\"800\" allowfullscreen frameborder=\"0\"></iframe> <script>window.addEventListener(\"message\",function(a){var b=document.getElementById(\"dozuki-embed-61286\"),c=a.data[0],d=a.data[1];switch(c){case\"setHeight\":b.style.height=d+\"px\"}},!1);</script>",
+        "full_guide_code": "<iframe src=\"https://www.ifixit.com/Guide/embed/61286\" width=\"800\" height=\"584\" allowfullscreen frameborder=\"0\"></iframe>"
+    }
+}

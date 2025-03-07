@@ -1,0 +1,153 @@
+{
+    "metadata": {
+        "title": "Disassembling Qingping Air Monitor Lite CGDN1",
+        "last_updated": "January 5, 2025",
+        "guide_image": "https://guide-images.cdn.ifixit.com/igi/s5OvxCt2agWQPdAS.140x105",
+        "estimated_time": "3 - 7 minutes",
+        "difficulty": "Moderate",
+        "community_guide": true,
+        "device_links": [
+            {
+                "text": "Qingping Air Monitor Lite",
+                "url": "https://www.ifixit.com/Device/Qingping_Air_Monitor_Lite"
+            },
+            {
+                "text": "Weather Station",
+                "url": "https://www.ifixit.com/Device/Weather_Station"
+            },
+            {
+                "text": "Patio, Lawn & Garden",
+                "url": "https://www.ifixit.com/Device/Lawn_and_Garden"
+            },
+            {
+                "text": "Household",
+                "url": "https://www.ifixit.com/Device/Household"
+            },
+            {
+                "text": "Home",
+                "url": "https://www.ifixit.com/Guide"
+            }
+        ],
+        "parts_links": [
+            {
+                "text": "Guides",
+                "url": "https://www.ifixit.com/Device/Qingping_Air_Monitor_Lite#Section_Guides"
+            },
+            {
+                "text": "Answers",
+                "url": "https://www.ifixit.com/Answers/Device/Qingping_Air_Monitor_Lite"
+            }
+        ],
+        "edit_link": "https://www.ifixit.com/Guide/edit/167734"
+    },
+    "introduction": "After +/- 3 years of 24/7, the fan of the particle meter has worn out. The fan is making a terrible noise.",
+    "what_you_need": {
+        "tools": [
+            {
+                "text": "Jimmy",
+                "url": "https://www.ifixit.com/products/jimmy",
+                "image": "https://cart-products.cdn.ifixit.com/cart-products/aIovhEfHIZ1hBUuY.thumbnail",
+                "price": "$7.95"
+            },
+            {
+                "text": "Suction Handle",
+                "url": "https://www.ifixit.com/products/suction-handle",
+                "image": "https://cart-products.cdn.ifixit.com/cart-products/5Sf2Uh4OSLtsGpXk.thumbnail",
+                "price": "$2.99"
+            },
+            {
+                "text": "Phillips #00 Screwdriver",
+                "url": "https://www.ifixit.com/products/phillips-00-screwdriver",
+                "image": "https://cart-products.cdn.ifixit.com/cart-products/upNtpW5ghNgA3abG.thumbnail",
+                "price": "$5.49 New / iFixit$8.99 New / Moody - Made in USA"
+            },
+            {
+                "text": "Heat Gun",
+                "url": "https://www.ifixit.com/products/heat-gun",
+                "image": "https://cart-products.cdn.ifixit.com/cart-products/NNxQlYbBureEhbdN.thumbnail",
+                "price": "$24.99",
+                "optional": "true"
+            }
+        ]
+    },
+    "steps": [
+        {
+            "step_number": 1,
+            "title": "Remove screen",
+            "text": "When removing the screen with the suction handle and a jimmy be very careful at the right side of the screen and don't damage the connection like I did (see red circle).\nCarefully remove the screen towards the front. The screen is glued with some tape (see the orange marker).\nMaybe use some heat to soften the clue.\nI used a combination of a suction pad and Jimmy.",
+            "image": "https://guide-images.cdn.ifixit.com/igi/s5OvxCt2agWQPdAS.medium",
+            "image_links": [
+                "https://guide-images.cdn.ifixit.com/igi/s5OvxCt2agWQPdAS.200x150",
+                "https://guide-images.cdn.ifixit.com/igi/1vwDVvCN5IbGVnZ2.200x150",
+                "https://guide-images.cdn.ifixit.com/igi/TKLAA5SRi53LV1fM.200x150"
+            ],
+            "edit_link": "https://www.ifixit.com/Guide/edit/167734/354290",
+            "comment_links": [],
+            "additional_images": [
+                "https://guide-images.cdn.ifixit.com/igi/1vwDVvCN5IbGVnZ2.medium",
+                "https://guide-images.cdn.ifixit.com/igi/TKLAA5SRi53LV1fM.medium"
+            ]
+        },
+        {
+            "step_number": 2,
+            "title": "Remove screen backing plane",
+            "text": "2 Philips screws are holding the backing plane of the screen",
+            "image": "https://guide-images.cdn.ifixit.com/igi/NDSiXSycPHsRETbF.medium",
+            "image_links": [
+                "https://guide-images.cdn.ifixit.com/igi/NDSiXSycPHsRETbF.200x150",
+                "https://guide-images.cdn.ifixit.com/igi/bCYQJ1WaHDcyoPPh.200x150"
+            ],
+            "edit_link": "https://www.ifixit.com/Guide/edit/167734/354291",
+            "comment_links": [],
+            "additional_images": [
+                "https://guide-images.cdn.ifixit.com/igi/bCYQJ1WaHDcyoPPh.medium"
+            ]
+        },
+        {
+            "step_number": 3,
+            "title": "Disconnect screen",
+            "text": "Lift the small black ledge to remove the flat cable of the screen. Orange circle",
+            "image_links": [],
+            "edit_link": "https://www.ifixit.com/Guide/edit/167734/354292",
+            "comment_links": []
+        },
+        {
+            "step_number": 4,
+            "title": "Remove main PCB",
+            "text": "Disconnect the flat cable of the touch sensor by lifting the little black ledge, see the orange circle.\nOne screw holding the PCB, green circle",
+            "image_links": [],
+            "edit_link": "https://www.ifixit.com/Guide/edit/167734/354293",
+            "comment_links": []
+        },
+        {
+            "step_number": 5,
+            "title": "Open the back",
+            "text": "4 Philips screws hold the back in place.\nYou'll need a very long/narrow bit to reach these screws!",
+            "image_links": [],
+            "edit_link": "https://www.ifixit.com/Guide/edit/167734/354294",
+            "comment_links": []
+        },
+        {
+            "step_number": 6,
+            "title": "Remove sensors & battery",
+            "text": "You can slide the complete inner parts to the front.",
+            "image_links": [],
+            "edit_link": "https://www.ifixit.com/Guide/edit/167734/354295",
+            "comment_links": []
+        },
+        {
+            "step_number": 7,
+            "title": "Dismanteling the PM sensor",
+            "text": "Sensor is held by the 10 pin connector\nDon't let the springs jump away\nBy slightly bending the cover you can lift the cover from the sensor housing\n5 little philips screw hold the sesnor PCB in place. To access the fan connector you have to remove the pcb",
+            "image_links": [],
+            "edit_link": "https://www.ifixit.com/Guide/edit/167734/354296",
+            "comment_links": []
+        }
+    ],
+    "conclusion": {
+        "text": "To reassemble your device, follow these instructions in reverse order.",
+        "author_points": 30,
+        "cancel_link": "https://www.ifixit.com/Guide/Disassembling+Qingping+Air+Monitor+Lite+CGDN1/<#>"
+    },
+    "embed_code": "<iframe id=\"dozuki-embed-176828\" src=\"https://www.ifixit.com/Guide/embed/176828/full\" width=\"800\" allowfullscreen frameborder=\"0\"></iframe> <script>window.addEventListener(\"message\",function(a){var b=document.getElementById(\"dozuki-embed-176828\"),c=a.data[0],d=a.data[1];switch(c){case\"setHeight\":b.style.height=d+\"px\"}},!1);</script> <iframe src=\"https://www.ifixit.com/Guide/embed/176828\" width=\"800\" height=\"584\" allowfullscreen frameborder=\"0\"></iframe>"
+}

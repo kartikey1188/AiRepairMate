@@ -1,0 +1,282 @@
+{
+    "title": "Black and Decker One Step Steam Iron Temperature Regulator Replacement",
+    "last_updated": "October 3, 2023",
+    "estimated_time": "25 minutes",
+    "difficulty": "Moderate",
+    "introduction": "This guide will show you how to replace the temperature regulator in a Black + Decker One Step Iron.\nBefore replacing the temperature regulator, test each setting with your iron for about 10 minutes to see if it will begin to heat up properly. If it does not heat up at all with any setting, then you can assume that your iron is broken. The temperature regulator is something that can be easily broken or dented, due to overuse or damage.\nBefore beginning this guide, make sure that your iron is turned off and completely cooled down. If it is hot, remove the plug and allow the iron to sit upward and away from other objects for 30 minutes to cool significantly in order to reduce risk of injury.",
+    "tools": [
+        {
+            "name": "Phillips #0 Screwdriver",
+            "url": "https://www.ifixit.com/products/phillips-0-screwdriver",
+            "image": "https://cart-products.cdn.ifixit.com/cart-products/iHsH13ZerBV42IXL.thumbnail",
+            "price": "$5.49 New / iFixit$8.99 New / Moody - Made in USA",
+            "add_to_cart_url": "https://www.ifixit.com/products/phillips-0-screwdriver"
+        },
+        {
+            "name": "T5 Torx Screwdriver",
+            "url": "https://www.ifixit.com/products/t5-torx-screwdriver",
+            "image": "https://cart-products.cdn.ifixit.com/cart-products/DvS6un6KSwpcfPTG.thumbnail",
+            "price": "$5.49 New / iFixit$9.99 New / Moody - Made in USA",
+            "add_to_cart_url": "https://www.ifixit.com/products/t5-torx-screwdriver"
+        },
+        {
+            "name": "Spudger",
+            "url": "https://www.ifixit.com/products/spudger",
+            "image": "https://cart-products.cdn.ifixit.com/cart-products/vy2elt3YPAXL1LmZ.thumbnail",
+            "price": "$3.99 New / Fixite Carbon Fiber$2.99 New / Glass Fiber$149.99 New / Glass Fiber Bundle of 100",
+            "add_to_cart_url": "https://www.ifixit.com/products/spudger"
+        }
+    ],
+    "steps": [
+        {
+            "step_number": 1,
+            "title": "Temperature Regulator",
+            "content": [
+                "Use a spudger to pry the three screw covers out of the iron.",
+                "Using force to remove the caps may be necessary. Do not worry if you hear popping sounds when removing them."
+            ],
+            "images": [
+                "https://guide-images.cdn.ifixit.com/igi/fLVaK6B4gDNRv4Me.medium",
+                "https://guide-images.cdn.ifixit.com/igi/Uu3IyfPP6IPSmwDh.medium"
+            ],
+            "images_200x150": [
+                "https://guide-images.cdn.ifixit.com/igi/fLVaK6B4gDNRv4Me.200x150",
+                "https://guide-images.cdn.ifixit.com/igi/Uu3IyfPP6IPSmwDh.200x150"
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/145439/295650",
+            "comments_count": 0,
+            "add_comment_url": null
+        },
+        {
+            "step_number": 2,
+            "content": [
+                "Remove the three screws using a T5 Torx screwdriver."
+            ],
+            "image": "https://guide-images.cdn.ifixit.com/igi/mttAnFSPQl5QqYsv.medium",
+            "edit_url": "https://www.ifixit.com/Guide/edit/145439/295654",
+            "comments_count": 0,
+            "add_comment_url": null
+        },
+        {
+            "step_number": 3,
+            "content": [
+                "Pull the back cover off."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/145439/295655",
+            "comments_count": 0,
+            "add_comment_url": null
+        },
+        {
+            "step_number": 4,
+            "content": [
+                "Use a spudger to remove the clear rubber cover from the front of the iron."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/145439/295651",
+            "comments_count": 0,
+            "add_comment_url": null
+        },
+        {
+            "step_number": 5,
+            "content": [
+                "Remove the single screw located under the rubber cover using a Phillips #0 screwdriver."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/145439/295653",
+            "comments_count": 0,
+            "add_comment_url": null
+        },
+        {
+            "step_number": 6,
+            "content": [
+                "Remove the two screws holding the handle to the base using a Phillips #0 screwdriver."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/145439/295656",
+            "comments_count": 0,
+            "add_comment_url": null
+        },
+        {
+            "step_number": 7,
+            "content": [
+                "Remove the screws holding the plate to the base using a Phillips #0 screwdriver."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/145439/295657",
+            "comments_count": 0,
+            "add_comment_url": null
+        },
+        {
+            "step_number": 8,
+            "content": [
+                "Insert a spudger into the space in front of the pumps.",
+                "Pull down on the spudger so that the tab is visible.",
+                "Repeat for the other pump."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/145439/295659",
+            "comments_count": 0,
+            "add_comment_url": null
+        },
+        {
+            "step_number": 9,
+            "content": [
+                "Remove the two screws using a Phillips #0 screwdriver."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/145439/295661",
+            "comments_count": 0,
+            "add_comment_url": null
+        },
+        {
+            "step_number": 10,
+            "content": [
+                "Push the spray nozzle using the pointed end of a spudger."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/145439/295662",
+            "comments_count": 0,
+            "add_comment_url": null
+        },
+        {
+            "step_number": 11,
+            "content": [
+                "Remove the handle from the base."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/145439/295663",
+            "comments_count": 1,
+            "add_comment_url": null
+        },
+        {
+            "step_number": 12,
+            "content": [
+                "Remove the two pumps."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/145439/295664",
+            "comments_count": 0,
+            "add_comment_url": null
+        },
+        {
+            "step_number": 13,
+            "content": [
+                "Pry the white plastic cylinder out from its hole using a spudger.",
+                "The plastic cylinder is held in place by the plastic arm. Some force will be necessary."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/145439/295665",
+            "comments_count": 0,
+            "add_comment_url": null
+        },
+        {
+            "step_number": 14,
+            "content": [
+                "Using two spudger, pry the two plastic pieces holding the lever away from the lever.",
+                "Lift the lever out."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/145439/295668",
+            "comments_count": 0,
+            "add_comment_url": null
+        },
+        {
+            "step_number": 15,
+            "content": [
+                "Pull the lever and its attached pump out of the base."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/145439/295670",
+            "comments_count": 0,
+            "add_comment_url": null
+        },
+        {
+            "step_number": 16,
+            "content": [
+                "Remove the two screws using a Phillips #0 screwdriver."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/145439/295671",
+            "comments_count": 0,
+            "add_comment_url": null
+        },
+        {
+            "step_number": 17,
+            "content": [
+                "Insert a spudger in between the white plastic and the purple plastic."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/145439/295672",
+            "comments_count": 0,
+            "add_comment_url": null
+        },
+        {
+            "step_number": 18,
+            "content": [
+                "Rotate the spudger so that it separates the top of the white plastic from the bottom of the purple plastic."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/145439/295673",
+            "comments_count": 0,
+            "add_comment_url": null
+        },
+        {
+            "step_number": 19,
+            "content": [
+                "Move the spudger along the gap until you hear a popping noise."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/145439/295674",
+            "comments_count": 0,
+            "add_comment_url": null
+        },
+        {
+            "step_number": 20,
+            "content": [
+                "Verify that the tab is detached."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/145439/295675",
+            "comments_count": 0,
+            "add_comment_url": null
+        },
+        {
+            "step_number": 21,
+            "content": [
+                "Separate the white plastic from the bottom purple plastic.",
+                "Hold the top section (white and purple) steady with one hand.",
+                "Pull the plate (bottom) section toward the side with the tab shown in Step 20 until the plate is detached."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/145439/295676",
+            "comments_count": 0,
+            "add_comment_url": null
+        },
+        {
+            "step_number": 22,
+            "content": [
+                "Use the spudger to gently pop the pump connecter off of the plate."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/145439/295677",
+            "comments_count": 0,
+            "add_comment_url": null
+        },
+        {
+            "step_number": 23,
+            "content": [
+                "Remove the three visible screws using a Phillips #0 screwdriver."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/145439/295679",
+            "comments_count": 0,
+            "add_comment_url": null
+        },
+        {
+            "step_number": 24,
+            "content": [
+                "Remove the plate holder."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/145439/295681",
+            "comments_count": 0,
+            "add_comment_url": null
+        },
+        {
+            "step_number": 25,
+            "content": [
+                "Remove the screw using a Phillips #0 screwdriver.",
+                "Remove the temperature regulator from the iron."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/145439/295682",
+            "comments_count": 0,
+            "add_comment_url": null
+        }
+    ],
+    "conclusion": "To reassemble your device, follow these instructions in reverse order.",
+    "embed_code": {
+        "small": "<iframe id=\"dozuki-embed-145439\" src=\"https://www.ifixit.com/Guide/embed/145439/full\" width=\"600\" allowfullscreen frameborder=\"0\"></iframe> <script>window.addEventListener(\"message\",function(a){var b=document.getElementById(\"dozuki-embed-145439\"),c=a.data[0],d=a.data[1];switch(c){case\"setHeight\":b.style.height=d+\"px\"}},!1);</script>",
+        "medium": "<iframe id=\"dozuki-embed-145439\" src=\"https://www.ifixit.com/Guide/embed/145439/full\" width=\"800\" allowfullscreen frameborder=\"0\"></iframe> <script>window.addEventListener(\"message\",function(a){var b=document.getElementById(\"dozuki-embed-145439\"),c=a.data[0],d=a.data[1];switch(c){case\"setHeight\":b.style.height=d+\"px\"}},!1);</script>",
+        "large": "<iframe id=\"dozuki-embed-145439\" src=\"https://www.ifixit.com/Guide/embed/145439/full\" width=\"1200\" allowfullscreen frameborder=\"0\"></iframe> <script>window.addEventListener(\"message\",function(a){var b=document.getElementById(\"dozuki-embed-145439\"),c=a.data[0],d=a.data[1];switch(c){case\"setHeight\":b.style.height=d+\"px\"}},!1);</script>",
+        "full_guide": "<iframe src=\"https://www.ifixit.com/Guide/embed/145439\" width=\"800\" height=\"584\" allowfullscreen frameborder=\"0\"></iframe>"
+    }
+}

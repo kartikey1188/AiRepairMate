@@ -1,0 +1,123 @@
+{
+    "metadata": {
+        "title": "Ambient Weather WS-1001-Wifi Push Button Replacement",
+        "last_updated": "January 3, 2024",
+        "guide_image": "https://guide-images.cdn.ifixit.com/igi/JO2qUEtJ4aCeikYA.140x105",
+        "estimated_time": "10 - 15 minutes",
+        "difficulty": "Moderate",
+        "community_guide": true,
+        "device_links": [
+            {
+                "text": "Ambient Weather Observer",
+                "url": "https://www.ifixit.com/Device/Ambient_Weather_WS-1001-Wifi"
+            },
+            {
+                "text": "Weather Station",
+                "url": "https://www.ifixit.com/Device/Weather_Station"
+            },
+            {
+                "text": "Patio, Lawn & Garden",
+                "url": "https://www.ifixit.com/Device/Lawn_and_Garden"
+            },
+            {
+                "text": "Household",
+                "url": "https://www.ifixit.com/Device/Household"
+            },
+            {
+                "text": "Home",
+                "url": "https://www.ifixit.com/Guide"
+            }
+        ],
+        "parts_links": [
+            {
+                "text": "Guides",
+                "url": "https://www.ifixit.com/Device/Ambient_Weather_WS-1001-Wifi#Section_Guides"
+            },
+            {
+                "text": "Answers",
+                "url": "https://www.ifixit.com/Answers/Device/Ambient_Weather_WS-1001-Wifi"
+            }
+        ],
+        "edit_link": "https://www.ifixit.com/Guide/edit/100558"
+    },
+    "introduction": "In this repair guide, we will be replacing a push button. This will need to be replaced if a push button becomes unresponsive or is shorting. For this fix you will need a Philip #1 screwdriver and a small plastic tool to remove the ribbon cable and pry the plastic covering open. It is imperative to carefully remove the ribbon cable because it is connected to the circuit board that powers the system. This guide will be slightly challenging as one will need to both desolder and solder a mounted push button.",
+    "what_you_need": {
+        "tools": [
+            {
+                "text": "Phillips #1 Screwdriver",
+                "url": "https://www.ifixit.com/products/phillips-1-screwdriver",
+                "image": "https://cart-products.cdn.ifixit.com/cart-products/dFxEXEXNVRdNBvCX.thumbnail",
+                "price": "$5.49 New / iFixit$8.99 New / Moody - Made in USA"
+            },
+            {
+                "text": "Soldering Workstation",
+                "url": "https://www.ifixit.com/products/soldering-iron-60w-hakko-503f",
+                "image": "https://cart-products.cdn.ifixit.com/cart-products/2KG6DMqwajhHw4fA.thumbnail",
+                "price": "$19.99",
+                "view_link": "https://www.ifixit.com/products/soldering-iron-60w-hakko-503f"
+            },
+            {
+                "text": "Desoldering Braid",
+                "url": "https://www.ifixit.com/products/solder-wick-braid",
+                "image": "https://cart-products.cdn.ifixit.com/cart-products/31NUpXxSfQ6lHPgT.thumbnail",
+                "price": "$4.99"
+            },
+            {
+                "text": "iFixit Opening Tool",
+                "url": "https://www.ifixit.com/products/ifixit-opening-tool",
+                "image": "https://cart-products.cdn.ifixit.com/cart-products/dPx63wucK43PlWnH.thumbnail",
+                "price": "$1.99 Individual / New$4.99 5 / New"
+            }
+        ]
+    },
+    "steps": [
+        {
+            "step_number": 1,
+            "title": "Power Button",
+            "text": "Flip your device over so the back panel faces you. You should see a hole containing a screw in each corner of the device.\nInsert a 4-inch Phillips #1 screwdriver into each hole until connected with the 20 millimeter, sharp-point screw.",
+            "image": "https://guide-images.cdn.ifixit.com/igi/PRkVAGrtRwanBvCK.medium",
+            "image_links": [],
+            "edit_link": "https://www.ifixit.com/Guide/edit/100558/158034",
+            "comment_links": []
+        },
+        {
+            "step_number": 2,
+            "title": "",
+            "text": "Find the power switch, located inside the heater on the bottom left corner.",
+            "image": "https://guide-images.cdn.ifixit.com/igi/WTa1fSaPiSKScSRj.medium",
+            "image_links": [],
+            "edit_link": "https://www.ifixit.com/Guide/edit/100558/158035",
+            "comment_links": []
+        },
+        {
+            "step_number": 3,
+            "title": "",
+            "text": "Using a Phillips #1 screwdriver, unscrew the two 7 millimeter screws attaching the power switch to the power button.",
+            "image_links": [],
+            "edit_link": "https://www.ifixit.com/Guide/edit/100558/158036",
+            "comment_links": []
+        },
+        {
+            "step_number": 4,
+            "title": "",
+            "text": "Find the clips holding the power button in place.\nPress down on the clips to remove the button.",
+            "image_links": [],
+            "edit_link": "https://www.ifixit.com/Guide/edit/100558/158038",
+            "comment_links": []
+        },
+        {
+            "step_number": 5,
+            "title": "",
+            "text": "Slide out the new power button and plug it into the device",
+            "image_links": [],
+            "edit_link": "https://www.ifixit.com/Guide/edit/100558/158083",
+            "comment_links": []
+        }
+    ],
+    "conclusion": {
+        "text": "To reassemble your device, follow these instructions in reverse order.",
+        "author_points": 30,
+        "cancel_link": "https://www.ifixit.com/Guide/Ambient+Weather+WS-1001-Wifi+Push+Button+Replacement/<#>"
+    },
+    "embed_code": "<iframe id=\"dozuki-embed-100558\" src=\"https://www.ifixit.com/Guide/embed/100558/full\" width=\"800\" allowfullscreen frameborder=\"0\"></iframe> <script>window.addEventListener(\"message\",function(a){var b=document.getElementById(\"dozuki-embed-100558\"),c=a.data[0],d=a.data[1];switch(c){case\"setHeight\":b.style.height=d+\"px\"}},!1);</script> <iframe src=\"https://www.ifixit.com/Guide/embed/100558\" width=\"800\" height=\"584\" allowfullscreen frameborder=\"0\"></iframe>"
+}

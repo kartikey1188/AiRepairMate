@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "title": "Bedroom Door Replacement",
+        "last_updated": "June 10, 2021",
+        "estimated_time": "15 minutes",
+        "difficulty": "Easy",
+        "introduction": "This guide will show you how to replace a broken or warped door. You need to replace a warped door because it may not close right, or if it has a hole it can be unappealing. There are no hazards besides the door may start to fall as you’re removing it in step 3. They’re no special skills required for this replacement.",
+        "needs_better_images": true,
+        "needs_more_images": true,
+        "better_introduction": true
+    },
+    "tools": [
+        {
+            "name": "Phillips #2 Screwdriver",
+            "url": "https://www.ifixit.com/products/6-in-1-screwdriver",
+            "image_url": "https://cart-products.cdn.ifixit.com/cart-products/LYcK13TjejldWD5Y.thumbnail",
+            "price": "$6.99",
+            "add_to_cart": true
+        }
+    ],
+    "steps": [
+        {
+            "step_number": 1,
+            "title": "Bedroom Door",
+            "instructions": [
+                "Pull out the pin out of the hinge."
+            ],
+            "image_url": "https://guide-images.cdn.ifixit.com/igi/Vqmx3iKrmDbJXiSY.medium",
+            "edit_url": "https://www.ifixit.com/Guide/edit/142068/285342",
+            "add_comment_url": "https://www.ifixit.com/Guide/Bedroom+Door+Replacement/#",
+            "links": []
+        },
+        {
+            "step_number": 2,
+            "instructions": [
+                "Using the Phillips #2 screwdriver, remove the screws from the doorframe. Repeat steps 2 and 3 for all of the hinges."
+            ],
+            "image_url": "https://guide-images.cdn.ifixit.com/igi/KppxjrfirYD5vygb.medium",
+            "additional_images": [
+                "https://guide-images.cdn.ifixit.com/igi/KppxjrfirYD5vygb.200x150",
+                "https://guide-images.cdn.ifixit.com/igi/uk4jBFQVM1VEIHPf.200x150",
+                "https://guide-images.cdn.ifixit.com/igi/xsHDEAj1IMAYVhqh.200x150"
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/142068/285351",
+            "add_comment_url": "https://www.ifixit.com/Guide/Bedroom+Door+Replacement/#",
+            "links": []
+        },
+        {
+            "step_number": 3,
+            "instructions": [
+                "With the new door, screw in the new hinges in the doorframe in the same place the old ones were."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/142068/285357",
+            "add_comment_url": "https://www.ifixit.com/Guide/Bedroom+Door+Replacement/#",
+            "links": []
+        },
+        {
+            "step_number": 4,
+            "instructions": [
+                "Push the pin back into the hinge to make its secure. Repeat steps 4 and 5 for all the hinges."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/142068/285359",
+            "add_comment_url": "https://www.ifixit.com/Guide/Bedroom+Door+Replacement/#",
+            "links": []
+        },
+        {
+            "step_number": 5,
+            "instructions": [
+                "Finished product with the new door after replacement."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/142068/285362",
+            "add_comment_url": "https://www.ifixit.com/Guide/Bedroom+Door+Replacement/#",
+            "links": []
+        }
+    ],
+    "embed_guide": {
+        "single_step_url": "https://www.ifixit.com/Guide/embed/142068",
+        "full_guide_url": "https://www.ifixit.com/Guide/embed/142068/full",
+        "sizes": {
+            "small": 600,
+            "medium": 800,
+            "large": 1200
+        }
+    },
+    "repair_is_noble_url": "https://www.ifixit.com/Manifesto",
+    "license_url": "https://www.ifixit.com/Info/Licensing",
+    "guide_url": "https://www.ifixit.com/Guide/Bedroom+Door+Replacement/142068"
+}

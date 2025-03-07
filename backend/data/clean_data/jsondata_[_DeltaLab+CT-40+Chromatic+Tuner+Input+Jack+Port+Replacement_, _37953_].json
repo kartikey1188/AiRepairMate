@@ -1,0 +1,145 @@
+{
+    "guide_title": "DeltaLab CT-40 Chromatic Tuner Input Jack Port Replacement",
+    "last_updated": "April 16, 2023",
+    "estimated_time": "10 - 15 minutes",
+    "difficulty": "Moderate",
+    "action_shots": true,
+    "incorrect_tools": true,
+    "missing_steps": true,
+    "step_trimmer": true,
+    "introduction": "Is your input jack broken in your chromatic tuner? Instead of buying a new one you can just buy the input part itself and replace it. This method works for similar tuners but this guide is specifically for the DeltaLab CT-40 Chromatic Tuner.",
+    "tools": [
+        {
+            "name": "Flush Cutter",
+            "image": "https://cart-products.cdn.ifixit.com/cart-products/TGjS3jPberQTAqR2.thumbnail",
+            "link": "https://www.ifixit.com/products/flush-cutter",
+            "price": "$29.99",
+            "add_to_cart_link": "https://www.ifixit.com/Guide/DeltaLab+CT-40+Chromatic+Tuner+Input+Jack+Port+Replacement/<https:/www.ifixit.com/products/flush-cutter>"
+        },
+        {
+            "name": "Lead‑Free Solder",
+            "image": "https://cart-products.cdn.ifixit.com/cart-products/cRwXlE2fiAlXJAhE.thumbnail",
+            "link": "https://www.ifixit.com/products/lead-free-solder",
+            "price": "$4.99",
+            "add_to_cart_link": "https://www.ifixit.com/Guide/DeltaLab+CT-40+Chromatic+Tuner+Input+Jack+Port+Replacement/<https:/www.ifixit.com/products/lead-free-solder>"
+        },
+        {
+            "name": "Soldering Iron",
+            "image": "https://cart-products.cdn.ifixit.com/cart-products/2KG6DMqwajhHw4fA.thumbnail",
+            "link": "https://www.ifixit.com/products/soldering-iron-60w-hakko-503f",
+            "price": "$19.99",
+            "add_to_cart_link": "https://www.ifixit.com/Guide/DeltaLab+CT-40+Chromatic+Tuner+Input+Jack+Port+Replacement/<https:/www.ifixit.com/products/soldering-iron-60w-hakko-503f>"
+        },
+        {
+            "name": "Phillips #1 Screwdriver",
+            "image": "https://cart-products.cdn.ifixit.com/cart-products/dFxEXEXNVRdNBvCX.thumbnail",
+            "link": "https://www.ifixit.com/products/phillips-1-screwdriver",
+            "price": "$5.49 New / iFixit$8.99 New / Moody - Made in USA",
+            "add_to_cart_link": "https://www.ifixit.com/Guide/DeltaLab+CT-40+Chromatic+Tuner+Input+Jack+Port+Replacement/<https:/www.ifixit.com/products/phillips-1-screwdriver>"
+        }
+    ],
+    "steps": [
+        {
+            "step_number": 1,
+            "title": "Input Jack Port",
+            "images": [
+                "https://guide-images.cdn.ifixit.com/igi/mUSPKeNRZNXq5yZD.medium",
+                "https://guide-images.cdn.ifixit.com/igi/pKcGnyRJYc5Q2H2q.medium"
+            ],
+            "thumbnails": [
+                "https://guide-images.cdn.ifixit.com/igi/mUSPKeNRZNXq5yZD.200x150",
+                "https://guide-images.cdn.ifixit.com/igi/pKcGnyRJYc5Q2H2q.200x150"
+            ],
+            "description": "First, open the metal stand to access the screws without damaging the body.",
+            "edit_link": "https://www.ifixit.com/Guide/DeltaLab+CT-40+Chromatic+Tuner+Input+Jack+Port+Replacement//Guide/edit/37953/86293",
+            "add_comment_link": "https://www.ifixit.com/Guide/DeltaLab+CT-40+Chromatic+Tuner+Input+Jack+Port+Replacement/",
+            "links": []
+        },
+        {
+            "step_number": 2,
+            "title": null,
+            "images": [
+                "https://guide-images.cdn.ifixit.com/igi/IR13MJw3mtVRyTDD.medium",
+                "https://guide-images.cdn.ifixit.com/igi/m5Mdmv1kCVMwDTyD.200x150"
+            ],
+            "thumbnails": [
+                "https://guide-images.cdn.ifixit.com/igi/IR13MJw3mtVRyTDD.200x150",
+                "https://guide-images.cdn.ifixit.com/igi/m5Mdmv1kCVMwDTyD.200x150"
+            ],
+            "description": "Remove the 3 outer 1.2 mm Phillips #1 screws using a small head screwdriver.",
+            "edit_link": "https://www.ifixit.com/Guide/DeltaLab+CT-40+Chromatic+Tuner+Input+Jack+Port+Replacement//Guide/edit/37953/86294",
+            "add_comment_link": "https://www.ifixit.com/Guide/DeltaLab+CT-40+Chromatic+Tuner+Input+Jack+Port+Replacement/",
+            "links": []
+        },
+        {
+            "step_number": 3,
+            "title": null,
+            "image": null,
+            "description": "Remove the back casing to reveal the inner circuitry.",
+            "edit_link": "https://www.ifixit.com/Guide/DeltaLab+CT-40+Chromatic+Tuner+Input+Jack+Port+Replacement//Guide/edit/37953/86306",
+            "add_comment_link": "https://www.ifixit.com/Guide/DeltaLab+CT-40+Chromatic+Tuner+Input+Jack+Port+Replacement/",
+            "links": []
+        },
+        {
+            "step_number": 4,
+            "title": null,
+            "image": null,
+            "description": "Locate the different parts of your tuner, finding the broken input jack port.",
+            "edit_link": "https://www.ifixit.com/Guide/DeltaLab+CT-40+Chromatic+Tuner+Input+Jack+Port+Replacement//Guide/edit/37953/86297",
+            "add_comment_link": "https://www.ifixit.com/Guide/DeltaLab+CT-40+Chromatic+Tuner+Input+Jack+Port+Replacement/",
+            "links": []
+        },
+        {
+            "step_number": 5,
+            "title": null,
+            "image": null,
+            "description": "Snip the wires attached to the input jack port using the wire cutter as close to the input jack port as possible.",
+            "edit_link": "https://www.ifixit.com/Guide/DeltaLab+CT-40+Chromatic+Tuner+Input+Jack+Port+Replacement//Guide/edit/37953/86298",
+            "add_comment_link": "https://www.ifixit.com/Guide/DeltaLab+CT-40+Chromatic+Tuner+Input+Jack+Port+Replacement/",
+            "links": []
+        },
+        {
+            "step_number": 6,
+            "title": null,
+            "image": null,
+            "description": "Take your new input jack port and solder the wires to the corresponding connection areas on the new port.\nLearn how to solder ([here](https://www.ifixit.com/Guide/DeltaLab+CT-40+Chromatic+Tuner+Input+Jack+Port+Replacement/</Guide/How+To+Solder+and+Desolder+Connections/750>)).",
+            "edit_link": "https://www.ifixit.com/Guide/DeltaLab+CT-40+Chromatic+Tuner+Input+Jack+Port+Replacement//Guide/edit/37953/86299",
+            "add_comment_link": "https://www.ifixit.com/Guide/DeltaLab+CT-40+Chromatic+Tuner+Input+Jack+Port+Replacement/",
+            "links": [
+                {
+                    "link_text": "here",
+                    "link_url": "https://www.ifixit.com/Guide/DeltaLab+CT-40+Chromatic+Tuner+Input+Jack+Port+Replacement//Guide/How+To+Solder+and+Desolder+Connections/750"
+                }
+            ]
+        },
+        {
+            "step_number": 7,
+            "title": null,
+            "image": null,
+            "description": "Fold the wires back and put the new input port into the slot where it belongs on the tuner.",
+            "edit_link": "https://www.ifixit.com/Guide/DeltaLab+CT-40+Chromatic+Tuner+Input+Jack+Port+Replacement//Guide/edit/37953/86300",
+            "add_comment_link": "https://www.ifixit.com/Guide/DeltaLab+CT-40+Chromatic+Tuner+Input+Jack+Port+Replacement/",
+            "links": []
+        },
+        {
+            "step_number": 8,
+            "title": null,
+            "image": null,
+            "description": "Replace the casing and 3 1.2 mm Phillips #1 screws using the screwdriver.",
+            "edit_link": "https://www.ifixit.com/Guide/DeltaLab+CT-40+Chromatic+Tuner+Input+Jack+Port+Replacement//Guide/edit/37953/86301",
+            "add_comment_link": "https://www.ifixit.com/Guide/DeltaLab+CT-40+Chromatic+Tuner+Input+Jack+Port+Replacement/",
+            "links": []
+        }
+    ],
+    "finish_line": {
+        "text": "Give the author +30 points! You're Finished!",
+        "cancel_link": "https://www.ifixit.com/Guide/DeltaLab+CT-40+Chromatic+Tuner+Input+Jack+Port+Replacement/<#>",
+        "completed_count": "One other person completed this guide."
+    },
+    "embed_code": {
+        "small": "<iframe id=\"dozuki-embed-37953\" src=\"https://www.ifixit.com/Guide/embed/37953/full\" width=\"600\" allowfullscreen frameborder=\"0\"></iframe> <script>window.addEventListener(\"message\",function(a){var b=document.getElementById(\"dozuki-embed-37953\"),c=a.data[0],d=a.data[1];switch(c){case\"setHeight\":b.style.height=d+\"px\"}},!1);</script> <iframe src=\"https://www.ifixit.com/Guide/embed/37953\" width=\"600\" height=\"584\" allowfullscreen frameborder=\"0\"></iframe>",
+        "medium": "<iframe id=\"dozuki-embed-37953\" src=\"https://www.ifixit.com/Guide/embed/37953/full\" width=\"800\" allowfullscreen frameborder=\"0\"></iframe> <script>window.addEventListener(\"message\",function(a){var b=document.getElementById(\"dozuki-embed-37953\"),c=a.data[0],d=a.data[1];switch(c){case\"setHeight\":b.style.height=d+\"px\"}},!1);</script> <iframe src=\"https://www.ifixit.com/Guide/embed/37953\" width=\"800\" height=\"584\" allowfullscreen frameborder=\"0\"></iframe>",
+        "large": "<iframe id=\"dozuki-embed-37953\" src=\"https://www.ifixit.com/Guide/embed/37953/full\" width=\"1200\" allowfullscreen frameborder=\"0\"></iframe> <script>window.addEventListener(\"message\",function(a){var b=document.getElementById(\"dozuki-embed-37953\"),c=a.data[0],d=a.data[1];switch(c){case\"setHeight\":b.style.height=d+\"px\"}},!1);</script> <iframe src=\"https://www.ifixit.com/Guide/embed/37953\" width=\"1200\" height=\"584\" allowfullscreen frameborder=\"0\"></iframe>"
+    },
+    "repair_is_noble": "https://www.ifixit.com/Manifesto"
+}

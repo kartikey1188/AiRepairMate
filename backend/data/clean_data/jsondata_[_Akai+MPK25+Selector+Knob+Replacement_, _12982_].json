@@ -1,0 +1,137 @@
+{
+    "title": "Akai MPK25 Selector Knob Replacement",
+    "last_updated": "January 28, 2014",
+    "time_estimate": "30 - 45 minutes",
+    "difficulty": "Difficult",
+    "featured_guide": true,
+    "introduction": "Use this guide if any of the selector knobs get bent, broken, or stops working.",
+    "tools": [
+        {
+            "name": "8\" Needle Nose Plier",
+            "url": "https://www.ifixit.com/products/large-needle-nose-pliers",
+            "image_url": "https://cart-products.cdn.ifixit.com/cart-products/xsuUhWaHMfDB6FnN.thumbnail",
+            "price": "$4.99",
+            "add_to_cart_url": "https://www.ifixit.com/products/large-needle-nose-pliers"
+        },
+        {
+            "name": "Phillips #2 Screwdriver",
+            "url": "https://www.ifixit.com/products/6-in-1-screwdriver",
+            "image_url": "https://cart-products.cdn.ifixit.com/cart-products/LYcK13TjejldWD5Y.thumbnail",
+            "price": "$6.99",
+            "add_to_cart_url": "https://www.ifixit.com/products/6-in-1-screwdriver"
+        },
+        {
+            "name": "Soldering Workstation",
+            "url": "https://www.ifixit.com/products/soldering-workstation",
+            "image_url": "https://cart-products.cdn.ifixit.com/cart-products/dIfDOMnSEGhxZmJY.thumbnail",
+            "price": "$49.99",
+            "view_url": "https://www.ifixit.com/products/soldering-workstation"
+        },
+        {
+            "name": "Spudger",
+            "url": "https://www.ifixit.com/products/spudger",
+            "image_url": "https://cart-products.cdn.ifixit.com/cart-products/vy2elt3YPAXL1LmZ.thumbnail",
+            "price": [
+                "$3.99 New / Fixite Carbon Fiber",
+                "$2.99 New / Glass Fiber",
+                "$149.99 New / Glass Fiber Bundle of 100"
+            ],
+            "add_to_cart_url": "https://www.ifixit.com/products/spudger"
+        }
+    ],
+    "steps": [
+        {
+            "step_number": 1,
+            "title": "Face Plate",
+            "image_url": "https://guide-images.cdn.ifixit.com/igi/aDinq1CRlSbmudCJ.medium",
+            "instructions": [
+                "Remove all the selector knob covers by pulling them off."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/12982/44419",
+            "comment_count": 1
+        },
+        {
+            "step_number": 2,
+            "image_url": "https://guide-images.cdn.ifixit.com/igi/B3pRLtGKy5BYEjpC.medium",
+            "instructions": [
+                "Using needle nose pliers, remove the washers from the four corner selector knobs."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/12982/44420",
+            "comment_count": 1
+        },
+        {
+            "step_number": 3,
+            "edit_url": "https://www.ifixit.com/Guide/edit/12982/44421",
+            "instructions": [
+                "Flip the device over. Using a Philips #2 screw driver, remove the fourteen 10.3 mm black screws holding the back panel in place."
+            ],
+            "comment_count": 0
+        },
+        {
+            "step_number": 4,
+            "edit_url": "https://www.ifixit.com/Guide/edit/12982/44422",
+            "instructions": [
+                "Carefully flip the device to the front making sure you secure the face plate and the chassis together.",
+                "Please use care in following the step above to avoid ripping the ribbon cables connecting the two sides."
+            ],
+            "comment_count": 0
+        },
+        {
+            "step_number": 5,
+            "edit_url": "https://www.ifixit.com/Guide/edit/12982/44423",
+            "instructions": [
+                "Rotate the device 180 degrees and carefully remove the face plate by slightly lifting the screen side towards you and then sliding the bottom out from under the keys.",
+                "Use care when doing the step above so that the ribbon connectors which connect the top of the chassis to the top of the face plate are not damaged."
+            ],
+            "comment_count": 0
+        },
+        {
+            "step_number": 6,
+            "title": "Selector Knob",
+            "edit_url": "https://www.ifixit.com/Guide/edit/12982/44446",
+            "instructions": [
+                "Using a Phillips #2 screwdriver, remove the thirteen 9.8mm silver screws holding the mother board to the face plate."
+            ],
+            "comment_count": 0
+        },
+        {
+            "step_number": 7,
+            "edit_url": "https://www.ifixit.com/Guide/edit/12982/44449",
+            "instructions": [
+                "Using two plastic opening tools, slide the black locking mechanism on the ZIF connector towards you. This will remove the ribbon cable connecting the motherboard to the screen."
+            ],
+            "comment_count": 0
+        },
+        {
+            "step_number": 8,
+            "edit_url": "https://www.ifixit.com/Guide/edit/12982/44929",
+            "instructions": [
+                "Wiggle and pull out the ribbon cable connecting the mother board to the beat pads."
+            ],
+            "comment_count": 0
+        },
+        {
+            "step_number": 9,
+            "edit_url": "https://www.ifixit.com/Guide/edit/12982/44451",
+            "instructions": [
+                "Remove the mother board completely from the face plate and identify the broken potentiometer."
+            ],
+            "comment_count": 0
+        },
+        {
+            "step_number": 10,
+            "edit_url": "https://www.ifixit.com/Guide/edit/12982/45089",
+            "instructions": [
+                "Flip the mother board back over so the potentiometers are facing down and the leads are facing up. Then identify which leads correspond to the broken potentiometer.",
+                "Use a soldering iron with solder wick (or a solder sucker) in order to free the potentiometer from the mother board.",
+                "Add some leaded solder to the leads if your having trouble getting the factory solder to draw to the solder wick."
+            ],
+            "comment_count": 1
+        }
+    ],
+    "conclusion": "To reassemble your device, follow these instructions in reverse order.",
+    "completed_message": "6 other people completed this guide.",
+    "embed_code": "<iframe id=\"dozuki-embed-12982\" src=\"https://www.ifixit.com/Guide/embed/12982/full\" width=\"800\" allowfullscreen frameborder=\"0\"></iframe> <script>window.addEventListener(\"message\",function(a){var b=document.getElementById(\"dozuki-embed-12982\"),c=a.data[0],d=a.data[1];switch(c){case\"setHeight\":b.style.height=d+\"px\"}},!1);</script> <iframe src=\"https://www.ifixit.com/Guide/embed/12982\" width=\"800\" height=\"584\" allowfullscreen frameborder=\"0\"></iframe>",
+    "repair_is_noble_url": "https://www.ifixit.com/Manifesto",
+    "license_url": "https://www.ifixit.com/Info/Licensing"
+}

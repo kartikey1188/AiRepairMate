@@ -1,0 +1,259 @@
+{
+    "metadata": {
+        "title": "How to Replace Broken Deck Boards on an Outdoor Patio",
+        "last_updated": "October 1, 2023",
+        "estimated_time": "20 minutes - 1 hour",
+        "difficulty": "Moderate",
+        "guide_url": "https://www.ifixit.com/Guide/How+to+Replace+Broken+Deck+Boards+on+an+Outdoor+Patio/",
+        "guide_id": 137262,
+        "device_categories": [
+            {
+                "name": "Home Construction",
+                "url": "https://www.ifixit.com/Guide/How+to+Replace+Broken+Deck+Boards+on+an+Outdoor+Patio/<https://www.ifixit.com/Device/Home_Construction>"
+            },
+            {
+                "name": "Household",
+                "url": "https://www.ifixit.com/Guide/How+to+Replace+Broken+Deck+Boards+on+an+Outdoor+Patio/<https://www.ifixit.com/Device/Household>"
+            },
+            {
+                "name": "Home",
+                "url": "https://www.ifixit.com/Guide/How+to+Replace+Broken+Deck+Boards+on+an+Outdoor+Patio/<https://www.ifixit.com/Guide>"
+            }
+        ],
+        "parts_url": "https://www.ifixit.com/Guide/How+to+Replace+Broken+Deck+Boards+on+an+Outdoor+Patio/<https://www.ifixit.com/Device/Home_Construction#Section_Guides>",
+        "answers_url": "https://www.ifixit.com/Guide/How+to+Replace+Broken+Deck+Boards+on+an+Outdoor+Patio/</Answers/Device/Home_Construction>",
+        "edit_url": "https://www.ifixit.com/Guide/How+to+Replace+Broken+Deck+Boards+on+an+Outdoor+Patio/</Guide/edit/137262>",
+        "guide_image": "https://guide-images.cdn.ifixit.com/igi/4JYmQEKDZWUVtKXE.140x105",
+        "embed_code": {
+            "small": "<iframe id=\"dozuki-embed-137262\" src=\"https://www.ifixit.com/Guide/embed/137262/full\" width=\"600\" allowfullscreen frameborder=\"0\"></iframe> <script>window.addEventListener(\"message\",function(a){var b=document.getElementById(\"dozuki-embed-137262\"),c=a.data[0],d=a.data[1];switch(c){case\"setHeight\":b.style.height=d+\"px\"}},!1);</script>",
+            "medium": "<iframe id=\"dozuki-embed-137262\" src=\"https://www.ifixit.com/Guide/embed/137262/full\" width=\"800\" allowfullscreen frameborder=\"0\"></iframe> <script>window.addEventListener(\"message\",function(a){var b=document.getElementById(\"dozuki-embed-137262\"),c=a.data[0],d=a.data[1];switch(c){case\"setHeight\":b.style.height=d+\"px\"}},!1);</script>",
+            "large": "<iframe id=\"dozuki-embed-137262\" src=\"https://www.ifixit.com/Guide/embed/137262/full\" width=\"1200\" allowfullscreen frameborder=\"0\"></iframe> <script>window.addEventListener(\"message\",function(a){var b=document.getElementById(\"dozuki-embed-137262\"),c=a.data[0],d=a.data[1];switch(c){case\"setHeight\":b.style.height=d+\"px\"}},!1);</script>",
+            "single_step_embed": "<iframe src=\"https://www.ifixit.com/Guide/embed/137262\" width=\"800\" height=\"584\" allowfullscreen frameborder=\"0\"></iframe>"
+        }
+    },
+    "introduction": {
+        "text": "This guide provides a simple method to replace broken deck boards on an outdoor wooden patio. Wooden boards can become damaged by impact or excessive use, water damage, age, rotting, fungus, or termites. By replacing the damaged boards, you can restore the structural integrity and appearance of your old deck, rather than replacing the entire thing.\nBy following all the processes, users will have fun by finishing their own DIY project that will bring more self-satisfaction.",
+        "step_url": "https://www.ifixit.com/Guide/How+to+Replace+Broken+Deck+Boards+on+an+Outdoor+Patio/<#s273213>"
+    },
+    "parts": [
+        {
+            "name": "8 ft 5 /4‑inch x 6-inch lumber",
+            "url": "https://www.ifixit.com/Guide/How+to+Replace+Broken+Deck+Boards+on+an+Outdoor+Patio/</Item/8_ft_5_4-inch_x_6-inch_lumber>",
+            "quantity": "×4",
+            "image_url": ""
+        }
+    ],
+    "tools": [
+        {
+            "name": "Permanent Maker",
+            "url": "https://www.ifixit.com/Guide/How+to+Replace+Broken+Deck+Boards+on+an+Outdoor+Patio/<http://traxxas.dozuki.com/Item/Permanent_Maker>",
+            "availability": "For sale from another site",
+            "view_url": "https://www.ifixit.com/Guide/How+to+Replace+Broken+Deck+Boards+on+an+Outdoor+Patio/<http://traxxas.dozuki.com/Item/Permanent_Maker>",
+            "image_url": ""
+        },
+        {
+            "name": "Painter's Tape",
+            "url": "https://www.ifixit.com/Guide/How+to+Replace+Broken+Deck+Boards+on+an+Outdoor+Patio/<https://www.amazon.com/ScotchBlue-Painters-Multi-Use-1-88-Inch-60-Yard/dp/B00004Z4DU/ref=sr_1_3?ie=UTF8&qid=1522256372&sr=8-3&keywords=painters%2Btape&tag=ifixitam-20>",
+            "affiliate_link": "https://www.ifixit.com/Guide/How+to+Replace+Broken+Deck+Boards+on+an+Outdoor+Patio/<https://www.amazon.com/ScotchBlue-Painters-Multi-Use-1-88-Inch-60-Yard/dp/B00004Z4DU/ref=sr_1_3?ie=UTF8&qid=1522256372&sr=8-3&keywords=painters%2Btape&tag=ifixitam-20>",
+            "availability": "Available for sale on Amazon",
+            "view_url": "https://www.ifixit.com/Guide/How+to+Replace+Broken+Deck+Boards+on+an+Outdoor+Patio/<https://www.amazon.com/ScotchBlue-Painters-Multi-Use-1-88-Inch-60-Yard/dp/B00004Z4DU/ref=sr_1_3?ie=UTF8&qid=1522256372&sr=8-3&keywords=painters%2Btape&tag=ifixitam-20>",
+            "image_url": "https://guide-images.cdn.ifixit.com/igi/3psLd3ymZvtXLEZR.thumbnail"
+        },
+        {
+            "name": "Measuring Tape",
+            "url": "https://www.ifixit.com/Guide/How+to+Replace+Broken+Deck+Boards+on+an+Outdoor+Patio/<http://www.amazon.com/dp/B000PSA6GU/?tag=ifixitam-20>",
+            "affiliate_link": "https://www.ifixit.com/Guide/How+to+Replace+Broken+Deck+Boards+on+an+Outdoor+Patio/<http://www.amazon.com/dp/B000PSA6GU/?tag=ifixitam-20>",
+            "availability": "Available for sale on Amazon",
+            "view_url": "https://www.ifixit.com/Guide/How+to+Replace+Broken+Deck+Boards+on+an+Outdoor+Patio/<http://www.amazon.com/dp/B000PSA6GU/?tag=ifixitam-20>",
+            "image_url": ""
+        },
+        {
+            "name": "Rafter square",
+            "url": "https://www.ifixit.com/Guide/How+to+Replace+Broken+Deck+Boards+on+an+Outdoor+Patio/</Item/Rafter_square>",
+            "image_url": ""
+        },
+        {
+            "name": "Power Drill",
+            "url": "https://www.ifixit.com/Guide/How+to+Replace+Broken+Deck+Boards+on+an+Outdoor+Patio/<https://www.amazon.com/DEWALT-DWD112-Pistol-Grip-Keyless-All-Metal/dp/B0011XSEW6/ref=sr_1_9?ie=UTF8&qid=1376354304&sr=8-9&keywords=power%2Bdrill&tag=ifixitam-20>",
+            "affiliate_link": "https://www.ifixit.com/Guide/How+to+Replace+Broken+Deck+Boards+on+an+Outdoor+Patio/<https://www.amazon.com/DEWALT-DWD112-Pistol-Grip-Keyless-All-Metal/dp/B0011XSEW6/ref=sr_1_9?ie=UTF8&qid=1376354304&sr=8-9&keywords=power%2Bdrill&tag=ifixitam-20>",
+            "availability": "Available for sale on Amazon",
+            "view_url": "https://www.ifixit.com/Guide/How+to+Replace+Broken+Deck+Boards+on+an+Outdoor+Patio/<https://www.amazon.com/DEWALT-DWD112-Pistol-Grip-Keyless-All-Metal/dp/B0011XSEW6/ref=sr_1_9?ie=UTF8&qid=1376354304&sr=8-9&keywords=power%2Bdrill&tag=ifixitam-20>",
+            "image_url": "https://guide-images.cdn.ifixit.com/igi/Ki5FSI2EbF6KWaHJ.thumbnail"
+        },
+        {
+            "name": "Square screwdriver head",
+            "url": "https://www.ifixit.com/Guide/How+to+Replace+Broken+Deck+Boards+on+an+Outdoor+Patio/</Item/Square_screwdriver_head>",
+            "image_url": ""
+        },
+        {
+            "name": "1/8\" Drill Bit",
+            "url": "https://www.ifixit.com/Guide/How+to+Replace+Broken+Deck+Boards+on+an+Outdoor+Patio/<https://www.amazon.com/8-Inch-Cobalt-Jobber-Length-Stainless/dp/B07CRWVNN3/ref=sr_1_1?qid=1692893128&refinements=p_11%3A1%2F8%2Bin&s=industrial&sr=1-1&th=1&tag=ifixitam-20>",
+            "affiliate_link": "https://www.ifixit.com/Guide/How+to+Replace+Broken+Deck+Boards+on+an+Outdoor+Patio/<https://www.amazon.com/8-Inch-Cobalt-Jobber-Length-Stainless/dp/B07CRWVNN3/ref=sr_1_1?qid=1692893128&refinements=p_11%3A1%2F8%2Bin&s=industrial&sr=1-1&th=1&tag=ifixitam-20>",
+            "availability": "Available for sale on Amazon",
+            "view_url": "https://www.ifixit.com/Guide/How+to+Replace+Broken+Deck+Boards+on+an+Outdoor+Patio/<https://www.amazon.com/8-Inch-Cobalt-Jobber-Length-Stainless/dp/B07CRWVNN3/ref=sr_1_1?qid=1692893128&refinements=p_11%3A1%2F8%2Bin&s=industrial&sr=1-1&th=1&tag=ifixitam-20>"
+        },
+        {
+            "name": "Box of deck Screws (8 x 3‑Inch)",
+            "url": "https://www.ifixit.com/Guide/How+to+Replace+Broken+Deck+Boards+on+an+Outdoor+Patio/</Item/Box_of_deck_Screws>",
+            "image_url": ""
+        },
+        {
+            "name": "Cross‑Cut hand saw",
+            "url": "https://www.ifixit.com/Guide/How+to+Replace+Broken+Deck+Boards+on+an+Outdoor+Patio/</Item/Cross-Cut_hand_saw>",
+            "image_url": ""
+        },
+        {
+            "name": "Scrubbing Sponge",
+            "url": "https://www.ifixit.com/Guide/How+to+Replace+Broken+Deck+Boards+on+an+Outdoor+Patio/<https://www.amazon.com/Amazon-Brand-Solimo-Heavy-Sponges/dp/B08RFCCBR1/ref=sr_1_1_ffob_sspa?dib=eyJ2IjoiMSJ9.GIIHd5D_sVxDdcaEOzfcd8giSH2WxeIyBxlm0vVAW6wCO_p_61MhwtH_TT2bJQpoDYDTFUAi4ucZNHAS51UGaJOVPSSDPTuDR1Fdz4Cef5q3zEsyj7PTU145bbgP-zsissJlLE7zS3Xw6hgftbnlBYr6B0hPPhcXx6K9GfFAeIlS5hfwh2nuNLThzivZrYUhEa7z0TOTgQXD2Q034_951bEFBgU1_0UMjuhcde70_NxKuFIuCshegoaFb5k-XaF2XVuNUUitl1D5ieaBZU8Roc67igkYiGsSlCgij-7hSDU.soVRFEK_kOt03Vn2AkSuauuHe_0m8KbJu8IgOFNyDxI&dib_tag=se&keywords=sponge&qid=1734555087&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1&tag=ifixitam-20>",
+            "affiliate_link": "https://www.ifixit.com/Guide/How+to+Replace+Broken+Deck+Boards+on+an+Outdoor+Patio/<https://www.amazon.com/Amazon-Brand-Solimo-Heavy-Sponges/dp/B08RFCCBR1/ref=sr_1_1_ffob_sspa?dib=eyJ2IjoiMSJ9.GIIHd5D_sVxDdcaEOzfcd8giSH2WxeIyBxlm0vVAW6wCO_p_61MhwtH_TT2bJQpoDYDTFUAi4ucZNHAS51UGaJOVPSSDPTuDR1Fdz4Cef5q3zEsyj7PTU145bbgP-zsissJlLE7zS3Xw6hgftbnlBYr6B0hPPhcXx6K9GfFAeIlS5hfwh2nuNLThzivZrYUhEa7z0TOTgQXD2Q034_951bEFBgU1_0UMjuhcde70_NxKuFIuCshegoaFb5k-XaF2XVuNUUitl1D5ieaBZU8Roc67igkYiGsSlCgij-7hSDU.soVRFEK_kOt03Vn2AkSuauuHe_0m8KbJu8IgOFNyDxI&dib_tag=se&keywords=sponge&qid=1734555087&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1&tag=ifixitam-20>",
+            "availability": "Available for sale on Amazon",
+            "view_url": "https://www.ifixit.com/Guide/How+to+Replace+Broken+Deck+Boards+on+an+Outdoor+Patio/<https://www.amazon.com/Amazon-Brand-Solimo-Heavy-Sponges/dp/B08RFCCBR1/ref=sr_1_1_ffob_sspa?dib=eyJ2IjoiMSJ9.GIIHd5D_sVxDdcaEOzfcd8giSH2WxeIyBxlm0vVAW6wCO_p_61MhwtH_TT2bJQpoDYDTFUAi4ucZNHAS51UGaJOVPSSDPTuDR1Fdz4Cef5q3zEsyj7PTU145bbgP-zsissJlLE7zS3Xw6hgftbnlBYr6B0hPPhcXx6K9GfFAeIlS5hfwh2nuNLThzivZrYUhEa7z0TOTgQXD2Q034_951bEFBgU1_0UMjuhcde70_NxKuFIuCshegoaFb5k-XaF2XVuNUUitl1D5ieaBZU8Roc67igkYiGsSlCgij-7hSDU.soVRFEK_kOt03Vn2AkSuauuHe_0m8KbJu8IgOFNyDxI&dib_tag=se&keywords=sponge&qid=1734555087&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1&tag=ifixitam-20>",
+            "image_url": ""
+        }
+    ],
+    "steps": [
+        {
+            "step_number": 1,
+            "title": "Broken Deck Boards",
+            "step_url": "https://www.ifixit.com/Guide/How+to+Replace+Broken+Deck+Boards+on+an+Outdoor+Patio/<#s273213>",
+            "instructions": [
+                "Inspect the damage and mark any broken boards that need to be replaced using painter's tape."
+            ],
+            "images": [
+                {
+                    "original": "https://guide-images.cdn.ifixit.com/igi/japJhdmvLYCGvGIU.medium",
+                    "thumbnail": ""
+                }
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/How+to+Replace+Broken+Deck+Boards+on+an+Outdoor+Patio/</Guide/edit/137262/273213>",
+            "comments_section": {
+                "add_comment_url": null,
+                "max_length": 1024
+            }
+        },
+        {
+            "step_number": 2,
+            "title": "",
+            "step_url": "https://www.ifixit.com/Guide/How+to+Replace+Broken+Deck+Boards+on+an+Outdoor+Patio/<#s273214>",
+            "instructions": [
+                "Measure and estimate the new boards you need to purchase.",
+                "We recommend using treated 5/4-inch x 6-inch lumber that you could easily get from any home improvement stores."
+            ],
+            "images": [
+                {
+                    "original": "https://guide-images.cdn.ifixit.com/igi/HyiOHb6MEdeLXRoX.medium",
+                    "thumbnail": ""
+                }
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/How+to+Replace+Broken+Deck+Boards+on+an+Outdoor+Patio/</Guide/edit/137262/273214>",
+            "comments_section": {
+                "add_comment_url": null,
+                "max_length": 1024
+            }
+        },
+        {
+            "step_number": 3,
+            "title": "",
+            "step_url": "https://www.ifixit.com/Guide/How+to+Replace+Broken+Deck+Boards+on+an+Outdoor+Patio/<#s273313>",
+            "instructions": [
+                "Remove the broken boards.",
+                "If your boards were originally put down with screws, then remove the old screws with a drill.",
+                "If your boards were originally affixed with nails, pry the nails up before removing the boards.",
+                "It's generally recommended to take a more gentle approach, otherwise you may destroy the joists."
+            ],
+            "images": [],
+            "edit_url": "https://www.ifixit.com/Guide/How+to+Replace+Broken+Deck+Boards+on+an+Outdoor+Patio/</Guide/edit/137262/273313>",
+            "comments_section": {
+                "add_comment_url": null,
+                "max_length": 1024
+            }
+        },
+        {
+            "step_number": 4,
+            "title": "",
+            "step_url": "https://www.ifixit.com/Guide/How+to+Replace+Broken+Deck+Boards+on+an+Outdoor+Patio/<#s273314>",
+            "instructions": [
+                "Check and sweep the joists.",
+                "In most cases, deck framing typically takes a lot longer to deteriorate because it is protected from the sun, wind, and rain by the boards above it. So joists should be in good shape."
+            ],
+            "images": [],
+            "edit_url": "https://www.ifixit.com/Guide/How+to+Replace+Broken+Deck+Boards+on+an+Outdoor+Patio/</Guide/edit/137262/273314>",
+            "comments_section": {
+                "add_comment_url": null,
+                "max_length": 1024
+            }
+        },
+        {
+            "step_number": 5,
+            "title": "",
+            "step_url": "https://www.ifixit.com/Guide/How+to+Replace+Broken+Deck+Boards+on+an+Outdoor+Patio/<#s273321>",
+            "instructions": [
+                "Measure the replacement pieces.",
+                "Put the broken board on the new board and mark the angle it should be cut at on both sides.",
+                "Draw the line by connecting the marked points."
+            ],
+            "images": [],
+            "edit_url": "https://www.ifixit.com/Guide/How+to+Replace+Broken+Deck+Boards+on+an+Outdoor+Patio/</Guide/edit/137262/273321>",
+            "comments_section": {
+                "add_comment_url": null,
+                "max_length": 1024
+            }
+        },
+        {
+            "step_number": 6,
+            "title": "",
+            "step_url": "https://www.ifixit.com/Guide/How+to+Replace+Broken+Deck+Boards+on+an+Outdoor+Patio/<#s273326>",
+            "instructions": [
+                "Use a hand saw to cut along the marked cutting line for each new board.",
+                "A circular saw is recommended to expedite the process if there are many broken deck boards to be replaced."
+            ],
+            "images": [],
+            "edit_url": "https://www.ifixit.com/Guide/How+to+Replace+Broken+Deck+Boards+on+an+Outdoor+Patio/</Guide/edit/137262/273326>",
+            "comments_section": {
+                "add_comment_url": null,
+                "max_length": 1024
+            }
+        },
+        {
+            "step_number": 7,
+            "title": "",
+            "step_url": "https://www.ifixit.com/Guide/How+to+Replace+Broken+Deck+Boards+on+an+Outdoor+Patio/<#s273327>",
+            "instructions": [
+                "Mark up screws position on each new boards.",
+                "Line up the boards and mark the length where the screws should go.",
+                "Measure the position of the screws from the edge on the old boards and mark the same position on the new boards."
+            ],
+            "images": [],
+            "edit_url": "https://www.ifixit.com/Guide/How+to+Replace+Broken+Deck+Boards+on+an+Outdoor+Patio/</Guide/edit/137262/273327>",
+            "comments_section": {
+                "add_comment_url": null,
+                "max_length": 1024
+            }
+        },
+        {
+            "step_number": 8,
+            "title": "",
+            "step_url": "https://www.ifixit.com/Guide/How+to+Replace+Broken+Deck+Boards+on+an+Outdoor+Patio/<#s274327>",
+            "instructions": [
+                "Pre-drill the holes at the marked spots using a 1/8th inch drill bit.",
+                "Drive screws into the pre-drilled holes.",
+                "Use a wet scrubbing sponge to clean up the lines.",
+                "You may choose nails but screws are always preferable to nails when fastening deck boards."
+            ],
+            "images": [],
+            "edit_url": "https://www.ifixit.com/Guide/How+to+Replace+Broken+Deck+Boards+on+an+Outdoor+Patio/</Guide/edit/137262/274327>",
+            "comments_section": {
+                "add_comment_url": null,
+                "max_length": 1024
+            }
+        }
+    ],
+    "conclusion": {
+        "text": "To reassemble your device, follow these instructions in reverse order.",
+        "almost_done": "Finish Line"
+    },
+    "additional_info": {
+        "give_author_points": "Give the author +30 points!  You're Finished!",
+        "cancel_guide_completion_url": "https://www.ifixit.com/Guide/How+to+Replace+Broken+Deck+Boards+on+an+Outdoor+Patio/<#>"
+    }
+}

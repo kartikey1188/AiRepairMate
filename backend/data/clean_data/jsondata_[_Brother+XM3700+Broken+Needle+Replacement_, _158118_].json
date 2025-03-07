@@ -1,0 +1,145 @@
+{
+    "metadata": {
+        "title": "Brother XM3700 Broken Needle Replacement",
+        "last_updated": "May 9, 2023",
+        "time_estimate": "5 - 10 minutes",
+        "difficulty": "Easy",
+        "introduction": "Most sewing machine issues occur because of the needle. Regularly changing out broken or dull needles is an important aspect of maintaining a sewing machine. The needle is responsible for the quality of stitching, but can also affect the how the sewing machine functions. A broken or dull needle not only damages the fabric, but can damage the bobbin case below, and bunch up both the top and bottom threads. Properly inserting a new needle, as well as assessing which needle is required for your project can save you from a variety of sewing machine headaches.",
+        "team": {
+            "name": "UC Davis, Team 1-6, Andersen Winter 2023",
+            "profile_url": "https://www.ifixit.com/Team/46501/UC+Davis%2C+Team+1-6%2C+Andersen+Winter+2023",
+            "member_of": "UC Davis, Team 1-6, Andersen Winter 2023",
+            "team_id": "UCD-ANDERSEN-W23S1G6",
+            "member_count": 4,
+            "guides_authored": 1
+        }
+    },
+    "tools": [
+        {
+            "name": "Coin (optional)",
+            "image": "https://cart-products.cdn.ifixit.com/cart-products/CDpMNvBsmbEthegL.thumbnail",
+            "url": "https://www.ifixit.com/products/coin",
+            "price": "$2.99",
+            "add_to_cart": true
+        },
+        {
+            "name": "Brother Universal Sewing Machine Needles",
+            "url": "https://www.brother-usa.com/products/saneedlemix",
+            "availability": "For sale from another site"
+        }
+    ],
+    "steps": [
+        {
+            "step_number": 1,
+            "title": "Broken Needle",
+            "images": [
+                {
+                    "url": "https://guide-images.cdn.ifixit.com/igi/RMM2RSsMo2QZtNKq.medium",
+                    "thumbnail_url": "https://guide-images.cdn.ifixit.com/igi/RMM2RSsMo2QZtNKq.200x150"
+                },
+                {
+                    "url": "https://guide-images.cdn.ifixit.com/igi/qGpNAqGcZxsia6rt.medium",
+                    "thumbnail_url": "https://guide-images.cdn.ifixit.com/igi/qGpNAqGcZxsia6rt.200x150"
+                },
+                {
+                    "url": "https://guide-images.cdn.ifixit.com/igi/flhmQX4qh4mYsCSL.medium",
+                    "thumbnail_url": "https://guide-images.cdn.ifixit.com/igi/flhmQX4qh4mYsCSL.200x150"
+                }
+            ],
+            "instructions": [
+                "Adjust the needle with the handwheel towards you until it is at the highest position, as indicated by the silver thread take-up lever."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/158118/331062",
+            "add_comment_url": "https://www.ifixit.com/Guide/Brother+XM3700+Broken+Needle+Replacement/<#>",
+            "links": []
+        },
+        {
+            "step_number": 2,
+            "title": "",
+            "images": [
+                {
+                    "url": "https://guide-images.cdn.ifixit.com/igi/m5yJ1SWdsEfAZTQP.medium",
+                    "thumbnail_url": "https://guide-images.cdn.ifixit.com/igi/m5yJ1SWdsEfAZTQP.200x150"
+                },
+                {
+                    "url": "https://guide-images.cdn.ifixit.com/igi/NJJxfkV4HhxlPFrG.medium",
+                    "thumbnail_url": "https://guide-images.cdn.ifixit.com/igi/NJJxfkV4HhxlPFrG.200x150"
+                }
+            ],
+            "instructions": [
+                "Unscrew the bolt that holds the needle in place using either the tool that came with your Brother machine, or a small flat object like a coin."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/158118/331067",
+            "add_comment_url": "https://www.ifixit.com/Guide/Brother+XM3700+Broken+Needle+Replacement/<#>",
+            "links": []
+        },
+        {
+            "step_number": 3,
+            "title": "",
+            "images": [],
+            "instructions": [
+                "Remove the broken needle stem from the machine, and dispose of it carefully."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/158118/331072",
+            "add_comment_url": "https://www.ifixit.com/Guide/Brother+XM3700+Broken+Needle+Replacement/<#>",
+            "links": []
+        },
+        {
+            "step_number": 4,
+            "title": "",
+            "images": [],
+            "instructions": [
+                "Unthread the broken needle tip from the thread, and dispose of carefully."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/158118/331074",
+            "add_comment_url": "https://www.ifixit.com/Guide/Brother+XM3700+Broken+Needle+Replacement/<#>",
+            "links": []
+        },
+        {
+            "step_number": 5,
+            "title": "",
+            "images": [],
+            "instructions": [
+                "Select a Brother brand needle, using the needle size that works well with your fabric."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/158118/331075",
+            "add_comment_url": "https://www.ifixit.com/Guide/Brother+XM3700+Broken+Needle+Replacement/<#>",
+            "links": []
+        },
+        {
+            "step_number": 6,
+            "title": "",
+            "images": [],
+            "instructions": [
+                "Insert the needle with the flat side of the stem facing the back of the machine."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/158118/331076",
+            "add_comment_url": "https://www.ifixit.com/Guide/Brother+XM3700+Broken+Needle+Replacement/<#>",
+            "links": []
+        },
+        {
+            "step_number": 7,
+            "title": "",
+            "images": [],
+            "instructions": [
+                "Screw the bolt in first with your fingers and then with the tool until the needle is tightly secured."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/158118/331077",
+            "add_comment_url": "https://www.ifixit.com/Guide/Brother+XM3700+Broken+Needle+Replacement/<#>",
+            "links": []
+        },
+        {
+            "step_number": 8,
+            "title": "",
+            "images": [],
+            "instructions": [
+                "Rethread the needle and pull the thread through the back."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/158118/331079",
+            "add_comment_url": "https://www.ifixit.com/Guide/Brother+XM3700+Broken+Needle+Replacement/<#>",
+            "links": []
+        }
+    ],
+    "conclusion": "Congratulations! You have successfully replaced your broken needle. Happy sewing!",
+    "embed_code": "<iframe id=\"dozuki-embed-158118\" src=\"https://www.ifixit.com/Guide/embed/158118/full\" width=\"800\" allowfullscreen frameborder=\"0\"></iframe> <script>window.addEventListener(\"message\",function(a){var b=document.getElementById(\"dozuki-embed-158118\"),c=a.data[0],d=a.data[1];switch(c){case\"setHeight\":b.style.height=d+\"px\"}},!1);</script> <iframe src=\"https://www.ifixit.com/Guide/embed/158118\" width=\"800\" height=\"584\" allowfullscreen frameborder=\"0\"></iframe>"
+}

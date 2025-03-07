@@ -1,0 +1,156 @@
+{
+    "title": "Complete Dissassembly: Zadro Towel Warmer",
+    "last_updated": "December 27, 2024",
+    "estimated_time": "8 minutes",
+    "difficulty": "Easy",
+    "community_guide": true,
+    "introduction": "My spouse ordered two of these towel warmers. One of them would intermittently stop working. I was able to figure out that the buttons weren't clicking on the broken one (the buttons were soft compared to the working one where the buttons were clicky).\nSchildkraut Cup Warmer 288GY/288PO/288RY",
+    "parts": [
+        {
+            "name": "Silver Foil Conductive Tape",
+            "url": "https://www.amazon.com/3M-Silver-Conductive-Acrylic-Adhesive/dp/B075V7BLYJ/ref=sr_1_4?dchild=1&keywords=silver%2Btape%2Bconductive%2Badhesive&qid=1613830851&s=industrial&sr=1-4&tag=ifixitam-20",
+            "description": "Optional",
+            "affiliate_link": "https://www.amazon.com/3M-Silver-Conductive-Acrylic-Adhesive/dp/B075V7BLYJ/ref=sr_1_4?dchild=1&keywords=silver%2Btape%2Bconductive%2Badhesive&qid=1613830851&s=industrial&sr=1-4&tag=ifixitam-20",
+            "available_on_amazon": true,
+            "view_link": "https://www.amazon.com/3M-Silver-Conductive-Acrylic-Adhesive/dp/B075V7BLYJ/ref=sr_1_4?dchild=1&keywords=silver%2Btape%2Bconductive%2Badhesive&qid=1613830851&s=industrial&sr=1-4&tag=ifixitam-20"
+        }
+    ],
+    "tools": [
+        {
+            "name": "Phillips #2 Screwdriver",
+            "url": "https://www.ifixit.com/products/6-in-1-screwdriver",
+            "image": "https://cart-products.cdn.ifixit.com/cart-products/LYcK13TjejldWD5Y.thumbnail",
+            "price": "$6.99",
+            "add_to_cart_url": "https://www.ifixit.com/products/6-in-1-screwdriver"
+        },
+        {
+            "name": "1 x Flat screwdriver or sharp knife",
+            "url": "https://www.ifixit.com/Item/1_x_Flat_screwdriver_or_sharp_knife"
+        }
+    ],
+    "steps": [
+        {
+            "step_number": 1,
+            "title": "Remove screws from the bottom of the unit",
+            "content": [
+                "You will need a Phillips head screwdriver with a long thin shaft to be able to get to the recessed screws."
+            ],
+            "image": "https://guide-images.cdn.ifixit.com/igi/NVsWOMIJs2WtFwFc.medium",
+            "edit_url": "https://www.ifixit.com/Guide/edit/174966/372649",
+            "comments_count": 0,
+            "add_comment_url": null
+        },
+        {
+            "step_number": 2,
+            "title": "Remove plastic plugs and screws from the top of the unit",
+            "content": [
+                "I used the sharp edge of a flat head screwdriver, but the point of a knife would also work. The plugs just slide out."
+            ],
+            "images": [
+                "https://guide-images.cdn.ifixit.com/igi/RROLUnYOYqJiNi54.medium",
+                "https://guide-images.cdn.ifixit.com/igi/jw5yABbvPdt2efav.medium",
+                "https://guide-images.cdn.ifixit.com/igi/qTC1HcPduDsXSZV6.medium"
+            ],
+            "images_200x150": [
+                "https://guide-images.cdn.ifixit.com/igi/RROLUnYOYqJiNi54.200x150",
+                "https://guide-images.cdn.ifixit.com/igi/jw5yABbvPdt2efav.200x150",
+                "https://guide-images.cdn.ifixit.com/igi/qTC1HcPduDsXSZV6.200x150"
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/174966/372650",
+            "comments_count": 3,
+            "add_comment_url": null
+        },
+        {
+            "step_number": 3,
+            "title": "SLIGHTLY lift the top of the warmer to disconnect the connector circled in the photo.",
+            "content": [
+                "The white cable is taped to the side of the warmer. If you pull the top of the warmer out too far, don't worry. You can easily tape it back in place later on.",
+                "You will need to press down on the latch on the connector in order to remove it. Do NOT put a lot of pressure on the connector."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/174966/372663",
+            "comments_count": 0,
+            "add_comment_url": null
+        },
+        {
+            "step_number": 4,
+            "title": "Slide the plate on the bottom to the end of the cord and lift the top of the warmer to remove the other end of the cable.",
+            "content": [
+                "This part can be slightly tricky. You will need to reach inside the warmer to disconnect the other end of the white cable. The bottom connector also has a latch, but it is not visible."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/174966/372664",
+            "comments_count": 0,
+            "add_comment_url": null
+        },
+        {
+            "step_number": 5,
+            "title": "OPTIONAL: Disconnect the power cord from the strain relief.",
+            "content": [
+                "This step is optional. I personally did not choose to disconnect the power cord, but doing so can make working on the warmer easier."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/174966/372665",
+            "comments_count": 0,
+            "add_comment_url": null
+        },
+        {
+            "step_number": 6,
+            "title": "Slide the internals of the warmer out of the plastic shell.",
+            "content": [
+                "Make sure that the bottom plate is as far down the power cord as possible. You will need to fish the power cord through the opening at the bottom as you remove the internals.",
+                "While I was sliding the internal parts of the warmer out of the shell it did get caught a few times. I had to twist it to get it free. Do NOT put a lot of force into removing the internals."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/174966/372666",
+            "comments_count": 0,
+            "add_comment_url": null
+        },
+        {
+            "step_number": 7,
+            "title": "OPTIONAL: Disconnect the power cord from the lower circuit board.",
+            "content": [
+                "This step is optional. The power cord called are the black and white connectors on the left. I did not get a picture of the connector for the ground cable (green). It is connected to the side of the warmer. Removing the power cord can make working on the warmer easier.",
+                "I did not know that the white coard was taped to the inside of the warmer. In the photo it is still connected."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/174966/372667",
+            "comments_count": 0,
+            "add_comment_url": null
+        },
+        {
+            "step_number": 8,
+            "title": "Disconnect the Upper Circuit Board",
+            "content": [
+                "There are two small screws that hold the upper circuit board to the top of the warmer.",
+                "I did not know that the white coard was taped to the inside of the warmer. In the photo it is still connected."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/174966/372668",
+            "comments_count": 0,
+            "add_comment_url": null
+        },
+        {
+            "step_number": 9,
+            "title": "Disconnect the buttons from the Upper Circuit Board",
+            "content": [
+                "One of the small screws (circled in the photo) was not fully tightened. The small amount of play was keeping the plastic part of the button from engaging the button on the circuit board. Tightening the screw fixed my issue.",
+                "You can also remove the black cable to make working on the upper circuit board easier."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/174966/372669",
+            "comments_count": 0,
+            "add_comment_url": null
+        },
+        {
+            "step_number": 10,
+            "title": "OPTIONAL: Tape the White Cable back in place.",
+            "content": [
+                "I had to tape the white cable back in place before I reassembled the warmer. It came untaped as I pulled the internal parts from the plastic body."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/174966/372670",
+            "comments_count": 0,
+            "add_comment_url": null
+        }
+    ],
+    "conclusion": "To reassemble your device, follow these instructions in reverse order.",
+    "embed_code": {
+        "small": "<iframe id=\"dozuki-embed-174966\" src=\"https://www.ifixit.com/Guide/embed/174966/full\" width=\"600\" allowfullscreen frameborder=\"0\"></iframe> <script>window.addEventListener(\"message\",function(a){var b=document.getElementById(\"dozuki-embed-174966\"),c=a.data[0],d=a.data[1];switch(c){case\"setHeight\":b.style.height=d+\"px\"}},!1);</script>",
+        "medium": "<iframe id=\"dozuki-embed-174966\" src=\"https://www.ifixit.com/Guide/embed/174966/full\" width=\"800\" allowfullscreen frameborder=\"0\"></iframe> <script>window.addEventListener(\"message\",function(a){var b=document.getElementById(\"dozuki-embed-174966\"),c=a.data[0],d=a.data[1];switch(c){case\"setHeight\":b.style.height=d+\"px\"}},!1);</script>",
+        "large": "<iframe id=\"dozuki-embed-174966\" src=\"https://www.ifixit.com/Guide/embed/174966/full\" width=\"1200\" allowfullscreen frameborder=\"0\"></iframe> <script>window.addEventListener(\"message\",function(a){var b=document.getElementById(\"dozuki-embed-174966\"),c=a.data[0],d=a.data[1];switch(c){case\"setHeight\":b.style.height=d+\"px\"}},!1);</script>",
+        "full_guide": "<iframe src=\"https://www.ifixit.com/Guide/embed/174966\" width=\"800\" height=\"584\" allowfullscreen frameborder=\"0\"></iframe>"
+    }
+}

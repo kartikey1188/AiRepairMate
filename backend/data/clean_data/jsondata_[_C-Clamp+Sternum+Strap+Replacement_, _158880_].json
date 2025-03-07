@@ -1,0 +1,102 @@
+{
+    "metadata": {
+        "title": "C-Clamp Sternum Strap Replacement",
+        "author_profile_link": "https://www.ifixit.com/Guide/C-Clamp+Sternum+Strap+Replacement/<https:/www.ifixit.com/User/4272508/Zach+Mueller>",
+        "other_contributors_link": "https://www.ifixit.com/Guide/C-Clamp+Sternum+Strap+Replacement/</Guide/history/158880>",
+        "last_updated": "November 20, 2024",
+        "comments_link": "https://www.ifixit.com/Guide/C-Clamp+Sternum+Strap+Replacement/<#comments>",
+        "estimated_time": "3 - 5 minutes",
+        "difficulty": "Moderate",
+        "guide_type": "Community-Contributed Guide",
+        "introduction": "This guide shows you the process of reinstalling a C-Clamp style Sternum Strap on a Patagonia backpack.\nThis particular Sternum Strap is called a \"C-Clamp\" because the cross section of the clips is shaped like a \"C\".",
+        "image_url": "https://guide-images.cdn.ifixit.com/igi/wJIKBZ5hwGP3VwE6.140x105"
+    },
+    "parts": [],
+    "tools": [],
+    "steps": [
+        {
+            "step_number": 1,
+            "title": "C-Clamp Sternum Strap Replacement",
+            "instruction": [
+                "Locate a proper Sternum Strap replacement. Reach out to Patagonia if you need a replacement."
+            ],
+            "image_urls": [
+                "https://guide-images.cdn.ifixit.com/igi/MZtvTPj3PPhXhDQU.medium",
+                "https://guide-images.cdn.ifixit.com/igi/1OOOdvSZQLk6SwhH.medium"
+            ],
+            "thumbnails": [
+                "https://guide-images.cdn.ifixit.com/igi/MZtvTPj3PPhXhDQU.200x150",
+                "https://guide-images.cdn.ifixit.com/igi/1OOOdvSZQLk6SwhH.200x150"
+            ],
+            "edit_link": "https://www.ifixit.com/Guide/C-Clamp+Sternum+Strap+Replacement/</Guide/edit/158880/333197>",
+            "add_comment_link": "https://www.ifixit.com/Guide/C-Clamp+Sternum+Strap+Replacement/<#comment>"
+        },
+        {
+            "step_number": 2,
+            "instruction": [
+                "At the bottom of the Sternum Strap \"Rail\" there is a flap.",
+                "Pull this flap back to expose the bottom of the Rail.",
+                "Slide the C-Clamp Clip back onto the Rail.",
+                "The C-Clamp can be difficult to slide on. You can pull the fabric that is around the Rail tightly to make this step easier.",
+                "Repeat the steps above on the other backpack strap."
+            ],
+            "image_urls": [
+                "https://guide-images.cdn.ifixit.com/igi/HicLWQZAF2YH2RZL.medium",
+                "https://guide-images.cdn.ifixit.com/igi/moMNK5wCA5wAq6sg.medium",
+                "https://guide-images.cdn.ifixit.com/igi/lC3EhWfV22g6hpGn.medium"
+            ],
+            "thumbnails": [
+                "https://guide-images.cdn.ifixit.com/igi/HicLWQZAF2YH2RZL.200x150",
+                "https://guide-images.cdn.ifixit.com/igi/moMNK5wCA5wAq6sg.200x150",
+                "https://guide-images.cdn.ifixit.com/igi/lC3EhWfV22g6hpGn.200x150"
+            ],
+            "edit_link": "https://www.ifixit.com/Guide/C-Clamp+Sternum+Strap+Replacement/</Guide/edit/158880/333198>",
+            "add_comment_link": "https://www.ifixit.com/Guide/C-Clamp+Sternum+Strap+Replacement/<#comment>"
+        },
+        {
+            "step_number": 3,
+            "instruction": [
+                "Slide the Sternum Strap to your desired position.",
+                "Hit the trails with your newly attached Sternum Strap!"
+            ],
+            "edit_link": "https://www.ifixit.com/Guide/C-Clamp+Sternum+Strap+Replacement/</Guide/edit/158880/333222>",
+            "add_comment_link": "https://www.ifixit.com/Guide/C-Clamp+Sternum+Strap+Replacement/<#comment>"
+        }
+    ],
+    "conclusion": {
+        "text": "Finish Line",
+        "author_points": "Give the author +30 points!  You're Finished!",
+        "cancel_link": "https://www.ifixit.com/Guide/C-Clamp+Sternum+Strap+Replacement/<#>",
+        "completed_by": "One other person completed this guide."
+    },
+    "embed_guide": {
+        "text": "Choose a size and copy the code below to embed this guide as a small widget on your site / forum.",
+        "sizes": [
+            {
+                "name": "Small",
+                "value": "600px"
+            },
+            {
+                "name": "Medium",
+                "value": "800px"
+            },
+            {
+                "name": "Large",
+                "value": "1200px"
+            }
+        ],
+        "single_step_code": "<iframe id=\"dozuki-embed-158880\" src=\"https://www.ifixit.com/Guide/embed/158880/full\" width=\"800\" allowfullscreen frameborder=\"0\"></iframe> <script>window.addEventListener(\"message\",function(a){var b=document.getElementById(\"dozuki-embed-158880\"),c=a.data[0],d=a.data[1];switch(c){case\"setHeight\":b.style.height=d+\"px\"}},!1);</script>",
+        "full_guide_code": "<iframe src=\"https://www.ifixit.com/Guide/embed/158880\" width=\"800\" height=\"584\" allowfullscreen frameborder=\"0\"></iframe>"
+    },
+    "preview": {
+        "view_statistics": {
+            "past_24_hours": 5,
+            "past_7_days": 21,
+            "past_30_days": 104,
+            "all_time": 1913
+        }
+    },
+    "translate_link": "https://www.ifixit.com/Guide/C-Clamp+Sternum+Strap+Replacement/</Translate>",
+    "repair_is_noble": "https://www.ifixit.com/Guide/C-Clamp+Sternum+Strap+Replacement/</Manifesto>",
+    "licensing_link": "https://www.ifixit.com/Guide/C-Clamp+Sternum+Strap+Replacement/</Info/Licensing>"
+}

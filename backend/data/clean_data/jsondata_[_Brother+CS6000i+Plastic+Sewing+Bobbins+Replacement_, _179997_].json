@@ -1,0 +1,75 @@
+{
+    "metadata": {
+        "title": "Brother CS6000i Plastic Sewing Bobbins Replacement",
+        "last_updated": "December 31, 2024",
+        "guide_image": "https://guide-images.cdn.ifixit.com/igi/dcxpgkVUbV3BvYub.140x105",
+        "estimated_time": "3 minutes",
+        "difficulty": "Very easy",
+        "device_links": [
+            {
+                "text": "Brother CS6000i",
+                "url": "https://www.ifixit.com/Device/Brother_CS6000i"
+            },
+            {
+                "text": "Sewing Machine",
+                "url": "https://www.ifixit.com/Device/Sewing_Machine"
+            },
+            {
+                "text": "Arts, Crafts & Sewing",
+                "url": "https://www.ifixit.com/Device/Arts_Crafts_and_Sewing"
+            },
+            {
+                "text": "Household",
+                "url": "https://www.ifixit.com/Device/Household"
+            },
+            {
+                "text": "Home",
+                "url": "https://www.ifixit.com/Guide"
+            }
+        ],
+        "parts_links": [
+            {
+                "text": "Guides",
+                "url": "https://www.ifixit.com/Device/Brother_CS6000i#Section_Guides"
+            },
+            {
+                "text": "Troubleshooting",
+                "url": "https://www.ifixit.com/Troubleshooting/Brother_CS6000i"
+            }
+        ],
+        "edit_link": "https://www.ifixit.com/Guide/edit/179997"
+    },
+    "introduction": "This guide will show you how to replace the bobbins in the Brother CS6000i sewing machine. You won't need any tools for this replacement, and it only takes approximately 5 minutes.",
+    "steps": [
+        {
+            "step_number": 1,
+            "title": "Plastic Sewing Bobbins",
+            "text": "Remove the grey plastic needle plate.\nPlace the bobbin inside the bobbin case.",
+            "image": "https://guide-images.cdn.ifixit.com/igi/KUEnsuxDMtIUYYXf.medium",
+            "image_links": [
+                "https://guide-images.cdn.ifixit.com/igi/KUEnsuxDMtIUYYXf.200x150",
+                "https://guide-images.cdn.ifixit.com/igi/UrRPJVcWfHrXVCYk.200x150"
+            ],
+            "edit_link": "https://www.ifixit.com/Guide/edit/179997/384330",
+            "comment_links": [],
+            "additional_images": [
+                "https://guide-images.cdn.ifixit.com/igi/UrRPJVcWfHrXVCYk.medium"
+            ]
+        },
+        {
+            "step_number": 2,
+            "title": "",
+            "text": "Replace bobbins on the two bobbin holders on the top right of the device",
+            "image": "https://guide-images.cdn.ifixit.com/igi/Sa1UBbNhB1TlNFxv.medium",
+            "image_links": [],
+            "edit_link": "https://www.ifixit.com/Guide/edit/179997/384580",
+            "comment_links": []
+        }
+    ],
+    "conclusion": {
+        "text": "To reassemble your device, follow these instructions in reverse order.",
+        "author_points": 30,
+        "cancel_link": "https://www.ifixit.com/Guide/Brother+CS6000i+Plastic+Sewing+Bobbins+Replacement/<#>"
+    },
+    "embed_code": "<iframe id=\"dozuki-embed-179997\" src=\"https://www.ifixit.com/Guide/embed/179997/full\" width=\"800\" allowfullscreen frameborder=\"0\"></iframe> <script>window.addEventListener(\"message\",function(a){var b=document.getElementById(\"dozuki-embed-179997\"),c=a.data[0],d=a.data[1];switch(c){case\"setHeight\":b.style.height=d+\"px\"}},!1);</script> <iframe src=\"https://www.ifixit.com/Guide/embed/179997\" width=\"800\" height=\"584\" allowfullscreen frameborder=\"0\"></iframe>"
+}

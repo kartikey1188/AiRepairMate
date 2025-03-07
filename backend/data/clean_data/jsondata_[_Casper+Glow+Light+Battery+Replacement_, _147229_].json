@@ -1,0 +1,134 @@
+{
+    "metadata": {
+        "title": "Casper Glow Light Battery Replacement",
+        "last_updated": "September 21, 2023",
+        "time_estimate": "10 minutes",
+        "difficulty": "Very difficult",
+        "introduction": "It’s quite easy to disassemble the Casper light. But replacing the battery takes some skill. It also takes some skill and patience to put back together. The connections to the PCBs are very tiny and can easily break. Working with the Li-Ion battery can be dangerous as well.",
+        "tools_needed": [
+            {
+                "name": "Phillips #0 Screwdriver",
+                "image": "https://cart-products.cdn.ifixit.com/cart-products/iHsH13ZerBV42IXL.thumbnail",
+                "link": "https://www.ifixit.com/products/phillips-0-screwdriver",
+                "price": "$5.49 New / iFixit$8.99 New / Moody - Made in USA"
+            },
+            {
+                "name": "Suction Handle",
+                "image": "https://cart-products.cdn.ifixit.com/cart-products/5Sf2Uh4OSLtsGpXk.thumbnail",
+                "link": "https://www.ifixit.com/products/suction-handle",
+                "price": "$2.99"
+            }
+        ],
+        "categories": [
+            {
+                "name": "Casper Glow Light",
+                "link": "https://www.ifixit.com/Device/Casper_Glow_Light"
+            },
+            {
+                "name": "Lighting",
+                "link": "https://www.ifixit.com/Device/Lighting"
+            },
+            {
+                "name": "Household",
+                "link": "https://www.ifixit.com/Device/Household"
+            },
+            {
+                "name": "Home",
+                "link": "https://www.ifixit.com/Guide"
+            }
+        ],
+        "guide_links": {
+            "guides_link": "https://www.ifixit.com/Device/Casper_Glow_Light#Section_Guides",
+            "answers_link": "https://www.ifixit.com/Answers/Device/Casper_Glow_Light",
+            "edit_link": "https://www.ifixit.com/Guide/edit/147229"
+        }
+    },
+    "steps": [
+        {
+            "step_number": 1,
+            "title": "Step 1",
+            "step_link": "https://www.ifixit.com/Guide/Casper+Glow+Light+Battery+Replacement/<#s301687>",
+            "edit_link": "https://www.ifixit.com/Guide/edit/147229/301687",
+            "images": [
+                {
+                    "original": "https://guide-images.cdn.ifixit.com/igi/DxUaUKMRR4DpswP6.medium",
+                    "thumbnail": "https://guide-images.cdn.ifixit.com/igi/DxUaUKMRR4DpswP6.200x150"
+                },
+                {
+                    "original": "https://guide-images.cdn.ifixit.com/igi/DcLB3Uc1S4dCQnrT.medium",
+                    "thumbnail": "https://guide-images.cdn.ifixit.com/igi/DcLB3Uc1S4dCQnrT.200x150"
+                },
+                {
+                    "original": "https://guide-images.cdn.ifixit.com/igi/T13xTsDhABw53lFH.medium",
+                    "thumbnail": "https://guide-images.cdn.ifixit.com/igi/T13xTsDhABw53lFH.200x150"
+                }
+            ],
+            "text": "Use a suction cup to remove the caps on each end. Press in and pull out. They should pop right out.",
+            "comments_link": "https://www.ifixit.com/Guide/Casper+Glow+Light+Battery+Replacement/#comments"
+        },
+        {
+            "step_number": 2,
+            "title": "Step 2",
+            "step_link": "https://www.ifixit.com/Guide/Casper+Glow+Light+Battery+Replacement/<#s301688>",
+            "edit_link": "https://www.ifixit.com/Guide/edit/147229/301688",
+            "images": [
+                {
+                    "original": "https://guide-images.cdn.ifixit.com/igi/ek1C2eBVwoaEuSk1.medium",
+                    "thumbnail": "https://guide-images.cdn.ifixit.com/igi/ek1C2eBVwoaEuSk1.200x150"
+                },
+                {
+                    "original": "https://guide-images.cdn.ifixit.com/igi/ccoXGfevPhQkuvDO.medium",
+                    "thumbnail": "https://guide-images.cdn.ifixit.com/igi/ccoXGfevPhQkuvDO.200x150"
+                },
+                {
+                    "original": "https://guide-images.cdn.ifixit.com/igi/dbCpEWYPvvBGYynK.medium",
+                    "thumbnail": "https://guide-images.cdn.ifixit.com/igi/dbCpEWYPvvBGYynK.200x150"
+                }
+            ],
+            "text": "Each side is held in by three tiny screws. You'll need to take those out. Make a note of the numbers on each side. While it's mostly interchangeable, you'll need to keep track of which connection goes in which board.",
+            "comments_link": "https://www.ifixit.com/Guide/Casper+Glow+Light+Battery+Replacement/#comments"
+        },
+        {
+            "step_number": 3,
+            "title": "Step 3",
+            "step_link": "https://www.ifixit.com/Guide/Casper+Glow+Light+Battery+Replacement/<#s301689>",
+            "edit_link": "https://www.ifixit.com/Guide/edit/147229/301689",
+            "text": "Warning: once you remove the connections to the PCBs they will be quite difficult to reattach. Unfortunately, you'll need to at least remove one side to access the battery. I recommend starting with the side labeled 10 which does not have a power connection.",
+            "comments_link": "https://www.ifixit.com/Guide/Casper+Glow+Light+Battery+Replacement/#comments"
+        },
+        {
+            "step_number": 4,
+            "title": "Step 4",
+            "step_link": "https://www.ifixit.com/Guide/Casper+Glow+Light+Battery+Replacement/<#s301690>",
+            "edit_link": "https://www.ifixit.com/Guide/edit/147229/301690",
+            "text": "Remove the 3 screws on the side you want to remove. In the photo here I'm removing the side with the power connection, however, I recommend you start with the other side to see if you can open it up without removing the power connection.",
+            "comments_link": "https://www.ifixit.com/Guide/Casper+Glow+Light+Battery+Replacement/#comments"
+        },
+        {
+            "step_number": 5,
+            "title": "Step 5",
+            "step_link": "https://www.ifixit.com/Guide/Casper+Glow+Light+Battery+Replacement/<#s301691>",
+            "edit_link": "https://www.ifixit.com/Guide/edit/147229/301691",
+            "text": "Use a screw driver or something rigid to help you pry out the end cap(s). There is some light adhesive, but with a little force they pop out.",
+            "comments_link": "https://www.ifixit.com/Guide/Casper+Glow+Light+Battery+Replacement/#comments"
+        },
+        {
+            "step_number": 6,
+            "title": "Step 6",
+            "step_link": "https://www.ifixit.com/Guide/Casper+Glow+Light+Battery+Replacement/<#s301692>",
+            "edit_link": "https://www.ifixit.com/Guide/edit/147229/301692",
+            "text": "You should now see the LED array with the battery inside.\nIf you removed both caps you should be able to slide it out.\nIf you left the other cap attached, try popping that cap out and removing the attached battery with it (I didn't try this, but it should work).",
+            "comments_link": "https://www.ifixit.com/Guide/Casper+Glow+Light+Battery+Replacement/#comments"
+        },
+        {
+            "step_number": 7,
+            "title": "Step 7",
+            "step_link": "https://www.ifixit.com/Guide/Casper+Glow+Light+Battery+Replacement/<#s301693>",
+            "edit_link": "https://www.ifixit.com/Guide/edit/147229/301693",
+            "text": "The battery will just slide out.\nThis is as far as I've gotten right now. I'm a little unsure as to how to proceed at this point. But you'll need a new battery and to be able to solder the connection to it.\n3200mAh INR Lithium Ion cell in a 18650 form-factor pack, inside some foam",
+            "comments_link": "https://www.ifixit.com/Guide/Casper+Glow+Light+Battery+Replacement/#comments"
+        }
+    ],
+    "conclusion": "To reassemble your device, follow these instructions in reverse order. It’s fairly easy to disassemble, but very difficult to replace the battery, and very difficult to put the small connections back together because of the small size and the shape of the end caps.",
+    "embed_code": "<iframe id=\"dozuki-embed-147229\" src=\"https://www.ifixit.com/Guide/embed/147229/full\" width=\"800\" allowfullscreen frameborder=\"0\"></iframe> <script>window.addEventListener(\"message\",function(a){var b=document.getElementById(\"dozuki-embed-147229\"),c=a.data[0],d=a.data[1];switch(c){case\"setHeight\":b.style.height=d+\"px\"}},!1);</script> <iframe src=\"https://www.ifixit.com/Guide/embed/147229\" width=\"800\" height=\"584\" allowfullscreen frameborder=\"0\"></iframe>"
+}

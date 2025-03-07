@@ -1,0 +1,95 @@
+{
+    "title": "Akai MPK25 Volume Knob / Pitch Bender Replacement",
+    "last_updated": "January 28, 2014",
+    "time_estimate": "15 - 30 minutes",
+    "difficulty": "Moderate",
+    "featured_guide": true,
+    "introduction": "Use this guide to replace the volume knob and pitch bender if either of the knobs break, stop working, or get stuck and won't move.",
+    "tools": [
+        {
+            "name": "8\" Needle Nose Plier",
+            "url": "https://www.ifixit.com/products/large-needle-nose-pliers",
+            "image_url": "https://cart-products.cdn.ifixit.com/cart-products/xsuUhWaHMfDB6FnN.thumbnail",
+            "price": "$4.99",
+            "add_to_cart_url": "https://www.ifixit.com/products/large-needle-nose-pliers"
+        },
+        {
+            "name": "Phillips #2 Screwdriver",
+            "url": "https://www.ifixit.com/products/6-in-1-screwdriver",
+            "image_url": "https://cart-products.cdn.ifixit.com/cart-products/LYcK13TjejldWD5Y.thumbnail",
+            "price": "$6.99",
+            "add_to_cart_url": "https://www.ifixit.com/products/6-in-1-screwdriver"
+        }
+    ],
+    "steps": [
+        {
+            "step_number": 1,
+            "title": "Face Plate",
+            "image_url": "https://guide-images.cdn.ifixit.com/igi/aDinq1CRlSbmudCJ.medium",
+            "instructions": [
+                "Remove all the selector knob covers by pulling them off."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/12980/44419",
+            "comment_count": 1
+        },
+        {
+            "step_number": 2,
+            "image_url": "https://guide-images.cdn.ifixit.com/igi/B3pRLtGKy5BYEjpC.medium",
+            "instructions": [
+                "Using needle nose pliers, remove the washers from the four corner selector knobs."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/12980/44420",
+            "comment_count": 1
+        },
+        {
+            "step_number": 3,
+            "edit_url": "https://www.ifixit.com/Guide/edit/12980/44421",
+            "instructions": [
+                "Flip the device over. Using a Philips #2 screw driver, remove the fourteen 10.3 mm black screws holding the back panel in place."
+            ],
+            "comment_count": 0
+        },
+        {
+            "step_number": 4,
+            "edit_url": "https://www.ifixit.com/Guide/edit/12980/44422",
+            "instructions": [
+                "Carefully flip the device to the front making sure you secure the face plate and the chassis together.",
+                "Please use care in following the step above to avoid ripping the ribbon cables connecting the two sides."
+            ],
+            "comment_count": 0
+        },
+        {
+            "step_number": 5,
+            "edit_url": "https://www.ifixit.com/Guide/edit/12980/44423",
+            "instructions": [
+                "Rotate the device 180 degrees and carefully remove the face plate by slightly lifting the screen side towards you and then sliding the bottom out from under the keys.",
+                "Use care when doing the step above so that the ribbon connectors which connect the top of the chassis to the top of the face plate are not damaged."
+            ],
+            "comment_count": 0
+        },
+        {
+            "step_number": 6,
+            "title": "Volume Knob / Pitch Bender",
+            "edit_url": "https://www.ifixit.com/Guide/edit/12980/44444",
+            "instructions": [
+                "Rotate the device 180 degrees, so that the motherboard is closest to you.",
+                "Take caution to not damage the ribbon cable connecting the face plate to the chassis.",
+                "Remove the ribbon cable connecting the knobs to the mother board by gently wiggling and pulling it away from the motherboard."
+            ],
+            "comment_count": 0
+        },
+        {
+            "step_number": 7,
+            "edit_url": "https://www.ifixit.com/Guide/edit/12980/44445",
+            "instructions": [
+                "Using a Phillips #2 screwdriver, remove the four 9.5 mm silver screws holding the knobs to the face plate."
+            ],
+            "comment_count": 0
+        }
+    ],
+    "conclusion": "To reassemble your device, follow these instructions in reverse order.",
+    "completed_message": "5 other people completed this guide.",
+    "embed_code": "<iframe id=\"dozuki-embed-12980\" src=\"https://www.ifixit.com/Guide/embed/12980/full\" width=\"800\" allowfullscreen frameborder=\"0\"></iframe> <script>window.addEventListener(\"message\",function(a){var b=document.getElementById(\"dozuki-embed-12980\"),c=a.data[0],d=a.data[1];switch(c){case\"setHeight\":b.style.height=d+\"px\"}},!1);</script> <iframe src=\"https://www.ifixit.com/Guide/embed/12980\" width=\"800\" height=\"584\" allowfullscreen frameborder=\"0\"></iframe>",
+    "repair_is_noble_url": "https://www.ifixit.com/Manifesto",
+    "license_url": "https://www.ifixit.com/Info/Licensing"
+}

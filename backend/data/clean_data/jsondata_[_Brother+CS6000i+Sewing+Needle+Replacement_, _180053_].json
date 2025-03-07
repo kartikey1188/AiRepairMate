@@ -1,0 +1,66 @@
+{
+    "metadata": {
+        "title": "Brother CS6000i Sewing Needle Replacement",
+        "last_updated": "December 31, 2024",
+        "guide_image": "https://guide-images.cdn.ifixit.com/igi/PiOEfk4tk3alrOUZ.140x105",
+        "estimated_time": "2 minutes",
+        "difficulty": "Easy",
+        "device_links": [
+            {
+                "text": "Brother CS6000i",
+                "url": "https://www.ifixit.com/Device/Brother_CS6000i"
+            },
+            {
+                "text": "Sewing Machine",
+                "url": "https://www.ifixit.com/Device/Sewing_Machine"
+            },
+            {
+                "text": "Arts, Crafts & Sewing",
+                "url": "https://www.ifixit.com/Device/Arts_Crafts_and_Sewing"
+            },
+            {
+                "text": "Household",
+                "url": "https://www.ifixit.com/Device/Household"
+            },
+            {
+                "text": "Home",
+                "url": "https://www.ifixit.com/Guide"
+            }
+        ],
+        "parts_links": [
+            {
+                "text": "Guides",
+                "url": "https://www.ifixit.com/Device/Brother_CS6000i#Section_Guides"
+            },
+            {
+                "text": "Troubleshooting",
+                "url": "https://www.ifixit.com/Troubleshooting/Brother_CS6000i"
+            }
+        ],
+        "edit_link": "https://www.ifixit.com/Guide/edit/180053"
+    },
+    "introduction": "This guide teaches the user how to remove and replace the sewing needle for the Brother CS6000i. The needle is responsible for stitching threads into whatever material the user works on.\nA replacement for the sewing needle is needed in the case where it is either stuck, dulled, or bent. Be careful not to bend it during the replacement process. To ensure the needle doesn't fall during screwing and unscrewing, hold it with one hand until it is finally released.",
+    "steps": [
+        {
+            "step_number": 1,
+            "title": "Sewing Needle",
+            "text": "Unscrew the needle clamp located above and to the right of the sewing needle.\nRemove the needle by pulling down at the base.",
+            "image": "https://guide-images.cdn.ifixit.com/igi/RI4PW2GTGQSWhDXq.medium",
+            "image_links": [
+                "https://guide-images.cdn.ifixit.com/igi/RI4PW2GTGQSWhDXq.200x150",
+                "https://guide-images.cdn.ifixit.com/igi/gPXtBACM4CQdi4I1.200x150"
+            ],
+            "edit_link": "https://www.ifixit.com/Guide/edit/180053/384554",
+            "comment_links": [],
+            "additional_images": [
+                "https://guide-images.cdn.ifixit.com/igi/gPXtBACM4CQdi4I1.medium"
+            ]
+        }
+    ],
+    "conclusion": {
+        "text": "To input a new sewing needle, follow these instructions in reverse order.",
+        "author_points": 30,
+        "cancel_link": "https://www.ifixit.com/Guide/Brother+CS6000i+Sewing+Needle+Replacement/<#>"
+    },
+    "embed_code": "<iframe id=\"dozuki-embed-180053\" src=\"https://www.ifixit.com/Guide/embed/180053/full\" width=\"800\" allowfullscreen frameborder=\"0\"></iframe> <script>window.addEventListener(\"message\",function(a){var b=document.getElementById(\"dozuki-embed-180053\"),c=a.data[0],d=a.data[1];switch(c){case\"setHeight\":b.style.height=d+\"px\"}},!1);</script> <iframe src=\"https://www.ifixit.com/Guide/embed/180053\" width=\"800\" height=\"584\" allowfullscreen frameborder=\"0\"></iframe>"
+}

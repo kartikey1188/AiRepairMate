@@ -1,0 +1,87 @@
+{
+    "metadata": {
+        "title": "Brother XR-40 Presserfoot Replacement",
+        "last_updated": "October 23, 2022",
+        "guide_image": "https://guide-images.cdn.ifixit.com/igi/WgB1VcCrIEtJfHUY.140x105",
+        "estimated_time": "2 minutes",
+        "difficulty": "Very easy",
+        "featured_guide": true,
+        "featured_student_guide": true,
+        "device_links": [
+            {
+                "text": "Brother XR-40",
+                "url": "https://www.ifixit.com/Device/Brother_XR-40"
+            },
+            {
+                "text": "Sewing Machine",
+                "url": "https://www.ifixit.com/Device/Sewing_Machine"
+            },
+            {
+                "text": "Arts, Crafts & Sewing",
+                "url": "https://www.ifixit.com/Device/Arts_Crafts_and_Sewing"
+            },
+            {
+                "text": "Household",
+                "url": "https://www.ifixit.com/Device/Household"
+            },
+            {
+                "text": "Home",
+                "url": "https://www.ifixit.com/Guide"
+            }
+        ],
+        "parts_links": [
+            {
+                "text": "Guides",
+                "url": "https://www.ifixit.com/Device/Brother_XR-40#Section_Guides"
+            },
+            {
+                "text": "Answers",
+                "url": "https://www.ifixit.com/Answers/Device/Brother_XR-40"
+            }
+        ],
+        "edit_link": "https://www.ifixit.com/Guide/edit/22764"
+    },
+    "introduction": "Damaged presserfoot? It is easy to replace and this guide will take you through the necessary steps.",
+    "steps": [
+        {
+            "step_number": 1,
+            "title": "Presserfoot",
+            "text": "Make sure the presser foot is in the up position.\nThe switch should be up, not in the vertical position.",
+            "image": "https://guide-images.cdn.ifixit.com/igi/WgB1VcCrIEtJfHUY.medium",
+            "image_links": [],
+            "edit_link": "https://www.ifixit.com/Guide/edit/22764/59614",
+            "comment_links": []
+        },
+        {
+            "step_number": 2,
+            "title": "",
+            "text": "Adjust the needle to the top of its stroke using the hand wheel.",
+            "image": "https://guide-images.cdn.ifixit.com/igi/LMPecIj3xOUsePT4.medium",
+            "image_links": [],
+            "edit_link": "https://www.ifixit.com/Guide/edit/22764/59618",
+            "comment_links": []
+        },
+        {
+            "step_number": 3,
+            "title": "",
+            "text": "Lift the arm on the back of the presser foot assembly to release the foot.",
+            "image_links": [],
+            "edit_link": "https://www.ifixit.com/Guide/edit/22764/59615",
+            "comment_links": []
+        },
+        {
+            "step_number": 4,
+            "title": "",
+            "text": "Remove the presser foot.",
+            "image_links": [],
+            "edit_link": "https://www.ifixit.com/Guide/edit/22764/59617",
+            "comment_links": []
+        }
+    ],
+    "conclusion": {
+        "text": "To reassemble your device, follow these instructions in reverse order.",
+        "author_points": 30,
+        "cancel_link": "https://www.ifixit.com/Guide/Brother+XR-40+Presserfoot+Replacement/<#>"
+    },
+    "embed_code": "<iframe id=\"dozuki-embed-22764\" src=\"https://www.ifixit.com/Guide/embed/22764/full\" width=\"800\" allowfullscreen frameborder=\"0\"></iframe> <script>window.addEventListener(\"message\",function(a){var b=document.getElementById(\"dozuki-embed-22764\"),c=a.data[0],d=a.data[1];switch(c){case\"setHeight\":b.style.height=d+\"px\"}},!1);</script> <iframe src=\"https://www.ifixit.com/Guide/embed/22764\" width=\"800\" height=\"584\" allowfullscreen frameborder=\"0\"></iframe>"
+}

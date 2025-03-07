@@ -1,0 +1,72 @@
+{
+    "metadata": {
+        "title": "Como instalar um chuveiro elétrico",
+        "last_updated": "July 26, 2024",
+        "comments": 0,
+        "completed": 1,
+        "favorites": 0,
+        "estimated_time": "No estimate",
+        "difficulty": "Moderate",
+        "community_contributed_guide": true
+    },
+    "parts": [],
+    "tools": [],
+    "steps": [
+        {
+            "step_number": 1,
+            "title": "Como instalar um chuveiro elétrico",
+            "image": "https://guide-images.cdn.ifixit.com/igi/IA6sjBGJKLOKKyaD.medium",
+            "instructions": [
+                "Insert wisdom here."
+            ],
+            "links": [
+                {
+                    "text": "Edit",
+                    "url": "/Guide/edit/50119/108518"
+                }
+            ]
+        },
+        {
+            "step_number": 2,
+            "title": "Prepare o chuveiro",
+            "image": "https://guide-images.cdn.ifixit.com/igi/GgPRIuI2Ir1cWHIO.medium",
+            "instructions": [
+                "Passe fita veda rosca na rosca de entrada de água do chuveiro."
+            ],
+            "links": [
+                {
+                    "text": "Edit",
+                    "url": "/Guide/edit/50119/108424"
+                }
+            ]
+        },
+        {
+            "step_number": 3,
+            "title": "Instale o redutor de pressão",
+            "instructions": [
+                "Em condições de alta pressão, o redutor garante a pressão adequada ao funcionamento do chuveiro. Se for necessário, instale-o. Ele vem com o produto."
+            ],
+            "links": [
+                {
+                    "text": "Edit",
+                    "url": "/Guide/edit/50119/108435"
+                }
+            ]
+        },
+        {
+            "step_number": 4,
+            "title": "Encaixe o chuveiro",
+            "instructions": [
+                "Posicione a rosca de entrada de água da ducha no ponto de saída de água da parede. Rosque-a no sentido horário deixando a saída de água da ducha voltada para baixo."
+            ],
+            "links": [
+                {
+                    "text": "Edit",
+                    "url": "/Guide/edit/50119/108436"
+                }
+            ]
+        }
+    ],
+    "conclusion": "To reassemble your device, follow these instructions in reverse order.",
+    "embed_code": "<iframe id=\"dozuki-embed-50119\" src=\"https://www.ifixit.com/Guide/embed/50119/full\" width=\"800\" allowfullscreen frameborder=\"0\"></iframe> <script>window.addEventListener(\"message\",function(a){var b=document.getElementById(\"dozuki-embed-50119\"),c=a.data[0],d=a.data[1];switch(c){case\"setHeight\":b.style.height=d+\"px\"}},!1);</script> <iframe src=\"https://www.ifixit.com/Guide/embed/50119\" width=\"800\" height=\"584\" allowfullscreen frameborder=\"0\"></iframe>"
+}

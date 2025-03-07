@@ -1,0 +1,120 @@
+{
+    "metadata": {
+        "title": "Andis 1875-Watt Fold-N-Go Ionic Hair Dryer Outer Casing Replacement",
+        "last_updated": "September 14, 2024",
+        "estimated_time": "No estimate",
+        "difficulty": "Moderate",
+        "introduction": "No-one likes hot air coming from broken plastic. Use this guide to replace the outer casing of your Andis Fold-N-Go Hair Dryer to keep hot air in a happy home.",
+        "better_introduction": true,
+        "missing_details": true
+    },
+    "tools": [
+        {
+            "name": "Phillips #00 Screwdriver",
+            "url": "https://www.ifixit.com/products/phillips-00-screwdriver",
+            "image_url": "https://cart-products.cdn.ifixit.com/cart-products/upNtpW5ghNgA3abG.thumbnail",
+            "price": "$5.49 New / iFixit$8.99 New / Moody - Made in USA",
+            "add_to_cart": true
+        },
+        {
+            "name": "Tweezers",
+            "url": "https://www.ifixit.com/products/tweezers",
+            "image_url": "https://cart-products.cdn.ifixit.com/cart-products/eQGTt3iN1MmOAQDy.thumbnail",
+            "price": "$4.99",
+            "add_to_cart": true
+        }
+    ],
+    "steps": [
+        {
+            "step_number": 1,
+            "title": "Outer Casing",
+            "instructions": [
+                "Remove the two Phillips #00 screws:",
+                "One Phillips 16mm screw",
+                "One Phillips 14 mm screw",
+                "All of the hair dryer's components are held together by these two screws. Parts may quickly separate after screw removal. Tape can be used to hold everything in place."
+            ],
+            "image_url": "https://guide-images.cdn.ifixit.com/igi/KNFBQTyVVTUKsDlF.medium",
+            "edit_url": "https://www.ifixit.com/Guide/edit/65189/135062",
+            "add_comment_url": "https://www.ifixit.com/Guide/Andis+1875-Watt+Fold-N-Go+Ionic+Hair+Dryer+Outer+Casing+Replacement/#",
+            "links": []
+        },
+        {
+            "step_number": 2,
+            "instructions": [
+                "Remove the top portion of the handle.",
+                "The model information and warnings are engraved on the top portion."
+            ],
+            "image_url": "https://guide-images.cdn.ifixit.com/igi/vHEY6FyMH12QovYZ.medium",
+            "additional_images": [
+                "https://guide-images.cdn.ifixit.com/igi/vHEY6FyMH12QovYZ.200x150",
+                "https://guide-images.cdn.ifixit.com/igi/vZxa1CfBXEO3AZtn.200x150",
+                "https://guide-images.cdn.ifixit.com/igi/qVdSTMRZn46Z1uOA.200x150"
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/65189/135063",
+            "add_comment_url": "https://www.ifixit.com/Guide/Andis+1875-Watt+Fold-N-Go+Ionic+Hair+Dryer+Outer+Casing+Replacement/#",
+            "links": []
+        },
+        {
+            "step_number": 3,
+            "instructions": [
+                "Remove the settings switch by lifting straight up."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/65189/135064",
+            "add_comment_url": "https://www.ifixit.com/Guide/Andis+1875-Watt+Fold-N-Go+Ionic+Hair+Dryer+Outer+Casing+Replacement/#",
+            "links": []
+        },
+        {
+            "step_number": 4,
+            "instructions": [
+                "Remove the internal components from the rear portion of the handle.",
+                "Remove the switch",
+                "Remove the circuitboard",
+                "Remove the capacitor in black plastic",
+                "These parts are not secured to the handle by anything, but are all connected to each other by wires. They shouldn't be difficult to remove, but remember that they will come out together."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/65189/135065",
+            "add_comment_url": "https://www.ifixit.com/Guide/Andis+1875-Watt+Fold-N-Go+Ionic+Hair+Dryer+Outer+Casing+Replacement/#",
+            "links": []
+        },
+        {
+            "step_number": 5,
+            "instructions": [
+                "Remove the sliding black cover at the top of the handle."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/65189/135066",
+            "add_comment_url": "https://www.ifixit.com/Guide/Andis+1875-Watt+Fold-N-Go+Ionic+Hair+Dryer+Outer+Casing+Replacement/#",
+            "links": []
+        },
+        {
+            "step_number": 6,
+            "instructions": [
+                "Remove the lower portion of the handle by sliding the peg out of the slot at the top of the handle."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/65189/135067",
+            "add_comment_url": "https://www.ifixit.com/Guide/Andis+1875-Watt+Fold-N-Go+Ionic+Hair+Dryer+Outer+Casing+Replacement/#",
+            "links": []
+        },
+        {
+            "step_number": 7,
+            "instructions": [
+                "Separate the silver front casing from the black rear vent."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/65189/135068",
+            "add_comment_url": "https://www.ifixit.com/Guide/Andis+1875-Watt+Fold-N-Go+Ionic+Hair+Dryer+Outer+Casing+Replacement/#",
+            "links": []
+        }
+    ],
+    "embed_guide": {
+        "single_step_url": "https://www.ifixit.com/Guide/embed/65189",
+        "full_guide_url": "https://www.ifixit.com/Guide/embed/65189/full",
+        "sizes": {
+            "small": 600,
+            "medium": 800,
+            "large": 1200
+        }
+    },
+    "repair_is_noble_url": "https://www.ifixit.com/Manifesto",
+    "license_url": "https://www.ifixit.com/Info/Licensing",
+    "guide_url": "https://www.ifixit.com/Guide/Andis+1875-Watt+Fold-N-Go+Ionic+Hair+Dryer+Outer+Casing+Replacement/65189"
+}

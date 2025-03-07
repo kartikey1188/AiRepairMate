@@ -1,0 +1,147 @@
+{
+    "title": "Blackstone Cascade Pro Fan Replacement",
+    "last_updated": "January 10, 2025",
+    "estimated_time": "15 - 20 minutes",
+    "difficulty": "Moderate",
+    "introduction": "I will demonstrate the process of replacing the fan of a Blackstone Cascade Pro Personal Fan. Over time when a fan is exposed to excessive use the fan can be damaged. I will show people how to restore their fans to working order.\nI believe this guide is needed because a damaged fan can be a major problem. If it is damaged it can potentially cause the entire fan to break and replacing it can often be very expensive. Replacing the main fan can help environmental waste and save you money.",
+    "tools": [
+        {
+            "name": "Phillips #00 Screwdriver",
+            "url": "https://www.ifixit.com/products/phillips-00-screwdriver",
+            "image": "https://cart-products.cdn.ifixit.com/cart-products/upNtpW5ghNgA3abG.thumbnail",
+            "price": "$5.49 New / iFixit$8.99 New / Moody - Made in USA",
+            "add_to_cart_url": "https://www.ifixit.com/products/phillips-00-screwdriver"
+        },
+        {
+            "name": "Ratcheting Socket Wrench",
+            "url": "https://www.amazon.com/TEKTON-8-Inch-Drive-Ratchet-SRH01108/dp/B07GHX35X8/?tag=ifixitam-20",
+            "image": "https://guide-images.cdn.ifixit.com/igi/UfbBoawlVc3LwH1P.thumbnail",
+            "affiliate_link": "https://www.amazon.com/TEKTON-8-Inch-Drive-Ratchet-SRH01108/dp/B07GHX35X8/?tag=ifixitam-20",
+            "available_on_amazon": true,
+            "view_link": "https://www.amazon.com/TEKTON-8-Inch-Drive-Ratchet-SRH01108/dp/B07GHX35X8/?tag=ifixitam-20"
+        },
+        {
+            "name": "Shallow Socket Size 10",
+            "url": "https://www.amazon.com/CRAFTSMAN-Shallow-Socket-6-Point-CMMT43508/dp/B07QH891K6/ref=sr_1_4?crid=3284WNPUOVON1&keywords=size%2B10%2Bshallow%2Bsocket&qid=1715694859&sprefix=size%2B10%2Bshallow%2Bsocket%2Caps%2C122&sr=8-4&tag=ifixitam-20",
+            "affiliate_link": "https://www.amazon.com/CRAFTSMAN-Shallow-Socket-6-Point-CMMT43508/dp/B07QH891K6/ref=sr_1_4?crid=3284WNPUOVON1&keywords=size%2B10%2Bshallow%2Bsocket&qid=1715694859&sprefix=size%2B10%2Bshallow%2Bsocket%2Caps%2C122&sr=8-4&tag=ifixitam-20",
+            "available_on_amazon": true,
+            "view_link": "https://www.amazon.com/CRAFTSMAN-Shallow-Socket-6-Point-CMMT43508/dp/B07QH891K6/ref=sr_1_4?crid=3284WNPUOVON1&keywords=size%2B10%2Bshallow%2Bsocket&qid=1715694859&sprefix=size%2B10%2Bshallow%2Bsocket%2Caps%2C122&sr=8-4&tag=ifixitam-20"
+        }
+    ],
+    "steps": [
+        {
+            "step_number": 1,
+            "title": "Blade",
+            "content": [
+                "Unplug the power cord."
+            ],
+            "image": "https://guide-images.cdn.ifixit.com/igi/QpCxwANv4wpHQRyR.medium",
+            "images": [
+                "https://guide-images.cdn.ifixit.com/igi/QpCxwANv4wpHQRyR.medium",
+                "https://guide-images.cdn.ifixit.com/igi/v6JXuPtBrPtgHbDT.medium",
+                "https://guide-images.cdn.ifixit.com/igi/BPQPTekcUBKBjBhw.medium"
+            ],
+            "images_200x150": [
+                "https://guide-images.cdn.ifixit.com/igi/QpCxwANv4wpHQRyR.200x150",
+                "https://guide-images.cdn.ifixit.com/igi/v6JXuPtBrPtgHbDT.200x150",
+                "https://guide-images.cdn.ifixit.com/igi/BPQPTekcUBKBjBhw.200x150"
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/169610/359440",
+            "comments_count": 0,
+            "add_comment_url": null
+        },
+        {
+            "step_number": 2,
+            "content": [
+                "Wipe off and dust the front and back grill of the fan."
+            ],
+            "images": [
+                "https://guide-images.cdn.ifixit.com/igi/MrbsQ3FluQufOnB5.medium",
+                "https://guide-images.cdn.ifixit.com/igi/UJNfRsuPEaODYMbQ.medium",
+                "https://guide-images.cdn.ifixit.com/igi/xgxBeUnMGQROhWuE.medium"
+            ],
+            "images_200x150": [
+                "https://guide-images.cdn.ifixit.com/igi/MrbsQ3FluQufOnB5.200x150",
+                "https://guide-images.cdn.ifixit.com/igi/UJNfRsuPEaODYMbQ.200x150",
+                "https://guide-images.cdn.ifixit.com/igi/xgxBeUnMGQROhWuE.200x150"
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/169610/359444",
+            "comments_count": 0,
+            "add_comment_url": null
+        },
+        {
+            "step_number": 3,
+            "content": [
+                "Use the Phillips #0 screwdriver to remove four 8.8 mm screws that are marked on the back of the grill."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/169610/359443",
+            "comments_count": 0,
+            "add_comment_url": null
+        },
+        {
+            "step_number": 4,
+            "content": [
+                "Unlatch the top of the fan to separate the grill and reveal the blade."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/169610/359446",
+            "comments_count": 0,
+            "add_comment_url": null
+        },
+        {
+            "step_number": 5,
+            "content": [
+                "Grab both sides of the blade and twist counter clockwise to remove it from the base axel attached to the back grill.",
+                "Depending on the age of your fan, it may require more strength to pull it out. Be careful to not use too much force."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/169610/359447",
+            "comments_count": 0,
+            "add_comment_url": null
+        },
+        {
+            "step_number": 6,
+            "content": [
+                "Take the motor out."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/140770/282314",
+            "comments_count": 0,
+            "add_comment_url": null
+        },
+        {
+            "step_number": 7,
+            "content": [
+                "Clean all parts of the fan."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/140770/281201",
+            "comments_count": 0,
+            "add_comment_url": null
+        },
+        {
+            "step_number": 8,
+            "content": [
+                "Put the motor and back cover back on.",
+                "This can be done by following steps 2, 3, and 5 in reverse."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/140770/281202",
+            "comments_count": 0,
+            "add_comment_url": null
+        },
+        {
+            "step_number": 9,
+            "content": [
+                "Place the new blade onto the metal rod on the front of the fan.",
+                "Push the blades onto the rod so that it is sturdy.",
+                "Replace the front cover."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/140770/281204",
+            "comments_count": 0,
+            "add_comment_url": null
+        }
+    ],
+    "conclusion": "To reassemble your device, follow these instructions in reverse order.",
+    "embed_code": {
+        "small": "<iframe id=\"dozuki-embed-169610\" src=\"https://www.ifixit.com/Guide/embed/169610/full\" width=\"600\" allowfullscreen frameborder=\"0\"></iframe> <script>window.addEventListener(\"message\",function(a){var b=document.getElementById(\"dozuki-embed-169610\"),c=a.data[0],d=a.data[1];switch(c){case\"setHeight\":b.style.height=d+\"px\"}},!1);</script>",
+        "medium": "<iframe id=\"dozuki-embed-169610\" src=\"https://www.ifixit.com/Guide/embed/169610/full\" width=\"800\" allowfullscreen frameborder=\"0\"></iframe> <script>window.addEventListener(\"message\",function(a){var b=document.getElementById(\"dozuki-embed-169610\"),c=a.data[0],d=a.data[1];switch(c){case\"setHeight\":b.style.height=d+\"px\"}},!1);</script>",
+        "large": "<iframe id=\"dozuki-embed-169610\" src=\"https://www.ifixit.com/Guide/embed/169610/full\" width=\"1200\" allowfullscreen frameborder=\"0\"></iframe> <script>window.addEventListener(\"message\",function(a){var b=document.getElementById(\"dozuki-embed-169610\"),c=a.data[0],d=a.data[1];switch(c){case\"setHeight\":b.style.height=d+\"px\"}},!1);</script>",
+        "full_guide": "<iframe src=\"https://www.ifixit.com/Guide/embed/169610\" width=\"800\" height=\"584\" allowfullscreen frameborder=\"0\"></iframe>"
+    }
+}

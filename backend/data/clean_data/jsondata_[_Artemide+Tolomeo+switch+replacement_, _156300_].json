@@ -1,0 +1,136 @@
+{
+    "metadata": {
+        "title": "Artemide Tolomeo switch replacement",
+        "last_updated": "January 12, 2025",
+        "team": {
+            "name": "Repair is War on Entropy",
+            "link": "https://www.ifixit.com/Team/46361/Repair+is+War+on+Entropy",
+            "member_of": "Repair is War on Entropy",
+            "team_id": "Community",
+            "members": 28,
+            "guides_authored": 1735
+        },
+        "time_estimate": "No estimate",
+        "difficulty": "Moderate",
+        "introduction": "After a few thousand switching operations, the switch of a Tolomeo may no longer function properly. The unit of switch and lamp holder is available from Artemide as a spare part. These instructions show you how to replace it.",
+        "tools_needed": [
+            {
+                "name": "4mm Allen Key",
+                "link": "https://www.ifixit.com/Item/4mm_Allen_Key"
+            },
+            {
+                "name": "Flathead 3/32\" or 2.5 mm Screwdriver",
+                "image": "https://cart-products.cdn.ifixit.com/cart-products/JsCoFJUVWU2hrkes.thumbnail",
+                "link": "https://www.ifixit.com/products/flathead-3-32-or-2-5-mm-screwdriver",
+                "price": "$5.49 New / iFixit$7.99 New / Moody - Made in USA"
+            },
+            {
+                "name": "Phillips #1 Screwdriver",
+                "image": "https://cart-products.cdn.ifixit.com/cart-products/dFxEXEXNVRdNBvCX.thumbnail",
+                "link": "https://www.ifixit.com/products/phillips-1-screwdriver",
+                "price": "$5.49 New / iFixit$8.99 New / Moody - Made in USA"
+            }
+        ],
+        "categories": [
+            {
+                "name": "Artemide Tolomeo",
+                "link": "https://www.ifixit.com/Device/Artemide_Tolomeo"
+            },
+            {
+                "name": "Lighting",
+                "link": "https://www.ifixit.com/Device/Lighting"
+            },
+            {
+                "name": "Household",
+                "link": "https://www.ifixit.com/Device/Household"
+            },
+            {
+                "name": "Home",
+                "link": "https://www.ifixit.com/Guide"
+            }
+        ],
+        "guide_links": {
+            "guides_link": "https://www.ifixit.com/Device/Artemide_Tolomeo#Section_Guides",
+            "answers_link": "https://www.ifixit.com/Answers/Device/Artemide_Tolomeo",
+            "translate_link": "https://www.ifixit.com/Guide/translate/156300/en"
+        }
+    },
+    "steps": [
+        {
+            "step_number": 1,
+            "title": "Step 1",
+            "step_link": "https://www.ifixit.com/Guide/Artemide+Tolomeo+switch+replacement/<#s327032>",
+            "translate_link": "https://www.ifixit.com/Guide/translate/156300/327032/en",
+            "images": [
+                {
+                    "original": "https://guide-images.cdn.ifixit.com/igi/HHNGZ4EHJw3RDUbO.medium"
+                }
+            ],
+            "text": "Never forget to disconnect the power plug before starting repairs.\nUnscrew the Phillips screw on the clamp. You may have to hold the nut on the opposite side.",
+            "comments_link": "https://www.ifixit.com/Guide/Artemide+Tolomeo+switch+replacement/#comments"
+        },
+        {
+            "step_number": 2,
+            "title": "Step 2",
+            "step_link": "https://www.ifixit.com/Guide/Artemide+Tolomeo+switch+replacement/<#s327036>",
+            "translate_link": "https://www.ifixit.com/Guide/translate/156300/327036/en",
+            "images": [
+                {
+                    "original": "https://guide-images.cdn.ifixit.com/igi/hyVdGwjl6Fpvq2e6.medium"
+                }
+            ],
+            "text": "Carefully press the clamp apart, using a suitable tool if necessary.\nLift the flanged edge of the lampshade out of the clamp.\nRemove the lampshade.",
+            "comments_link": "https://www.ifixit.com/Guide/Artemide+Tolomeo+switch+replacement/#comments"
+        },
+        {
+            "step_number": 3,
+            "title": "Step 3",
+            "step_link": "https://www.ifixit.com/Guide/Artemide+Tolomeo+switch+replacement/<#s327037>",
+            "translate_link": "https://www.ifixit.com/Guide/translate/156300/327037/en",
+            "text": "The cover of the socket also has a flanged edge. Lift the cover together with the socket out of the clamp.",
+            "comments_link": "https://www.ifixit.com/Guide/Artemide+Tolomeo+switch+replacement/#comments"
+        },
+        {
+            "step_number": 4,
+            "title": "Step 4",
+            "step_link": "https://www.ifixit.com/Guide/Artemide+Tolomeo+switch+replacement/<#s327040>",
+            "translate_link": "https://www.ifixit.com/Guide/translate/156300/327040/en",
+            "text": "The socket is fixed at the top with a wide ring. This ring is secured against unscrewing by a small brass catch.\nPress the brass catch with a small flat-blade screwdriver about 1 mm toward the center of the socket. Do not bend the brass catch too much.\nDepending on the socket, the notch may look different. You may have to push it down.\nThen unscrew the wide ring on the lamp socket.",
+            "comments_link": "https://www.ifixit.com/Guide/Artemide+Tolomeo+switch+replacement/#comments"
+        },
+        {
+            "step_number": 5,
+            "title": "Step 5",
+            "step_link": "https://www.ifixit.com/Guide/Artemide+Tolomeo+switch+replacement/<#s327044>",
+            "translate_link": "https://www.ifixit.com/Guide/translate/156300/327044/en",
+            "text": "The cable is secured by a strain relief on the outside. Unscrew the plastic Allen screw until the cable is loose.",
+            "comments_link": "https://www.ifixit.com/Guide/Artemide+Tolomeo+switch+replacement/#comments"
+        },
+        {
+            "step_number": 6,
+            "title": "Step 6",
+            "step_link": "https://www.ifixit.com/Guide/Artemide+Tolomeo+switch+replacement/<#s327045>",
+            "translate_link": "https://www.ifixit.com/Guide/translate/156300/327045/en",
+            "text": "Slide the unit out of the switch and lamp socket.",
+            "comments_link": "https://www.ifixit.com/Guide/Artemide+Tolomeo+switch+replacement/#comments"
+        },
+        {
+            "step_number": 7,
+            "title": "Step 7",
+            "step_link": "https://www.ifixit.com/Guide/Artemide+Tolomeo+switch+replacement/<#s327047>",
+            "translate_link": "https://www.ifixit.com/Guide/translate/156300/327047/en",
+            "text": "Loosen the two small screws that connect the inner part of the socket and the switch to the two power supply lines.\nReplace the unit.",
+            "comments_link": "https://www.ifixit.com/Guide/Artemide+Tolomeo+switch+replacement/#comments"
+        },
+        {
+            "step_number": 8,
+            "title": "Step 8",
+            "step_link": "https://www.ifixit.com/Guide/Artemide+Tolomeo+switch+replacement/<#s327402>",
+            "translate_link": "https://www.ifixit.com/Guide/translate/156300/327402/en",
+            "text": "Here is a picture of the switch. You can buy the complete set quite expensive from Artemide, because the socket has been machined by hand. This has the advantage that you can also renew the socket.\nYou may also find the switch on its own, which is cheaper. It is a snap-in rocker switch with screw connection. The cutout size is 20 x 14 mm, 15 mm installation depth from the frame. The frame is 3 mm high with the dimensions 26x16 mm. This one could fit.",
+            "comments_link": "https://www.ifixit.com/Guide/Artemide+Tolomeo+switch+replacement/#comments"
+        }
+    ],
+    "conclusion": "Work through the steps in reverse order to reassemble your device.",
+    "embed_code": "<iframe id=\"dozuki-embed-156300\" src=\"https://www.ifixit.com/Guide/embed/156300/full\" width=\"800\" allowfullscreen frameborder=\"0\"></iframe> <script>window.addEventListener(\"message\",function(a){var b=document.getElementById(\"dozuki-embed-156300\"),c=a.data[0],d=a.data[1];switch(c){case\"setHeight\":b.style.height=d+\"px\"}},!1);</script> <iframe src=\"https://www.ifixit.com/Guide/embed/156300\" width=\"800\" height=\"584\" allowfullscreen frameborder=\"0\"></iframe>"
+}

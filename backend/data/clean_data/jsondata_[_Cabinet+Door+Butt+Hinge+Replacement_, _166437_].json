@@ -1,0 +1,113 @@
+{
+    "guide_title": "Cabinet Door Butt Hinge Replacement",
+    "last_updated": "December 22, 2023",
+    "time_estimate": "10 minutes",
+    "difficulty": "Easy",
+    "introduction": "When your cabinet is hanging on just one hinge, the door is unable to close all the way. This can damage the wood on the cabinet and the hinge itself. With this quick and easy guide to replace a broken hinge, you can save your cabinet door.\nUnlike other hinge replacement guides on iFixit, we're focusing on replacing a butt hinge, which is better for holding heavier items than others. It is for this reason that it's so important to replace any broken butt hinge—the possibility of damaging your heavy cabinet door is more likely.",
+    "tools_and_materials": {
+        "parts": [
+            {
+                "name": "Butt Hinge",
+                "url": "https://www.homedepot.com/b/Hardware-Door-Hardware-Door-Hinges/Butt/N-5yc1vZc2apZ1z17ukd",
+                "for_sale_from_another_site": true
+            }
+        ],
+        "tools": [
+            {
+                "name": "Phillips #00 Screwdriver",
+                "url": "https://www.ifixit.com/products/phillips-00-screwdriver",
+                "price": "$5.49 New / iFixit $8.99 New / Moody - Made in USA",
+                "add_to_cart": true
+            }
+        ]
+    },
+    "steps": [
+        {
+            "step_number": 1,
+            "step_title": "Cabinet Door Butt Hinge",
+            "images": [
+                {
+                    "url": "https://guide-images.cdn.ifixit.com/igi/mFsSZZbwqRjdctYC.medium",
+                    "alt_text": "Cabinet Door Butt Hinge Replacement, Cabinet Door Butt Hinge: step 1, image 1 of 1"
+                }
+            ],
+            "text": "Determine where the cabinet needs repair: on the top or bottom hinge.",
+            "links": [
+                {
+                    "type": "edit",
+                    "url": "https://www.ifixit.com/Guide/edit/166437/350424"
+                }
+            ]
+        },
+        {
+            "step_number": 2,
+            "step_title": null,
+            "images": [
+                {
+                    "url": "https://guide-images.cdn.ifixit.com/igi/I2QSHDmWUoY2AXxW.medium",
+                    "alt_text": "Cabinet Door Butt Hinge Replacement: step 2, image 1 of 1"
+                }
+            ],
+            "text": "Measure the hinge to make sure you have the correct size of your butt hinge.\nMeasure the distance between the screws and the height and width of the hinge to get the correct hinge.",
+            "links": [
+                {
+                    "type": "edit",
+                    "url": "https://www.ifixit.com/Guide/edit/166437/350425"
+                }
+            ]
+        },
+        {
+            "step_number": 3,
+            "step_title": null,
+            "images": [],
+            "text": "Remove the screws from the door with a Phillips #00 screwdriver and remove the hinge.\nKeep the screws nearby; you will need them later.",
+            "links": [
+                {
+                    "type": "edit",
+                    "url": "https://www.ifixit.com/Guide/edit/166437/350426"
+                }
+            ]
+        },
+        {
+            "step_number": 4,
+            "step_title": null,
+            "images": [],
+            "text": "Align the cabinet door to stand straight with any surrounding cabinets.",
+            "links": [
+                {
+                    "type": "edit",
+                    "url": "https://www.ifixit.com/Guide/edit/166437/350427"
+                }
+            ]
+        },
+        {
+            "step_number": 5,
+            "step_title": null,
+            "images": [],
+            "text": "Place the new hinge where the previous one was. Align the holes together.",
+            "links": [
+                {
+                    "type": "edit",
+                    "url": "https://www.ifixit.com/Guide/edit/166437/350428"
+                }
+            ]
+        },
+        {
+            "step_number": 6,
+            "step_title": null,
+            "images": [],
+            "text": "Tighten the hinge into place using the same screws with your Phillips #00 screwdriver.",
+            "links": [
+                {
+                    "type": "edit",
+                    "url": "https://www.ifixit.com/Guide/edit/166437/350430"
+                }
+            ]
+        }
+    ],
+    "conclusion": "If the door closes parallel to any surrounding cabinets, your fix is complete!",
+    "embed_guide": {
+        "single_step_code": "<iframe id=\"dozuki-embed-166437\" src=\"https://www.ifixit.com/Guide/embed/166437/full\" width=\"800\" allowfullscreen frameborder=\"0\"></iframe> <script>window.addEventListener(\"message\",function(a){var b=document.getElementById(\"dozuki-embed-166437\"),c=a.data[0],d=a.data[1];switch(c){case\"setHeight\":b.style.height=d+\"px\"}},!1);</script>",
+        "full_guide_code": "<iframe src=\"https://www.ifixit.com/Guide/embed/166437\" width=\"800\" height=\"584\" allowfullscreen frameborder=\"0\"></iframe>"
+    }
+}

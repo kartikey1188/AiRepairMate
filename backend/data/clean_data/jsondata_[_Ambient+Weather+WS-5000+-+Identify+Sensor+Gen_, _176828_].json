@@ -1,0 +1,90 @@
+{
+    "metadata": {
+        "title": "Ambient Weather WS-5000 - Identify Sensor Gen",
+        "last_updated": "October 10, 2024",
+        "guide_image": "https://guide-images.cdn.ifixit.com/igi/NyArmAE1aInnRkbq.140x105",
+        "estimated_time": "3 - 7 minutes",
+        "difficulty": "Moderate",
+        "community_guide": true,
+        "device_links": [
+            {
+                "text": "Ambient Weather WS-5000",
+                "url": "https://www.ifixit.com/Device/Ambient_Weather_WS-5000"
+            },
+            {
+                "text": "Weather Station",
+                "url": "https://www.ifixit.com/Device/Weather_Station"
+            },
+            {
+                "text": "Patio, Lawn & Garden",
+                "url": "https://www.ifixit.com/Device/Lawn_and_Garden"
+            },
+            {
+                "text": "Household",
+                "url": "https://www.ifixit.com/Device/Household"
+            },
+            {
+                "text": "Home",
+                "url": "https://www.ifixit.com/Guide"
+            }
+        ],
+        "parts_links": [
+            {
+                "text": "Guides",
+                "url": "https://www.ifixit.com/Device/Ambient_Weather_WS-5000#Section_Guides"
+            },
+            {
+                "text": "Answers",
+                "url": "https://www.ifixit.com/Answers/Device/Ambient_Weather_WS-5000"
+            }
+        ],
+        "edit_link": "https://www.ifixit.com/Guide/edit/176828"
+    },
+    "introduction": "This guide will help you identify the generation of your temperature sensor.",
+    "steps": [
+        {
+            "step_number": 1,
+            "title": "Ambient Weather WS-5000 - Identify Sensor Gen",
+            "text": "Identify the connection between the Thermo-Hygrometer sesnor and the body of the array.\nThe 1st Generation of array does NOT have a removable sensor. It is covered in a white glue.\nThe 2nd and 3rd Generation DO have removable sensor chips. You will see a small black ring, which is the bottom of the sensor mount.",
+            "image": "https://guide-images.cdn.ifixit.com/igi/NyArmAE1aInnRkbq.medium",
+            "image_links": [
+                "https://guide-images.cdn.ifixit.com/igi/NyArmAE1aInnRkbq.200x150",
+                "https://guide-images.cdn.ifixit.com/igi/aFJbVnWGYVBEjslF.200x150"
+            ],
+            "edit_link": "https://www.ifixit.com/Guide/edit/176828/375870",
+            "comment_links": [],
+            "additional_images": [
+                "https://guide-images.cdn.ifixit.com/igi/aFJbVnWGYVBEjslF.medium"
+            ]
+        },
+        {
+            "step_number": 2,
+            "title": "",
+            "text": "Remove the screws attaching the Solar Radiation Shield to the body of the array.\nRemove Solar Radiation Shield fins and set aside.",
+            "image": "https://guide-images.cdn.ifixit.com/igi/ShtbdgBOVHr4hPuV.medium",
+            "image_links": [
+                "https://guide-images.cdn.ifixit.com/igi/ShtbdgBOVHr4hPuV.200x150",
+                "https://guide-images.cdn.ifixit.com/igi/qdXEoKYXy6vlbUYb.200x150"
+            ],
+            "edit_link": "https://www.ifixit.com/Guide/edit/176828/375871",
+            "comment_links": [],
+            "additional_images": [
+                "https://guide-images.cdn.ifixit.com/igi/qdXEoKYXy6vlbUYb.medium"
+            ]
+        },
+        {
+            "step_number": 3,
+            "title": "",
+            "text": "Identify which Generation of Chip the array has.\nThe 1st Generation is NOT removable, and the entire array will need to be replaced.\nThe 2nd Generation IS removable, however, the chip is not replaceable. The entire array will need to be replaced.\nThe 3rd Generation IS removable, and replaceable. A new chip should get the unit up and running again.",
+            "image_links": [],
+            "edit_link": "https://www.ifixit.com/Guide/edit/176828/375872",
+            "comment_links": []
+        }
+    ],
+    "conclusion": {
+        "text": "You should now be able to identify the generation of the component.",
+        "author_points": 30,
+        "cancel_link": "https://www.ifixit.com/Guide/Ambient+Weather+WS-5000+-+Identify+Sensor+Gen/<#>"
+    },
+    "embed_code": "<iframe id=\"dozuki-embed-176828\" src=\"https://www.ifixit.com/Guide/embed/176828/full\" width=\"800\" allowfullscreen frameborder=\"0\"></iframe> <script>window.addEventListener(\"message\",function(a){var b=document.getElementById(\"dozuki-embed-176828\"),c=a.data[0],d=a.data[1];switch(c){case\"setHeight\":b.style.height=d+\"px\"}},!1);</script> <iframe src=\"https://www.ifixit.com/Guide/embed/176828\" width=\"800\" height=\"584\" allowfullscreen frameborder=\"0\"></iframe>"
+}

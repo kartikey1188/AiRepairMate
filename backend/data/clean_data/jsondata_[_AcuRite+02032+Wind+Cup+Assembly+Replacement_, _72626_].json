@@ -1,0 +1,226 @@
+{
+    "metadata": {
+        "title": "AcuRite 02032 Wind Cup Assembly Replacement",
+        "last_updated": "September 9, 2023",
+        "guide_image": "https://guide-images.cdn.ifixit.com/igi/gitsomtLrchOfFqO.140x105",
+        "estimated_time": "No estimate",
+        "difficulty": "Moderate",
+        "community_guide": true,
+        "device_links": [
+            {
+                "text": "AcuRite 02032",
+                "url": "https://www.ifixit.com/Device/AcuRite_02032"
+            },
+            {
+                "text": "Weather Station",
+                "url": "https://www.ifixit.com/Device/Weather_Station"
+            },
+            {
+                "text": "Patio, Lawn & Garden",
+                "url": "https://www.ifixit.com/Device/Lawn_and_Garden"
+            },
+            {
+                "text": "Household",
+                "url": "https://www.ifixit.com/Device/Household"
+            },
+            {
+                "text": "Home",
+                "url": "https://www.ifixit.com/Guide"
+            }
+        ],
+        "parts_links": [
+            {
+                "text": "Guides",
+                "url": "https://www.ifixit.com/Device/AcuRite_02032#Section_Guides"
+            },
+            {
+                "text": "Answers",
+                "url": "https://www.ifixit.com/Answers/Device/AcuRite_02032"
+            }
+        ],
+        "edit_link": "https://www.ifixit.com/Guide/edit/72626"
+    },
+    "introduction": "We are going to teach you how to attach a new solar panel to the device",
+    "what_you_need": {
+        "tools": [
+            {
+                "text": "Phillips #1 Screwdriver",
+                "url": "https://www.ifixit.com/products/phillips-1-screwdriver",
+                "image": "https://cart-products.cdn.ifixit.com/cart-products/dFxEXEXNVRdNBvCX.thumbnail",
+                "price": "$5.49 New / iFixit$8.99 New / Moody - Made in USA",
+                "view_link": "https://www.ifixit.com/products/phillips-1-screwdriver"
+            },
+            {
+                "text": "JIS Driver Set",
+                "url": "https://www.ifixit.com/products/jis-driver-set",
+                "image": "https://cart-products.cdn.ifixit.com/cart-products/dbfkd4hnhSHKmyrN.thumbnail",
+                "price": "$19.99",
+                "view_link": "https://www.ifixit.com/products/jis-driver-set"
+            },
+            {
+                "text": "Flush Cutter",
+                "url": "https://www.ifixit.com/products/flush-cutter",
+                "image": "https://cart-products.cdn.ifixit.com/cart-products/TGjS3jPberQTAqR2.thumbnail",
+                "price": "$29.99"
+            },
+            {
+                "text": "Soldering Iron",
+                "url": "https://www.ifixit.com/products/soldering-iron-60w-hakko-503f",
+                "image": "https://cart-products.cdn.ifixit.com/cart-products/2KG6DMqwajhHw4fA.thumbnail",
+                "price": "$19.99"
+            },
+            {
+                "text": "Desoldering Braid",
+                "url": "https://www.ifixit.com/products/solder-wick-braid",
+                "image": "https://cart-products.cdn.ifixit.com/cart-products/31NUpXxSfQ6lHPgT.thumbnail",
+                "price": "$4.99"
+            }
+        ]
+    },
+    "steps": [
+        {
+            "step_number": 1,
+            "title": "Battery",
+            "text": "Remove the battery compartment lid by lifting upward.",
+            "image": "https://guide-images.cdn.ifixit.com/igi/ZNsNxWNdq2HbfSGU.medium",
+            "image_links": [
+                "https://guide-images.cdn.ifixit.com/igi/ZNsNxWNdq2HbfSGU.200x150",
+                "https://guide-images.cdn.ifixit.com/igi/vD6w2suZwYLiK5Xb.200x150",
+                "https://guide-images.cdn.ifixit.com/igi/TOoRScvG6KuJ452O.200x150"
+            ],
+            "edit_link": "https://www.ifixit.com/Guide/edit/72146/143974",
+            "comment_links": [],
+            "additional_images": [
+                "https://guide-images.cdn.ifixit.com/igi/vD6w2suZwYLiK5Xb.medium",
+                "https://guide-images.cdn.ifixit.com/igi/TOoRScvG6KuJ452O.medium"
+            ]
+        },
+        {
+            "step_number": 2,
+            "title": "",
+            "text": "Pull the ribbon to eject the 2 X AA alkaline batteries.",
+            "image": "https://guide-images.cdn.ifixit.com/igi/aZgwxARfltbU1Wi5.medium",
+            "image_links": [],
+            "edit_link": "https://www.ifixit.com/Guide/edit/72146/143976",
+            "comment_links": []
+        },
+        {
+            "step_number": 3,
+            "title": "",
+            "text": "Once the batteries are removed, it is safe to proceed.",
+            "image_links": [],
+            "edit_link": "https://www.ifixit.com/Guide/edit/72146/143980",
+            "comment_links": []
+        },
+        {
+            "step_number": 4,
+            "title": "Base",
+            "text": "Remove the four 0.8cm screws that attach the bottom panel to the device\nAn extended driver is needed to reach 3 of these screws. If you are using the 64 - bit driver kit you can extend the driver by inserting the driver PH1, (Phillips size 1) into the size 4 hexagonal adapter.",
+            "image_links": [],
+            "edit_link": "https://www.ifixit.com/Guide/edit/72146/143970",
+            "comment_links": []
+        },
+        {
+            "step_number": 5,
+            "title": "",
+            "text": "Gently lift the top section of the weather center away from the base. With all the screws removed it should lift off easily.",
+            "image_links": [],
+            "edit_link": "https://www.ifixit.com/Guide/edit/72146/143981",
+            "comment_links": []
+        },
+        {
+            "step_number": 6,
+            "title": "Wind Cup Assembly Opening",
+            "text": "Remove the four 0.8cm screws inside the case located near the fan using the J1 screw bit.",
+            "image_links": [],
+            "edit_link": "https://www.ifixit.com/Guide/edit/72146/144000",
+            "comment_links": []
+        },
+        {
+            "step_number": 7,
+            "title": "",
+            "text": "Remove the three 0.8cm screws inside of the solar panel housing.",
+            "image_links": [],
+            "edit_link": "https://www.ifixit.com/Guide/edit/72146/144002",
+            "comment_links": []
+        },
+        {
+            "step_number": 8,
+            "title": "",
+            "text": "Gently twist and pull the black magnetic axle until it comes off. Hold the wind cups still in order to remove the axle easily.\nDo not apply too much force to the axle or the wind cups. Light twisting or wobbling it side to side should loosen it enough for the axle to come off easily.",
+            "image_links": [],
+            "edit_link": "https://www.ifixit.com/Guide/edit/72146/144047",
+            "comment_links": []
+        },
+        {
+            "step_number": 9,
+            "title": "",
+            "text": "Carefully slide apart the two parts of the solar panel housing.",
+            "image_links": [],
+            "edit_link": "https://www.ifixit.com/Guide/edit/72146/144003",
+            "comment_links": []
+        },
+        {
+            "step_number": 10,
+            "title": "Solar Panel",
+            "text": "Gently pull up on the two hooks holding down the solar panel.\nGently pull down on the solar panel.",
+            "image_links": [],
+            "edit_link": "https://www.ifixit.com/Guide/edit/72146/143995",
+            "comment_links": []
+        },
+        {
+            "step_number": 11,
+            "title": "",
+            "text": "Carefully pull the solar panel out.\nPulling on the panel too hard may damage to the electronic components inside.\nSet the panel in the apparatus like so.",
+            "image_links": [],
+            "edit_link": "https://www.ifixit.com/Guide/edit/72146/143998",
+            "comment_links": []
+        },
+        {
+            "step_number": 12,
+            "title": "",
+            "text": "Carefully lift the circuit board that the solar panel is attached to out of its apparatus.\nStretch out the panel and the board so you have more room to work.",
+            "image_links": [],
+            "edit_link": "https://www.ifixit.com/Guide/edit/72146/145336",
+            "comment_links": []
+        },
+        {
+            "step_number": 13,
+            "title": "",
+            "text": "Clip the first wire connecting the old solar panel.\nCut as close to the solar panel as possible to make attaching the new solar panel easier.",
+            "image_links": [],
+            "edit_link": "https://www.ifixit.com/Guide/edit/72146/144001",
+            "comment_links": []
+        },
+        {
+            "step_number": 14,
+            "title": "",
+            "text": "Clip the second wire the same way.\nCut as close to the solar panel as possible to make attaching the new solar panel easier.",
+            "image_links": [],
+            "edit_link": "https://www.ifixit.com/Guide/edit/72146/145346",
+            "comment_links": []
+        },
+        {
+            "step_number": 15,
+            "title": "",
+            "text": "Strip the insulation off the wires to reveal the copper beneath.\nThe wires are very thin, so take care not to cut through them.",
+            "image_links": [],
+            "edit_link": "https://www.ifixit.com/Guide/edit/72146/145349",
+            "comment_links": []
+        },
+        {
+            "step_number": 16,
+            "title": "",
+            "text": "Do not reverse the + and the - wires\nRed wire is positive (+), Black wire is negative (-)\nUsing a soldering iron, melt the solder to attach the wires to the panel.\nYou may need a third hand for this step.\nBe sure to completely cover the ends of the wire with the solder.\nSoldering is dangerous as the iron must get very hot to melt the metal solder.",
+            "image_links": [],
+            "edit_link": "https://www.ifixit.com/Guide/edit/72146/144004",
+            "comment_links": []
+        }
+    ],
+    "conclusion": {
+        "text": "To reassemble your device, follow these instructions in reverse order.",
+        "author_points": 30,
+        "cancel_link": "https://www.ifixit.com/Guide/AcuRite+02032+Solar+Panel+Replacement/<#>"
+    },
+    "embed_code": "<iframe id=\"dozuki-embed-72146\" src=\"https://www.ifixit.com/Guide/embed/72146/full\" width=\"800\" allowfullscreen frameborder=\"0\"></iframe> <script>window.addEventListener(\"message\",function(a){var b=document.getElementById(\"dozuki-embed-72146\"),c=a.data[0],d=a.data[1];switch(c){case\"setHeight\":b.style.height=d+\"px\"}},!1);</script> <iframe src=\"https://www.ifixit.com/Guide/embed/72146\" width=\"800\" height=\"584\" allowfullscreen frameborder=\"0\"></iframe>"
+}

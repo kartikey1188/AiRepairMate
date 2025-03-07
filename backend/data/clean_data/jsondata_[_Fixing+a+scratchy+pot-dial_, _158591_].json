@@ -1,0 +1,49 @@
+{
+    "guide_title": "Fixing a scratchy pot/dial",
+    "last_updated": "May 3, 2023",
+    "estimated_time": "No estimate",
+    "difficulty": "Easy",
+    "community_contributed_guide": true,
+    "introduction": "Hi\nThis guide will show you how to fix a scratchy volume pot.",
+    "parts": [],
+    "tools": [],
+    "steps": [
+        {
+            "step_number": 1,
+            "title": "Fixing the scratching noise",
+            "image": "https://guide-images.cdn.ifixit.com/igi/eWpuLNY1UWAwFRRf.medium",
+            "description": "To find what pot is making the noise by turning them to see what ones give a reaction",
+            "edit_link": "https://www.ifixit.com/Guide/Fixing+a+scratchy+pot-dial//Guide/edit/158591/332435",
+            "add_comment_link": "https://www.ifixit.com/Guide/Fixing+a+scratchy+pot-dial/",
+            "links": []
+        },
+        {
+            "step_number": 2,
+            "title": "Cleaning the pot",
+            "images": [
+                "https://guide-images.cdn.ifixit.com/igi/vCSkspRrPEIcVjRE.medium",
+                "https://guide-images.cdn.ifixit.com/igi/fLvLjJU1wQI5lTmH.medium"
+            ],
+            "thumbnails": [
+                "https://guide-images.cdn.ifixit.com/igi/vCSkspRrPEIcVjRE.200x150",
+                "https://guide-images.cdn.ifixit.com/igi/fLvLjJU1wQI5lTmH.200x150"
+            ],
+            "description": "Pour or spray some isopropyl alcohol into the pot and turn it to help clean the inside\nMake sure to use as close to 100% purity isopropyl alcohol as you can for the best results!\nIf this doesn't work after a couple attempts you will most likely need to replace the volume pot.",
+            "edit_link": "https://www.ifixit.com/Guide/Fixing+a+scratchy+pot-dial//Guide/edit/158591/332436",
+            "add_comment_link": "https://www.ifixit.com/Guide/Fixing+a+scratchy+pot-dial/",
+            "links": []
+        }
+    ],
+    "conclusion": "To reassemble your device, follow these instructions in reverse order.",
+    "finish_line": {
+        "text": "To reassemble your device, follow these instructions in reverse order. Give the author +30 points! You're Finished!",
+        "cancel_link": "https://www.ifixit.com/Guide/Fixing+a+scratchy+pot-dial/<#>",
+        "completed_count": "2 other people completed this guide."
+    },
+    "embed_code": {
+        "small": "<iframe id=\"dozuki-embed-158591\" src=\"https://www.ifixit.com/Guide/embed/158591/full\" width=\"600\" allowfullscreen frameborder=\"0\"></iframe> <script>window.addEventListener(\"message\",function(a){var b=document.getElementById(\"dozuki-embed-158591\"),c=a.data[0],d=a.data[1];switch(c){case\"setHeight\":b.style.height=d+\"px\"}},!1);</script> <iframe src=\"https://www.ifixit.com/Guide/embed/158591\" width=\"600\" height=\"584\" allowfullscreen frameborder=\"0\"></iframe>",
+        "medium": "<iframe id=\"dozuki-embed-158591\" src=\"https://www.ifixit.com/Guide/embed/158591/full\" width=\"800\" allowfullscreen frameborder=\"0\"></iframe> <script>window.addEventListener(\"message\",function(a){var b=document.getElementById(\"dozuki-embed-158591\"),c=a.data[0],d=a.data[1];switch(c){case\"setHeight\":b.style.height=d+\"px\"}},!1);</script> <iframe src=\"https://www.ifixit.com/Guide/embed/158591\" width=\"800\" height=\"584\" allowfullscreen frameborder=\"0\"></iframe>",
+        "large": "<iframe id=\"dozuki-embed-158591\" src=\"https://www.ifixit.com/Guide/embed/158591/full\" width=\"1200\" allowfullscreen frameborder=\"0\"></iframe> <script>window.addEventListener(\"message\",function(a){var b=document.getElementById(\"dozuki-embed-158591\"),c=a.data[0],d=a.data[1];switch(c){case\"setHeight\":b.style.height=d+\"px\"}},!1);</script> <iframe src=\"https://www.ifixit.com/Guide/embed/158591\" width=\"1200\" height=\"584\" allowfullscreen frameborder=\"0\"></iframe>"
+    },
+    "repair_is_noble": "https://www.ifixit.com/Manifesto"
+}

@@ -1,0 +1,88 @@
+{
+    "title": "Fairy Light Silver Balls Repair",
+    "last_updated": "May 16, 2024",
+    "introduction": "One of the Silver Balls got squished and fell apart. Here is how I managed to stick them back together.",
+    "tools": [
+        {
+            "name": "ESD Safe Blunt Nose Tweezers",
+            "image": "https://cart-products.cdn.ifixit.com/cart-products/eQGTt3iN1MmOAQDy.thumbnail",
+            "link": "https://www.ifixit.com/products/tweezers",
+            "price": "$4.99",
+            "add_to_cart_link": "https://www.ifixit.com/products/tweezers"
+        }
+    ],
+    "steps": [
+        {
+            "step_number": 1,
+            "title": "Fairy Light Silver Balls Repair",
+            "link": "https://www.ifixit.com/Guide/Fairy+Light+Silver+Balls+Repair/<#s320793>",
+            "images": [
+                "https://guide-images.cdn.ifixit.com/igi/qhPIDC2AqOdwM5XS.medium",
+                "https://guide-images.cdn.ifixit.com/igi/Prj2scHWbG1E3pvC.medium",
+                "https://guide-images.cdn.ifixit.com/igi/NWnBJdcugwADiNRZ.medium"
+            ],
+            "thumbnails": [
+                "https://guide-images.cdn.ifixit.com/igi/qhPIDC2AqOdwM5XS.200x150",
+                "https://guide-images.cdn.ifixit.com/igi/Prj2scHWbG1E3pvC.200x150",
+                "https://guide-images.cdn.ifixit.com/igi/NWnBJdcugwADiNRZ.200x150"
+            ],
+            "text": [
+                "Unplug the fairy light before you start working on it!",
+                "The Silver Balls might have some edges to them. Try to squeeze them into a round shape using your fingers.",
+                "Use [blunt tweezers](https://www.ifixit.com/products/tweezers) to bend the little spikes into the right position."
+            ],
+            "tool_used": {
+                "name": "Tweezers",
+                "image": "https://cart-products.cdn.ifixit.com/cart-products/eQGTt3iN1MmOAQDy.thumbnail",
+                "price": "$4.99",
+                "buy_link": "https://www.ifixit.com/products/tweezers"
+            },
+            "edit_link": "https://www.ifixit.com/Guide/edit/154277/320793",
+            "comments_link": "https://www.ifixit.com/Guide/Fairy+Light+Silver+Balls+Repair/<#addComment>",
+            "add_comment_link": "https://www.ifixit.com/Guide/Fairy+Light+Silver+Balls+Repair/<#addComment>"
+        },
+        {
+            "step_number": 2,
+            "link": "https://www.ifixit.com/Guide/Fairy+Light+Silver+Balls+Repair/<#s321261>",
+            "images": [
+                "https://guide-images.cdn.ifixit.com/igi/ZmEUsR6OmELSoxOd.medium"
+            ],
+            "thumbnails": [
+                "https://guide-images.cdn.ifixit.com/igi/ZmEUsR6OmELSoxOd.200x150",
+                "https://guide-images.cdn.ifixit.com/igi/E1xbQxUO1FskyNdR.200x150",
+                "https://guide-images.cdn.ifixit.com/igi/Sao6Lc1ONcw3VoZK.200x150"
+            ],
+            "text": [
+                "When both parts are in a perfect round shape, find a position where they both fit together easily.",
+                "There might be some spikes that need a little bit more adjusting. Use the blunt tweezer again, if needed.",
+                "Try to get the spikes very close together."
+            ],
+            "edit_link": "https://www.ifixit.com/Guide/edit/154277/321261",
+            "comments_link": "https://www.ifixit.com/Guide/Fairy+Light+Silver+Balls+Repair/<#addComment>",
+            "add_comment_link": "https://www.ifixit.com/Guide/Fairy+Light+Silver+Balls+Repair/<#addComment>"
+        }
+    ],
+    "finish_line": "Enjoy your Fairy Lights!",
+    "conclusion": "Enjoy your Fairy Lights!",
+    "embed_code": {
+        "small": "<iframe id=\"dozuki-embed-154277\" src=\"https://www.ifixit.com/Guide/embed/154277/full\" width=\"600\" allowfullscreen frameborder=\"0\"></iframe> <script>window.addEventListener(\"message\",function(a){var b=document.getElementById(\"dozuki-embed-154277\"),c=a.data[0],d=a.data[1];switch(c){case\"setHeight\":b.style.height=d+\"px\"}},!1);</script>",
+        "medium": "<iframe id=\"dozuki-embed-154277\" src=\"https://www.ifixit.com/Guide/embed/154277/full\" width=\"800\" allowfullscreen frameborder=\"0\"></iframe> <script>window.addEventListener(\"message\",function(a){var b=document.getElementById(\"dozuki-embed-154277\"),c=a.data[0],d=a.data[1];switch(c){case\"setHeight\":b.style.height=d+\"px\"}},!1);</script> <iframe src=\"https://www.ifixit.com/Guide/embed/154277\" width=\"800\" height=\"584\" allowfullscreen frameborder=\"0\"></iframe>",
+        "large": "<iframe id=\"dozuki-embed-154277\" src=\"https://www.ifixit.com/Guide/embed/154277/full\" width=\"1200\" allowfullscreen frameborder=\"0\"></iframe> <script>window.addEventListener(\"message\",function(a){var b=document.getElementById(\"dozuki-embed-154277\"),c=a.data[0],d=a.data[1];switch(c){case\"setHeight\":b.style.height=d+\"px\"}},!1);</script>"
+    },
+    "repair_is_noble": "https://www.ifixit.com/Manifesto",
+    "licenced_under_creative_commons": "https://www.ifixit.com/Info/Licensing",
+    "categories": [
+        "Lighting",
+        "Household",
+        "Home"
+    ],
+    "parts_links": {
+        "guides": "https://www.ifixit.com/Device/Lighting#Section_Guides",
+        "troubleshooting": "https://www.ifixit.com/Troubleshooting/Lighting"
+    },
+    "edit_link": "https://www.ifixit.com/Guide/edit/154277",
+    "completed": 1,
+    "favorite": 0,
+    "time_estimate": "30 minutes",
+    "difficulty": "Very easy"
+}

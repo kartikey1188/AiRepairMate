@@ -1,0 +1,142 @@
+{
+    "metadata": {
+        "title": "Andis Master Clippers Motor/Coil Assembly Replacement",
+        "last_updated": "July 16, 2024",
+        "estimated_time": "1 hour",
+        "difficulty": "Moderate",
+        "introduction": "This motor replacement guide should teach you how to dismantle and replace a faulty Motor assembly with little electrical experience required . It would take approximately 30 to 45 minutes to go through these steps. Make sure that you are located in a clean environment with plenty of room to work in as well a descent lighting area."
+    },
+    "parts": [
+        {
+            "name": "Core/Coil Assembly ‑MI/Gc",
+            "url": "http://www.ereplacementparts.com/corecoil-assy-mlgc-p-730146.html?osCsid=oupkienhcfbka5o0ukcevc7fm0",
+            "available_for_sale": "http://www.ereplacementparts.com/corecoil-assy-mlgc-p-730146.html?osCsid=oupkienhcfbka5o0ukcevc7fm0",
+            "view_link": "http://www.ereplacementparts.com/corecoil-assy-mlgc-p-730146.html?osCsid=oupkienhcfbka5o0ukcevc7fm0"
+        }
+    ],
+    "tools": [
+        {
+            "name": "Wire Stripping/Crimping Tool",
+            "url": "https://www.ifixit.com/products/wire-stripper",
+            "image_url": "https://cart-products.cdn.ifixit.com/cart-products/etvVOlnBceX2Bsbp.thumbnail",
+            "price": "$29.99 New / PA-06 18-30 Gauge (Sold out)$45.99 New / PA-14 20-34 Gauge (Sold out)",
+            "view_link": "https://www.ifixit.com/products/wire-stripper"
+        },
+        {
+            "name": "Flush Cutter",
+            "url": "https://www.ifixit.com/products/flush-cutter",
+            "image_url": "https://cart-products.cdn.ifixit.com/cart-products/TGjS3jPberQTAqR2.thumbnail",
+            "price": "$29.99",
+            "add_to_cart": true
+        },
+        {
+            "name": "Electrical Tape in 6 Assorted Colors",
+            "url": "https://www.ifixit.com/products/electrical-tape-in-6-assorted-colors",
+            "image_url": "https://cart-products.cdn.ifixit.com/cart-products/3kDtLplL2LoTT4Wp.thumbnail",
+            "price": "$9.99",
+            "view_link": "https://www.ifixit.com/products/electrical-tape-in-6-assorted-colors"
+        },
+        {
+            "name": "Phillips #0 Screwdriver",
+            "url": "https://www.ifixit.com/products/phillips-0-screwdriver",
+            "image_url": "https://cart-products.cdn.ifixit.com/cart-products/iHsH13ZerBV42IXL.thumbnail",
+            "price": "$5.49 New / iFixit$8.99 New / Moody - Made in USA",
+            "add_to_cart": true
+        },
+        {
+            "name": "2.5 mm Flathead Screwdriver",
+            "url": "https://www.ifixit.com/products/flathead-3-32-or-2-5-mm-screwdriver",
+            "image_url": "https://cart-products.cdn.ifixit.com/cart-products/JsCoFJUVWU2hrkes.thumbnail",
+            "price": "$5.49 New / iFixit$7.99 New / Moody - Made in USA",
+            "add_to_cart": true
+        }
+    ],
+    "steps": [
+        {
+            "step_number": 1,
+            "title": "Motor/Coil Assembly",
+            "instructions": [
+                "Caution: Make sure the clippers are unplugged from any **electrical** outlets before beginning teardown.",
+                "Using the Philips screwdriver, unscrew the two housing cover screws indicated.",
+                "using the Philips screwdriver, unscrew the two mounting screws indicated, holding down the **Coil Assembly**.",
+                "Reminder: keep track of appropriate washers with each screw",
+                "Using the Philips screwdriver, remove the **switch installment screw** indicated."
+            ],
+            "image_url": "https://guide-images.cdn.ifixit.com/igi/aTCRVoveYExEh46L.medium",
+            "additional_images": [
+                "https://guide-images.cdn.ifixit.com/igi/aTCRVoveYExEh46L.200x150",
+                "https://guide-images.cdn.ifixit.com/igi/KB3FMbHxI1MPG4JI.200x150",
+                "https://guide-images.cdn.ifixit.com/igi/qaAN3Bp2YKQwZAWu.200x150"
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/49232/107925",
+            "add_comment_url": "https://www.ifixit.com/Guide/Andis+Master+Clippers+Motor-Coil+Assembly+Replacement/#",
+            "links": []
+        },
+        {
+            "step_number": 2,
+            "instructions": [
+                "Lift the **switch assembly** up to loosen the **actuating arm**.",
+                "Pull **switch button** away from **actuating arm**. Then unclip the **actuating arm** from the **switch assembly**.",
+                "Locate the **switch insulation** underneath the **switch assembly**.",
+                "Note: The **switch insulation** is fragile and thin. Be careful not to damage it."
+            ],
+            "image_url": "https://guide-images.cdn.ifixit.com/igi/GFDHYLtYEgPnXsEM.medium",
+            "additional_images": [
+                "https://guide-images.cdn.ifixit.com/igi/GFDHYLtYEgPnXsEM.200x150",
+                "https://guide-images.cdn.ifixit.com/igi/SUCl2SAqf6H3cqwN.200x150",
+                "https://guide-images.cdn.ifixit.com/igi/1a4KCfjutXJOSoIE.200x150"
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/49232/107939",
+            "add_comment_url": "https://www.ifixit.com/Guide/Andis+Master+Clippers+Motor-Coil+Assembly+Replacement/#",
+            "links": []
+        },
+        {
+            "step_number": 3,
+            "instructions": [
+                "Remove stud screw holding down the **armature link** (the piece on top the wires leading to the **Coil Assembly**).",
+                "Reminder: It may take extra force to unscrew this screw out due to the inner parts",
+                "Locate the **Coil Assembly** and the power wires leading to the **Attached Power cord**."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/49232/107946",
+            "add_comment_url": "https://www.ifixit.com/Guide/Andis+Master+Clippers+Motor-Coil+Assembly+Replacement/#",
+            "links": []
+        },
+        {
+            "step_number": 4,
+            "instructions": [
+                "Using the wire stripper, strip the ends of each wire approximately 1-2 cm to reveal enough wire to twist back together with new motor's wires.",
+                "Next, using the wire cutter, cut the {Positive & Negative} wires that are heading from the **Coil Assembly** to the **Attached power cord**. Cut approximately half way between the two ends of both wires.",
+                "Reminder: Be sure to keep track of the corresponding wires and their locations to match when you insert the new motor.",
+                "After you cut the old **Coil Assembly's** wires, remove it completely, and replace it with new one."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/49232/108320",
+            "add_comment_url": "https://www.ifixit.com/Guide/Andis+Master+Clippers+Motor-Coil+Assembly+Replacement/#",
+            "links": []
+        },
+        {
+            "step_number": 5,
+            "instructions": [
+                "Note: Black being {Negative} goes with the Black wire, Red being {Positive} goes with red wire. However, in this case the red wire goes with the white wire (it all depends on how the manufacturer ships it). The white wire extends from the **Attached power cord**",
+                "Twist the red wire that is coming from the **Coil Assembly** with the white one, and the black wire with the black one.",
+                "CAUTION: Match the wires correctly, Black with Black, and Red with White. If you matched the wrong wire, it will cause the clippers to have a short circuit (electrical malfunction) when you plug the electrical cord into an outlet.",
+                "After you have twisted the wires together, use electrical tape to wrap the stripped wires. Leave some tape over the ends of the wires, and below the cutoff of the rubber around the wire as shown in the photo. Wrap the tape around the wires as tight as possible.",
+                "To complete this repair and reassembly, follow these steps in reverse, starting from the end of step 3 up to the beginning of step 1"
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/49232/108321",
+            "add_comment_url": "https://www.ifixit.com/Guide/Andis+Master+Clippers+Motor-Coil+Assembly+Replacement/#",
+            "links": []
+        }
+    ],
+    "embed_guide": {
+        "single_step_url": "https://www.ifixit.com/Guide/embed/49232",
+        "full_guide_url": "https://www.ifixit.com/Guide/embed/49232/full",
+        "sizes": {
+            "small": 600,
+            "medium": 800,
+            "large": 1200
+        }
+    },
+    "repair_is_noble_url": "https://www.ifixit.com/Manifesto",
+    "license_url": "https://www.ifixit.com/Info/Licensing",
+    "guide_url": "https://www.ifixit.com/Guide/Andis+Master+Clippers+Motor-Coil+Assembly+Replacement/49232"
+}

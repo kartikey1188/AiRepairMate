@@ -1,0 +1,166 @@
+{
+    "title": "Fixing a Misaligned Single Swing Chain-link Gate",
+    "last_updated": "July 11, 2023",
+    "time_estimate": "15 - 20 minutes",
+    "difficulty": "Easy",
+    "introduction": "For a variety of reasons, a chain-link gate may become misaligned and unable or difficult to latch properly.\nThankfully, one of the most common causes of misalignment is the gradual shift of your gate hinges. This can be fixed quickly and with just an open end wrench or a pair of pliers, a marker, and a small carpenter’s level.",
+    "parts": [
+        {
+            "name": "Tension bands",
+            "quantity": 2,
+            "url": "https://www.homedepot.com/p/YARDGARD-1-5-8-in-Galvanized-Tension-Band-328521C/204510249",
+            "for_sale_url": "https://www.homedepot.com/p/YARDGARD-1-5-8-in-Galvanized-Tension-Band-328521C/204510249",
+            "view_url": "https://www.homedepot.com/p/YARDGARD-1-5-8-in-Galvanized-Tension-Band-328521C/204510249"
+        },
+        {
+            "name": "Gate hinges",
+            "quantity": 2,
+            "url": "https://www.ifixit.com/Item/Gate_hinges"
+        },
+        {
+            "name": "Carriage Bolts",
+            "quantity": 4,
+            "url": "https://www.ifixit.com/Item/Carriage_Bolts"
+        },
+        {
+            "name": "1/4 US Size Nut (7/16 Hex Nut Diameter)",
+            "quantity": 4,
+            "url": "https://www.ifixit.com/Item/1_4_US_Size_Nut_%287_16_Hex_Nut_Diameter%29"
+        }
+    ],
+    "tools": [
+        {
+            "name": "7/16 Crescent Wrench",
+            "url": "http://www.amazon.com/s/ref=sr_gnr_aps?rh=i%3Aaps%2Ck%3A7%2F16%2Bcrescent%2Bwrench&keywords=7%2F16%2Bcrescent%2Bwrench&ie=UTF8&qid=1352851559&tag=ifixitam-20",
+            "affiliate_link": "http://www.amazon.com/s/ref=sr_gnr_aps?rh=i%3Aaps%2Ck%3A7%2F16%2Bcrescent%2Bwrench&keywords=7%2F16%2Bcrescent%2Bwrench&ie=UTF8&qid=1352851559&tag=ifixitam-20",
+            "available_for_sale": "http://www.amazon.com/s/ref=sr_gnr_aps?rh=i%3Aaps%2Ck%3A7%2F16%2Bcrescent%2Bwrench&keywords=7%2F16%2Bcrescent%2Bwrench&ie=UTF8&qid=1352851559&tag=ifixitam-20",
+            "view_url": "http://www.amazon.com/s/ref=sr_gnr_aps?rh=i%3Aaps%2Ck%3A7%2F16%2Bcrescent%2Bwrench&keywords=7%2F16%2Bcrescent%2Bwrench&ie=UTF8&qid=1352851559&tag=ifixitam-20"
+        },
+        {
+            "name": "Level",
+            "url": "https://www.amazon.com/Stanley-43-511-Magnetic-Resistant-Torpedo/dp/B000BQR7TU/ref=lp_553256_1_1?s=hi&ie=UTF8&qid=1529703213&sr=1-1&tag=ifixitam-20",
+            "affiliate_link": "https://www.amazon.com/Stanley-43-511-Magnetic-Resistant-Torpedo/dp/B000BQR7TU/ref=lp_553256_1_1?s=hi&ie=UTF8&qid=1529703213&sr=1-1&tag=ifixitam-20",
+            "available_for_sale": "https://www.amazon.com/Stanley-43-511-Magnetic-Resistant-Torpedo/dp/B000BQR7TU/ref=lp_553256_1_1?s=hi&ie=UTF8&qid=1529703213&sr=1-1&tag=ifixitam-20",
+            "view_url": "https://www.amazon.com/Stanley-43-511-Magnetic-Resistant-Torpedo/dp/B000BQR7TU/ref=lp_553256_1_1?s=hi&ie=UTF8&qid=1529703213&sr=1-1&tag=ifixitam-20"
+        },
+        {
+            "name": "Channellock Groove Joint Pliers",
+            "url": "http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords=Channellock%20Groove%20Joint%20Pliers&tag=ifixitam-20",
+            "affiliate_link": "http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords=Channellock%20Groove%20Joint%20Pliers&tag=ifixitam-20",
+            "available_for_sale": "http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords=Channellock%20Groove%20Joint%20Pliers&tag=ifixitam-20",
+            "view_url": "http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords=Channellock%20Groove%20Joint%20Pliers&tag=ifixitam-20"
+        },
+        {
+            "name": "Sharpie",
+            "url": "http://www.amazon.com/Sharpie-Point-Permanent-Markers-30162PP/dp/B000QYLCWK/ref=sr_1_1?ie=UTF8&qid=1377195323&sr=8-1&keywords=sharpie&tag=ifixitam-20",
+            "affiliate_link": "http://www.amazon.com/Sharpie-Point-Permanent-Markers-30162PP/dp/B000QYLCWK/ref=sr_1_1?ie=UTF8&qid=1377195323&sr=8-1&keywords=sharpie&tag=ifixitam-20",
+            "available_for_sale": "http://www.amazon.com/Sharpie-Point-Permanent-Markers-30162PP/dp/B000QYLCWK/ref=sr_1_1?ie=UTF8&qid=1377195323&sr=8-1&keywords=sharpie&tag=ifixitam-20",
+            "view_url": "http://www.amazon.com/Sharpie-Point-Permanent-Markers-30162PP/dp/B000QYLCWK/ref=sr_1_1?ie=UTF8&qid=1377195323&sr=8-1&keywords=sharpie&tag=ifixitam-20"
+        }
+    ],
+    "steps": [
+        {
+            "step_number": 1,
+            "title": "Fixing a Misaligned Single Swing Chain-link Gate",
+            "images": [
+                "https://guide-images.cdn.ifixit.com/igi/FVgZIOOGfp3LOlGB.medium",
+                "https://guide-images.cdn.ifixit.com/igi/TdXTEnbEN26XFqVQ.medium",
+                "https://guide-images.cdn.ifixit.com/igi/XoqATXLbApbKJnbI.medium"
+            ],
+            "thumbnails": [
+                "https://guide-images.cdn.ifixit.com/igi/FVgZIOOGfp3LOlGB.200x150",
+                "https://guide-images.cdn.ifixit.com/igi/TdXTEnbEN26XFqVQ.200x150",
+                "https://guide-images.cdn.ifixit.com/igi/XoqATXLbApbKJnbI.200x150"
+            ],
+            "instructions": [
+                "Use your open end wrench or pliers to loosen and remove the nuts on the bottom tension band.",
+                "It's important to begin with the bottom band, as removing the top band first will put pressure on the bottom band and make it harder to unscrew.",
+                "Loosen and remove top tension band.",
+                "Remove and place gate to the side."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/121771/234349",
+            "add_comment_url": "https://www.ifixit.com/Guide/Fixing+a+Misaligned+Single+Swing+Chain-link+Gate/<#>",
+            "comment_section": "https://www.ifixit.com/Guide/Fixing+a+Misaligned+Single+Swing+Chain-link+Gate/<#>"
+        },
+        {
+            "step_number": 2,
+            "title": null,
+            "images": [
+                "https://guide-images.cdn.ifixit.com/igi/2AfPaahMboAl6Clb.medium"
+            ],
+            "instructions": [
+                "Mark the height of hinges on the post.",
+                "When loosened, these will fall. If not returned to the hinge's original distance from each other on the post it may be impossible to reconstruct your gate.",
+                "If the hinges have already sagged on your gate before you disassembled, they may need to be raised from their original position to make your gate effective once again."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/121771/234350",
+            "add_comment_url": "https://www.ifixit.com/Guide/Fixing+a+Misaligned+Single+Swing+Chain-link+Gate/<#>",
+            "comment_section": "https://www.ifixit.com/Guide/Fixing+a+Misaligned+Single+Swing+Chain-link+Gate/<#>"
+        },
+        {
+            "step_number": 3,
+            "title": null,
+            "images": [],
+            "instructions": [
+                "Loosen nuts on hinge.",
+                "There is no need to remove the nuts and bolts from the hinges, they should now move freely."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/121771/235677",
+            "add_comment_url": "https://www.ifixit.com/Guide/Fixing+a+Misaligned+Single+Swing+Chain-link+Gate/<#>",
+            "comment_section": "https://www.ifixit.com/Guide/Fixing+a+Misaligned+Single+Swing+Chain-link+Gate/<#>"
+        },
+        {
+            "step_number": 4,
+            "title": null,
+            "images": [],
+            "instructions": [
+                "Realign hinges so that they are perpendicular to the gate when latched.",
+                "A gate that was improperly installed may require the hinges to be aligned differently in order for the gate to latch."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/121771/234351",
+            "add_comment_url": "https://www.ifixit.com/Guide/Fixing+a+Misaligned+Single+Swing+Chain-link+Gate/<#>",
+            "comment_section": "https://www.ifixit.com/Guide/Fixing+a+Misaligned+Single+Swing+Chain-link+Gate/<#>"
+        },
+        {
+            "step_number": 5,
+            "title": null,
+            "images": [],
+            "instructions": [
+                "Retighten nuts.",
+                "Make sure to support the hinges so they remain at the proper height and alignment."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/121771/234352",
+            "add_comment_url": "https://www.ifixit.com/Guide/Fixing+a+Misaligned+Single+Swing+Chain-link+Gate/<#>",
+            "comment_section": "https://www.ifixit.com/Guide/Fixing+a+Misaligned+Single+Swing+Chain-link+Gate/<#>"
+        },
+        {
+            "step_number": 6,
+            "title": null,
+            "images": [],
+            "instructions": [
+                "Place the gate back onto its hinges.",
+                "Put bolts back into the tension bands, retighten with nuts."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/121771/235679",
+            "add_comment_url": "https://www.ifixit.com/Guide/Fixing+a+Misaligned+Single+Swing+Chain-link+Gate/<#>",
+            "comment_section": "https://www.ifixit.com/Guide/Fixing+a+Misaligned+Single+Swing+Chain-link+Gate/<#>"
+        },
+        {
+            "step_number": 7,
+            "title": null,
+            "images": [],
+            "instructions": [
+                "Remove any ornament on top of the gate by unscrewing and removing nuts, if necessary.",
+                "Place your carpenter's level flat on top of the gate.",
+                "If the bubble is not in the center of the level, your gate is sagging. This is likely because you need to adjust the distance between your hinges in Step 4.",
+                "Place the ornament back on, and fasten the bolts."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/121771/235685",
+            "add_comment_url": "https://www.ifixit.com/Guide/Fixing+a+Misaligned+Single+Swing+Chain-link+Gate/<#>",
+            "comment_section": "https://www.ifixit.com/Guide/Fixing+a+Misaligned+Single+Swing+Chain-link+Gate/<#>"
+        }
+    ],
+    "conclusion": "If your gate is still not latching properly or is sagging, you may need to disassemble your gate again and adjust the alignment or height of your hinges until the gate latches properly.\nIf the problem persists, it’s possible that your post wasn’t installed correctly, your fence may be experiencing pressure from structures leaning on it, or your nuts and bolts may be worn and deficient. These problems will require additional procedures.",
+    "completed_guide_text": "2 other people completed this guide.",
+    "embed_code": "<iframe id=\"dozuki-embed-121771\" src=\"https://www.ifixit.com/Guide/embed/121771/full\" width=\"800\" allowfullscreen frameborder=\"0\"></iframe> <script>window.addEventListener(\"message\",function(a){var b=document.getElementById(\"dozuki-embed-121771\"),c=a.data[0],d=a.data[1];switch(c){case\"setHeight\":b.style.height=d+\"px\"}},!1);</script> <iframe src=\"https://www.ifixit.com/Guide/embed/121771\" width=\"800\" height=\"584\" allowfullscreen frameborder=\"0\"></iframe>"
+}

@@ -1,0 +1,131 @@
+{
+    "metadata": {
+        "title": "Bath Tub Cartridge Replacement",
+        "last_updated": "July 26, 2024",
+        "estimated_time": "30 minutes - 1 hour",
+        "difficulty": "Moderate",
+        "introduction": "This repair is needed to fix any water leakage in your bathtub or shower. The water is controlled by a device call a cartridge. When the cartridge is damaged, it becomes loose and begins to crack. Over time, these cracks let out even more water.\nThis guide will help you fix a leaky faucet, or any leakage of water that is occurring in the tub. This procedure is very safe, and the only hazard is slipping in the tub. The process is straightforward and can be achieved at home with the right tools. There are no special requirements for this guide.\nHowever, you will need to be patient, as parts of this guide will be frustrating due to the size of the tools being used. Replacing a tub cartridge will seem intimidating at first, but it is a lot easier than most would think. This guide will show you how to open up your faucet, find the cartridge, and replace it with a brand new one; doing so will fix the leaking water problem as well."
+    },
+    "parts": [
+        {
+            "name": "DELTA RP46074 MultiChoice 13/14 Series Cartridge",
+            "url": "https://www.amazon.ca/FAUCET-RP46074-MultiChoice-Cartridge-Assembly/dp/B001DU57R2/ref=sr_1_16?crid=316O2UD0CT1JW&dchild=1&keywords=tub+cartridge&qid=1601066186&s=hi&sprefix=cartir%2Ctools%2C202&sr=1-16",
+            "affiliate_link": true,
+            "available_for_sale": "https://www.amazon.ca/FAUCET-RP46074-MultiChoice-Cartridge-Assembly/dp/B001DU57R2/ref=sr_1_16?crid=316O2UD0CT1JW&dchild=1&keywords=tub+cartridge&qid=1601066186&s=hi&sprefix=cartir%2Ctools%2C202&sr=1-16",
+            "view_link": "https://www.amazon.ca/FAUCET-RP46074-MultiChoice-Cartridge-Assembly/dp/B001DU57R2/ref=sr_1_16?crid=316O2UD0CT1JW&dchild=1&keywords=tub+cartridge&qid=1601066186&s=hi&sprefix=cartir%2Ctools%2C202&sr=1-16",
+            "additional_info": "Each house uses different cartridges; and unfortunately the only way to identify the type of cartridge you tub uses is to open it up. I will be using the DELTA RP46074 MultiChoice 13/14 Series Cartridge, as it is the cartridge my tub uses."
+        }
+    ],
+    "tools": [
+        {
+            "name": "Allen wrench set",
+            "url": "https://www.ifixit.com/Item/Allen_wrench_set",
+            "additional_info": "Every tub is different therefore you will have to determine which size your tub will need."
+        },
+        {
+            "name": "Adjustable Wrench",
+            "url": "https://www.ifixit.com/products/smart-wrench",
+            "image_url": "https://cart-products.cdn.ifixit.com/cart-products/In1GUWfyJUd1duqW.thumbnail",
+            "price": "$24.99",
+            "add_to_cart": true
+        },
+        {
+            "name": "Phillips #0 Screwdriver",
+            "url": "https://www.ifixit.com/products/phillips-0-screwdriver",
+            "image_url": "https://cart-products.cdn.ifixit.com/cart-products/iHsH13ZerBV42IXL.thumbnail",
+            "price": "$5.49 New / iFixit$8.99 New / Moody - Made in USA",
+            "add_to_cart": true
+        },
+        {
+            "name": "6‑in-1 Screwdriver",
+            "url": "https://www.ifixit.com/products/6-in-1-screwdriver",
+            "image_url": "https://cart-products.cdn.ifixit.com/cart-products/LYcK13TjejldWD5Y.thumbnail",
+            "price": "$6.99",
+            "add_to_cart": true
+        }
+    ],
+    "steps": [
+        {
+            "step_number": 1,
+            "title": "Gecko pressure switch",
+            "instructions": [
+                "Locate the pressure valve"
+            ],
+            "image_url": "https://guide-images.cdn.ifixit.com/igi/aAvJLAkJJgrRaSaE.medium",
+            "additional_images": [
+                "https://guide-images.cdn.ifixit.com/igi/aAvJLAkJJgrRaSaE.200x150",
+                "https://guide-images.cdn.ifixit.com/igi/6NSODZYKfF4SBeLy.200x150"
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/103664/272192",
+            "add_comment_url": "https://www.ifixit.com/Guide/Replace+Whirlpool+pressure+switch/#",
+            "links": []
+        },
+        {
+            "step_number": 2,
+            "instructions": [
+                "Use a Phillips screwdriver to loosen the screw",
+                "open the lid"
+            ],
+            "image_url": "https://guide-images.cdn.ifixit.com/igi/DhSEgyMfohNTY43a.medium",
+            "additional_images": [
+                "https://guide-images.cdn.ifixit.com/igi/DhSEgyMfohNTY43a.200x150",
+                "https://guide-images.cdn.ifixit.com/igi/i5LPBZEMyuewJYif.200x150"
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/103664/272184",
+            "add_comment_url": "https://www.ifixit.com/Guide/Replace+Whirlpool+pressure+switch/#",
+            "links": []
+        },
+        {
+            "step_number": 3,
+            "instructions": [
+                "Disconnect the plug from the pressure switch"
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/103664/272188",
+            "add_comment_url": "https://www.ifixit.com/Guide/Replace+Whirlpool+pressure+switch/#",
+            "links": []
+        },
+        {
+            "step_number": 4,
+            "instructions": [
+                "Route the pressure switch cable out of the control box"
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/103664/272189",
+            "add_comment_url": "https://www.ifixit.com/Guide/Replace+Whirlpool+pressure+switch/#",
+            "links": []
+        },
+        {
+            "step_number": 5,
+            "instructions": [
+                "Cut off the cable ties",
+                "Peel off the rubber",
+                "Pull off the electrical contacts",
+                "It doesn't matter which way around the contacts are reconnected during assembly"
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/103664/272190",
+            "add_comment_url": "https://www.ifixit.com/Guide/Replace+Whirlpool+pressure+switch/#",
+            "links": []
+        },
+        {
+            "step_number": 6,
+            "instructions": [
+                "Unscrew the pressure switch with an open-end wrench",
+                "Check whether there is any dirt in the openings of the pressure switch and the holder. If necessary, remove the dirt."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/103664/272191",
+            "add_comment_url": "https://www.ifixit.com/Guide/Replace+Whirlpool+pressure+switch/#",
+            "links": []
+        }
+    ],
+    "embed_guide": {
+        "single_step_url": "https://www.ifixit.com/Guide/embed/103664",
+        "full_guide_url": "https://www.ifixit.com/Guide/embed/103664/full",
+        "sizes": {
+            "small": 600,
+            "medium": 800,
+            "large": 1200
+        }
+    },
+    "repair_is_noble_url": "https://www.ifixit.com/Manifesto",
+    "license_url": "https://www.ifixit.com/Info/Licensing",
+    "guide_url": "https://www.ifixit.com/Guide/Replace+Whirlpool+pressure+switch/103664"
+}

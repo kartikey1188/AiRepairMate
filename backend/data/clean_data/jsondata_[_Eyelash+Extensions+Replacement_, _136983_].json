@@ -1,0 +1,302 @@
+{
+    "metadata": {
+        "title": "Eyelash Extensions Replacement",
+        "last_updated": "May 7, 2024",
+        "estimated_time": "1 - 3 hours",
+        "difficulty": "Difficult",
+        "guide_url": "https://www.ifixit.com/Guide/Eyelash+Extensions+Replacement/",
+        "guide_id": 136983,
+        "device_categories": [
+            {
+                "name": "Health And Personal Care",
+                "url": "https://www.ifixit.com/Guide/Eyelash+Extensions+Replacement/<https://www.ifixit.com/Device/Health_And_Personal_Care>"
+            },
+            {
+                "name": "Household",
+                "url": "https://www.ifixit.com/Guide/Eyelash+Extensions+Replacement/<https://www.ifixit.com/Device/Household>"
+            },
+            {
+                "name": "Home",
+                "url": "https://www.ifixit.com/Guide/Eyelash+Extensions+Replacement/<https://www.ifixit.com/Guide>"
+            }
+        ],
+        "parts_url": "https://www.ifixit.com/Guide/Eyelash+Extensions+Replacement/<https://www.ifixit.com/Device/Health_And_Personal_Care#Section_Guides>",
+        "answers_url": "https://www.ifixit.com/Guide/Eyelash+Extensions+Replacement/</Answers/Device/Health_And_Personal_Care>",
+        "edit_url": "https://www.ifixit.com/Guide/Eyelash+Extensions+Replacement/</Guide/edit/136983>",
+        "guide_image": "https://guide-images.cdn.ifixit.com/igi/PBVYFkVDqda1MRjk.140x105",
+        "embed_code": {
+            "small": "<iframe id=\"dozuki-embed-136983\" src=\"https://www.ifixit.com/Guide/embed/136983/full\" width=\"600\" allowfullscreen frameborder=\"0\"></iframe> <script>window.addEventListener(\"message\",function(a){var b=document.getElementById(\"dozuki-embed-136983\"),c=a.data[0],d=a.data[1];switch(c){case\"setHeight\":b.style.height=d+\"px\"}},!1);</script>",
+            "medium": "<iframe id=\"dozuki-embed-136983\" src=\"https://www.ifixit.com/Guide/embed/136983/full\" width=\"800\" allowfullscreen frameborder=\"0\"></iframe> <script>window.addEventListener(\"message\",function(a){var b=document.getElementById(\"dozuki-embed-136983\"),c=a.data[0],d=a.data[1];switch(c){case\"setHeight\":b.style.height=d+\"px\"}},!1);</script>",
+            "large": "<iframe id=\"dozuki-embed-136983\" src=\"https://www.ifixit.com/Guide/embed/136983/full\" width=\"1200\" allowfullscreen frameborder=\"0\"></iframe> <script>window.addEventListener(\"message\",function(a){var b=document.getElementById(\"dozuki-embed-136983\"),c=a.data[0],d=a.data[1];switch(c){case\"setHeight\":b.style.height=d+\"px\"}},!1);</script>",
+            "single_step_embed": "<iframe src=\"https://www.ifixit.com/Guide/embed/136983\" width=\"800\" height=\"584\" allowfullscreen frameborder=\"0\"></iframe>"
+        }
+    },
+    "introduction": {
+        "text": "Every person has a natural growth cycle, just like hair. Natural lashes shed anywhere from 60-90 days, replacing themselves with new ones.\nFixing grown-out eyelash extensions is necessary every 2-3 weeks to keep your eyelashes looking full.\nThis repair guide is necessary for eyelash technicians to ensure a safe and proper eyelash extension fill procedure. Eyelash extension fills are a great opportunity to refine the client’s look based on what look they are going for. It is also a great opportunity for the lash technician to express their creativity.",
+        "step_url": "https://www.ifixit.com/Guide/Eyelash+Extensions+Replacement/<#s272296>"
+    },
+    "tools": [
+        {
+            "name": "Medical‑grade tape",
+            "url": "https://www.ifixit.com/Guide/Eyelash+Extensions+Replacement/</Item/Medical-grade_tape>",
+            "image_url": ""
+        },
+        {
+            "name": "Light source",
+            "url": "https://www.ifixit.com/Guide/Eyelash+Extensions+Replacement/</Item/Light_source>",
+            "image_url": ""
+        },
+        {
+            "name": "Clean mascara wand",
+            "url": "https://www.ifixit.com/Guide/Eyelash+Extensions+Replacement/</Item/Clean_mascara_wand>",
+            "image_url": ""
+        },
+        {
+            "name": "clean, disinfected eyelash tweezers",
+            "url": "https://www.ifixit.com/Guide/Eyelash+Extensions+Replacement/</Item/clean_disinfected_eyelash_tweezers>",
+            "quantity": "×2",
+            "image_url": ""
+        },
+        {
+            "name": "Eyelash primer",
+            "url": "https://www.ifixit.com/Guide/Eyelash+Extensions+Replacement/</Item/Eyelash_primer>",
+            "image_url": ""
+        },
+        {
+            "name": "Micro swabs",
+            "url": "https://www.ifixit.com/Guide/Eyelash+Extensions+Replacement/</Item/Micro_swabs>",
+            "quantity": "×2",
+            "image_url": ""
+        },
+        {
+            "name": "Fan",
+            "url": "https://www.ifixit.com/Guide/Eyelash+Extensions+Replacement/<https://www.amazon.com/fan/s?k=fan&tag=ifixitam-20>",
+            "affiliate_link": "https://www.ifixit.com/Guide/Eyelash+Extensions+Replacement/<https://www.amazon.com/fan/s?k=fan&tag=ifixitam-20>",
+            "availability": "Available for sale on Amazon",
+            "view_url": "https://www.ifixit.com/Guide/Eyelash+Extensions+Replacement/<https://www.amazon.com/fan/s?k=fan&tag=ifixitam-20>"
+        },
+        {
+            "name": "Eyelash adhesive",
+            "url": "https://www.ifixit.com/Guide/Eyelash+Extensions+Replacement/</Item/Eyelash_adhesive>",
+            "image_url": ""
+        },
+        {
+            "name": "Eyelash extensions",
+            "url": "https://www.ifixit.com/Guide/Eyelash+Extensions+Replacement/</Item/Eyelash_extensions>",
+            "image_url": ""
+        }
+    ],
+    "steps": [
+        {
+            "step_number": 1,
+            "title": "Eyelash Extensions",
+            "step_url": "https://www.ifixit.com/Guide/Eyelash+Extensions+Replacement/<#s272296>",
+            "instructions": [
+                "Wash hands thoroughly and make sure that the station and tools are cleaned and disinfected."
+            ],
+            "images": [
+                {
+                    "original": "https://guide-images.cdn.ifixit.com/igi/PBVYFkVDqda1MRjk.medium",
+                    "thumbnail": ""
+                }
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/Eyelash+Extensions+Replacement/</Guide/edit/136983/272296>",
+            "comments_section": {
+                "add_comment_url": null,
+                "max_length": 1024
+            }
+        },
+        {
+            "step_number": 2,
+            "title": "",
+            "step_url": "https://www.ifixit.com/Guide/Eyelash+Extensions+Replacement/<#s272298>",
+            "instructions": [
+                "Place the medical-grade tape under each eye, making sure that all the lower lashes are secured."
+            ],
+            "images": [
+                {
+                    "original": "https://guide-images.cdn.ifixit.com/igi/HryEuYg5fyKnAJpo.medium",
+                    "thumbnail": ""
+                }
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/Eyelash+Extensions+Replacement/</Guide/edit/136983/272298>",
+            "comments_section": {
+                "add_comment_url": null,
+                "max_length": 1024
+            }
+        },
+        {
+            "step_number": 3,
+            "title": "",
+            "step_url": "https://www.ifixit.com/Guide/Eyelash+Extensions+Replacement/<#s272299>",
+            "instructions": [
+                "Make sure that the client feels comfortable with the tape on with their eyes closed."
+            ],
+            "images": [],
+            "edit_url": "https://www.ifixit.com/Guide/Eyelash+Extensions+Replacement/</Guide/edit/136983/272299>",
+            "comments_section": {
+                "add_comment_url": null,
+                "max_length": 1024
+            }
+        },
+        {
+            "step_number": 4,
+            "title": "",
+            "step_url": "https://www.ifixit.com/Guide/Eyelash+Extensions+Replacement/<#s272300>",
+            "instructions": [
+                "Brush the eyelashes thoroughly using a mascara wand to remove the eyelashes that are ready to shed."
+            ],
+            "images": [],
+            "edit_url": "https://www.ifixit.com/Guide/Eyelash+Extensions+Replacement/</Guide/edit/136983/272300>",
+            "comments_section": {
+                "add_comment_url": null,
+                "max_length": 1024
+            }
+        },
+        {
+            "step_number": 5,
+            "title": "",
+            "step_url": "https://www.ifixit.com/Guide/Eyelash+Extensions+Replacement/<#s272301>",
+            "instructions": [
+                "Remove all the grown-out lashes using the banana peel method.",
+                "Hold the natural lash in one clean tweezer and the eyelash extension in the other set of clean [tweezers](https://www.ifixit.com/Guide/Eyelash+Extensions+Replacement/<https://www.ifixit.com/products/tweezers>).",
+                "Gently pull the natural lash and the lash extension in opposite directions and peel the lashes apart like a banana."
+            ],
+            "images": [],
+            "tools_used": [
+                {
+                    "name": "Tweezers",
+                    "url": "https://www.ifixit.com/Guide/Eyelash+Extensions+Replacement/<https://www.ifixit.com/products/tweezers>",
+                    "price": "$4.99",
+                    "buy_url": "https://www.ifixit.com/Guide/Eyelash+Extensions+Replacement/<https://www.ifixit.com/products/tweezers>"
+                }
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/Eyelash+Extensions+Replacement/</Guide/edit/136983/272301>",
+            "comments_section": {
+                "add_comment_url": null,
+                "max_length": 1024
+            }
+        },
+        {
+            "step_number": 6,
+            "title": "",
+            "step_url": "https://www.ifixit.com/Guide/Eyelash+Extensions+Replacement/<#s272302>",
+            "instructions": [
+                "Brush the eyelashes again using a mascara wand after removing all the grown-out lashes."
+            ],
+            "images": [],
+            "edit_url": "https://www.ifixit.com/Guide/Eyelash+Extensions+Replacement/</Guide/edit/136983/272302>",
+            "comments_section": {
+                "add_comment_url": null,
+                "max_length": 1024
+            }
+        },
+        {
+            "step_number": 7,
+            "title": "",
+            "step_url": "https://www.ifixit.com/Guide/Eyelash+Extensions+Replacement/<#s272303>",
+            "instructions": [
+                "Put a drop or two of the eyelash primer on the micro swabs.",
+                "Dab the micro swabs on the eyelashes while making sure that it does not touch the eyelids as it can sting the client’s eyes."
+            ],
+            "images": [],
+            "edit_url": "https://www.ifixit.com/Guide/Eyelash+Extensions+Replacement/</Guide/edit/136983/272303>",
+            "comments_section": {
+                "add_comment_url": null,
+                "max_length": 1024
+            }
+        },
+        {
+            "step_number": 8,
+            "title": "",
+            "step_url": "https://www.ifixit.com/Guide/Eyelash+Extensions+Replacement/<#s272304>",
+            "instructions": [
+                "Let it air dry or use a fan for a faster dry time."
+            ],
+            "images": [],
+            "edit_url": "https://www.ifixit.com/Guide/Eyelash+Extensions+Replacement/</Guide/edit/136983/272304>",
+            "comments_section": {
+                "add_comment_url": null,
+                "max_length": 1024
+            }
+        },
+        {
+            "step_number": 9,
+            "title": "",
+            "step_url": "https://www.ifixit.com/Guide/Eyelash+Extensions+Replacement/<#s272305>",
+            "instructions": [
+                "Place a new lash extension using the eyelash extension adhesive of choice onto the natural eyelash, making sure that the eyelashes are isolated."
+            ],
+            "images": [],
+            "edit_url": "https://www.ifixit.com/Guide/Eyelash+Extensions+Replacement/</Guide/edit/136983/272305>",
+            "comments_section": {
+                "add_comment_url": null,
+                "max_length": 1024
+            }
+        },
+        {
+            "step_number": 10,
+            "title": "",
+            "step_url": "https://www.ifixit.com/Guide/Eyelash+Extensions+Replacement/<#s272306>",
+            "instructions": [
+                "Repeat Step 9 for both eyes until you are completely satisfied with your work."
+            ],
+            "images": [],
+            "edit_url": "https://www.ifixit.com/Guide/Eyelash+Extensions+Replacement/</Guide/edit/136983/272306>",
+            "comments_section": {
+                "add_comment_url": null,
+                "max_length": 1024
+            }
+        },
+        {
+            "step_number": 11,
+            "title": "",
+            "step_url": "https://www.ifixit.com/Guide/Eyelash+Extensions+Replacement/<#s272307>",
+            "instructions": [
+                "Inspect, separate, and brush the lashes to make sure that there are no upper lashes stuck on the lower lashes."
+            ],
+            "images": [],
+            "edit_url": "https://www.ifixit.com/Guide/Eyelash+Extensions+Replacement/</Guide/edit/136983/272307>",
+            "comments_section": {
+                "add_comment_url": null,
+                "max_length": 1024
+            }
+        },
+        {
+            "step_number": 12,
+            "title": "",
+            "step_url": "https://www.ifixit.com/Guide/Eyelash+Extensions+Replacement/<#s272309>",
+            "instructions": [
+                "Use a fan for 5-10 minutes to make sure that the adhesive is cured."
+            ],
+            "images": [],
+            "edit_url": "https://www.ifixit.com/Guide/Eyelash+Extensions+Replacement/</Guide/edit/136983/272309>",
+            "comments_section": {
+                "add_comment_url": null,
+                "max_length": 1024
+            }
+        },
+        {
+            "step_number": 13,
+            "title": "",
+            "step_url": "https://www.ifixit.com/Guide/Eyelash+Extensions+Replacement/<#s272310>",
+            "instructions": [
+                "Gently remove the tape from under each eye."
+            ],
+            "images": [],
+            "edit_url": "https://www.ifixit.com/Guide/Eyelash+Extensions+Replacement/</Guide/edit/136983/272310>",
+            "comments_section": {
+                "add_comment_url": null,
+                "max_length": 1024
+            }
+        }
+    ],
+    "conclusion": {
+        "text": "Finish Line",
+        "almost_done": "Almost done!"
+    },
+    "additional_info": {
+        "give_author_points": "Give the author +30 points!  You're Finished!",
+        "cancel_guide_completion_url": "https://www.ifixit.com/Guide/Eyelash+Extensions+Replacement/<#>"
+    }
+}

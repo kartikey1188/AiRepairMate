@@ -1,0 +1,105 @@
+{
+    "metadata": {
+        "title": "Felco Gartenschere - Pruners Disassembly",
+        "contributors_link": "https://www.ifixit.com/Guide/history/77310",
+        "last_updated": "February 3, 2021",
+        "estimated_time": "15 minutes",
+        "difficulty": "Very easy",
+        "community_guide": true,
+        "introduction": "These scissors require a little maintenance. The blade must be sharpened, rust marks removed and the joint lubricated."
+    },
+    "tools": [
+        {
+            "name": "Gabelschlüsselset",
+            "link": "http://netformers.dozuki.com/Item/Gabelschlüsselset",
+            "for_sale_from_another_site": "http://netformers.dozuki.com/Item/Gabelschlüsselset"
+        }
+    ],
+    "steps": [
+        {
+            "step_number": 1,
+            "title": "Various types available",
+            "image": "https://guide-images.cdn.ifixit.com/igi/wREUhHmuLCKT2mWn.medium",
+            "image_alt": "Felco Gartenschere - Pruners Disassembly, Various types available: step 1, image 1 of 1",
+            "instructions": [
+                "There are several types - e.g. also for left-handers, here a Felco Nr 4 is shown."
+            ],
+            "edit_link": "https://www.ifixit.com/Guide/edit/77310/154105",
+            "translate_link": "https://www.ifixit.com/Guide/translate/77310/154105/en",
+            "comments": {
+                "add_comment_link": "https://www.ifixit.com/Guide/Felco+Gartenschere+-+Pruners+Disassembly/",
+                "add_comment_text": "Add a comment"
+            }
+        },
+        {
+            "step_number": 2,
+            "title": "Release mother",
+            "image": "https://guide-images.cdn.ifixit.com/igi/TOcHWIxdGl2MSF4A.medium",
+            "image_alt": "Felco Gartenschere - Pruners Disassembly, Release mother: step 2, image 1 of 1",
+            "instructions": [
+                "First, the upper nut SW 13 is released, then the scissors is turned over.",
+                "The spring can be easily removed."
+            ],
+            "edit_link": "https://www.ifixit.com/Guide/edit/77310/154106",
+            "translate_link": "https://www.ifixit.com/Guide/translate/77310/154106/en",
+            "comments": {
+                "add_comment_link": "https://www.ifixit.com/Guide/Felco+Gartenschere+-+Pruners+Disassembly/",
+                "add_comment_text": "Add a comment"
+            }
+        },
+        {
+            "step_number": 3,
+            "title": "Release screw from below",
+            "instructions": [
+                "Now the hinge screw can be unscrewed. Here SW 14 is used Next to it lies the spring and the lock nut.",
+                "Now the scissors can be completely disassembled.",
+                "The blade is pinned with three bolts in the handle half and usually dissolves easily."
+            ],
+            "edit_link": "https://www.ifixit.com/Guide/edit/77310/154107",
+            "translate_link": "https://www.ifixit.com/Guide/translate/77310/154107/en",
+            "comments": {
+                "add_comment_link": "https://www.ifixit.com/Guide/Felco+Gartenschere+-+Pruners+Disassembly/",
+                "add_comment_text": "Add a comment"
+            }
+        },
+        {
+            "step_number": 4,
+            "title": "The items",
+            "instructions": [
+                "The scissors are disassembled. We see the pivot nut, the hinge screw, the spring, the two handles and the blade."
+            ],
+            "edit_link": "https://www.ifixit.com/Guide/edit/77310/154108",
+            "translate_link": "https://www.ifixit.com/Guide/translate/77310/154108/en",
+            "comments": {
+                "add_comment_link": "https://www.ifixit.com/Guide/Felco+Gartenschere+-+Pruners+Disassembly/",
+                "add_comment_text": "Add a comment"
+            }
+        },
+        {
+            "step_number": 5,
+            "title": "maintenance",
+            "instructions": [
+                "The blade is ground on one side. Sharpen the beveled edge with about 15 degrees, only deburr the straight edge with a maximum of 5 degrees.",
+                "The parts should be free from rust and freshly oiled or greased."
+            ],
+            "edit_link": "https://www.ifixit.com/Guide/edit/77310/154109",
+            "translate_link": "https://www.ifixit.com/Guide/translate/77310/154109/en",
+            "comments": {
+                "add_comment_link": "https://www.ifixit.com/Guide/Felco+Gartenschere+-+Pruners+Disassembly/",
+                "add_comment_text": "Add a comment"
+            }
+        }
+    ],
+    "conclusion": "Repeat the steps in order to reassemble your device.",
+    "embed_guide": {
+        "small": "<iframe id=\"dozuki-embed-77310\" src=\"https://www.ifixit.com/Guide/embed/77310/full\" width=\"600\" allowfullscreen frameborder=\"0\"></iframe> <script>window.addEventListener(\"message\",function(a){var b=document.getElementById(\"dozuki-embed-77310\"),c=a.data[0],d=a.data[1];switch(c){case\"setHeight\":b.style.height=d+\"px\"}},!1);</script>",
+        "medium": "<iframe id=\"dozuki-embed-77310\" src=\"https://www.ifixit.com/Guide/embed/77310/full\" width=\"800\" allowfullscreen frameborder=\"0\"></iframe> <script>window.addEventListener(\"message\",function(a){var b=document.getElementById(\"dozuki-embed-77310\"),c=a.data[0],d=a.data[1];switch(c){case\"setHeight\":b.style.height=d+\"px\"}},!1);</script>",
+        "large": "<iframe id=\"dozuki-embed-77310\" src=\"https://www.ifixit.com/Guide/embed/77310/full\" width=\"1200\" allowfullscreen frameborder=\"0\"></iframe> <script>window.addEventListener(\"message\",function(a){var b=document.getElementById(\"dozuki-embed-77310\"),c=a.data[0],d=a.data[1];switch(c){case\"setHeight\":b.style.height=d+\"px\"}},!1);</script>",
+        "full": "<iframe src=\"https://www.ifixit.com/Guide/embed/77310\" width=\"800\" height=\"584\" allowfullscreen frameborder=\"0\"></iframe>"
+    },
+    "stay_in_the_loop": {
+        "newsletter_link": "https://www.ifixit.com/Newsletter",
+        "translate_link": "https://www.ifixit.com/Translate"
+    },
+    "repair_is_noble": "https://www.ifixit.com/Manifesto"
+}

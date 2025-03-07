@@ -1,0 +1,89 @@
+{
+    "title": "Bomann DB 774CB Iron",
+    "last_updated": "October 15, 2024",
+    "estimated_time": "10 minutes",
+    "difficulty": "Easy",
+    "community_guide": true,
+    "introduction": "Model: DB 774CB 2500W",
+    "tools": [
+        {
+            "name": "Essential Electronics Toolkit",
+            "url": "https://www.ifixit.com/products/essential-electronics-toolkit",
+            "image": "https://cart-products.cdn.ifixit.com/cart-products/6JwXuUWvBHYYrIRj.thumbnail",
+            "price": "$29.95",
+            "add_to_cart_url": "https://www.ifixit.com/products/essential-electronics-toolkit"
+        }
+    ],
+    "steps": [
+        {
+            "step_number": 1,
+            "title": "Startup",
+            "content": [
+                "Locate and extract the small plug (circled in the photo) and remove the screw hidden underneath.",
+                "Unscrew and remove the back plate."
+            ],
+            "image": "https://guide-images.cdn.ifixit.com/igi/5O3wNdXNYTOFpIFk.medium",
+            "edit_url": "https://www.ifixit.com/Guide/edit/37181/83428",
+            "comments_count": 0,
+            "translate_url": "https://www.ifixit.com/Guide/translate/37181/83428/en",
+            "add_comment_url": null
+        },
+        {
+            "step_number": 2,
+            "title": "Undressing the handle",
+            "content": [
+                "Unclip the top of the handle from the back (clips circled in the photos).",
+                "Unclip the top of the handle from the front (clips circled in the photo). Be careful not to break (like us) the steam nozzle!",
+                "Pull out the steam control knobs.",
+                "Carefully \"tear\" the temperature adjustment knob."
+            ],
+            "images": [
+                "https://guide-images.cdn.ifixit.com/igi/R11BN2PBh1JvTmp6.medium",
+                "https://guide-images.cdn.ifixit.com/igi/6feSbSMO1IYZVlQU.medium",
+                "https://guide-images.cdn.ifixit.com/igi/3XBvMB3H5UNADeY6.medium"
+            ],
+            "images_200x150": [
+                "https://guide-images.cdn.ifixit.com/igi/R11BN2PBh1JvTmp6.200x150",
+                "https://guide-images.cdn.ifixit.com/igi/6feSbSMO1IYZVlQU.200x150",
+                "https://guide-images.cdn.ifixit.com/igi/3XBvMB3H5UNADeY6.200x150"
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/37181/83429",
+            "comments_count": 0,
+            "translate_url": "https://www.ifixit.com/Guide/translate/37181/83429/en",
+            "add_comment_url": null
+        },
+        {
+            "step_number": 3,
+            "title": "Stripping of the sole",
+            "content": [
+                "Remove the screws and remove the plastic shell.",
+                "Unscrew the screws and remove the base cover."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/37181/83439",
+            "comments_count": 0,
+            "translate_url": "https://www.ifixit.com/Guide/translate/37181/83439/en",
+            "add_comment_url": null
+        },
+        {
+            "step_number": 4,
+            "title": "Breakdowns",
+            "content": [
+                "Two different failures already observed:",
+                "Spacer (circled) which had come out of its housing following a fall of the iron!",
+                "Small foreign body that got stuck between the two contacts (circled).",
+                "Be careful not to turn the temperature adjustment screw (arrow) located in the control rod. Its readjustment is quite tedious, by mistake and trials!"
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/37181/83444",
+            "comments_count": 0,
+            "translate_url": "https://www.ifixit.com/Guide/translate/37181/83444/en",
+            "add_comment_url": null
+        }
+    ],
+    "conclusion": "Putting each screw back in its place is no problem.",
+    "embed_code": {
+        "small": "<iframe id=\"dozuki-embed-37181\" src=\"https://www.ifixit.com/Guide/embed/37181/full\" width=\"600\" allowfullscreen frameborder=\"0\"></iframe> <script>window.addEventListener(\"message\",function(a){var b=document.getElementById(\"dozuki-embed-37181\"),c=a.data[0],d=a.data[1];switch(c){case\"setHeight\":b.style.height=d+\"px\"}},!1);</script>",
+        "medium": "<iframe id=\"dozuki-embed-37181\" src=\"https://www.ifixit.com/Guide/embed/37181/full\" width=\"800\" allowfullscreen frameborder=\"0\"></iframe> <script>window.addEventListener(\"message\",function(a){var b=document.getElementById(\"dozuki-embed-37181\"),c=a.data[0],d=a.data[1];switch(c){case\"setHeight\":b.style.height=d+\"px\"}},!1);</script>",
+        "large": "<iframe id=\"dozuki-embed-37181\" src=\"https://www.ifixit.com/Guide/embed/37181/full\" width=\"1200\" allowfullscreen frameborder=\"0\"></iframe> <script>window.addEventListener(\"message\",function(a){var b=document.getElementById(\"dozuki-embed-37181\"),c=a.data[0],d=a.data[1];switch(c){case\"setHeight\":b.style.height=d+\"px\"}},!1);</script>",
+        "full_guide": "<iframe src=\"https://www.ifixit.com/Guide/embed/37181\" width=\"800\" height=\"584\" allowfullscreen frameborder=\"0\"></iframe>"
+    }
+}

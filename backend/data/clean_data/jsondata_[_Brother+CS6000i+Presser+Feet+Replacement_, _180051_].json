@@ -1,0 +1,77 @@
+{
+    "metadata": {
+        "title": "Brother CS6000i Presser Feet Replacement",
+        "last_updated": "December 31, 2024",
+        "guide_image": "https://guide-images.cdn.ifixit.com/igi/plNCGvytR6OG1mL6.140x105",
+        "estimated_time": "1 minute",
+        "difficulty": "Very easy",
+        "device_links": [
+            {
+                "text": "Brother CS6000i",
+                "url": "https://www.ifixit.com/Device/Brother_CS6000i"
+            },
+            {
+                "text": "Sewing Machine",
+                "url": "https://www.ifixit.com/Device/Sewing_Machine"
+            },
+            {
+                "text": "Arts, Crafts & Sewing",
+                "url": "https://www.ifixit.com/Device/Arts_Crafts_and_Sewing"
+            },
+            {
+                "text": "Household",
+                "url": "https://www.ifixit.com/Device/Household"
+            },
+            {
+                "text": "Home",
+                "url": "https://www.ifixit.com/Guide"
+            }
+        ],
+        "parts_links": [
+            {
+                "text": "Guides",
+                "url": "https://www.ifixit.com/Device/Brother_CS6000i#Section_Guides"
+            },
+            {
+                "text": "Troubleshooting",
+                "url": "https://www.ifixit.com/Troubleshooting/Brother_CS6000i"
+            }
+        ],
+        "edit_link": "https://www.ifixit.com/Guide/edit/180051"
+    },
+    "introduction": "If you have difficulty feeding fabric, the fabric bunches, or your project has skipped stitches, this guide will show you how to replace the presser feet on your Brother CS6000i sewing machine. The presser feet hold the fabric flat on the machine to ensure easy stitching.\nBefore removing the presser foot, be sure to turn off and unplug the machine.",
+    "steps": [
+        {
+            "step_number": 1,
+            "title": "Presser Feet",
+            "text": "Raise the presser foot by lifting up the presser foot lever.",
+            "image": "https://guide-images.cdn.ifixit.com/igi/XUZT1JBHl3eiaOrF.medium",
+            "image_links": [],
+            "edit_link": "https://www.ifixit.com/Guide/edit/180051/384543",
+            "comment_links": []
+        },
+        {
+            "step_number": 2,
+            "title": "",
+            "text": "Press the black lever on the backside of the needle and presser foot to detach the presser foot.",
+            "image": "https://guide-images.cdn.ifixit.com/igi/BOQkLc6OMyFUPcY6.medium",
+            "image_links": [],
+            "edit_link": "https://www.ifixit.com/Guide/edit/180051/384544",
+            "comment_links": []
+        },
+        {
+            "step_number": 3,
+            "title": "",
+            "text": "To insert new or different presser foot:\nLine up the presser foot correctly on the needle plate.\nPress the black lever and lower the presser foot lever down onto it.\nRelease the black button and lift up the lever.",
+            "image_links": [],
+            "edit_link": "https://www.ifixit.com/Guide/edit/180051/384545",
+            "comment_links": []
+        }
+    ],
+    "conclusion": {
+        "text": "Finish Line",
+        "author_points": 30,
+        "cancel_link": "https://www.ifixit.com/Guide/Brother+CS6000i+Presser+Feet+Replacement/<#>"
+    },
+    "embed_code": "<iframe id=\"dozuki-embed-180051\" src=\"https://www.ifixit.com/Guide/embed/180051/full\" width=\"800\" allowfullscreen frameborder=\"0\"></iframe> <script>window.addEventListener(\"message\",function(a){var b=document.getElementById(\"dozuki-embed-180051\"),c=a.data[0],d=a.data[1];switch(c){case\"setHeight\":b.style.height=d+\"px\"}},!1);</script> <iframe src=\"https://www.ifixit.com/Guide/embed/180051\" width=\"800\" height=\"584\" allowfullscreen frameborder=\"0\"></iframe>"
+}

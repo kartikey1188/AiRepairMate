@@ -1,0 +1,172 @@
+{
+    "metadata": {
+        "title": "Braun BT3240 Electric Trimmer Battery Replacement",
+        "last_updated": "July 11, 2024",
+        "guide_image": "https://guide-images.cdn.ifixit.com/igi/ucPvSkNFb2BIqieF.140x105",
+        "estimated_time": "45 minutes - 1 hour",
+        "difficulty": "Difficult",
+        "community_guide": true,
+        "device_links": [
+            {
+                "text": "Braun",
+                "url": "https://www.ifixit.com/Device/Braun_Razor"
+            },
+            {
+                "text": "Razor",
+                "url": "https://www.ifixit.com/Device/Razor"
+            },
+            {
+                "text": "Health And Personal Care",
+                "url": "https://www.ifixit.com/Device/Health_And_Personal_Care"
+            },
+            {
+                "text": "Household",
+                "url": "https://www.ifixit.com/Device/Household"
+            },
+            {
+                "text": "Home",
+                "url": "https://www.ifixit.com/Guide"
+            }
+        ],
+        "parts_links": [
+            {
+                "text": "Guides",
+                "url": "https://www.ifixit.com/Device/Braun_Razor#Section_Guides"
+            },
+            {
+                "text": "Answers",
+                "url": "https://www.ifixit.com/Answers/Device/Braun_Razor"
+            }
+        ],
+        "edit_link": "https://www.ifixit.com/Guide/edit/159817"
+    },
+    "introduction": "When an electric trimmer stops working, your first thought might be it is because there is something wrong with the charger or that you have damaged the power connector in the trimmer, as so I thought. However, it is usually the case that the battery is worn out.\nSo, get ready to invest your time and money on a Soldering kit and other listed tools and follow this guide. The guide specifically shows you how you can replace your Braun BT3240 Electric Trimmer's batteries which would require you to have soldering skills. Click [here](https://www.ifixit.com/Guide/How+To+Solder+and+Desolder+Connections/750) to develop/refine your soldering skills.\nFor replacement parts or further assistance, visit [Contact us](https://ca.braun.com/en-ca/contactus).",
+    "what_you_need": {
+        "parts": [
+            {
+                "text": "ENELOOP AAA with U‑lip",
+                "url": "https://www.nkon.nl/rechargeable/aaa-size/aaa-eneloop-u-lip.html",
+                "available_on": "https://www.nkon.nl/rechargeable/aaa-size/aaa-eneloop-u-lip.html",
+                "view_link": "https://www.nkon.nl/rechargeable/aaa-size/aaa-eneloop-u-lip.html"
+            }
+        ],
+        "tools": [
+            {
+                "text": "Soldering Workstation",
+                "url": "https://www.ifixit.com/products/soldering-workstation",
+                "image": "https://cart-products.cdn.ifixit.com/cart-products/dIfDOMnSEGhxZmJY.thumbnail",
+                "price": "$49.99",
+                "view_link": "https://www.ifixit.com/products/soldering-workstation"
+            },
+            {
+                "text": "Micro Slotted Precision Screwdriver (2.5mm head)",
+                "url": "https://www.amazon.ca/Wera-05118008004-Kraftform-Electronics-Screwdriver/dp/B003ES5LYK/ref=asc_df_B003ES5LYK/?tag=googleshopc0c-20&linkCode=df0&hvadid=292944199160&hvpos=&hvnetw=g&hvrand=15469764784516581561&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1002403&hvtargid=pla-420702617439&th=1",
+                "affiliate_link": "https://www.amazon.ca/Wera-05118008004-Kraftform-Electronics-Screwdriver/dp/B003ES5LYK/ref=asc_df_B003ES5LYK/?tag=googleshopc0c-20&linkCode=df0&hvadid=292944199160&hvpos=&hvnetw=g&hvrand=15469764784516581561&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1002403&hvtargid=pla-420702617439&th=1",
+                "available_on_amazon": "https://www.amazon.ca/Wera-05118008004-Kraftform-Electronics-Screwdriver/dp/B003ES5LYK/ref=asc_df_B003ES5LYK/?tag=googleshopc0c-20&linkCode=df0&hvadid=292944199160&hvpos=&hvnetw=g&hvrand=15469764784516581561&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1002403&hvtargid=pla-420702617439&th=1",
+                "view_link": "https://www.amazon.ca/Wera-05118008004-Kraftform-Electronics-Screwdriver/dp/B003ES5LYK/ref=asc_df_B003ES5LYK/?tag=googleshopc0c-20&linkCode=df0&hvadid=292944199160&hvpos=&hvnetw=g&hvrand=15469764784516581561&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1002403&hvtargid=pla-420702617439&th=1"
+            },
+            {
+                "text": "Spudger",
+                "url": "https://www.ifixit.com/products/spudger",
+                "image": "https://cart-products.cdn.ifixit.com/cart-products/vy2elt3YPAXL1LmZ.thumbnail",
+                "price": "$3.99 New / Fixite Carbon Fiber$2.99 New / Glass Fiber$149.99 New / Glass Fiber Bundle of 100",
+                "view_link": "https://www.ifixit.com/products/spudger"
+            },
+            {
+                "text": "Tweezers",
+                "url": "https://www.ifixit.com/products/tweezers",
+                "image": "https://cart-products.cdn.ifixit.com/cart-products/eQGTt3iN1MmOAQDy.thumbnail",
+                "price": "$4.99",
+                "optional": "true"
+            }
+        ]
+    },
+    "steps": [
+        {
+            "step_number": 1,
+            "title": "Battery",
+            "text": "Ensure that the charger is unplugged from the electrical outlet connected to the trimmer.",
+            "image": "https://guide-images.cdn.ifixit.com/igi/oosm2O63t5EpjJAK.medium",
+            "image_links": [],
+            "edit_link": "https://www.ifixit.com/Guide/edit/159817/335364",
+            "comment_links": []
+        },
+        {
+            "step_number": 2,
+            "title": "",
+            "text": "Hold the trimmer in the opposite direction so that the power button on front is not facing you.\nSeparate the trimmer's top blade from the trimmer by pulling it in outwards direction.",
+            "image": "https://guide-images.cdn.ifixit.com/igi/neThhy26QWn5JO6A.medium",
+            "image_links": [
+                "https://guide-images.cdn.ifixit.com/igi/neThhy26QWn5JO6A.200x150",
+                "https://guide-images.cdn.ifixit.com/igi/B6lrIlHkY3gRDbaS.200x150"
+            ],
+            "edit_link": "https://www.ifixit.com/Guide/edit/159817/335380",
+            "comment_links": [],
+            "additional_images": [
+                "https://guide-images.cdn.ifixit.com/igi/B6lrIlHkY3gRDbaS.medium"
+            ]
+        },
+        {
+            "step_number": 3,
+            "title": "",
+            "text": "Hold the trimmer sideways as this makes the process of prying easier.\nInsert a Spudger or a sharp-tipped tweezer in between the top panel and middle panel and apply applicable force to unclip the plastic clips attaching the two panels.\nPull the top panel outwards and let it slide out of the middle panel. **Do not try to force it out as this may break the plastic clips**",
+            "image_links": [],
+            "edit_link": "https://www.ifixit.com/Guide/edit/159817/335384",
+            "comment_links": []
+        },
+        {
+            "step_number": 4,
+            "title": "",
+            "text": "Remove the four screws attaching the middle panel to the bottom panel.",
+            "image_links": [],
+            "edit_link": "https://www.ifixit.com/Guide/edit/159817/335385",
+            "comment_links": []
+        },
+        {
+            "step_number": 5,
+            "title": "",
+            "text": "Use the Spudger or sharp tipped tweezer to separate the middle panel attached to the bottom panel by lifting it upwards.",
+            "image_links": [],
+            "edit_link": "https://www.ifixit.com/Guide/edit/159817/335386",
+            "comment_links": []
+        },
+        {
+            "step_number": 6,
+            "title": "",
+            "text": "Gently pull out the battery holder connected to the electrical plug.",
+            "image_links": [],
+            "edit_link": "https://www.ifixit.com/Guide/edit/159817/335387",
+            "comment_links": []
+        },
+        {
+            "step_number": 7,
+            "title": "",
+            "text": "Use a plier to pry off the battery contact tab which is soldered onto the battery. Repeat the same step for all 4 battery contact tabs (two on each side of the battery holder).\nBe mindful not to completely destroy the battery contact tabs as you pry them off. You will need them while resoldering new batteries.",
+            "image_links": [],
+            "edit_link": "https://www.ifixit.com/Guide/edit/159817/335388",
+            "comment_links": []
+        },
+        {
+            "step_number": 8,
+            "title": "",
+            "text": "Caution! The temperature of the soldering iron is 450 degrees Fahrenheit. Do not apply melted soldering alloy for more than 15-20 seconds of time intervals.\nDo not touch the tip of the Soldering iron directly onto the battery. Only apply melted solder alloy onto the battery contact tab.\nEnsure that the positive and negative electrodes are correctly identified and now place the new batteries onto the battery holder.\nApply Soldering paste on the battery contact tab and then melt solder alloy on to the tip of the soldering iron and touch the tip of the soldering iron to one of the 4 specified battery contact tab. Repeat this same step for the other 3 battery contact tabs. Apply some more soldering iron alloy if the batteries do not feel rigid on the holder.",
+            "image_links": [],
+            "edit_link": "https://www.ifixit.com/Guide/edit/159817/335998",
+            "comment_links": []
+        },
+        {
+            "step_number": 9,
+            "title": "",
+            "text": "Once the solder on each side has dried out and in cool temperature, you can reassemble the parts and test the trimmer’s functionality.\nTo check if the trimmer works perfectly, you need to notice the head of the trimmer. The head of the trimmer should be rotating clockwise when you press the power button.",
+            "image_links": [],
+            "edit_link": "https://www.ifixit.com/Guide/edit/159817/335421",
+            "comment_links": []
+        }
+    ],
+    "conclusion": {
+        "text": "To reassemble your device, follow these instructions in reverse order.",
+        "author_points": 30,
+        "cancel_link": "https://www.ifixit.com/Guide/Braun+BT3240+Electric+Trimmer+Battery+Replacement/<#>"
+    },
+    "embed_code": "<iframe id=\"dozuki-embed-159817\" src=\"https://www.ifixit.com/Guide/embed/159817/full\" width=\"800\" allowfullscreen frameborder=\"0\"></iframe> <script>window.addEventListener(\"message\",function(a){var b=document.getElementById(\"dozuki-embed-159817\"),c=a.data[0],d=a.data[1];switch(c){case\"setHeight\":b.style.height=d+\"px\"}},!1);</script> <iframe src=\"https://www.ifixit.com/Guide/embed/159817\" width=\"800\" height=\"584\" allowfullscreen frameborder=\"0\"></iframe>"
+}

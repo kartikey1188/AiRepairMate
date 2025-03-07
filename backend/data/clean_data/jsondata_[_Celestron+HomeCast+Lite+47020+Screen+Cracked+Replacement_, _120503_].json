@@ -1,0 +1,95 @@
+{
+    "metadata": {
+        "title": "Celestron HomeCast Lite 47020 Screen Cracked Replacement",
+        "last_updated": "January 10, 2025",
+        "guide_image": "https://guide-images.cdn.ifixit.com/igi/kKfoEKDFkFUdlMyI.140x105",
+        "estimated_time": "5 minutes",
+        "difficulty": "Moderate",
+        "community_guide": true,
+        "device_links": [
+            {
+                "text": "Celestron HomeCast Lite 47020",
+                "url": "https://www.ifixit.com/Device/Celestron_HomeCast_Lite_47020"
+            },
+            {
+                "text": "Weather Station",
+                "url": "https://www.ifixit.com/Device/Weather_Station"
+            },
+            {
+                "text": "Patio, Lawn & Garden",
+                "url": "https://www.ifixit.com/Device/Lawn_and_Garden"
+            },
+            {
+                "text": "Household",
+                "url": "https://www.ifixit.com/Device/Household"
+            },
+            {
+                "text": "Home",
+                "url": "https://www.ifixit.com/Guide"
+            }
+        ],
+        "parts_links": [],
+        "edit_link": "https://www.ifixit.com/Guide/edit/120503"
+    },
+    "introduction": "Since the display's cracked screen cannot show data, we need to replace the screen to fix the problem.",
+    "what_you_need": {
+        "tools": [
+            {
+                "text": "Phillips #000 Screwdriver",
+                "url": "https://www.ifixit.com/products/phillips-000-screwdriver",
+                "image": "https://cart-products.cdn.ifixit.com/cart-products/TItFgnV21b3m5DCU.thumbnail",
+                "price": "$5.49 New / iFixit$9.99 New / Moody - Made in USA"
+            }
+        ]
+    },
+    "steps": [
+        {
+            "step_number": 1,
+            "title": "Cracked Screen",
+            "text": "Turn the device to the side with the main unit cover.\nUse the Phillips #000 screwdriver to remove the cover's four screws.",
+            "image": "https://guide-images.cdn.ifixit.com/igi/F4jTLo2IeKQGZcIJ.medium",
+            "image_links": [
+                "https://guide-images.cdn.ifixit.com/igi/F4jTLo2IeKQGZcIJ.200x150",
+                "https://guide-images.cdn.ifixit.com/igi/ckrOBOsEYJ5Muwx3.200x150",
+                "https://guide-images.cdn.ifixit.com/igi/QVMCuhYLCqIjPNPk.200x150"
+            ],
+            "edit_link": "https://www.ifixit.com/Guide/edit/120503/232449",
+            "comment_links": [],
+            "additional_images": [
+                "https://guide-images.cdn.ifixit.com/igi/ckrOBOsEYJ5Muwx3.medium",
+                "https://guide-images.cdn.ifixit.com/igi/QVMCuhYLCqIjPNPk.medium"
+            ]
+        },
+        {
+            "step_number": 2,
+            "title": "",
+            "text": "Be careful of the screw placed underneath the right-side white tab.\nOnce you have removed the screws from the cover, open the device carefully.\nUse the Phillips #000 screwdriver to then remove all the screws inside the device.",
+            "image": "https://guide-images.cdn.ifixit.com/igi/1CuCMdcMrHKjtrph.medium",
+            "image_links": [
+                "https://guide-images.cdn.ifixit.com/igi/1CuCMdcMrHKjtrph.200x150",
+                "https://guide-images.cdn.ifixit.com/igi/FP5wUXhmcStYB24J.200x150",
+                "https://guide-images.cdn.ifixit.com/igi/AI1fIDMvdnO1pE5r.200x150"
+            ],
+            "edit_link": "https://www.ifixit.com/Guide/edit/120503/232453",
+            "comment_links": [],
+            "additional_images": [
+                "https://guide-images.cdn.ifixit.com/igi/FP5wUXhmcStYB24J.medium",
+                "https://guide-images.cdn.ifixit.com/igi/AI1fIDMvdnO1pE5r.medium"
+            ]
+        },
+        {
+            "step_number": 3,
+            "title": "",
+            "text": "Be careful of all the connected white cables and wires when completing these next steps.\nRemove the motherboard carefully to find the screen.\nRemove the screen and check its condition.",
+            "image_links": [],
+            "edit_link": "https://www.ifixit.com/Guide/edit/120503/232457",
+            "comment_links": []
+        }
+    ],
+    "conclusion": {
+        "text": "To reassemble your device, follow these instructions in reverse order.",
+        "author_points": 30,
+        "cancel_link": "https://www.ifixit.com/Guide/Celestron+HomeCast+Lite+47020+Screen+Cracked+Replacement/<#>"
+    },
+    "embed_code": "<iframe id=\"dozuki-embed-120503\" src=\"https://www.ifixit.com/Guide/embed/120503/full\" width=\"800\" allowfullscreen frameborder=\"0\"></iframe> <script>window.addEventListener(\"message\",function(a){var b=document.getElementById(\"dozuki-embed-120503\"),c=a.data[0],d=a.data[1];switch(c){case\"setHeight\":b.style.height=d+\"px\"}},!1);</script> <iframe src=\"https://www.ifixit.com/Guide/embed/120503\" width=\"800\" height=\"584\" allowfullscreen frameborder=\"0\"></iframe>"
+}

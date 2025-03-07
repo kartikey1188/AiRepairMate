@@ -1,0 +1,127 @@
+{
+    "guide_title": "Bed boards Replacement",
+    "last_updated": "September 26, 2023",
+    "time_estimate": "20 - 25 minutes",
+    "difficulty": "Moderate",
+    "needs_better_images": true,
+    "introduction": "It is notable that after a long time, bed boards will start to get old or fold, due to the repeatedly use, and because of this, this guide has been provided if repair is need to be done, and you don’t have sufficient funds so you can just replace the boards with materials you already have and with a very quick repair the bed will be just like new.\nIn this guide you have been provided with the materials and procedure needed for you to complete the repair and assemble the replacement boards.\nIn order to repair these bed boards no prior experience is needed, you just need a few tools and to follow the instructions as clear as they are provided.\nNote: Keep in mind that you are going to use tools so be careful, and remember that the matress and box spring may be heavy so you should consider having another person to help you if needed.",
+    "tools_and_materials": [
+        {
+            "name": "Tape Measure",
+            "url": "https://smile.amazon.com/tape-measure/s?k=tape%2Bmeasure&tag=ifixitam-20",
+            "affiliate_link": true,
+            "available_on_amazon": true
+        },
+        {
+            "name": "Phillips #1 Screwdriver",
+            "url": "https://www.ifixit.com/products/phillips-1-screwdriver",
+            "price": "$5.49 New / iFixit $8.99 New / Moody - Made in USA",
+            "add_to_cart": true
+        }
+    ],
+    "steps": [
+        {
+            "step_number": 1,
+            "step_title": "Bed Boards",
+            "images": [
+                {
+                    "url": "https://guide-images.cdn.ifixit.com/igi/mQHMhel4cYBcLodZ.medium",
+                    "alt_text": "Bed boards Replacement, Bed Boards: step 1, image 1 of 2"
+                },
+                {
+                    "url": "https://guide-images.cdn.ifixit.com/igi/2JsM1TTUEEmO4Ebu.medium",
+                    "alt_text": "Bed boards Replacement, Bed Boards: step 1, image 2 of 2"
+                }
+            ],
+            "text": "Remove the matress from the bed.",
+            "links": [
+                {
+                    "type": "edit",
+                    "url": "https://www.ifixit.com/Guide/edit/146000/297605"
+                }
+            ]
+        },
+        {
+            "step_number": 2,
+            "step_title": null,
+            "images": [
+                {
+                    "url": "https://guide-images.cdn.ifixit.com/igi/D4EI4cBrs6mN11FT.medium",
+                    "alt_text": "Bed boards Replacement: step 2, image 1 of 1"
+                }
+            ],
+            "text": "Remove the box spring from the bed.",
+            "links": [
+                {
+                    "type": "edit",
+                    "url": "https://www.ifixit.com/Guide/edit/146000/297606"
+                }
+            ]
+        },
+        {
+            "step_number": 3,
+            "step_title": null,
+            "images": [],
+            "text": "Remove the old boards using the Phillips #1 screwdriver.",
+            "links": [
+                {
+                    "type": "edit",
+                    "url": "https://www.ifixit.com/Guide/edit/146000/297607"
+                }
+            ]
+        },
+        {
+            "step_number": 4,
+            "step_title": null,
+            "images": [],
+            "text": "Using your measure tape, measure the old boards and write down the measurements.",
+            "links": [
+                {
+                    "type": "edit",
+                    "url": "https://www.ifixit.com/Guide/edit/146000/297608"
+                }
+            ]
+        },
+        {
+            "step_number": 5,
+            "step_title": null,
+            "images": [],
+            "text": "Find some wooden boards with 2x2 measures (width) and with the length you already measured.",
+            "links": [
+                {
+                    "type": "edit",
+                    "url": "https://www.ifixit.com/Guide/edit/146000/297609"
+                }
+            ]
+        },
+        {
+            "step_number": 6,
+            "step_title": null,
+            "images": [],
+            "text": "Screw in the replacement boards.",
+            "links": [
+                {
+                    "type": "edit",
+                    "url": "https://www.ifixit.com/Guide/edit/146000/297610"
+                }
+            ]
+        },
+        {
+            "step_number": 7,
+            "step_title": null,
+            "images": [],
+            "text": "Put your box spring and mattress back and you are done.",
+            "links": [
+                {
+                    "type": "edit",
+                    "url": "https://www.ifixit.com/Guide/edit/146000/297611"
+                }
+            ]
+        }
+    ],
+    "conclusion": "To assemble your bed boards just follow the steps provided in the order given and your bed boards will be ready to go.",
+    "embed_guide": {
+        "single_step_code": "<iframe id=\"dozuki-embed-146000\" src=\"https://www.ifixit.com/Guide/embed/146000/full\" width=\"800\" allowfullscreen frameborder=\"0\"></iframe> <script>window.addEventListener(\"message\",function(a){var b=document.getElementById(\"dozuki-embed-146000\"),c=a.data[0],d=a.data[1];switch(c){case\"setHeight\":b.style.height=d+\"px\"}},!1);</script>",
+        "full_guide_code": "<iframe src=\"https://www.ifixit.com/Guide/embed/146000\" width=\"800\" height=\"584\" allowfullscreen frameborder=\"0\"></iframe>"
+    }
+}

@@ -1,0 +1,220 @@
+{
+    "title": "Adding a Battery Backup to a Wayne FloodAlert FF-98 Electronic Sump Pump Controller",
+    "last_updated": "January 4, 2025",
+    "estimated_time": "5 hours",
+    "difficulty": "Moderate",
+    "community_guide": true,
+    "introduction": "The FF-98 Controller is a mains-powered electronic water level sensor and alarm containing a 120VAC 20A relay for powering a sump pump. It detects water via two single conductor wire probes, one to activate the pump and one mounted higher up to activate a built in alarm if the pump fails. It has an adjustable timer from 0 to 80 seconds that controls how long the pump remains powered after the water level is reduced below the ‘pump’ sense wire.\nIt was desired to have a battery powered backup for the sump pump system. The previous solution was a 12V automotive battery, a charger, and pump, but it would have to be manually disconnected from the charger and switched on if the power ever went out. The secondary alarm sensing function was repurposed to control a second 12V relay which would operate the pump automatically. The battery also powers the detection circuitry of the AC power fails.\n### Goals:\n  1. Maintain current 120V operation and safety.\n  2. Allow seamless change-over to battery-powered operation.\n  3. Give priority to the 120V pump.\n  4. Provide a 12V PUMP ON indicator.\n  5. Provide a 12V pump test function.\n  6. Disconnect the charger to prevent possible damage while operating the pump.\n  7. Minimal modification to existing circuit board and housing.\n\nIf you would like to modify your own unit, a measured drawing is available and you'll read more about that before this post ends. I have also included a full schematic and reverse engineering of the circuit for reference or incorporation into other projects.",
+    "parts": [
+        {
+            "name": "12v Relay (G5LE‑1-E DC12)",
+            "url": "https://www.digikey.com/en/products/detail/omron-electronics-inc-emc-div/G5LE-1-E-DC12/1277876",
+            "available_on_digi_key": true,
+            "view_link": "https://www.digikey.com/en/products/detail/omron-electronics-inc-emc-div/G5LE-1-E-DC12/1277876"
+        },
+        {
+            "name": "Illuminated Switch (LP16OA1ASTWG)",
+            "url": "https://www.digikey.com/en/products/detail/e-switch/LP16OA1ASTWG/2498392",
+            "available_on_digi_key": true,
+            "view_link": "https://www.digikey.com/en/products/detail/e-switch/LP16OA1ASTWG/2498392"
+        },
+        {
+            "name": "SCR (TS110‑8A1-AP)",
+            "url": "https://www.digikey.com/en/products/detail/stmicroelectronics/TS110-8A1-AP/5170899",
+            "available_on_digi_key": true,
+            "view_link": "https://www.digikey.com/en/products/detail/stmicroelectronics/TS110-8A1-AP/5170899"
+        },
+        {
+            "name": "Schottkey Diode (1N5817)",
+            "url": "https://www.digikey.com/en/products/detail/stmicroelectronics/1N5817/770963",
+            "available_on_digi_key": true,
+            "view_link": "https://www.digikey.com/en/products/detail/stmicroelectronics/1N5817/770963"
+        },
+        {
+            "name": "Diode (1N5400)",
+            "url": "https://www.ifixit.com/Item/Diode"
+        },
+        {
+            "name": "1N4007 diodes (1N4004)",
+            "url": "https://www.ifixit.com/Item/1N4007_diodes"
+        },
+        {
+            "name": "4 pin Header (1757035)",
+            "url": "https://www.digikey.com/en/products/detail/phoenix-contact/1735866/2511668",
+            "available_on_digi_key": true,
+            "view_link": "https://www.digikey.com/en/products/detail/phoenix-contact/1735866/2511668"
+        },
+        {
+            "name": "4 pin Terminal Plug (1757035)",
+            "url": "https://www.digikey.com/en/products/detail/phoenix-contact/1757035/260381",
+            "available_on_digi_key": true,
+            "view_link": "https://www.digikey.com/en/products/detail/phoenix-contact/1757035/260381"
+        },
+        {
+            "name": "Resistor 220 Ohm",
+            "url": "https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313&_nkw=100Pcs+1.4W+2.5W+Metal+Film+Resistor&_sacat=0&LH_TitleDesc=0&_odkw=5mm+Trough-Hole+3Pin+Led+Light+Red-Green+Dual+Color&_osacat=0",
+            "affiliate_link": "https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313&_nkw=100Pcs+1.4W+2.5W+Metal+Film+Resistor&_sacat=0&LH_TitleDesc=0&_odkw=5mm+Trough-Hole+3Pin+Led+Light+Red-Green+Dual+Color&_osacat=0",
+            "available_on_ebay": true,
+            "view_link": "https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313&_nkw=100Pcs+1.4W+2.5W+Metal+Film+Resistor&_sacat=0&LH_TitleDesc=0&_odkw=5mm+Trough-Hole+3Pin+Led+Light+Red-Green+Dual+Color&_osacat=0"
+        },
+        {
+            "name": "Resistor 220k Ohm",
+            "url": "https://www.ifixit.com/Item/Resistor_220k_Ohm"
+        }
+    ],
+    "tools": [
+        {
+            "name": "Phillips #2 Screwdriver",
+            "url": "https://www.ifixit.com/products/6-in-1-screwdriver",
+            "image": "https://cart-products.cdn.ifixit.com/cart-products/LYcK13TjejldWD5Y.thumbnail",
+            "price": "$6.99",
+            "add_to_cart_url": "https://www.ifixit.com/products/6-in-1-screwdriver"
+        },
+        {
+            "name": "Soldering Gun / Iron and Solder",
+            "url": "https://www.ifixit.com/products/fixhub-power-series-smart-soldering-iron",
+            "image": "https://cart-products.cdn.ifixit.com/cart-products/hOQIO4xmAx3kj2LV.thumbnail",
+            "price": "$79.95",
+            "view_link": "https://www.ifixit.com/products/fixhub-power-series-smart-soldering-iron"
+        },
+        {
+            "name": "Drill (hand drill or powered drill) with 1.5mm~2mm (1 16",
+            "url": "https://www.ifixit.com/Item/Drill_%28hand_drill_or_powered_drill%29_with_1.5mm%7E2mm_%281_16%29"
+        },
+        {
+            "name": "Hot Glue Gun",
+            "url": "https://smile.amazon.com/glue-guns/b?node=14138148011&tag=ifixitam-20",
+            "image": "https://guide-images.cdn.ifixit.com/igi/1BOpPiJlNMG2jwrt.thumbnail",
+            "affiliate_link": "https://smile.amazon.com/glue-guns/b?node=14138148011&tag=ifixitam-20",
+            "available_on_amazon": true,
+            "view_link": "https://smile.amazon.com/glue-guns/b?node=14138148011&tag=ifixitam-20"
+        },
+        {
+            "name": "Utility Knife",
+            "url": "https://www.ifixit.com/products/precision-utility-knife",
+            "image": "https://cart-products.cdn.ifixit.com/cart-products/ZgcT1BcBvqTMcFAU.thumbnail",
+            "price": "$4.99",
+            "add_to_cart_url": "https://www.ifixit.com/products/precision-utility-knife"
+        }
+    ],
+    "steps": [
+        {
+            "step_number": 1,
+            "title": "Disassemble",
+            "content": [
+                "Unscrew the back cover and remove the circuit boards. You will need to unsolder the blue and red wires that go to the RCA phono sockets.",
+                "It's helpful to temporally unsolder the smaller logic board and put it aside."
+            ],
+            "images": [
+                "https://guide-images.cdn.ifixit.com/igi/LY6euaoa2dgvoYOH.medium",
+                "https://guide-images.cdn.ifixit.com/igi/YSQNvbCImKa5LAuy.medium",
+                "https://guide-images.cdn.ifixit.com/igi/QRr2uHHRGwc6JKRu.medium"
+            ],
+            "images_200x150": [
+                "https://guide-images.cdn.ifixit.com/igi/LY6euaoa2dgvoYOH.200x150",
+                "https://guide-images.cdn.ifixit.com/igi/YSQNvbCImKa5LAuy.200x150",
+                "https://guide-images.cdn.ifixit.com/igi/QRr2uHHRGwc6JKRu.200x150"
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/176952/376268",
+            "comments_count": 0,
+            "add_comment_url": null
+        },
+        {
+            "step_number": 2,
+            "title": "Remove Unneeded Components",
+            "content": [
+                "Remove the Jumper, C1 (save it), and the buzzer.",
+                "Cut the traces at the white lines.",
+                "Remove the traces marked in yellow."
+            ],
+            "images": [
+                "https://guide-images.cdn.ifixit.com/igi/pGvQxrUdooOB1HAW.medium",
+                "https://guide-images.cdn.ifixit.com/igi/VGIbcsoWLoJNTxJm.medium"
+            ],
+            "images_200x150": [
+                "https://guide-images.cdn.ifixit.com/igi/pGvQxrUdooOB1HAW.200x150",
+                "https://guide-images.cdn.ifixit.com/igi/VGIbcsoWLoJNTxJm.200x150"
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/176952/376269",
+            "comments_count": 0,
+            "add_comment_url": null
+        },
+        {
+            "step_number": 3,
+            "title": "Add the New Components",
+            "content": [
+                "Drill holes[black]. Take note of how several holes intercept the existing traces. Be careful to not damage them. Enclosure Cutting Guide can be used as a template.",
+                "(Ignore the 4 extra holes just under the connector. I forgot to take into account the thickness of the enclosure when originally positioning it. I ended up repurposing some of the incorrectly drilled holes for the extra diodes.)",
+                "To simplify routing, extend leg 3 [pink] of the SCR and sneak it between the connector and relay. It will connect to the trace going the 120V pump relay.",
+                "Second picture was taken earlier and does not show the two series flyback diodes for the pump. Also the power supply diode is in a different position."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/176952/376315",
+            "comments_count": 0,
+            "add_comment_url": null
+        },
+        {
+            "step_number": 4,
+            "title": "Add New Traces",
+            "content": [
+                "Note the extended lag [pink] of the SCR on the component side of the board.",
+                "The 2nd and 3rd pictures where taken before I decided to add the pump flyback diodes."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/176952/386017",
+            "comments_count": 0,
+            "add_comment_url": null
+        },
+        {
+            "step_number": 5,
+            "title": "Modify Enclosure",
+            "content": [
+                "The main housing needs a cutout for the connector. I found it easier to make a slot and then epoxy (and pin) part of the left over piece to the back panel. Otherwise it would be difficult/impossible to angle the PCB back into the housing.",
+                "(You won't need the plastic patch [blue] inside it you don't accidentally cut the hole for the switch in the wrong place. Again forgetting to base dimensions on the _outside_ edge of the enclosure.)",
+                "You will need to trim the [yellow] boss on the back as it interferes with the new flyback diode. You _might_ need to trim the [blue] boss depending on exactly where the new wires are.",
+                "The enclosure datum plane is the parting line for the injection molding. Meaning the flat edge that the back plate contacts when it's put together. The sides have draft and a radius to the front face.",
+                "If you are marking on the top side, place it on a flat surface and hold something square against the side. This will allow you to reference to the outer-most edge and eliminate the draft angle."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/176952/376316",
+            "comments_count": 0,
+            "add_comment_url": null
+        },
+        {
+            "step_number": 6,
+            "title": "Conclusion",
+            "content": [
+                "Label is in the project documents section. I printed it on regular paper and covered it with packing tape."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/176952/376698",
+            "comments_count": 0,
+            "add_comment_url": null
+        }
+    ],
+    "conclusion": "For some reason the manufacture only attached the logic board with one screw in the corner so you will need to secure it with hot glue. The relay's [datasheet](https://www.ifixit.com/Guide/Adding+a+Battery+Backup+to+a+Wayne+FloodAlert+FF-98+Electronic+Sump+Pump+Controller/<https:/omronfs.omron.com/en_US/ecb/products/pdf/en-g5le.pdf>) doesn't give a firm answer for the DC current rating for inductive loads like a pump. I added two large diodes (in series) across the pump in the fly-back configuration. Depending on the size of the pump, it may be advisable to add a larger external diode (with limiting resistor) across the pump.\nSee additional documents for full theory of operation.\nNotes:The battery charger must be capable of automatically float charging the battery so it won't be damaged as it needs to be connected all the time.\nThe water detection circuit won't work if the controller is unplugged (isn't grounded) even if the battery is powering it.",
+    "attached_documents": [
+        {
+            "name": "Label",
+            "url": "https://www.ifixit.com/Document/P5Ou164dYB1WxqJL/Label.pdf",
+            "file_type": "PDF - 36.73 kb"
+        },
+        {
+            "name": "FloodAlert Modifications",
+            "url": "https://www.ifixit.com/Document/SGbScHyLSWnNUAmE/FloodAlert-Modifications.pdf",
+            "file_type": "PDF - 63.68 kb"
+        },
+        {
+            "name": "Enclosure Cutting Guide",
+            "url": "https://www.ifixit.com/Document/NlBp5DQtSnUqCJ2s/Enclosure-Cutting-Guide.pdf",
+            "file_type": "PDF - 141.81 kb"
+        },
+        {
+            "name": "Schematic",
+            "url": "https://www.ifixit.com/Document/rWe1J4CmilkkNhYl/Schematic.pdf",
+            "file_type": "PDF - 354.92 kb"
+        }
+    ],
+    "embed_code": {
+        "small": "<iframe id=\"dozuki-embed-176952\" src=\"https://www.ifixit.com/Guide/embed/176952/full\" width=\"600\" allowfullscreen frameborder=\"0\"></iframe> <script>window.addEventListener(\"message\",function(a){var b=document.getElementById(\"dozuki-embed-176952\"),c=a.data[0],d=a.data[1];switch(c){case\"setHeight\":b.style.height=d+\"px\"}},!1);</script>",
+        "medium": "<iframe id=\"dozuki-embed-176952\" src=\"https://www.ifixit.com/Guide/embed/176952/full\" width=\"800\" allowfullscreen frameborder=\"0\"></iframe> <script>window.addEventListener(\"message\",function(a){var b=document.getElementById(\"dozuki-embed-176952\"),c=a.data[0],d=a.data[1];switch(c){case\"setHeight\":b.style.height=d+\"px\"}},!1);</script>",
+        "large": "<iframe id=\"dozuki-embed-176952\" src=\"https://www.ifixit.com/Guide/embed/176952/full\" width=\"1200\" allowfullscreen frameborder=\"0\"></iframe> <script>window.addEventListener(\"message\",function(a){var b=document.getElementById(\"dozuki-embed-176952\"),c=a.data[0],d=a.data[1];switch(c){case\"setHeight\":b.style.height=d+\"px\"}},!1);</script>",
+        "full_guide": "<iframe src=\"https://www.ifixit.com/Guide/embed/176952\" width=\"800\" height=\"584\" allowfullscreen frameborder=\"0\"></iframe>"
+    }
+}

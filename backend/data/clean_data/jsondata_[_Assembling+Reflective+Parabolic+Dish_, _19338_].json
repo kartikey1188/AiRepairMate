@@ -1,0 +1,93 @@
+{
+    "title": "Assembling Reflective Parabolic Dish",
+    "last_updated": "August 1, 2019",
+    "estimated_time": "20 - 30 minutes",
+    "difficulty": "Easy",
+    "introduction": "The Reflective Dish is the element of the Parabolic Solar Cooker which is responsible for creating heat to cook with. The dish is shaped in a way that reflects all light hitting it toward one single focal point, allowing for the heating effect to take place.\nThe dish has a large diameter in order to collect as much light as possible and make cooking efficient. In fact, it's so big that it comes in six pieces that need assembling. Thus, this guide serves as a reference to show you how to properly assemble your Parabolic Dish.",
+    "tools": [
+        {
+            "name": "3/8\" Drive Ratchet",
+            "url": "https://amzn.to/3QzT3Xa",
+            "for_sale_from_another_site": true,
+            "view_link": "https://amzn.to/3QzT3Xa"
+        },
+        {
+            "name": "10mm Socket",
+            "url": "http://www.amazon.com/TEKTON-14142-8-Inch-Shallow-6-Point/dp/B000NY7A10/ref=sr_1_2?ie=UTF8&qid=1431011227&sr=8-2&keywords=10%2Bmm%2Bsocket&tag=ifixitam-20",
+            "image": "https://guide-images.cdn.ifixit.com/igi/oOwIF1S1fMEH1fGA.thumbnail",
+            "affiliate_link": "http://www.amazon.com/TEKTON-14142-8-Inch-Shallow-6-Point/dp/B000NY7A10/ref=sr_1_2?ie=UTF8&qid=1431011227&sr=8-2&keywords=10%2Bmm%2Bsocket&tag=ifixitam-20",
+            "available_on_amazon": true,
+            "view_link": "http://www.amazon.com/TEKTON-14142-8-Inch-Shallow-6-Point/dp/B000NY7A10/ref=sr_1_2?ie=UTF8&qid=1431011227&sr=8-2&keywords=10%2Bmm%2Bsocket&tag=ifixitam-20"
+        },
+        {
+            "name": "10mm Wrench",
+            "url": "http://www.amazon.com/TEKTON-21271-10mm-Combination-Wrench/dp/B000NPUL0G/ref=sr_1_1?ie=UTF8&qid=1388418341&sr=8-1&keywords=10mm%2Bwrench&tag=ifixitam-20",
+            "image": "https://guide-images.cdn.ifixit.com/igi/CGcsRMqXJaKmvLdE.thumbnail",
+            "affiliate_link": "http://www.amazon.com/TEKTON-21271-10mm-Combination-Wrench/dp/B000NPUL0G/ref=sr_1_1?ie=UTF8&qid=1388418341&sr=8-1&keywords=10mm%2Bwrench&tag=ifixitam-20",
+            "available_on_amazon": true,
+            "view_link": "http://www.amazon.com/TEKTON-21271-10mm-Combination-Wrench/dp/B000NPUL0G/ref=sr_1_1?ie=UTF8&qid=1388418341&sr=8-1&keywords=10mm%2Bwrench&tag=ifixitam-20"
+        }
+    ],
+    "steps": [
+        {
+            "step_number": 1,
+            "title": "Assembling Reflective Parabolic Dish",
+            "content": [
+                "Before you begin, be sure you have all parts and tools needed for assembly and a construction area that is at least two meters in diameter.",
+                "Lay two triangular sections side-by-side with pointed edges and bases adjacent to each other.",
+                "Since the sections are not flat, it is advisable to prop one end up on a box or similar object to give more stability during assembly."
+            ],
+            "images": [
+                "https://guide-images.cdn.ifixit.com/igi/fDINODhbg4RPwEDw.medium",
+                "https://guide-images.cdn.ifixit.com/igi/C26IFucVOTfk25XU.medium"
+            ],
+            "images_200x150": [
+                "https://guide-images.cdn.ifixit.com/igi/fDINODhbg4RPwEDw.200x150",
+                "https://guide-images.cdn.ifixit.com/igi/C26IFucVOTfk25XU.200x150"
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/19338/54652",
+            "comments_count": 0,
+            "add_comment_url": null
+        },
+        {
+            "step_number": 2,
+            "content": [
+                "Use the 10 mm nuts and bolts to attach the two plates together. First, hand thread each bolt/nut pair, then use two 10 mm wrenches secure them.",
+                "DO NOT install a nut and bolt in the **THIRD** hole from the center (pointed end of the section). This is where the Pipe Ring Bracket is attached later on."
+            ],
+            "image": "https://guide-images.cdn.ifixit.com/igi/NePAAYsXp5Z6IeJD.medium",
+            "edit_url": "https://www.ifixit.com/Guide/edit/19338/54256",
+            "comments_count": 0,
+            "add_comment_url": null
+        },
+        {
+            "step_number": 3,
+            "content": [
+                "After firmly fastening the two sections together, return to the third hole which was left empty. In addition to a nut and bolt, you will also need a pipe ring bracket.",
+                "Install the 10mm nut/bolt again but with the bolt passing through the single holed side of the bracket. Hand thread and use 10mm wrenches to tighten.",
+                "Be sure the bracket is **NOT** installed between the edges of the dish sections.",
+                "The direction the bracket faces does not matter."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/19338/54651",
+            "comments_count": 0,
+            "add_comment_url": null
+        },
+        {
+            "step_number": 4,
+            "content": [
+                "Repeat steps 2-3 until you have assembled the entire reflective dish, complete with all six sections.",
+                "Remember to install the pipe ring brackets in the correct place all the way around the reflective dish in the third hole from the center."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/19338/54653",
+            "comments_count": 0,
+            "add_comment_url": null
+        }
+    ],
+    "conclusion": "To disassemble your device, follow these instructions in reverse order.",
+    "embed_code": {
+        "small": "<iframe id=\"dozuki-embed-19338\" src=\"https://www.ifixit.com/Guide/embed/19338/full\" width=\"600\" allowfullscreen frameborder=\"0\"></iframe> <script>window.addEventListener(\"message\",function(a){var b=document.getElementById(\"dozuki-embed-19338\"),c=a.data[0],d=a.data[1];switch(c){case\"setHeight\":b.style.height=d+\"px\"}},!1);</script>",
+        "medium": "<iframe id=\"dozuki-embed-19338\" src=\"https://www.ifixit.com/Guide/embed/19338/full\" width=\"800\" allowfullscreen frameborder=\"0\"></iframe> <script>window.addEventListener(\"message\",function(a){var b=document.getElementById(\"dozuki-embed-19338\"),c=a.data[0],d=a.data[1];switch(c){case\"setHeight\":b.style.height=d+\"px\"}},!1);</script>",
+        "large": "<iframe id=\"dozuki-embed-19338\" src=\"https://www.ifixit.com/Guide/embed/19338/full\" width=\"1200\" allowfullscreen frameborder=\"0\"></iframe> <script>window.addEventListener(\"message\",function(a){var b=document.getElementById(\"dozuki-embed-19338\"),c=a.data[0],d=a.data[1];switch(c){case\"setHeight\":b.style.height=d+\"px\"}},!1);</script>",
+        "full_guide": "<iframe src=\"https://www.ifixit.com/Guide/embed/19338\" width=\"800\" height=\"584\" allowfullscreen frameborder=\"0\"></iframe>"
+    }
+}

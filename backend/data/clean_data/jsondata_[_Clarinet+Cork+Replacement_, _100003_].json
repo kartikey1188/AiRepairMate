@@ -1,0 +1,146 @@
+{
+    "guide_title": "Clarinet Cork Replacement",
+    "last_updated": "September 3, 2021",
+    "estimated_time": "10 - 15 minutes",
+    "difficulty": "Moderate",
+    "featured_student_guide": true,
+    "introduction": "Taking your clarinet to the music store to get your cork replace can be expensive. Following this guide by removing and replacing the cork yourself can save you a lot of money.",
+    "tools": [
+        {
+            "name": "Slip Joint Pliers",
+            "image": "https://guide-images.cdn.ifixit.com/igi/6guLKlHgIewgsWc6.thumbnail",
+            "link": "https://amazon.com/Slip-Joint-Pliers/b?node=553324&tag=ifixitam-20",
+            "affiliate_link": "https://amazon.com/Slip-Joint-Pliers/b?node=553324&tag=ifixitam-20",
+            "available_on_amazon": "https://amazon.com/Slip-Joint-Pliers/b?node=553324&tag=ifixitam-20",
+            "view_link": "https://amazon.com/Slip-Joint-Pliers/b?node=553324&tag=ifixitam-20"
+        },
+        {
+            "name": "Ruler",
+            "image": "https://guide-images.cdn.ifixit.com/igi/1tdEZbuwvcnosbOi.thumbnail",
+            "link": "https://www.amazon.com/Officemate-Classic-Stainless-Measurements-66612/dp/B00IXLPO8G/ref=sr_1_7?crid=6EUBJDC52GJT&keywords=ruler&qid=1704926908&sprefix=ruler%2Caps%2C155&sr=8-7&tag=ifixitam-20",
+            "affiliate_link": "https://www.amazon.com/Officemate-Classic-Stainless-Measurements-66612/dp/B00IXLPO8G/ref=sr_1_7?crid=6EUBJDC52GJT&keywords=ruler&qid=1704926908&sprefix=ruler%2Caps%2C155&sr=8-7&tag=ifixitam-20",
+            "available_on_amazon": "https://www.amazon.com/Officemate-Classic-Stainless-Measurements-66612/dp/B00IXLPO8G/ref=sr_1_7?crid=6EUBJDC52GJT&keywords=ruler&qid=1704926908&sprefix=ruler%2Caps%2C155&sr=8-7&tag=ifixitam-20",
+            "view_link": "https://www.amazon.com/Officemate-Classic-Stainless-Measurements-66612/dp/B00IXLPO8G/ref=sr_1_7?crid=6EUBJDC52GJT&keywords=ruler&qid=1704926908&sprefix=ruler%2Caps%2C155&sr=8-7&tag=ifixitam-20>"
+        },
+        {
+            "name": "Sandpaper",
+            "link": "https://www.ifixit.com/Guide/Clarinet+Cork+Replacement//Item/Sandpaper"
+        },
+        {
+            "name": "Cork Grease",
+            "link": "http://www.amazon.com/Vandoren-CG100B-Clarinet-Cork-Grease/dp/B0002D0HXA?tag=ifixitam-20",
+            "affiliate_link": "http://www.amazon.com/Vandoren-CG100B-Clarinet-Cork-Grease/dp/B0002D0HXA?tag=ifixitam-20",
+            "available_on_amazon": "http://www.amazon.com/Vandoren-CG100B-Clarinet-Cork-Grease/dp/B0002D0HXA?tag=ifixitam-20",
+            "view_link": "http://www.amazon.com/Vandoren-CG100B-Clarinet-Cork-Grease/dp/B0002D0HXA?tag=ifixitam-20>"
+        },
+        {
+            "name": "Scissors",
+            "image": "https://cart-products.cdn.ifixit.com/cart-products/YZFc6xfCFTuHFhsP.thumbnail",
+            "link": "https://www.ifixit.com/products/utility-scissors",
+            "price": "$5.59",
+            "add_to_cart_link": "https://www.ifixit.com/Guide/Clarinet+Cork+Replacement/<https:/www.ifixit.com/products/utility-scissors>"
+        },
+        {
+            "name": "Self Adhesive Clarinet Joint",
+            "link": "https://www.amazon.com/gp/product/B00CNGW9US/?tag=ifixitam-20",
+            "affiliate_link": "https://www.amazon.com/gp/product/B00CNGW9US/?tag=ifixitam-20",
+            "available_on_amazon": "https://www.amazon.com/gp/product/B00CNGW9US/?tag=ifixitam-20",
+            "view_link": "https://www.amazon.com/gp/product/B00CNGW9US/?tag=ifixitam-20>"
+        }
+    ],
+    "steps": [
+        {
+            "step_number": 1,
+            "title": "Cork",
+            "image": "https://guide-images.cdn.ifixit.com/igi/4SWDYZ2cASVGXdGj.medium",
+            "description": "Using pliers, remove the old cork by pinching it off.",
+            "edit_link": "https://www.ifixit.com/Guide/Clarinet+Cork+Replacement//Guide/edit/100003/185848",
+            "add_comment_link": "https://www.ifixit.com/Guide/Clarinet+Cork+Replacement/",
+            "links": []
+        },
+        {
+            "step_number": 2,
+            "title": null,
+            "image": "https://guide-images.cdn.ifixit.com/igi/WpUHRLAZugsnWV1C.medium",
+            "description": "Clean the joint with soap and water",
+            "edit_link": "https://www.ifixit.com/Guide/Clarinet+Cork+Replacement//Guide/edit/100003/185850",
+            "add_comment_link": "https://www.ifixit.com/Guide/Clarinet+Cork+Replacement/",
+            "links": []
+        },
+        {
+            "step_number": 3,
+            "title": null,
+            "image": null,
+            "description": "Measure the width of the tenon joint.\nOnly measure the area where the cork will lie, not the entire joint.",
+            "edit_link": "https://www.ifixit.com/Guide/Clarinet+Cork+Replacement//Guide/edit/100003/185849",
+            "add_comment_link": "https://www.ifixit.com/Guide/Clarinet+Cork+Replacement/",
+            "links": []
+        },
+        {
+            "step_number": 4,
+            "title": null,
+            "image": null,
+            "description": "Cut the new cork to match the width of the tenon joint.",
+            "edit_link": "https://www.ifixit.com/Guide/Clarinet+Cork+Replacement//Guide/edit/100003/185851",
+            "add_comment_link": "https://www.ifixit.com/Guide/Clarinet+Cork+Replacement/",
+            "links": []
+        },
+        {
+            "step_number": 5,
+            "title": null,
+            "image": null,
+            "description": "Peel off the backside of the cork to reveal the adhesive.",
+            "edit_link": "https://www.ifixit.com/Guide/Clarinet+Cork+Replacement//Guide/edit/100003/185852",
+            "add_comment_link": "https://www.ifixit.com/Guide/Clarinet+Cork+Replacement/",
+            "links": []
+        },
+        {
+            "step_number": 6,
+            "title": null,
+            "image": null,
+            "description": "Wrap the cork around the joint.",
+            "edit_link": "https://www.ifixit.com/Guide/Clarinet+Cork+Replacement//Guide/edit/100003/185853",
+            "add_comment_link": "https://www.ifixit.com/Guide/Clarinet+Cork+Replacement/",
+            "links": []
+        },
+        {
+            "step_number": 7,
+            "title": null,
+            "image": null,
+            "description": "Sand the cork with sandpaper until the cork is smooth.",
+            "edit_link": "https://www.ifixit.com/Guide/Clarinet+Cork+Replacement//Guide/edit/100003/185854",
+            "add_comment_link": "https://www.ifixit.com/Guide/Clarinet+Cork+Replacement/",
+            "links": []
+        },
+        {
+            "step_number": 8,
+            "title": null,
+            "image": null,
+            "description": "Apply cork grease on the new cork.",
+            "edit_link": "https://www.ifixit.com/Guide/Clarinet+Cork+Replacement//Guide/edit/100003/185855",
+            "add_comment_link": "https://www.ifixit.com/Guide/Clarinet+Cork+Replacement/",
+            "links": []
+        },
+        {
+            "step_number": 9,
+            "title": null,
+            "image": null,
+            "description": "Slowly twist and slide the joint back together.",
+            "edit_link": "https://www.ifixit.com/Guide/Clarinet+Cork+Replacement//Guide/edit/100003/185857",
+            "add_comment_link": "https://www.ifixit.com/Guide/Clarinet+Cork+Replacement/",
+            "links": []
+        }
+    ],
+    "conclusion": "Once your clarinet is reassembled, leave the joint together for at least a few hours to let the cork compress and adhere properly. Play the fully assembled clarinet or blow some air through the joint to check for any leaks. When you are ready to put it away, disassemble it carefully. Enjoy your new cork!",
+    "finish_line": {
+        "text": "Give the author +30 points! You're Finished!",
+        "cancel_link": "https://www.ifixit.com/Guide/Clarinet+Cork+Replacement/<#>",
+        "completed_count": "8 other people completed this guide."
+    },
+    "embed_code": {
+        "small": "<iframe id=\"dozuki-embed-100003\" src=\"https://www.ifixit.com/Guide/embed/100003/full\" width=\"600\" allowfullscreen frameborder=\"0\"></iframe> <script>window.addEventListener(\"message\",function(a){var b=document.getElementById(\"dozuki-embed-100003\"),c=a.data[0],d=a.data[1];switch(c){case\"setHeight\":b.style.height=d+\"px\"}},!1);</script> <iframe src=\"https://www.ifixit.com/Guide/embed/100003\" width=\"600\" height=\"584\" allowfullscreen frameborder=\"0\"></iframe>",
+        "medium": "<iframe id=\"dozuki-embed-100003\" src=\"https://www.ifixit.com/Guide/embed/100003/full\" width=\"800\" allowfullscreen frameborder=\"0\"></iframe> <script>window.addEventListener(\"message\",function(a){var b=document.getElementById(\"dozuki-embed-100003\"),c=a.data[0],d=a.data[1];switch(c){case\"setHeight\":b.style.height=d+\"px\"}},!1);</script> <iframe src=\"https://www.ifixit.com/Guide/embed/100003\" width=\"800\" height=\"584\" allowfullscreen frameborder=\"0\"></iframe>",
+        "large": "<iframe id=\"dozuki-embed-100003\" src=\"https://www.ifixit.com/Guide/embed/100003/full\" width=\"1200\" allowfullscreen frameborder=\"0\"></iframe> <script>window.addEventListener(\"message\",function(a){var b=document.getElementById(\"dozuki-embed-100003\"),c=a.data[0],d=a.data[1];switch(c){case\"setHeight\":b.style.height=d+\"px\"}},!1);</script> <iframe src=\"https://www.ifixit.com/Guide/embed/100003\" width=\"1200\" height=\"584\" allowfullscreen frameborder=\"0\"></iframe>"
+    },
+    "repair_is_noble": "https://www.ifixit.com/Manifesto"
+}

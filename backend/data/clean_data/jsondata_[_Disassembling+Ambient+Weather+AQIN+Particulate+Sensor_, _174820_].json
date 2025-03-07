@@ -1,0 +1,95 @@
+{
+    "metadata": {
+        "title": "Disassembling Ambient Weather AQIN Particulate Sensor",
+        "last_updated": "August 15, 2024",
+        "guide_image": "https://guide-images.cdn.ifixit.com/igi/aGEpN4REK2sKHffp.140x105",
+        "estimated_time": "3 - 10 minutes",
+        "difficulty": "Moderate",
+        "community_guide": true,
+        "device_links": [
+            {
+                "text": "Ambient Weather AQIN",
+                "url": "https://www.ifixit.com/Device/Ambient_Weather_AQIN"
+            },
+            {
+                "text": "Weather Station",
+                "url": "https://www.ifixit.com/Device/Weather_Station"
+            },
+            {
+                "text": "Patio, Lawn & Garden",
+                "url": "https://www.ifixit.com/Device/Lawn_and_Garden"
+            },
+            {
+                "text": "Household",
+                "url": "https://www.ifixit.com/Device/Household"
+            },
+            {
+                "text": "Home",
+                "url": "https://www.ifixit.com/Guide"
+            }
+        ],
+        "parts_links": [
+            {
+                "text": "Guides",
+                "url": "https://www.ifixit.com/Device/Ambient_Weather_AQIN#Section_Guides"
+            },
+            {
+                "text": "Answers",
+                "url": "https://www.ifixit.com/Answers/Device/Ambient_Weather_AQIN"
+            }
+        ],
+        "edit_link": "https://www.ifixit.com/Guide/edit/174820"
+    },
+    "introduction": "This guide will show you how to tear down an iyashi footrest and replace the front plastic panels.",
+    "what_you_need": {
+        "tools": [
+            {
+                "text": "1 x 3mm philips screw driver",
+                "url": "https://www.amazon.ca/Multi-Bit-Ratcheting-Screwdriver-Quick-load-Mechanism/dp/B0761K3H82/ref=sr_1_2_sspa?crid=2I7K5MR8FDSNN&keywords=1+x+3mm+phillips+screwdriver&qid=1696615660&sprefix=1+x+3mm+philips+screw+driver%2Caps%2C103&sr=8-2-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1",
+                "affiliate_link": "https://www.amazon.ca/Multi-Bit-Ratcheting-Screwdriver-Quick-load-Mechanism/dp/B0761K3H82/ref=sr_1_2_sspa?crid=2I7K5MR8FDSNN&keywords=1+x+3mm+phillips+screwdriver&qid=1696615660&sprefix=1+x+3mm+philips+screw+driver%2Caps%2C103&sr=8-2-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1",
+                "available_on_amazon": "https://www.amazon.ca/Multi-Bit-Ratcheting-Screwdriver-Quick-load-Mechanism/dp/B0761K3H82/ref=sr_1_2_sspa?crid=2I7K5MR8FDSNN&keywords=1+x+3mm+phillips+screwdriver&qid=1696615660&sprefix=1+x+3mm+philips+screw+driver%2Caps%2C103&sr=8-2-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1",
+                "view_link": "https://www.amazon.ca/Multi-Bit-Ratcheting-Screwdriver-Quick-load-Mechanism/dp/B0761K3H82/ref=sr_1_2_sspa?crid=2I7K5MR8FDSNN&keywords=1+x+3mm+phillips+screwdriver&qid=1696615660&sprefix=1+x+3mm+philips+screw+driver%2Caps%2C103&sr=8-2-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1"
+            }
+        ]
+    },
+    "steps": [
+        {
+            "step_number": 1,
+            "title": "Particulate Sensor",
+            "text": "Looking at the sensor from the bottom, you can see the two tabs/prongs that hold the outer case together.\nThere is a fine cable attaching the internal components of the PM sensor. Be careful not to disrupt/break it.\nThe internal housing will now be exposed. You can use the two tabs/prongs on this porting to remove that portion of the case.\nNext, you can remove the 4 small screws holding the internal components to the outer shell.",
+            "image": "https://guide-images.cdn.ifixit.com/igi/aGEpN4REK2sKHffp.medium",
+            "image_links": [
+                "https://guide-images.cdn.ifixit.com/igi/aGEpN4REK2sKHffp.200x150",
+                "https://guide-images.cdn.ifixit.com/igi/JeMuOgETxK4CQZAm.200x150",
+                "https://guide-images.cdn.ifixit.com/igi/EPtTPbu6Q4FLxvTo.200x150"
+            ],
+            "edit_link": "https://www.ifixit.com/Guide/edit/174820/372331",
+            "comment_links": [],
+            "additional_images": [
+                "https://guide-images.cdn.ifixit.com/igi/JeMuOgETxK4CQZAm.medium",
+                "https://guide-images.cdn.ifixit.com/igi/EPtTPbu6Q4FLxvTo.medium"
+            ]
+        },
+        {
+            "step_number": 2,
+            "title": "",
+            "text": "Once the unit is disassembled, you can locate the internal motor of the unit.\nUsing compressed air, you may remove any debris that has become lodged on the intake shield of the motor.",
+            "image": "https://guide-images.cdn.ifixit.com/igi/ANDR5gQgKUfkhXhW.medium",
+            "image_links": [
+                "https://guide-images.cdn.ifixit.com/igi/ANDR5gQgKUfkhXhW.200x150",
+                "https://guide-images.cdn.ifixit.com/igi/bCYQJ1WaHDcyoPPh.200x150"
+            ],
+            "edit_link": "https://www.ifixit.com/Guide/edit/174820/372332",
+            "comment_links": [],
+            "additional_images": [
+                "https://guide-images.cdn.ifixit.com/igi/bCYQJ1WaHDcyoPPh.medium"
+            ]
+        }
+    ],
+    "conclusion": {
+        "text": "To reassemble your device, follow these instructions in reverse order.",
+        "author_points": 30,
+        "cancel_link": "https://www.ifixit.com/Guide/Disassembling+Ambient+Weather+AQIN+Particulate+Sensor/<#>"
+    },
+    "embed_code": "<iframe id=\"dozuki-embed-174820\" src=\"https://www.ifixit.com/Guide/embed/174820/full\" width=\"800\" allowfullscreen frameborder=\"0\"></iframe> <script>window.addEventListener(\"message\",function(a){var b=document.getElementById(\"dozuki-embed-174820\"),c=a.data[0],d=a.data[1];switch(c){case\"setHeight\":b.style.height=d+\"px\"}},!1);</script> <iframe src=\"https://www.ifixit.com/Guide/embed/174820\" width=\"800\" height=\"584\" allowfullscreen frameborder=\"0\"></iframe>"
+}

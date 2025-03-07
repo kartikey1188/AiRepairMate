@@ -1,0 +1,170 @@
+{
+    "metadata": {
+        "title": "Adjusting Singer Brilliance 6180",
+        "last_updated": "July 30, 2023",
+        "guide_image": "https://guide-images.cdn.ifixit.com/igi/U3AmaC6u61uJmWEV.140x105",
+        "estimated_time": "No estimate",
+        "difficulty": "Moderate",
+        "community_guide": true,
+        "device_links": [
+            {
+                "text": "Singer Brilliance 6180",
+                "url": "https://www.ifixit.com/Device/Singer_Brilliance_6180"
+            },
+            {
+                "text": "Sewing Machine",
+                "url": "https://www.ifixit.com/Device/Sewing_Machine"
+            },
+            {
+                "text": "Arts, Crafts & Sewing",
+                "url": "https://www.ifixit.com/Device/Arts_Crafts_and_Sewing"
+            },
+            {
+                "text": "Household",
+                "url": "https://www.ifixit.com/Device/Household"
+            },
+            {
+                "text": "Home",
+                "url": "https://www.ifixit.com/Guide"
+            }
+        ],
+        "parts_links": [
+            {
+                "text": "Guides",
+                "url": "https://www.ifixit.com/Device/Singer_Brilliance_6180#Section_Guides"
+            },
+            {
+                "text": "Answers",
+                "url": "https://www.ifixit.com/Answers/Device/Singer_Brilliance_6180"
+            }
+        ],
+        "translate_link": "https://www.ifixit.com/Guide/translate/133045/en"
+    },
+    "introduction": "The Singer Brilliance ist a rather cheap computer sewing machine. The design is pretty simple and the needle sometimes happens to be dejusted. Typical issues are a broken needle, broken thread and a knocking sound. If the needle gets adjusted again, the Brilliance may come back to work. For more detailed instructions see the [Service Manual](https://www.ifixit.com/Document/CZIKZI1AQhFQ1Z4b/Singer-Brilliance_6160_6180.pdf>).",
+    "what_you_need": {
+        "tools": [
+            {
+                "text": "Phillips #2 Screwdriver",
+                "url": "https://www.ifixit.com/products/6-in-1-screwdriver",
+                "image": "https://cart-products.cdn.ifixit.com/cart-products/LYcK13TjejldWD5Y.thumbnail",
+                "price": "$6.99"
+            },
+            {
+                "text": "Flathead 3/32\" or 2.5 mm Screwdriver",
+                "url": "https://www.ifixit.com/products/flathead-3-32-or-2-5-mm-screwdriver",
+                "image": "https://cart-products.cdn.ifixit.com/cart-products/JsCoFJUVWU2hrkes.thumbnail",
+                "price": "$5.49"
+            },
+            {
+                "text": "Tweezers",
+                "url": "https://www.ifixit.com/products/tweezers",
+                "image": "https://cart-products.cdn.ifixit.com/cart-products/eQGTt3iN1MmOAQDy.thumbnail",
+                "price": "$4.99"
+            },
+            {
+                "text": "1,4 mm Inbus/Allenkey",
+                "url": "https://www.ifixit.com/Item/1_4_mm_Inbus_Allenkey"
+            },
+            {
+                "text": "Allen key 2mm (Inbusschlüssel 2mm)",
+                "url": "https://www.ifixit.com/Item/Allen_key_2mm_%28Inbusschl%C3%BCssel_2mm%29"
+            }
+        ]
+    },
+    "steps": [
+        {
+            "step_number": 1,
+            "title": "Needle Position",
+            "text": "If the position of the needle is not correct, some errors will occur, which can make the user very annoyed.\nThe exact position of the needle is extremely important on a sewing machine. The looper needs to pass the needle in a very small distance to pull out the thread, if this does not work exactly, there will be many errors such as loops, broken needles, broken threads and banging noises,\nThe two photos show the correct position of the needle in the needle plate. It must be exactly in the middle of the hole plate on the side and in the sewing direction. (If the needle plate is not shifted.)",
+            "image": "https://guide-images.cdn.ifixit.com/igi/U3AmaC6u61uJmWEV.medium",
+            "image_links": [
+                "https://guide-images.cdn.ifixit.com/igi/U3AmaC6u61uJmWEV.200x150",
+                "https://guide-images.cdn.ifixit.com/igi/eNRJOEfylLWTGqn6.200x150"
+            ],
+            "edit_link": "https://www.ifixit.com/Guide/edit/133045/263210",
+            "comment_links": [],
+            "additional_images": [
+                "https://guide-images.cdn.ifixit.com/igi/eNRJOEfylLWTGqn6.medium"
+            ]
+        },
+        {
+            "step_number": 2,
+            "title": "Remove left cover",
+            "text": "To access the adjustment plate and screw, you need to remove the left cover.\nLoosen the Phillips screw # 2 on the back a little, it must not be removed.\nRemove the Phillips # 2 screw on the left side.\nPull the cover towards the left to remove it.",
+            "image": "https://guide-images.cdn.ifixit.com/igi/UsLYrQXvuuM5ZsFr.medium",
+            "image_links": [
+                "https://guide-images.cdn.ifixit.com/igi/UsLYrQXvuuM5ZsFr.200x150",
+                "https://guide-images.cdn.ifixit.com/igi/NNiKDQI3drOtaH4L.200x150",
+                "https://guide-images.cdn.ifixit.com/igi/dTALfQdeEZwlMdMP.200x150"
+            ],
+            "edit_link": "https://www.ifixit.com/Guide/edit/133045/263211",
+            "comment_links": [],
+            "additional_images": [
+                "https://guide-images.cdn.ifixit.com/igi/NNiKDQI3drOtaH4L.medium",
+                "https://guide-images.cdn.ifixit.com/igi/dTALfQdeEZwlMdMP.medium"
+            ]
+        },
+        {
+            "step_number": 3,
+            "title": "Method 1: Adjusting the needle carrier",
+            "text": "The needle carrier is attached at the top with a 2 mm Allen screw. Loosen the screw to slightly move the cantilever. It's pretty tight the first time, be careful.\nTo move the needle carrier, tap very lightly, e.g. with the handle of a screwdriver, on the axis of the needle carrier.\nIf you tap the front of the axle, the needle moves towards you, the distance between the needle and the looper increases.\nIf you tap on the back of the axle, the needle will move away from you and the distance between the needle and the looper will decrease.\nLower the needle all the way down. You should just be able to slip a piece of paper between the needle and the looper tip. (Picture 3). The needle must be able to slide easily to the left and right when zigzagging.\nTighten the Allen screw again.\nCheck that the machine sews cleanly again, especially with zigzag stitches. If all is well, check the lateral displacement and go straight to step 8.",
+            "image_links": [],
+            "edit_link": "https://www.ifixit.com/Guide/edit/133045/341187",
+            "comment_links": []
+        },
+        {
+            "step_number": 4,
+            "title": "Method 2: Adjusting the Needle Carrier",
+            "text": "The cantilever slides past a plate. You can adjust the position of the needle by slightly bending this plate.\nThe setting plate is marked yellow in the first picture. It has to be taken out and bent very slightly.\nFirst unscrew the rod for the thread run with a flat screwdriver.\nThe adjustment plate is now accessible.",
+            "image_links": [],
+            "edit_link": "https://www.ifixit.com/Guide/edit/133045/263219",
+            "comment_links": []
+        },
+        {
+            "step_number": 5,
+            "title": "",
+            "text": "The adjustment plate is fixed with a Phillips screw. Gently twist it out.\nUse a well-fitting Phillips screwdriver and press firmly as you unscrew. The screw is quite tight and the screw head must not be damaged under any circumstances.",
+            "image_links": [],
+            "edit_link": "https://www.ifixit.com/Guide/edit/133045/263221",
+            "comment_links": []
+        },
+        {
+            "step_number": 6,
+            "title": "",
+            "text": "Push the needle carrier a little forward from behind to relieve the adjustment plate, then simply lift it up using a pair of tweezers.",
+            "image_links": [],
+            "edit_link": "https://www.ifixit.com/Guide/edit/133045/263225",
+            "comment_links": []
+        },
+        {
+            "step_number": 7,
+            "title": "",
+            "text": "This is what the setting plate looks like. It regulates the position in sewing direction.\nTo adjust, you have to bend the lower part of the plate slightly outwards. Use two pliers to do this.\nThe bending is really minimal. You may have to remove the plate again if the needle isn't yet in the right position.\nReinstall the plate and check the position of the needle in sewing direction.\nWhen you fasten the screw, the plate - and with it the needle - must remain movable to the side, otherwise there will be no zigzag stitch, etc. Grease the sliding surfaces. You may have to take it out again and bend it back very slightly.",
+            "image_links": [],
+            "edit_link": "https://www.ifixit.com/Guide/edit/133045/263227",
+            "comment_links": []
+        },
+        {
+            "step_number": 8,
+            "title": "Adjust lateral shift",
+            "text": "The lateral position of the needle is easier to adjust. A black banjo bolt is used for this purpose. This position is set at the factory and does not normally need to be readjusted.\nThe hollow screw is secured from the factory with red color. You may have to remove it. To get to the screw better, you can unhook the transverse return spring.\nAdjust the screw using a 1.4 mm Allen key. Observe how the lateral position of the needle changes.",
+            "image_links": [],
+            "edit_link": "https://www.ifixit.com/Guide/edit/133045/263229",
+            "comment_links": []
+        },
+        {
+            "step_number": 9,
+            "title": "Tip",
+            "text": "One last hint: sewing starts better if you lower the needle using the handwheel into the throat plate after each switch-on; the motors adjust themselves with a brief click. Lift the needle up again and you're good to go - until the next time you turn it off.",
+            "image_links": [],
+            "edit_link": "https://www.ifixit.com/Guide/edit/133045/263230",
+            "comment_links": []
+        }
+    ],
+    "conclusion": {
+        "text": "To reassemble your device, follow these instructions in reverse order.",
+        "author_points": 30,
+        "cancel_link": "https://www.ifixit.com/Guide/Adjusting+Singer+Brilliance+6180/<#>"
+    },
+    "embed_code": "<iframe id=\"dozuki-embed-133045\" src=\"https://www.ifixit.com/Guide/embed/133045/full\" width=\"800\" allowfullscreen frameborder=\"0\"></iframe> <script>window.addEventListener(\"message\",function(a){var b=document.getElementById(\"dozuki-embed-133045\"),c=a.data[0],d=a.data[1];switch(c){case\"setHeight\":b.style.height=d+\"px\"}},!1);</script> <iframe src=\"https://www.ifixit.com/Guide/embed/133045\" width=\"800\" height=\"584\" allowfullscreen frameborder=\"0\"></iframe>"
+}

@@ -1,0 +1,76 @@
+{
+    "title": "Disassembling Casio CZ-1000 Backplate",
+    "last_updated": "January 2, 2025",
+    "time_estimate": "5 - 10 minutes",
+    "difficulty": "Moderate",
+    "introduction": "Many Casio CZ-1000 troubleshooting symptoms require opening up the back plate of the digital synthesizer. Inside the keyboard, a number of components are located under the two main motherboards. In this guide, we take you step by step through how to open up the back plate and remove the two main motherboards, giving access to the components below.",
+    "tools": [
+        {
+            "name": "Phillips #1 Screwdriver",
+            "url": "https://www.ifixit.com/products/phillips-1-screwdriver",
+            "image_url": "https://cart-products.cdn.ifixit.com/cart-products/dFxEXEXNVRdNBvCX.thumbnail",
+            "price": [
+                "$5.49 New / iFixit",
+                "$8.99 New / Moody - Made in USA"
+            ],
+            "add_to_cart_url": "https://www.ifixit.com/products/phillips-1-screwdriver"
+        },
+        {
+            "name": "Scissors",
+            "url": "https://www.ifixit.com/products/utility-scissors",
+            "image_url": "https://cart-products.cdn.ifixit.com/cart-products/YZFc6xfCFTuHFhsP.thumbnail",
+            "price": "$5.59",
+            "add_to_cart_url": "https://www.ifixit.com/products/utility-scissors"
+        }
+    ],
+    "steps": [
+        {
+            "step_number": 1,
+            "title": "Backplate",
+            "image_url": [
+                "https://guide-images.cdn.ifixit.com/igi/AxavRoIe5aKFUVFZ.medium",
+                "https://guide-images.cdn.ifixit.com/igi/QHLSMuQMkEX5gJGm.medium"
+            ],
+            "image_alt": [
+                "https://guide-images.cdn.ifixit.com/igi/AxavRoIe5aKFUVFZ.200x150",
+                "https://guide-images.cdn.ifixit.com/igi/QHLSMuQMkEX5gJGm.200x150"
+            ],
+            "instructions": [
+                "Use a Phillips #1 screwdriver to remove the eleven 7.5 mm screws securing the back plate."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/180175/384959",
+            "comment_count": 0
+        },
+        {
+            "step_number": 2,
+            "image_url": "https://guide-images.cdn.ifixit.com/igi/3gI6qEMThnraVaOv.medium",
+            "image_alt": [
+                "https://guide-images.cdn.ifixit.com/igi/3gI6qEMThnraVaOv.200x150",
+                "https://guide-images.cdn.ifixit.com/igi/xYmHXiL5RYgesGQt.200x150",
+                "https://guide-images.cdn.ifixit.com/igi/6CBlwtt5NAsdgU4H.200x150"
+            ],
+            "instructions": [
+                "Using a Phillips #1 screwdriver, remove all 14 5.5 mm screws from the two motherboards.",
+                "These screws secure the motherboards to the keyboard assembly and the dial on the right side."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/180175/384962",
+            "comment_count": 0
+        },
+        {
+            "step_number": 3,
+            "instructions": [
+                "Carefully cut the zip tie located in the right-hand corner using a pair of scissors or wire cutters.",
+                "Be sure to avoid cutting any nearby wires or components.",
+                "Gently slide all the plugs out of their sockets.",
+                "This will prevent them from catching on anything or damaging the connectors as you lift."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/180175/384963",
+            "comment_count": 0
+        }
+    ],
+    "conclusion": "To reassemble your device, follow these instructions in reverse order.",
+    "completed_message": "",
+    "embed_code": "<iframe id=\"dozuki-embed-180175\" src=\"https://www.ifixit.com/Guide/embed/180175/full\" width=\"800\" allowfullscreen frameborder=\"0\"></iframe> <script>window.addEventListener(\"message\",function(a){var b=document.getElementById(\"dozuki-embed-180175\"),c=a.data[0],d=a.data[1];switch(c){case\"setHeight\":b.style.height=d+\"px\"}},!1);</script> <iframe src=\"https://www.ifixit.com/Guide/embed/180175\" width=\"800\" height=\"584\" allowfullscreen frameborder=\"0\"></iframe>",
+    "repair_is_noble_url": "https://www.ifixit.com/Manifesto",
+    "license_url": "https://www.ifixit.com/Info/Licensing"
+}

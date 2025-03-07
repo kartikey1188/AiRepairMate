@@ -1,0 +1,118 @@
+{
+    "guide_title": "Desk Drawer Hanging File Brace Bar Repair",
+    "last_updated": "July 31, 2019",
+    "time_estimate": "50 minutes",
+    "difficulty": "Easy",
+    "introduction": "Upon completion of this procedure you will have repaired and stabilized the brace bar for hanging files. This process is fairly easy and only requires a basic understanding of carpentry.",
+    "tools_and_materials": {
+        "parts": [
+            {
+                "name": "Wood Screws—Get the same screws (length) but one size wider (min. +1/32\" wider)",
+                "url": "https://www.ifixit.com/Guide/How+To+Fix+Overused+Screw+Holes+In+Book+Shelves/Item/Wood_Screws%E2%80%94Get_the_same_screws_%28length%29_but_one_size_wider_%28min._1_32%22_wider%29"
+            }
+        ],
+        "tools": [
+            {
+                "name": "5/32 round file",
+                "url": "http://amzn.com/B002YLYJHI?tag=ifixitam-20",
+                "affiliate_link": true,
+                "available_on_amazon": true
+            },
+            {
+                "name": "Putty knife",
+                "url": "https://www.ifixit.com/products/1-5-thin-putty-knife",
+                "price": "$6.99",
+                "add_to_cart": true
+            }
+        ]
+    },
+    "steps": [
+        {
+            "step_number": 1,
+            "step_title": "Desk Drawer Hanging File Brace Bar Repair",
+            "images": [
+                {
+                    "url": "https://guide-images.cdn.ifixit.com/igi/ScFDrIxaJP1Mq2Bl.medium",
+                    "alt_text": "Desk Drawer Hanging File Brace Bar Repair, Desk Drawer Hanging File Brace Bar Repair: step 1, image 1 of 1"
+                }
+            ],
+            "text": "Remove all content from the drawer. (If possible, remove the drawer from the desk for better accessibility).\nUsing the pencil, mark reference points where the brace bar is located at the top of the drawer.",
+            "links": [
+                {
+                    "type": "edit",
+                    "url": "https://www.ifixit.com/Guide/edit/50161/108561"
+                }
+            ]
+        },
+        {
+            "step_number": 2,
+            "step_title": null,
+            "images": [
+                {
+                    "url": "https://guide-images.cdn.ifixit.com/igi/xECkA2JsNQGrEedV.medium",
+                    "alt_text": "Desk Drawer Hanging File Brace Bar Repair: step 2, image 1 of 1"
+                }
+            ],
+            "text": "Use the sandpaper and the wood file to sand the area until it is completely smooth to the touch.\nThis process needs to be done on both sides of the drawer where the brace bar was located.",
+            "links": [
+                {
+                    "type": "edit",
+                    "url": "https://www.ifixit.com/Guide/edit/50161/108562"
+                }
+            ]
+        },
+        {
+            "step_number": 3,
+            "step_title": null,
+            "images": [],
+            "text": "Apply the wood putty to the freshly sanded corners. Smooth the wood putty evenly, applying moderate pressure to ensure stable reinforcement.",
+            "links": [
+                {
+                    "type": "edit",
+                    "url": "https://www.ifixit.com/Guide/edit/50161/108568"
+                }
+            ]
+        },
+        {
+            "step_number": 4,
+            "step_title": null,
+            "images": [],
+            "text": "Wait until the putty has almost completely dried (approximately 30 minutes), at which point use the reference points and replace the brace bar, sliding in from the top of the drawer.",
+            "links": [
+                {
+                    "type": "edit",
+                    "url": "https://www.ifixit.com/Guide/edit/50161/108571"
+                }
+            ]
+        },
+        {
+            "step_number": 5,
+            "step_title": null,
+            "images": [],
+            "text": "Reinforce the brace bar once you have properly placed it in the drawer front with wood putty to ensure stability.",
+            "links": [
+                {
+                    "type": "edit",
+                    "url": "https://www.ifixit.com/Guide/edit/50161/108576"
+                }
+            ]
+        },
+        {
+            "step_number": 6,
+            "step_title": null,
+            "images": [],
+            "text": "Replace the hanging files and enjoy your newly secured hanging file drawer.",
+            "links": [
+                {
+                    "type": "edit",
+                    "url": "https://www.ifixit.com/Guide/edit/50161/108582"
+                }
+            ]
+        }
+    ],
+    "conclusion": "From this procedure you will have a stronger, reinforced hanging file brace bar.",
+    "embed_guide": {
+        "single_step_code": "<iframe id=\"dozuki-embed-50161\" src=\"https://www.ifixit.com/Guide/embed/50161/full\" width=\"800\" allowfullscreen frameborder=\"0\"></iframe> <script>window.addEventListener(\"message\",function(a){var b=document.getElementById(\"dozuki-embed-50161\"),c=a.data[0],d=a.data[1];switch(c){case\"setHeight\":b.style.height=d+\"px\"}},!1);</script>",
+        "full_guide_code": "<iframe src=\"https://www.ifixit.com/Guide/embed/50161\" width=\"800\" height=\"584\" allowfullscreen frameborder=\"0\"></iframe>"
+    }
+}

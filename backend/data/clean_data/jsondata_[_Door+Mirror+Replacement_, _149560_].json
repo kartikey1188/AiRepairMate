@@ -1,0 +1,111 @@
+{
+    "guide_title": "Door Mirror Replacement",
+    "last_updated": "January 3, 2023",
+    "time_estimate": "10 - 20 minutes",
+    "difficulty": "Very easy",
+    "introduction": "This guide will walk you through on the steps on replacing your door mirror. You will need to be careful with handling the mirror, as it could potentially shattered if not handled properly. The tools that you will need for this is just screwdriver, but a power drill can also be used.",
+    "tools_and_materials": {
+        "tools": [
+            {
+                "name": "6‑in-1 Screwdriver",
+                "url": "https://www.ifixit.com/products/6-in-1-screwdriver",
+                "price": "$6.99",
+                "add_to_cart": true
+            }
+        ]
+    },
+    "steps": [
+        {
+            "step_number": 1,
+            "step_title": "Door Mirror",
+            "images": [
+                {
+                    "url": "https://guide-images.cdn.ifixit.com/igi/vOYggkWDaQnDcSE3.medium",
+                    "alt_text": "Door Mirror Replacement, Door Mirror: step 1, image 1 of 1"
+                }
+            ],
+            "text": "Use a screwdriver to remove the two brackets securing the top of the mirror.\nThe mirror will fall forward once the two top brackets are released; be sure to support the mirror as you unscrew the brackets.\nThe [type of screwdriver](https://www.ifixit.com/Guide/Door+Mirror+Replacement/Guide/Choosing+the+Right+Screwdriver+Bit/93991) needed will depend on your specific brackets.",
+            "links": [
+                {
+                    "type": "edit",
+                    "url": "https://www.ifixit.com/Guide/edit/149560/308916"
+                },
+                {
+                    "type": "link",
+                    "url": "https://www.ifixit.com/Guide/Door+Mirror+Replacement/Guide/Choosing+the+Right+Screwdriver+Bit/93991",
+                    "text": "type of screwdriver"
+                }
+            ]
+        },
+        {
+            "step_number": 2,
+            "step_title": null,
+            "images": [
+                {
+                    "url": "https://guide-images.cdn.ifixit.com/igi/wpTILRAZUKbeMm4r.medium",
+                    "alt_text": "Door Mirror Replacement: step 2, image 1 of 1"
+                }
+            ],
+            "text": "Lift the broken mirror off of the door.\nRemove any cardboard or other cushioning (if any) from the door.",
+            "links": [
+                {
+                    "type": "edit",
+                    "url": "https://www.ifixit.com/Guide/edit/149560/308918"
+                }
+            ]
+        },
+        {
+            "step_number": 3,
+            "step_title": null,
+            "images": [],
+            "text": "Loosen, but don't remove, the bottom brackets to accommodate the width of the new mirror.",
+            "links": [
+                {
+                    "type": "edit",
+                    "url": "https://www.ifixit.com/Guide/edit/149560/308920"
+                }
+            ]
+        },
+        {
+            "step_number": 4,
+            "step_title": null,
+            "images": [],
+            "text": "If you have new mirror supports, then remove the old brackets entirely and replace them with the new brackets.",
+            "links": [
+                {
+                    "type": "edit",
+                    "url": "https://www.ifixit.com/Guide/edit/149560/308921"
+                }
+            ]
+        },
+        {
+            "step_number": 5,
+            "step_title": null,
+            "images": [],
+            "text": "Replace any cushioning behind the mirror.\nWhile supporting the top of the mirror, set the mirror into the bottom brackets, then tighten the brackets.",
+            "links": [
+                {
+                    "type": "edit",
+                    "url": "https://www.ifixit.com/Guide/edit/149560/308922"
+                }
+            ]
+        },
+        {
+            "step_number": 6,
+            "step_title": null,
+            "images": [],
+            "text": "Replace the top brackets and tighten them to full secure the mirror.",
+            "links": [
+                {
+                    "type": "edit",
+                    "url": "https://www.ifixit.com/Guide/edit/149560/308923"
+                }
+            ]
+        }
+    ],
+    "conclusion": "Enjoy your new mirror!",
+    "embed_guide": {
+        "single_step_code": "<iframe id=\"dozuki-embed-149560\" src=\"https://www.ifixit.com/Guide/embed/149560/full\" width=\"800\" allowfullscreen frameborder=\"0\"></iframe> <script>window.addEventListener(\"message\",function(a){var b=document.getElementById(\"dozuki-embed-149560\"),c=a.data[0],d=a.data[1];switch(c){case\"setHeight\":b.style.height=d+\"px\"}},!1);</script>",
+        "full_guide_code": "<iframe src=\"https://www.ifixit.com/Guide/embed/149560\" width=\"800\" height=\"584\" allowfullscreen frameborder=\"0\"></iframe>"
+    }
+}

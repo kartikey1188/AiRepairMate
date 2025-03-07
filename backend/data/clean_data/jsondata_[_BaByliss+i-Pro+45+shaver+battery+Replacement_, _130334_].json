@@ -1,0 +1,103 @@
+{
+    "metadata": {
+        "title": "BaByliss i-Pro 45 shaver battery Replacement",
+        "last_updated": "July 12, 2024",
+        "guide_image": "https://guide-images.cdn.ifixit.com/igi/PM2rha1kEtl4wWCS.140x105",
+        "estimated_time": "10 minutes",
+        "difficulty": "Moderate",
+        "community_guide": true,
+        "device_links": [
+            {
+                "text": "BaByliss i-Pro 45 shaver",
+                "url": "https://www.ifixit.com/Device/BaByliss_i-Pro_45_shaver"
+            },
+            {
+                "text": "Razor",
+                "url": "https://www.ifixit.com/Device/Razor"
+            },
+            {
+                "text": "Health And Personal Care",
+                "url": "https://www.ifixit.com/Device/Health_And_Personal_Care"
+            },
+            {
+                "text": "Household",
+                "url": "https://www.ifixit.com/Device/Household"
+            },
+            {
+                "text": "Home",
+                "url": "https://www.ifixit.com/Guide"
+            }
+        ],
+        "parts_links": [
+            {
+                "text": "Guides",
+                "url": "https://www.ifixit.com/Device/BaByliss_i-Pro_45_shaver#Section_Guides"
+            },
+            {
+                "text": "Answers",
+                "url": "https://www.ifixit.com/Answers/Device/BaByliss_i-Pro_45_shaver"
+            }
+        ],
+        "edit_link": "https://www.ifixit.com/Guide/edit/130334"
+    },
+    "introduction": "This guide will teach you how to open up a BaByliss i-Pro 45 to change its batteries.\n3x AAA 1.2V batteries with U-lips are required to be soldered onto the motherboard.\nOpening up the device is an ideal opportunity to thoroughly clean it. Under the head/blades, some hairs may be stuck.",
+    "what_you_need": {
+        "parts": [
+            {
+                "text": "ENELOOP AAA with U‑lip",
+                "url": "https://www.nkon.nl/rechargeable/aaa-size/aaa-eneloop-u-lip.html",
+                "available_on": "https://www.nkon.nl/rechargeable/aaa-size/aaa-eneloop-u-lip.html",
+                "view_link": "https://www.nkon.nl/rechargeable/aaa-size/aaa-eneloop-u-lip.html"
+            }
+        ],
+        "tools": []
+    },
+    "steps": [
+        {
+            "step_number": 1,
+            "title": "Remove the screws of the housing",
+            "text": "Remove the rubber plug hiding the screw\nRemove the screw under the plug\nRemove two screws below the blades with a long Philips screwdriver",
+            "image": "https://guide-images.cdn.ifixit.com/igi/2uPptV2aLbW3fwCm.medium",
+            "image_links": [],
+            "edit_link": "https://www.ifixit.com/Guide/edit/130334/255080",
+            "comment_links": []
+        },
+        {
+            "step_number": 2,
+            "title": "Remove the blade (Optional)",
+            "text": "Remove the screws at the bottom of the blade\nRemove the blade",
+            "image": "https://guide-images.cdn.ifixit.com/igi/E23JCVKLUuTKjqNC.medium",
+            "image_links": [
+                "https://guide-images.cdn.ifixit.com/igi/E23JCVKLUuTKjqNC.200x150",
+                "https://guide-images.cdn.ifixit.com/igi/oUotGcOiM6QVECU3.200x150"
+            ],
+            "edit_link": "https://www.ifixit.com/Guide/edit/130334/255081",
+            "comment_links": [],
+            "additional_images": [
+                "https://guide-images.cdn.ifixit.com/igi/oUotGcOiM6QVECU3.medium"
+            ]
+        },
+        {
+            "step_number": 3,
+            "title": "Open the housing",
+            "text": "Gently open the housing",
+            "image_links": [],
+            "edit_link": "https://www.ifixit.com/Guide/edit/130334/255082",
+            "comment_links": []
+        },
+        {
+            "step_number": 4,
+            "title": "Lift the circuit",
+            "text": "open the plastic parts holding the circuit in place\nstart lifting from the tail",
+            "image_links": [],
+            "edit_link": "https://www.ifixit.com/Guide/edit/130334/255083",
+            "comment_links": []
+        }
+    ],
+    "conclusion": {
+        "text": "To reassemble your device, follow these instructions in reverse order.",
+        "author_points": 30,
+        "cancel_link": "https://www.ifixit.com/Guide/BaByliss+i-Pro+45+shaver+battery+Replacement/<#>"
+    },
+    "embed_code": "<iframe id=\"dozuki-embed-130334\" src=\"https://www.ifixit.com/Guide/embed/130334/full\" width=\"800\" allowfullscreen frameborder=\"0\"></iframe> <script>window.addEventListener(\"message\",function(a){var b=document.getElementById(\"dozuki-embed-130334\"),c=a.data[0],d=a.data[1];switch(c){case\"setHeight\":b.style.height=d+\"px\"}},!1);</script> <iframe src=\"https://www.ifixit.com/Guide/embed/130334\" width=\"800\" height=\"584\" allowfullscreen frameborder=\"0\"></iframe>"
+}

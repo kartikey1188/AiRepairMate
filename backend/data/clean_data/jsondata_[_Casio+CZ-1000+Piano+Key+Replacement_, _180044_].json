@@ -1,0 +1,120 @@
+{
+    "title": "Casio CZ-1000 Piano Key Replacement",
+    "last_updated": "January 2, 2025",
+    "time_estimate": "15 minutes",
+    "difficulty": "Easy",
+    "introduction": "This guide is to replace a damaged or broken piano key on your Casio CZ-1000 synthesizer. A broken piano key can cause the key to [feel loose or be unresponsive](https://www.ifixit.com/Troubleshooting/Casio_CZ-1000/Loose+Piano+Keys/614313).",
+    "tools": [
+        {
+            "name": "Scissors",
+            "url": "https://www.ifixit.com/products/utility-scissors",
+            "image_url": "https://cart-products.cdn.ifixit.com/cart-products/YZFc6xfCFTuHFhsP.thumbnail",
+            "price": "$5.59",
+            "add_to_cart_url": "https://www.ifixit.com/products/utility-scissors"
+        },
+        {
+            "name": "Phillips #1 Screwdriver",
+            "url": "https://www.ifixit.com/products/phillips-1-screwdriver",
+            "image_url": "https://cart-products.cdn.ifixit.com/cart-products/dFxEXEXNVRdNBvCX.thumbnail",
+            "price": [
+                "$5.49 New / iFixit",
+                "$8.99 New / Moody - Made in USA"
+            ],
+            "add_to_cart_url": "https://www.ifixit.com/products/phillips-1-screwdriver"
+        },
+        {
+            "name": "Tweezers",
+            "url": "https://www.ifixit.com/products/tweezers",
+            "image_url": "https://cart-products.cdn.ifixit.com/cart-products/eQGTt3iN1MmOAQDy.thumbnail",
+            "price": "$4.99",
+            "add_to_cart_url": "https://www.ifixit.com/products/tweezers"
+        }
+    ],
+    "steps": [
+        {
+            "step_number": 1,
+            "title": "Backplate",
+            "image_url": [
+                "https://guide-images.cdn.ifixit.com/igi/AxavRoIe5aKFUVFZ.medium",
+                "https://guide-images.cdn.ifixit.com/igi/QHLSMuQMkEX5gJGm.medium"
+            ],
+            "image_alt": [
+                "https://guide-images.cdn.ifixit.com/igi/AxavRoIe5aKFUVFZ.200x150",
+                "https://guide-images.cdn.ifixit.com/igi/QHLSMuQMkEX5gJGm.200x150"
+            ],
+            "instructions": [
+                "Use a Phillips #1 screwdriver to remove the eleven 7.5 mm screws securing the back plate."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/180044/384959",
+            "comment_count": 0
+        },
+        {
+            "step_number": 2,
+            "image_url": "https://guide-images.cdn.ifixit.com/igi/3gI6qEMThnraVaOv.medium",
+            "image_alt": [
+                "https://guide-images.cdn.ifixit.com/igi/3gI6qEMThnraVaOv.200x150",
+                "https://guide-images.cdn.ifixit.com/igi/xYmHXiL5RYgesGQt.200x150",
+                "https://guide-images.cdn.ifixit.com/igi/6CBlwtt5NAsdgU4H.200x150"
+            ],
+            "instructions": [
+                "Using a Phillips #1 screwdriver, remove all 14 5.5 mm screws from the two motherboards.",
+                "These screws secure the motherboards to the keyboard assembly and the dial on the right side."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/180044/384962",
+            "comment_count": 0
+        },
+        {
+            "step_number": 3,
+            "instructions": [
+                "Carefully cut the zip tie located in the right-hand corner using a pair of scissors or wire cutters.",
+                "Be sure to avoid cutting any nearby wires or components.",
+                "Gently slide all the plugs out of their sockets.",
+                "This will prevent them from catching on anything or damaging the connectors as you lift."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/180044/384963",
+            "comment_count": 0
+        },
+        {
+            "step_number": 4,
+            "title": "Piano Key",
+            "instructions": [
+                "Remove the four 7.5 mm screws using a Phillips #1 screwdriver.",
+                "Lift the rectangular circuit board away to expose the underside of the key bed."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/180044/384495",
+            "comment_count": 0
+        },
+        {
+            "step_number": 5,
+            "instructions": [
+                "Remove the six 7.5 mm screws using a Phillips #1 screwdriver."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/180044/384500",
+            "comment_count": 0
+        },
+        {
+            "step_number": 6,
+            "instructions": [
+                "Grab the key bed by the side shown.",
+                "Lift the key bed up and slide it out from the black case."
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/180044/384501",
+            "comment_count": 0
+        },
+        {
+            "step_number": 7,
+            "instructions": [
+                "Flip the key bed over so that the keys are facing up.",
+                "Using a pair of tweezers, detach the spring from both the metal bar and the key itself.",
+                "Lift the key out of the slot in the metal bar and replace!"
+            ],
+            "edit_url": "https://www.ifixit.com/Guide/edit/180044/384505",
+            "comment_count": 0
+        }
+    ],
+    "conclusion": "To reassemble your device, follow these instructions in reverse order.",
+    "completed_message": "",
+    "embed_code": "<iframe id=\"dozuki-embed-180044\" src=\"https://www.ifixit.com/Guide/embed/180044/full\" width=\"800\" allowfullscreen frameborder=\"0\"></iframe> <script>window.addEventListener(\"message\",function(a){var b=document.getElementById(\"dozuki-embed-180044\"),c=a.data[0],d=a.data[1];switch(c){case\"setHeight\":b.style.height=d+\"px\"}},!1);</script> <iframe src=\"https://www.ifixit.com/Guide/embed/180044\" width=\"800\" height=\"584\" allowfullscreen frameborder=\"0\"></iframe>",
+    "repair_is_noble_url": "https://www.ifixit.com/Manifesto",
+    "license_url": "https://www.ifixit.com/Info/Licensing"
+}

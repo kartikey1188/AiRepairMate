@@ -1,0 +1,110 @@
+{
+    "metadata": {
+        "title": "Add-O-Bank Coin Bank Disassembly",
+        "last_updated": "May 12, 2022",
+        "guide_image": "https://guide-images.cdn.ifixit.com/igi/QGRKHVA6MrE3JdOl.140x105",
+        "estimated_time": "2 minutes",
+        "difficulty": "Easy",
+        "community_guide": true,
+        "device_links": [
+            {
+                "text": "Add-O-Bank Coin Bank",
+                "url": "https://www.ifixit.com/Device/Add_O_Bank_Coin_Bank"
+            },
+            {
+                "text": "Piggy Bank",
+                "url": "https://www.ifixit.com/Device/Piggy_Bank"
+            },
+            {
+                "text": "Item",
+                "url": "https://www.ifixit.com/Device/Household_Item"
+            },
+            {
+                "text": "Household",
+                "url": "https://www.ifixit.com/Device/Household"
+            },
+            {
+                "text": "Home",
+                "url": "https://www.ifixit.com/Guide"
+            }
+        ],
+        "parts_links": [
+            {
+                "text": "Guides",
+                "url": "https://www.ifixit.com/Device/Add_O_Bank_Coin_Bank#Section_Guides"
+            },
+            {
+                "text": "Answers",
+                "url": "https://www.ifixit.com/Answers/Device/Add_O_Bank_Coin_Bank"
+            }
+        ],
+        "edit_link": "https://www.ifixit.com/Guide/edit/148818"
+    },
+    "introduction": "The Add-O-Bank is a cleverly-designed coin bank from the 1940s. They were branded on top by many different businesses such as banks and insurance companies, but the underlying mechanism is the same. The bank displays the amount of money inside, by means of mechanical wheels.\nTo add a coin, a person inserts a coin into a slot and pushes a handle. The coin drops down into the bank, and the total contained in the bank is updated on mechanical dials.\nA key is normally required to open the bank and see the treasures inside. After 80 years, most owners will have misplaced their keys.\nThis guide explains how you can get the coins out. If you are clever you can pick the lock with a paper clip. If (like me) you are not clever, you can easily “break the bank” while doing a minimum of damage, in order to get inside. Finally, the guide explains how to repair the damage you may have done while breaking the bank, returning it to its original condition.",
+    "steps": [
+        {
+            "step_number": 1,
+            "title": "Identify the Add O Bank Coin Bank",
+            "text": "These coin banks were distributed by many banks and insurance companies. The tops were decorated in many colors and with many company logos.\nIn contrast, the bottoms of these coin banks were all the same. Flip the coin bank over. What you see should match the image in this guide step.",
+            "image": "https://guide-images.cdn.ifixit.com/igi/QGRKHVA6MrE3JdOl.medium",
+            "image_links": [],
+            "edit_link": "https://www.ifixit.com/Guide/edit/148818/306156",
+            "comment_links": []
+        },
+        {
+            "step_number": 2,
+            "title": "How the Lock Works",
+            "text": "There are two locks on this coin bank. The lock on the top resets the money counter. The lock on the bottom secures the coin door to prevent you from looting the bank.\nThe coin door lock has two spring-loaded teeth that engage with the metal lip at the base of the coin bank.\nThe door is tightly shut, so there's no room to slip in a business card or a thin piece of plastic to release the teeth.",
+            "image": "https://guide-images.cdn.ifixit.com/igi/WTHqEsMqZc1STC51.medium",
+            "image_links": [],
+            "edit_link": "https://www.ifixit.com/Guide/edit/148818/306158",
+            "comment_links": []
+        },
+        {
+            "step_number": 3,
+            "title": "Try to Pick the Lock",
+            "text": "Before you continue with this guide, if you're able to pick the lock with a paper clip. Picking the lock should be attempted first, because it will avoid the following step where you damage the lock.\nBend the paper clip into an \"L\" shape and insert it through the key slot. Using the end of the paper clip, feel for one of the two large metal stubs on the sides of the latch mechanism, indicated by the arrow. From the center of the lock cylinder, reach forward a little to engage the stub.\nPush the latch back far enough to open the door.\nThat the door is not spring-loaded, so you will have to apply pressure with the paper clip while pulling the door open.",
+            "image_links": [],
+            "edit_link": "https://www.ifixit.com/Guide/edit/148818/306160",
+            "comment_links": []
+        },
+        {
+            "step_number": 4,
+            "title": "Separate the Lock from the Door",
+            "text": "If unable to pick the lock as described in the previous step, accessing the bank can be done by separating the lock from the door.\nTo separate the lock from the door, press down firmly on the two indicated shiny pieces of metal showing through the bottom door of the coin bank. The shiny metal is part of the steel base plate of the lock.\nThe lock is held together by four weak metal tabs on the inside, as shown in the second photo. These give way easily when you apply enough pressure. You might not be able to do this if the coin bank is too full of coins.\nYou can get away with bending the tabs open and closed a few times, but eventually metal fatigue will cause the tabs to break off.",
+            "image_links": [],
+            "edit_link": "https://www.ifixit.com/Guide/edit/148818/306157",
+            "comment_links": []
+        },
+        {
+            "step_number": 5,
+            "title": "Loot the Coin Bank",
+            "text": "If you are lucky, you will find some mercury head dimes and wheat pennies inside the coin bank.",
+            "image_links": [],
+            "edit_link": "https://www.ifixit.com/Guide/edit/148818/306161",
+            "comment_links": []
+        },
+        {
+            "step_number": 6,
+            "title": "Reassemble the Lock",
+            "text": "If unable to pick the lock, it is fairly easy to repair the lock provided that you have not broken off any of the metal tabs inside the bank door.\nFirst put the lock mounting plate back onto the tabs. Then put the lock cylinder in place, wide side down.\nBe mindful of the positions of the lock pieces in the second photo. Flip the mechanism over and place it on top of the door tabs.\nBefore you bend the tabs back into place, look at the Step 7 instructions.",
+            "image_links": [],
+            "edit_link": "https://www.ifixit.com/Guide/edit/148818/306162",
+            "comment_links": []
+        },
+        {
+            "step_number": 7,
+            "title": "Strongly Consider Disabling the Lock",
+            "text": "If unable to pick the lock with a paper clip, strongly consider disabling the lock.\nOne easy way to do this is to completely remove the sliding latch from the lock, as shown in the photo. Use a piece of strapping tape to hold the door closed.\nAnother way of disabling the lock is to mount the lock mechanism onto the door tabs in the reverse of the correct orientation. This will prevent the teeth of the latch from engaging the metal rim of the coin bank. An advantage of this technique is that the sliding latch piece can't get lost because it stays with the rest of the lock.\nOnce the lock mechanism is back in place, bend down the metal tabs to secure the lock back in place. On the other hand, you may wish to keep the lock only loosely fastened to the door, so that you can easily reopen the coin bank at any time.",
+            "image_links": [],
+            "edit_link": "https://www.ifixit.com/Guide/edit/148818/306163",
+            "comment_links": []
+        }
+    ],
+    "conclusion": {
+        "text": "Who knew that breaking into a bank could be so easy?",
+        "author_points": 30,
+        "cancel_link": "https://www.ifixit.com/Guide/Add-O-Bank+Coin+Bank+Disassembly/<#>"
+    },
+    "embed_code": "<iframe id=\"dozuki-embed-148818\" src=\"https://www.ifixit.com/Guide/embed/148818/full\" width=\"800\" allowfullscreen frameborder=\"0\"></iframe> <script>window.addEventListener(\"message\",function(a){var b=document.getElementById(\"dozuki-embed-148818\"),c=a.data[0],d=a.data[1];switch(c){case\"setHeight\":b.style.height=d+\"px\"}},!1);</script> <iframe src=\"https://www.ifixit.com/Guide/embed/148818\" width=\"800\" height=\"584\" allowfullscreen frameborder=\"0\"></iframe>"
+}

@@ -1,0 +1,190 @@
+{
+    "guide_title": "Drawer Roller Bracket Replacement",
+    "last_updated": "July 27, 2020",
+    "time_estimate": "1 - 6 hours",
+    "difficulty": "Difficult",
+    "introduction": "This project will result in an illustrated how-to guide on fixing a drawer roller bracket that does not close completely. By the end of this fix you will have a drawer that closes flush against the face of the furniture.",
+    "tools_and_materials": {
+        "tools": [
+            {
+                "name": "Angle Grinder",
+                "url": "https://www.amazon.com/PORTER-CABLE-PC60TAG-6-0-Amp-2-Inch-Grinder/dp/B004X5NNGG/ref=sr_1_1?s=power-hand-tools&ie=UTF8&qid=1490399234&sr=1-1&keywords=angle%2Bgrinder&tag=ifixitam-20",
+                "affiliate_link": true,
+                "available_on_amazon": true
+            },
+            {
+                "name": "Cordless Driver/Drill",
+                "url": "https://www.amazon.com/DEWALT-DCK240C2-Lithium-Driver-Impact/dp/B00IJ0ALYS/ref=sr_1_11_sspa?crid=1SBK8NW5G0FF3&keywords=cordless%2Bdrill%2Bdriver&qid=1689101722&sprefix=cordless%2Bdrill%2Bdriver%2Caps%2C165&sr=8-11-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9tdGY&th=1&tag=ifixitam-20",
+                "affiliate_link": true,
+                "available_on_amazon": true
+            },
+            {
+                "name": "Hack saw",
+                "url": "https://www.amazon.com/DEWALT-DWHT20547L-5-in-1-Hacksaw/dp/B0051QIIDO/ref=sr_1_2?s=power-hand-tools&ie=UTF8&qid=1518458648&sr=1-2&keywords=hacksaw&tag=ifixitam-20",
+                "affiliate_link": true,
+                "available_on_amazon": true
+            },
+            {
+                "name": "64 Bit Driver Kit",
+                "url": "https://www.ifixit.com/products/mako-driver-kit-64-precision-bits",
+                "price": "$39.95",
+                "add_to_cart": true
+            },
+            {
+                "name": "Tape Measure",
+                "url": "https://smile.amazon.com/tape-measure/s?k=tape%2Bmeasure&tag=ifixitam-20",
+                "affiliate_link": true,
+                "available_on_amazon": true
+            },
+            {
+                "name": "Sharpie",
+                "url": "http://www.amazon.com/Sharpie-Point-Permanent-Markers-30162PP/dp/B000QYLCWK/ref=sr_1_1?ie=UTF8&qid=1377195323&sr=8-1&keywords=sharpie&tag=ifixitam-20",
+                "affiliate_link": true,
+                "available_on_amazon": true
+            },
+            {
+                "name": "Precision Drill Bits Metal",
+                "url": "https://www.ifixit.com/Guide/Drawer+Roller+Bracket+Replacement/Item/Precision_Drill_Bits_Metal"
+            },
+            {
+                "name": "Leather Work Gloves",
+                "url": "http://www.amazon.com/Custom-Leathercraft-125M-Handyman-Gloves/dp/B0002YPZKY?tag=ifixitam-20",
+                "affiliate_link": true,
+                "available_on_amazon": true
+            },
+            {
+                "name": "JB Weld Epoxy",
+                "url": "https://www.ifixit.com/Guide/Drawer+Roller+Bracket+Replacement/Item/JB_Weld_Epoxy"
+            },
+            {
+                "name": "Safety Glasses",
+                "url": "https://www.ifixit.com/products/safety-glasses",
+                "price": "$3.19",
+                "add_to_cart": true
+            }
+        ],
+        "parts": [
+            {
+                "name": "Screws (Flat Head)",
+                "url": "https://www.ifixit.com/Guide/Drawer+Roller+Bracket+Replacement/Item/Screws"
+            }
+        ]
+    },
+    "steps": [
+        {
+            "step_number": 1,
+            "step_title": "Drawer Roller Bracket Replacement",
+            "images": [
+                {
+                    "url": "https://guide-images.cdn.ifixit.com/igi/rCstf4NEOsjlIWEk.medium",
+                    "alt_text": "Drawer Roller Bracket Replacement, Drawer Roller Bracket Replacement: step 1, image 1 of 2"
+                },
+                {
+                    "url": "https://guide-images.cdn.ifixit.com/igi/QqcUG6EKWrvqKXLX.medium",
+                    "alt_text": "Drawer Roller Bracket Replacement, Drawer Roller Bracket Replacement: step 1, image 2 of 2"
+                }
+            ],
+            "text": "Clear out drawer of any contents. This will make the drawer easier to handle, with no mess or clutter.\nTo remove, pull the drawer completely open.\nLift the drawer straight up.",
+            "links": [
+                {
+                    "type": "edit",
+                    "url": "https://www.ifixit.com/Guide/edit/131612/259231"
+                }
+            ]
+        },
+        {
+            "step_number": 2,
+            "step_title": null,
+            "images": [
+                {
+                    "url": "https://guide-images.cdn.ifixit.com/igi/A134lammS2kNnAXC.medium",
+                    "alt_text": "Drawer Roller Bracket Replacement: step 2, image 1 of 1"
+                }
+            ],
+            "text": "Remove the brackets on the drawer.\nSome may have rivets, some may have screws. If there are screws a simple screwdriver will do the trick. If there are rivets use a drill the size of the head of the rivet and proceed to drill the head of the rivet.\nWhen removing rivets with a drill, wear eye protection and be cautious.",
+            "links": [
+                {
+                    "type": "edit",
+                    "url": "https://www.ifixit.com/Guide/edit/131612/259235"
+                }
+            ]
+        },
+        {
+            "step_number": 3,
+            "step_title": null,
+            "images": [],
+            "text": "Measure the length of the internal track to the recessed part in the rear of the track.\nThis recess will hold the drawer completely closed when the wheel on the bracket reaches it.\nThen measure the amount of bracket that needs to be removed. In our case, 2 inches will need to be removed.",
+            "links": [
+                {
+                    "type": "edit",
+                    "url": "https://www.ifixit.com/Guide/edit/131612/259237"
+                }
+            ]
+        },
+        {
+            "step_number": 4,
+            "step_title": null,
+            "images": [],
+            "text": "Remove the excess bracket. Make sure to remove parts of the bracket that do not contain holes. These holes are used for fasteners.\nTo cut a section, make sure you make perfectly vertical cuts for the remaining pieces to line up. To assure a straight line to cut, use a sharpie marker to mark a straight line.\nUse a reciprocating power saw or a grinder with cutting wheel. I used a grinder because I found it to be easier.\nMaintain eye protection, and gloves if necessary.",
+            "links": [
+                {
+                    "type": "edit",
+                    "url": "https://www.ifixit.com/Guide/edit/131612/259239"
+                }
+            ]
+        },
+        {
+            "step_number": 5,
+            "step_title": null,
+            "images": [],
+            "text": "Apply JB Kwikweld to the remaining pieces of bracket. Mix equal parts of the mixture.\nDiscard the removed piece from last step.\nWhen applying JB weld, use a small amount, I used a toothpick as an applicator.\nSet time was roughly 6 minutes for the weld mixture to set.\nBefore adding weight to the drawer, allow the weld to fully cure. This will take 4-6 hours.",
+            "links": [
+                {
+                    "type": "edit",
+                    "url": "https://www.ifixit.com/Guide/edit/131612/259240"
+                }
+            ]
+        },
+        {
+            "step_number": 6,
+            "step_title": null,
+            "images": [],
+            "text": "Use a drill with a drill bit to make necessary holes for screws to sit and fasten the bracket. Use a drill bit slightly larger than shaft of screws, but smaller than the head of the screws.\nI used a 3/32 drill bit.\nInstall new fastener screws to the bracket.\nMy build required 12 **#6x1/2inch Philips screws**. I used three screws on each end of the brackets and six screws on each end of the bracket.\nThe more screws used, the stronger the bracket is secured. (Two on the bottom of the bracket, and one on the inside of the track.)\nIf possible, use preexisting holes, and screws.\nSometimes screws protrude too far, you may have to grind the head of the screw slightly so it protrudes less.",
+            "links": [
+                {
+                    "type": "edit",
+                    "url": "https://www.ifixit.com/Guide/edit/131612/259241"
+                }
+            ]
+        },
+        {
+            "step_number": 7,
+            "step_title": null,
+            "images": [],
+            "text": "Make sure the bracket is fastened securely, make any necessary adjustments.\nYou may need to grind down some of the JB Weld if too much was applied. Simply used a file or grinder.",
+            "links": [
+                {
+                    "type": "edit",
+                    "url": "https://www.ifixit.com/Guide/edit/131612/259242"
+                }
+            ]
+        },
+        {
+            "step_number": 8,
+            "step_title": null,
+            "images": [],
+            "text": "Insert wheels on both sides of the drawer bracket into the opening behind the wheel on the track located in the furniture.\nClose the drawer and make sure it opens and closes functionally.",
+            "links": [
+                {
+                    "type": "edit",
+                    "url": "https://www.ifixit.com/Guide/edit/131612/259243"
+                }
+            ]
+        }
+    ],
+    "conclusion": "To reassemble your device, follow these instructions in reverse order.",
+    "embed_guide": {
+        "single_step_code": "<iframe id=\"dozuki-embed-131612\" src=\"https://www.ifixit.com/Guide/embed/131612/full\" width=\"800\" allowfullscreen frameborder=\"0\"></iframe> <script>window.addEventListener(\"message\",function(a){var b=document.getElementById(\"dozuki-embed-131612\"),c=a.data[0],d=a.data[1];switch(c){case\"setHeight\":b.style.height=d+\"px\"}},!1);</script>",
+        "full_guide_code": "<iframe src=\"https://www.ifixit.com/Guide/embed/131612\" width=\"800\" height=\"584\" allowfullscreen frameborder=\"0\"></iframe>"
+    }
+}

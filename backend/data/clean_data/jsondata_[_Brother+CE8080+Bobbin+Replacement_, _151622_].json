@@ -1,0 +1,131 @@
+{
+    "metadata": {
+        "title": "Brother CE8080 Bobbin Replacement",
+        "last_updated": "November 18, 2024",
+        "guide_image": "https://guide-images.cdn.ifixit.com/igi/dNWfED24yvmumnoU.140x105",
+        "estimated_time": "5 - 10 minutes",
+        "difficulty": "Easy",
+        "featured_student_guide": true,
+        "device_links": [
+            {
+                "text": "Brother CE8080",
+                "url": "https://www.ifixit.com/Device/Brother_CE8080"
+            },
+            {
+                "text": "Sewing Machine",
+                "url": "https://www.ifixit.com/Device/Sewing_Machine"
+            },
+            {
+                "text": "Arts, Crafts & Sewing",
+                "url": "https://www.ifixit.com/Device/Arts_Crafts_and_Sewing"
+            },
+            {
+                "text": "Household",
+                "url": "https://www.ifixit.com/Device/Household"
+            },
+            {
+                "text": "Home",
+                "url": "https://www.ifixit.com/Guide"
+            }
+        ],
+        "parts_links": [
+            {
+                "text": "Guides",
+                "url": "https://www.ifixit.com/Device/Brother_CE8080#Section_Guides"
+            },
+            {
+                "text": "Answers",
+                "url": "https://www.ifixit.com/Answers/Device/Brother_CE8080"
+            }
+        ],
+        "edit_link": "https://www.ifixit.com/Guide/edit/151622"
+    },
+    "introduction": "Use this guide to replace a cracked or defective bobbin on your Brother CE8080 portable sewing machine. A bobbin in a sewing machine is a small and cylindrical shape metal or plastic component that holds the thread coming from the base of the machine. A sewing machine has thread coming from the top and base to create a stitch. A damaged bobbin will cause major malfunction to the sewing machine.\nYour bobbin may need to be replaced if it has a crack or is damaged in some way because it affects the performance of the machine. It will also cause a loose lower stitch.\nIn Step 6 of this guide, you will need to use a pair fabric scissors. Fabric scissors tend to be sharper than normal ones and are uniquely designed for sewing. Additionally, make sure to unplug your portable sewing machine before following this guide.",
+    "what_you_need": {
+        "parts": [
+            {
+                "text": "Bobbins",
+                "url": "https://www.amazon.com/Brother-Embroidery-Bobbins-10-pack-SA156/dp/B002NQJ5KA?tag=ifixitam-20",
+                "affiliate_link": "https://www.amazon.com/Brother-Embroidery-Bobbins-10-pack-SA156/dp/B002NQJ5KA?tag=ifixitam-20",
+                "available_on_amazon": "https://www.amazon.com/Brother-Embroidery-Bobbins-10-pack-SA156/dp/B002NQJ5KA?tag=ifixitam-20",
+                "view_link": "https://www.amazon.com/Brother-Embroidery-Bobbins-10-pack-SA156/dp/B002NQJ5KA?tag=ifixitam-20"
+            }
+        ],
+        "tools": [
+            {
+                "text": "Fabric Scissors",
+                "url": "http://www.amazon.com/Gingher-8-Inch-Knife-Dressmakers-Shears/dp/B000UU6SR4/?tag=ifixitam-20",
+                "image": "https://guide-images.cdn.ifixit.com/igi/X6YchoNrn3JofSsY.thumbnail",
+                "affiliate_link": "http://www.amazon.com/Gingher-8-Inch-Knife-Dressmakers-Shears/dp/B000UU6SR4/?tag=ifixitam-20",
+                "available_on_amazon": "http://www.amazon.com/Gingher-8-Inch-Knife-Dressmakers-Shears/dp/B000UU6SR4/?tag=ifixitam-20",
+                "view_link": "http://www.amazon.com/Gingher-8-Inch-Knife-Dressmakers-Shears/dp/B000UU6SR4/?tag=ifixitam-20"
+            }
+        ]
+    },
+    "steps": [
+        {
+            "step_number": 1,
+            "title": "Bobbin",
+            "text": "Make sure that the presser foot (the part that holds fabric in place) is in the raised position before removing the bobbin cover.\nLift the bobbin cover case found beneath the needle.",
+            "image": "https://guide-images.cdn.ifixit.com/igi/2qIMbQIQbAcDBP1I.medium",
+            "image_links": [],
+            "edit_link": "https://www.ifixit.com/Guide/edit/151622/315329",
+            "comment_links": []
+        },
+        {
+            "step_number": 2,
+            "title": "",
+            "text": "Pull the defective bobbin out of the bobbin case and dispose of it properly.\nEmpty the thread from the defective bobbin before disposing of it so you can use the excess thread.",
+            "image": "https://guide-images.cdn.ifixit.com/igi/hUJrDMb6wa2GISYK.medium",
+            "image_links": [],
+            "edit_link": "https://www.ifixit.com/Guide/edit/151622/315330",
+            "comment_links": []
+        },
+        {
+            "step_number": 3,
+            "title": "",
+            "text": "Take the new bobbin and place it inside the bobbin case.\nPull at least two inches of thread from the end of the bobbin so you're able to access it and it doesn't get tangled.",
+            "image_links": [],
+            "edit_link": "https://www.ifixit.com/Guide/edit/151622/315331",
+            "comment_links": []
+        },
+        {
+            "step_number": 4,
+            "title": "",
+            "text": "Pull the thread at the end of the bobbin that's sticking out from the base of the machine.",
+            "image_links": [],
+            "edit_link": "https://www.ifixit.com/Guide/edit/151622/315332",
+            "comment_links": []
+        },
+        {
+            "step_number": 5,
+            "title": "",
+            "text": "Insert the thread carefully to the tension-adjusting spring of the bobbin case.\nThe Brother CE8080 has a built-in arrow guide that shows you where to insert the thread.",
+            "image_links": [],
+            "edit_link": "https://www.ifixit.com/Guide/edit/151622/315333",
+            "comment_links": []
+        },
+        {
+            "step_number": 6,
+            "title": "",
+            "text": "Cut off excess thread using fabric scissors.\nMake sure to cut the end of the thread at a slanted angle to prevent thread breakage.",
+            "image_links": [],
+            "edit_link": "https://www.ifixit.com/Guide/edit/151622/315334",
+            "comment_links": []
+        },
+        {
+            "step_number": 7,
+            "title": "",
+            "text": "Place the bobbin cover back in its original position on the sewing machine.\nMake sure it \"clicks\" when placing the bobbin cover back. The click sound ensures that the cover is locked.",
+            "image_links": [],
+            "edit_link": "https://www.ifixit.com/Guide/edit/151622/315335",
+            "comment_links": []
+        }
+    ],
+    "conclusion": {
+        "text": "To reassemble your device, follow these instructions in reverse order.",
+        "author_points": 30,
+        "cancel_link": "https://www.ifixit.com/Guide/Brother+CE8080+Bobbin+Replacement/<#>"
+    },
+    "embed_code": "<iframe id=\"dozuki-embed-151622\" src=\"https://www.ifixit.com/Guide/embed/151622/full\" width=\"800\" allowfullscreen frameborder=\"0\"></iframe> <script>window.addEventListener(\"message\",function(a){var b=document.getElementById(\"dozuki-embed-151622\"),c=a.data[0],d=a.data[1];switch(c){case\"setHeight\":b.style.height=d+\"px\"}},!1);</script> <iframe src=\"https://www.ifixit.com/Guide/embed/151622\" width=\"800\" height=\"584\" allowfullscreen frameborder=\"0\"></iframe>"
+}

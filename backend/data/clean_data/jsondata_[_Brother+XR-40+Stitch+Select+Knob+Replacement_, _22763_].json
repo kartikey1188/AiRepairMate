@@ -1,0 +1,127 @@
+{
+    "metadata": {
+        "title": "Brother XR-40 Stitch Select Knob Replacement",
+        "last_updated": "October 24, 2022",
+        "guide_image": "https://guide-images.cdn.ifixit.com/igi/5srqyVYIMxnu1yHJ.140x105",
+        "estimated_time": "10 minutes",
+        "difficulty": "Moderate",
+        "device_links": [
+            {
+                "text": "Brother XR-40",
+                "url": "https://www.ifixit.com/Device/Brother_XR-40"
+            },
+            {
+                "text": "Sewing Machine",
+                "url": "https://www.ifixit.com/Device/Sewing_Machine"
+            },
+            {
+                "text": "Arts, Crafts & Sewing",
+                "url": "https://www.ifixit.com/Device/Arts_Crafts_and_Sewing"
+            },
+            {
+                "text": "Household",
+                "url": "https://www.ifixit.com/Device/Household"
+            },
+            {
+                "text": "Home",
+                "url": "https://www.ifixit.com/Guide"
+            }
+        ],
+        "parts_links": [
+            {
+                "text": "Guides",
+                "url": "https://www.ifixit.com/Device/Brother_XR-40#Section_Guides"
+            },
+            {
+                "text": "Answers",
+                "url": "https://www.ifixit.com/Answers/Device/Brother_XR-40"
+            }
+        ],
+        "edit_link": "https://www.ifixit.com/Guide/edit/22763"
+    },
+    "introduction": "In order to switch the stitching styles of your sewing machine, the stitch select knob must be properly functioning. This guide will show the steps for replacement.",
+    "what_you_need": {
+        "tools": [
+            {
+                "text": "Phillips #2 Screwdriver",
+                "url": "https://www.ifixit.com/products/6-in-1-screwdriver",
+                "image": "https://cart-products.cdn.ifixit.com/cart-products/LYcK13TjejldWD5Y.thumbnail",
+                "price": "$6.99"
+            }
+        ]
+    },
+    "steps": [
+        {
+            "step_number": 1,
+            "title": "Back Panel",
+            "text": "Place the machine on a solid surface.\nRemove the 14mm Phillips #2 screw holding on the face cover.",
+            "image": "https://guide-images.cdn.ifixit.com/igi/xUpvdVUuBtCAINGw.medium",
+            "image_links": [],
+            "edit_link": "https://www.ifixit.com/Guide/edit/22763/59538",
+            "comment_links": []
+        },
+        {
+            "step_number": 2,
+            "title": "",
+            "text": "Remove the two 14mm Phillips #2 screws and two 22mm Phillips #2 screws that secure the rear casing.",
+            "image": "https://guide-images.cdn.ifixit.com/igi/htxYfpdJaFOwTnAd.medium",
+            "image_links": [],
+            "edit_link": "https://www.ifixit.com/Guide/edit/22763/59516",
+            "comment_links": []
+        },
+        {
+            "step_number": 3,
+            "title": "",
+            "text": "Lay the machine on its side.\nRemove the four 10mm Phillips #2 screws that hold the bottom panel in place.\nThe feet will come off with the screws.",
+            "image_links": [],
+            "edit_link": "https://www.ifixit.com/Guide/edit/22763/59520",
+            "comment_links": []
+        },
+        {
+            "step_number": 4,
+            "title": "",
+            "text": "Remove the bottom panel.",
+            "image_links": [],
+            "edit_link": "https://www.ifixit.com/Guide/edit/22763/59537",
+            "comment_links": []
+        },
+        {
+            "step_number": 5,
+            "title": "",
+            "text": "Place the machine upright.\nRemove the rear casing.\nYou may have to wiggle the panel and pull at the same time.",
+            "image_links": [],
+            "edit_link": "https://www.ifixit.com/Guide/edit/22763/59521",
+            "comment_links": []
+        },
+        {
+            "step_number": 6,
+            "title": "Stitch Select Knob",
+            "text": "Adjust the knob to gain access to the phillips head screw.",
+            "image_links": [],
+            "edit_link": "https://www.ifixit.com/Guide/edit/22763/59610",
+            "comment_links": []
+        },
+        {
+            "step_number": 7,
+            "title": "",
+            "text": "Remove the 14mm Phillips #2 screw.",
+            "image_links": [],
+            "edit_link": "https://www.ifixit.com/Guide/edit/22763/59611",
+            "comment_links": []
+        },
+        {
+            "step_number": 8,
+            "title": "",
+            "text": "Remove the knob.",
+            "image_links": [],
+            "edit_link": "https://www.ifixit.com/Guide/edit/22763/59612",
+            "comment_links": []
+        }
+    ],
+    "conclusion": {
+        "text": "To reassemble your device, follow these instructions in reverse order.",
+        "author_points": 30,
+        "cancel_link": "https://www.ifixit.com/Guide/Brother+XR-40+Stitch+Select+Knob+Replacement/<#>"
+    },
+    "embed_code": "<iframe id=\"dozuki-embed-22763\" src=\"https://www.ifixit.com/Guide/embed/22763/full\" width=\"800\" allowfullscreen frameborder=\"0\"></iframe> <script>window.addEventListener(\"message\",function(a){var b=document.getElementById(\"dozuki-embed-22763\"),c=a.data[0],d=a.data[1];switch(c){case\"setHeight\":b.style.height=d+\"px\"}},!1);</script> <iframe src=\"https://www.ifixit.com/Guide/embed/22763\" width=\"800\" height=\"584\" allowfullscreen frameborder=\"0\"></iframe>"
+}

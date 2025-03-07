@@ -1,0 +1,102 @@
+{
+    "metadata": {
+        "title": "Ambient Weather WS-1001-Wifi LCD Screen Replacement",
+        "last_updated": "December 20, 2016",
+        "guide_image": "https://guide-images.cdn.ifixit.com/igi/PjGgpOmWfhYtsiUh.140x105",
+        "estimated_time": "10 - 15 minutes",
+        "difficulty": "Moderate",
+        "community_guide": true,
+        "device_links": [
+            {
+                "text": "Ambient Weather Observer",
+                "url": "https://www.ifixit.com/Device/Ambient_Weather_WS-1001-Wifi"
+            },
+            {
+                "text": "Weather Station",
+                "url": "https://www.ifixit.com/Device/Weather_Station"
+            },
+            {
+                "text": "Patio, Lawn & Garden",
+                "url": "https://www.ifixit.com/Device/Lawn_and_Garden"
+            },
+            {
+                "text": "Household",
+                "url": "https://www.ifixit.com/Device/Household"
+            },
+            {
+                "text": "Home",
+                "url": "https://www.ifixit.com/Guide"
+            }
+        ],
+        "parts_links": [
+            {
+                "text": "Guides",
+                "url": "https://www.ifixit.com/Device/Ambient_Weather_WS-1001-Wifi#Section_Guides"
+            },
+            {
+                "text": "Answers",
+                "url": "https://www.ifixit.com/Answers/Device/Ambient_Weather_WS-1001-Wifi"
+            }
+        ],
+        "edit_link": "https://www.ifixit.com/Guide/edit/99941"
+    },
+    "introduction": "In this repair guide, we will be replacing the LCD screen. This will need to be replaced if the screen is cracked or unresponsive when the device is powered on. For this fix you will need a Philips #1 screwdriver and a small plastic tool to remove the ribbon cable and pry the plastic covering open. It is imperative to carefully remove the ribbon cable because it is connected to the circuit board that powers the system. This guide is fairly simple and requires a minimal amount of time.\nGood Luck!",
+    "what_you_need": {
+        "tools": [
+            {
+                "text": "Phillips #1 Screwdriver",
+                "url": "https://www.ifixit.com/products/phillips-1-screwdriver",
+                "image": "https://cart-products.cdn.ifixit.com/cart-products/dFxEXEXNVRdNBvCX.thumbnail",
+                "price": "$5.49 New / iFixit$8.99 New / Moody - Made in USA"
+            },
+            {
+                "text": "iFixit Opening Tool",
+                "url": "https://www.ifixit.com/products/ifixit-opening-tool",
+                "image": "https://cart-products.cdn.ifixit.com/cart-products/dPx63wucK43PlWnH.thumbnail",
+                "price": "$1.99 Individual / New$4.99 5 / New"
+            }
+        ]
+    },
+    "steps": [
+        {
+            "step_number": 1,
+            "title": "LCD Screen",
+            "text": "First, you will need to remove all four M2x1-7 screws (7mm length) located on the back of the device. This should be done using a Phillips #1 screw driver.",
+            "image": "https://guide-images.cdn.ifixit.com/igi/XI3NC23DPQYogTkD.medium",
+            "image_links": [],
+            "edit_link": "https://www.ifixit.com/Guide/edit/99941/185620",
+            "comment_links": []
+        },
+        {
+            "step_number": 2,
+            "title": "",
+            "text": "From the side of the device use the plastic opening tool to pry the gray front casing from the rear black casing.\nThe ribbon cable is attached inside so the two pieces will not come completely apart. See step 3.",
+            "image": "https://guide-images.cdn.ifixit.com/igi/QEFalJjOQSBvQsAG.medium",
+            "image_links": [],
+            "edit_link": "https://www.ifixit.com/Guide/edit/99941/185627",
+            "comment_links": []
+        },
+        {
+            "step_number": 3,
+            "title": "",
+            "text": "Using a plastic opening tool, carefully press the black bar towards the ribbon and away from the white bar in order to release it.\nThe ribbon cable should come out and be attached to the back of the LCD screen resulting in two separate pieces.",
+            "image_links": [],
+            "edit_link": "https://www.ifixit.com/Guide/edit/99941/185631",
+            "comment_links": []
+        },
+        {
+            "step_number": 4,
+            "title": "",
+            "text": "Next, you need to remove the LCD screen from the front casing.\nPush on the front of the LCD screen to pop it out as seen in picture 2.",
+            "image_links": [],
+            "edit_link": "https://www.ifixit.com/Guide/edit/99941/185654",
+            "comment_links": []
+        }
+    ],
+    "conclusion": {
+        "text": "To reassemble your device, follow these instructions in reverse order.",
+        "author_points": 30,
+        "cancel_link": "https://www.ifixit.com/Guide/Ambient+Weather+WS-1001-Wifi+LCD+Screen+Replacement/<#>"
+    },
+    "embed_code": "<iframe id=\"dozuki-embed-99941\" src=\"https://www.ifixit.com/Guide/embed/99941/full\" width=\"800\" allowfullscreen frameborder=\"0\"></iframe> <script>window.addEventListener(\"message\",function(a){var b=document.getElementById(\"dozuki-embed-99941\"),c=a.data[0],d=a.data[1];switch(c){case\"setHeight\":b.style.height=d+\"px\"}},!1);</script> <iframe src=\"https://www.ifixit.com/Guide/embed/99941\" width=\"800\" height=\"584\" allowfullscreen frameborder=\"0\"></iframe>"
+}

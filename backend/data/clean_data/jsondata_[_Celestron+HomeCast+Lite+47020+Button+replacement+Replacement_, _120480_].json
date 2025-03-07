@@ -1,0 +1,93 @@
+{
+    "metadata": {
+        "title": "Celestron HomeCast Lite 47020 Button replacement Replacement",
+        "last_updated": "January 6, 2023",
+        "guide_image": "https://guide-images.cdn.ifixit.com/igi/F4jTLo2IeKQGZcIJ.140x105",
+        "estimated_time": "3 minutes",
+        "difficulty": "Moderate",
+        "community_guide": true,
+        "device_links": [
+            {
+                "text": "Celestron HomeCast Lite 47020",
+                "url": "https://www.ifixit.com/Device/Celestron_HomeCast_Lite_47020"
+            },
+            {
+                "text": "Sewing Machine",
+                "url": "https://www.ifixit.com/Device/Sewing_Machine"
+            },
+            {
+                "text": "Arts, Crafts & Sewing",
+                "url": "https://www.ifixit.com/Device/Arts_Crafts_and_Sewing"
+            },
+            {
+                "text": "Household",
+                "url": "https://www.ifixit.com/Device/Household"
+            },
+            {
+                "text": "Home",
+                "url": "https://www.ifixit.com/Guide"
+            }
+        ],
+        "parts_links": [],
+        "edit_link": "https://www.ifixit.com/Guide/edit/120480"
+    },
+    "introduction": "This guide will show you how to replace a button in the Celestron HomeCast Lite 47020.",
+    "what_you_need": {
+        "tools": [
+            {
+                "text": "Phillips #000 Screwdriver",
+                "url": "https://www.ifixit.com/products/phillips-000-screwdriver",
+                "image": "https://cart-products.cdn.ifixit.com/cart-products/TItFgnV21b3m5DCU.thumbnail",
+                "price": "$5.49 New / iFixit$9.99 New / Moody - Made in USA"
+            }
+        ]
+    },
+    "steps": [
+        {
+            "step_number": 1,
+            "title": "Button replacement",
+            "text": "1. Find the main unit appearance\n2. Open the main unit appearance, by taking of the four screws",
+            "image": "https://guide-images.cdn.ifixit.com/igi/F4jTLo2IeKQGZcIJ.medium",
+            "image_links": [
+                "https://guide-images.cdn.ifixit.com/igi/F4jTLo2IeKQGZcIJ.200x150",
+                "https://guide-images.cdn.ifixit.com/igi/ckrOBOsEYJ5Muwx3.200x150",
+                "https://guide-images.cdn.ifixit.com/igi/QVMCuhYLCqIjPNPk.200x150"
+            ],
+            "edit_link": "https://www.ifixit.com/Guide/edit/120480/232376",
+            "comment_links": [],
+            "additional_images": [
+                "https://guide-images.cdn.ifixit.com/igi/ckrOBOsEYJ5Muwx3.medium",
+                "https://guide-images.cdn.ifixit.com/igi/QVMCuhYLCqIjPNPk.medium"
+            ]
+        },
+        {
+            "step_number": 2,
+            "title": "",
+            "text": "Find the button control board, it will be the brown small board\ntake the screws out to the board, and it is total 5 of them.",
+            "image": "https://guide-images.cdn.ifixit.com/igi/1ILWhclqLwuTkuBn.medium",
+            "image_links": [
+                "https://guide-images.cdn.ifixit.com/igi/1ILWhclqLwuTkuBn.200x150",
+                "https://guide-images.cdn.ifixit.com/igi/ytPuhY2H6km5oT6Z.200x150"
+            ],
+            "edit_link": "https://www.ifixit.com/Guide/edit/120480/232454",
+            "comment_links": [],
+            "additional_images": [
+                "https://guide-images.cdn.ifixit.com/igi/ytPuhY2H6km5oT6Z.medium"
+            ]
+        },
+        {
+            "step_number": 3,
+            "title": "",
+            "text": "Carefully move the button control board\nThere will be the button\nTake out the button.",
+            "image_links": [],
+            "edit_link": "https://www.ifixit.com/Guide/edit/120480/232459",
+            "comment_links": []
+        }
+    ],
+    "conclusion": {
+        "text": "To reassemble your device, follow these instructions in reverse order.",
+        "author_points": 30,
+        "cancel_link": "https://www.ifixit.com/Guide/Celestron+HomeCast+Lite+47020+Button+replacement+Replacement/<#>"
+    },
+    "embed_code": "<iframe id=\"dozuki-embed-120480\" src=\"https://www.ifixit.com/Guide/embed/120480/full\" width=\"800\" allowfullscreen frameborder=\"0\"></iframe> <script>window.addEventListener(\"message\",function(a){var b=document.getElementById(\"dozuki-embed-120480\"),c=a.data[0],d=a.data[1];switch(c){case\"setHeight\":b.style.height=d+\"px\"}},!1);</script> <iframe src=\"https://www.ifixit.com/Guide/embed/120480\" width=\"800\" height=\"584\" allowfullscreen frameborder=\"0\"></iframe>"
+}

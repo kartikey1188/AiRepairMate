@@ -1,0 +1,119 @@
+{
+    "metadata": {
+        "title": "AcuRite 02032 Wind Vane Replacement",
+        "last_updated": "December 20, 2016",
+        "guide_image": "https://guide-images.cdn.ifixit.com/igi/ggYdKRHahYJumY4w.140x105",
+        "estimated_time": "7 minutes",
+        "difficulty": "Easy",
+        "community_guide": true,
+        "device_links": [
+            {
+                "text": "AcuRite 02032",
+                "url": "https://www.ifixit.com/Device/AcuRite_02032"
+            },
+            {
+                "text": "Weather Station",
+                "url": "https://www.ifixit.com/Device/Weather_Station"
+            },
+            {
+                "text": "Patio, Lawn & Garden",
+                "url": "https://www.ifixit.com/Device/Lawn_and_Garden"
+            },
+            {
+                "text": "Household",
+                "url": "https://www.ifixit.com/Device/Household"
+            },
+            {
+                "text": "Home",
+                "url": "https://www.ifixit.com/Guide"
+            }
+        ],
+        "parts_links": [
+            {
+                "text": "Guides",
+                "url": "https://www.ifixit.com/Device/AcuRite_02032#Section_Guides"
+            },
+            {
+                "text": "Answers",
+                "url": "https://www.ifixit.com/Answers/Device/AcuRite_02032"
+            }
+        ],
+        "edit_link": "https://www.ifixit.com/Guide/edit/72155"
+    },
+    "introduction": "This guide will teach you how to replace the wind vane",
+    "what_you_need": {
+        "tools": [
+            {
+                "text": "Phillips #1 Screwdriver",
+                "url": "https://www.ifixit.com/products/phillips-1-screwdriver",
+                "image": "https://cart-products.cdn.ifixit.com/cart-products/dFxEXEXNVRdNBvCX.thumbnail",
+                "price": "$5.49 New / iFixit$8.99 New / Moody - Made in USA"
+            },
+            {
+                "text": "JIS Driver Set",
+                "url": "https://www.ifixit.com/products/jis-driver-set",
+                "image": "https://cart-products.cdn.ifixit.com/cart-products/dbfkd4hnhSHKmyrN.thumbnail",
+                "price": "$19.99",
+                "view_link": "https://www.ifixit.com/products/jis-driver-set"
+            }
+        ]
+    },
+    "steps": [
+        {
+            "step_number": 1,
+            "title": "Battery",
+            "text": "Remove the battery compartment lid by lifting upward.",
+            "image": "https://guide-images.cdn.ifixit.com/igi/ZNsNxWNdq2HbfSGU.medium",
+            "image_links": [
+                "https://guide-images.cdn.ifixit.com/igi/ZNsNxWNdq2HbfSGU.200x150",
+                "https://guide-images.cdn.ifixit.com/igi/vD6w2suZwYLiK5Xb.200x150",
+                "https://guide-images.cdn.ifixit.com/igi/TOoRScvG6KuJ452O.200x150"
+            ],
+            "edit_link": "https://www.ifixit.com/Guide/edit/72155/143974",
+            "comment_links": [],
+            "additional_images": [
+                "https://guide-images.cdn.ifixit.com/igi/vD6w2suZwYLiK5Xb.medium",
+                "https://guide-images.cdn.ifixit.com/igi/TOoRScvG6KuJ452O.medium"
+            ]
+        },
+        {
+            "step_number": 2,
+            "title": "",
+            "text": "Pull the ribbon to eject the 2 X AA alkaline batteries.",
+            "image": "https://guide-images.cdn.ifixit.com/igi/aZgwxARfltbU1Wi5.medium",
+            "image_links": [],
+            "edit_link": "https://www.ifixit.com/Guide/edit/72155/143976",
+            "comment_links": []
+        },
+        {
+            "step_number": 3,
+            "title": "",
+            "text": "Once the batteries are removed, it is safe to proceed.",
+            "image_links": [],
+            "edit_link": "https://www.ifixit.com/Guide/edit/72155/143980",
+            "comment_links": []
+        },
+        {
+            "step_number": 4,
+            "title": "Wind Vane",
+            "text": "Firmly grasp the windvane with one hand and the rest of the device with the other hand.\nPull straight outwards. A quick yank with force should be enough to remove the propeller.",
+            "image_links": [],
+            "edit_link": "https://www.ifixit.com/Guide/edit/72155/144044",
+            "comment_links": []
+        },
+        {
+            "step_number": 5,
+            "title": "",
+            "text": "To reattach the replacement wind vane, line up the small notch in the socket where the pieces fit together then carefully push the parts together.",
+            "image_links": [],
+            "edit_link": "https://www.ifixit.com/Guide/edit/72155/144045",
+            "comment_links": []
+        }
+    ],
+    "conclusion": {
+        "text": "To reassemble your device, follow these instructions in reverse order.",
+        "author_points": 30,
+        "cancel_link": "https://www.ifixit.com/Guide/AcuRite+02032+Wind+Vane+Replacement/<#>"
+    },
+    "embed_code": "<iframe id=\"dozuki-embed-72155\" src=\"https://www.ifixit.com/Guide/embed/72155/full\" width=\"800\" allowfullscreen frameborder=\"0\"></iframe> <script>window.addEventListener(\"message\",function(a){var b=document.getElementById(\"dozuki-embed-72155\"),c=a.data[0],d=a.data[1];switch(c){case\"setHeight\":b.style.height=d+\"px\"}},!1);</script> <iframe src=\"https://www.ifixit.com/Guide/embed/72155\" width=\"800\" height=\"584\" allowfullscreen frameborder=\"0\"></iframe>"
+}
