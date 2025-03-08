@@ -35,15 +35,22 @@ def describe_image(image: str):
     # Step 2: Get contextual description from Gemini
     model = ChatGoogleGenerativeAI(model=MODEL_NAME)
     
-    response = model.invoke([
-        {"role": "system", "content": "Describe the image in detail, including objects, scene, and any visible text."},
-        {"role": "user", "content": f"Here is an image. Analyze it and describe the objects, scene, and text found in it."},
+    response_1 = model.invoke([
+        {"role": "system", "content": "You are a master at describing images."},
+        {"role": "user", "content": "Here is an image. Give me a proper descriptio of it."},
         {"role": "user", "content": image}  # Properly passing base64 image
     ])
     
-    gemini_description = clean_text(response.content) if response else "Could not generate description."
+    gemini_description = clean_text(response_1.content) if response_1 else "Could not generate description."
     
     # Step 3: Combine both responses
-    final_description = f"OCR Extracted Text: {ocr_text}\n\nGemini Description: {gemini_description}"
+    combined_description = f"OCR Extracted Text: {ocr_text}\n\nGemini Description: {gemini_description}"
+
+    response_2 = model.invoke([
+        {"role": "user", "content": "Here is the combined description of an image using OCR text and Gemini description (sometimes you might not see either one of them - in that case, just use the one that's present). I want you to give me a unified description of that image based on this combined information, retaining and understanding key details, context and environment."},
+        {"role": "user", "content": combined_description} 
+    ])
     
+    final_description = clean_text(response_2.content) if response_2 else "Could not generate final description."
+
     return final_description
