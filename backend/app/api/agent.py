@@ -42,7 +42,7 @@ tools = [describe_audio, find_closest_match, describe_image, get_chat_history]
 custom_prompt = ChatPromptTemplate.from_messages([
     SystemMessagePromptTemplate.from_template(system_text44),
     HumanMessagePromptTemplate.from_template(
-        "User ID: {user_id}, Query: {input}, Image_Description: {image_description}, Audio_Description: {audio_description}"
+        "User ID: {user_id}, Query: {input}, Image: {image}, Audio: {audio}"
     )
 ])
 
@@ -79,8 +79,8 @@ class MainAgent(Resource):
             agent_input = {
                 "user_id": user_id,
                 "input": query if query else "No Query Provided",
-                "image_description": image_bytes if image_bytes else "No Image Provided",
-                "audio_description": audio_bytes if audio_bytes else "No Audio Provided",
+                "image": image_bytes if image_bytes else "No Image Provided",
+                "audio": audio_bytes if audio_bytes else "No Audio Provided",
             }
 
             # Call agent

@@ -25,10 +25,10 @@ def extract_text_from_image(image_bytes):
     return clean_text(extracted_text)  # Apply cleaning to OCR result
 
 @tool
-def describe_image(image_base64: str):
+def describe_image(image: str):
     """Takes an image as input, extracts text using OCR, then generates a detailed description using Gemini-2.0-Flash-Exp-Image. Focus on finding and describing what the particular appliance/thing is, what its exact model is, and what the issue is."""
     
-    image_bytes = base64.b64decode(image_base64)
+    image_bytes = base64.b64decode(image)
 
     # Step 1: Extract and clean text using OCR
     ocr_text = extract_text_from_image(image_bytes)
@@ -38,7 +38,7 @@ def describe_image(image_base64: str):
     
     response = model.invoke([
         {"type": "text", "text": "Describe the image in detail, including objects, scene, and any visible text."},
-        {"type": "image", "image": image_bytes}
+        {"type": "image", "image": image}
     ])
     
     gemini_description = clean_text(response.content) if response else "Could not generate description."

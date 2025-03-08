@@ -16,14 +16,14 @@ def clean_text(text):
     return text.strip()
 
 @tool
-def describe_audio(audio_base64: str):
+def describe_audio(audio: str):
     """Takes an audio file as input and returns a detailed description using Gemini-2.0-Flash-Exp-Audio. Focus on finding and describing what the particular appliance/thing is, what its exact model is, and what the issue is."""
     
     model = ChatGoogleGenerativeAI(model=MODEL_NAME)
     
     response = model.invoke([
         {"type": "text", "text": "Describe the audio content in detail, including speech, sounds, and background noise."},
-        {"type": "audio", "audio": audio_base64}
+        {"type": "audio", "audio": audio}
     ])
     
     return clean_text(response.content) if response else "Could not generate description."
