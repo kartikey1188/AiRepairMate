@@ -7,7 +7,7 @@ import pytesseract
 from PIL import Image
 import io
 
-MODEL_NAME = "gemini-2.0-flash-exp-image"
+MODEL_NAME = "gemini-2.0-flash"
 
 def clean_text(text):
     """Cleans LLM-generated text while preserving actual content."""
@@ -24,7 +24,6 @@ def extract_text_from_image(image_bytes):
     extracted_text = pytesseract.image_to_string(image)
     return clean_text(extracted_text)  # Apply cleaning to OCR result
 
-@tool
 def describe_image(image: str):
     """Takes an image as input, extracts text using OCR, then generates a detailed description using Gemini-2.0-Flash-Exp-Image. Focus on finding and describing what the particular appliance/thing is, what its exact model is, and what the issue is."""
     
@@ -37,13 +36,14 @@ def describe_image(image: str):
     model = ChatGoogleGenerativeAI(model=MODEL_NAME)
     
     response = model.invoke([
-        {"type": "text", "text": "Describe the image in detail, including objects, scene, and any visible text."},
-        {"type": "image", "image": image}
+        {"role": "system", "content": "Describe the image in detail, including objects, scene, and any visible text."},
+        {"role": "user", "content": f"Here is an image. Analyze it and describe the objects, scene, and text found in it."},
+        {"role": "user", "content": image}  # Properly passing base64 image
     ])
     
     gemini_description = clean_text(response.content) if response else "Could not generate description."
     
     # Step 3: Combine both responses
-    final_description = f"**OCR Extracted Text:** {ocr_text}\n\n**Gemini Description:** {gemini_description}"
+    final_description = f"OCR Extracted Text: {ocr_text}\n\nGemini Description: {gemini_description}"
     
     return final_description

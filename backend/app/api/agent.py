@@ -18,7 +18,7 @@ from langchain.prompts import ChatPromptTemplate, SystemMessagePromptTemplate, H
 from langchain_google_firestore import FirestoreChatMessageHistory
 from google.cloud import firestore
 
-# Load environment variables
+# Loading environment variables
 load_dotenv()
 
 # Firestore setup
@@ -34,19 +34,17 @@ vector_db = Chroma(persist_directory=persistent_directory, embedding_function=em
 
 llm_general = ChatGoogleGenerativeAI(model="gemini-2.0-flash")
 
-# Define tools
-tools = [describe_audio, find_closest_match, describe_image, get_chat_history]
-
-#print("Registered tools:", tools)
+# Defining tools
+tools = [find_closest_match, get_chat_history]
 
 custom_prompt = ChatPromptTemplate.from_messages([
     SystemMessagePromptTemplate.from_template(system_text44),
     HumanMessagePromptTemplate.from_template(
-        "User ID: {user_id}, Query: {input}, Image: {image}, Audio: {audio}"
+        "User ID: {user_id}, Query: {input}, Image Description: {image}, Audio Description: {audio}"
     )
 ])
 
-# Create Agent
+# Creating Agent
 agent = create_react_agent(llm_general, tools, custom_prompt)
 agent_executor = AgentExecutor(agent=agent, tools=tools, verbose=True, handle_parsing_errors=True)
 
@@ -64,8 +62,20 @@ class MainAgent(Resource):
             image_file = request.files.get("image")
             audio_file = request.files.get("audio")
 
-            image_bytes = convert_to_base64(image_file) if image_file else None
-            audio_bytes = convert_to_base64(audio_file) if audio_file else None
+            image_description = "No Image Provided"
+            audio_description = "No Audio Provided"
+
+            if image_file:
+                image_bytes = convert_to_base64(image_file)
+                image_description = describe_image(image_bytes) if image_bytes else "Couldn't convert to base64 successfully."
+            
+            print("Image description:", image_description)
+
+            if audio_file:
+                audio_bytes = convert_to_base64(audio_file)
+                audio_description = describe_audio(audio_bytes) if audio_bytes else "Couldn't convert to base64 successfully."
+            
+            print("Audio description:", audio_description)
 
             # Firestore chat history setup
             chat_history = FirestoreChatMessageHistory(
@@ -75,29 +85,27 @@ class MainAgent(Resource):
             if query:
                 chat_history.add_user_message(query)
             
-            # Prepare agent input
+            # Preparing agent input
             agent_input = {
                 "user_id": user_id,
                 "input": query if query else "No Query Provided",
-                "image": image_bytes if image_bytes else "No Image Provided",
-                "audio": audio_bytes if audio_bytes else "No Audio Provided",
+                "image": image_description,
+                "audio": audio_description
             }
 
-            # Call agent
+            # Calling agent
             agent_response = agent_executor.invoke(agent_input)
 
-            print("Agent response:", agent_response)
-
-            # Extract text response from the agent's output dictionary
+            # Extracting text response from the agent's output dictionary
             output_text = agent_response.get("output", "")  # Get text or empty string
 
             print("Output_text:", output_text)
 
-            # Process the response
+            # Processing the response
             if isinstance(output_text, dict) and "filename" in output_text:
                 final_response = extract_final_data(output_text)
             else:
-                # Clean the extracted text output
+                # Cleaning the extracted text output
                 final_response = clean_text(output_text) if output_text else "No response from AI."
 
             chat_history.add_ai_message(final_response)
