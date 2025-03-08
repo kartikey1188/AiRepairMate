@@ -51,9 +51,9 @@ agent = create_react_agent(llm_general, tools, custom_prompt)
 agent_executor = AgentExecutor(agent=agent, tools=tools, verbose=True, handle_parsing_errors=True)
 
 
-def convert_to_bytes(file):
-    """Converts uploaded file to bytes."""
-    return base64.b64encode(file.read()).decode("utf-8")
+def convert_to_base64(file):
+    """Converts uploaded file to a base64 string."""
+    return base64.b64encode(file.read()).decode("utf-8") if file else None
 
 
 class MainAgent(Resource):
@@ -64,8 +64,8 @@ class MainAgent(Resource):
             image_file = request.files.get("image")
             audio_file = request.files.get("audio")
 
-            image_bytes = convert_to_bytes(image_file) if image_file else None
-            audio_bytes = convert_to_bytes(audio_file) if audio_file else None
+            image_bytes = convert_to_base64(image_file) if image_file else None
+            audio_bytes = convert_to_base64(audio_file) if audio_file else None
 
             # Firestore chat history setup
             chat_history = FirestoreChatMessageHistory(
