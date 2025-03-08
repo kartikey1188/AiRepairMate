@@ -1,6 +1,7 @@
 import os
 import traceback
 import base64
+import ast
 from flask import request, jsonify, current_app as app
 from flask_restful import Resource
 from dotenv import load_dotenv
@@ -101,14 +102,17 @@ class MainAgent(Resource):
 
             print("Output_text:", output_text)
 
-            # Processing the response
-            if isinstance(output_text, dict) and "filename" in output_text:
-                final_response = extract_final_data(output_text)
+            try:
+                check_dict = ast.literal_eval(output_text)
+            except (ValueError, SyntaxError):
+                check_dict = output_text  
+
+            if isinstance(check_dict, dict) and "filename" in check_dict:
+                final_response = extract_final_data(check_dict)
             else:
-                # Cleaning the extracted text output
                 final_response = clean_text(output_text) if output_text else "No response from AI."
 
-            chat_history.add_ai_message(final_response)
+            chat_history.add_ai_message(str(final_response))
 
             if not isinstance(final_response, (dict, str, list)):
                 final_response = str(final_response)  

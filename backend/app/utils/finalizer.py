@@ -1,10 +1,16 @@
 import json
+import os
+
+current_dir = os.path.dirname(os.path.abspath(__file__))  # Get the directory of the current file
+json_dir = os.path.abspath(os.path.join(current_dir, "..", "..", "data", "clean_data")) # Get the directory of the JSON files
 
 def extract_final_data(metadata: dict):
     """Extracts relevant fields from the JSON file using the given metadata."""
-    file_path = metadata.get("filename")
-    if not file_path:
+    file_name = metadata.get("filename")
+    if not file_name:
         return {"error": "Filename not provided in metadata"}
+    
+    file_path = os.path.join(json_dir, file_name) # Get the full path of the JSON file
     
     try:
         with open(file_path, "r", encoding="utf-8") as f:
