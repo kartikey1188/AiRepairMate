@@ -6,8 +6,6 @@ import pytesseract
 from PIL import Image
 import io
 
-MODEL_NAME = "gemini-2.0-flash"
-
 def clean_text(text):
     """Cleans LLM-generated text while preserving actual content."""
     text = re.sub(r"\*\*(.*?)\*\*", r"\1", text)  # Remove bold (**bold** → bold)
@@ -32,7 +30,13 @@ def describe_image(image: str):
     ocr_text = extract_text_from_image(image_bytes)
     
     # Step 2: Get contextual description from Gemini
-    model = ChatGoogleGenerativeAI(model=MODEL_NAME)
+    model = ChatGoogleGenerativeAI(
+        model="gemini-2.0-flash", 
+        temperature=0.2,      # More factual, less randomness
+        top_k=40,             # Limits token choices
+        top_p=0.7,            # Ensures some response variety
+        max_output_tokens=500 # Allows longer descriptions
+    )
     
     response_1 = model.invoke([
         {"role": "system", "content": "You are a master at describing images."},
