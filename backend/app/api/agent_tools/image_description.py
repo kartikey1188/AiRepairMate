@@ -1,5 +1,4 @@
 from backend.app.api import *
-from langchain.agents import tool
 from langchain_google_genai import ChatGoogleGenerativeAI
 import base64
 import re
@@ -25,7 +24,7 @@ def extract_text_from_image(image_bytes):
     return clean_text(extracted_text)  # Apply cleaning to OCR result
 
 def describe_image(image: str):
-    """Takes an image as input, extracts text using OCR, then generates a detailed description using Gemini-2.0-Flash-Exp-Image. Focus on finding and describing what the particular appliance/thing is, what its exact model is, and what the issue is."""
+    """Takes an image as input, extracts text using OCR, then generates a detailed description using gemini-2.0-flash. Focus on finding and describing what the particular appliance/thing is, what its exact model is, and what the issue is."""
     
     image_bytes = base64.b64decode(image)
 
