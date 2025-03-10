@@ -60,7 +60,7 @@ def convert_to_base64(file):
 def google_ai_python_sdk_for_gemini_api(input):
     model = genai.GenerativeModel("gemini-2.0-flash")
     response = model.generate_content(
-        f"""From the following code, give me every step and any sort of title and description related to that step, and any image links related to that step too. Also, give me the embed code, and the tools required as well.
+        f"""From the following code, give me every step and any sort of title and description related to that step, and any image links related to that step too. Also, give me the embed code, and the tools required as well. Your response should be as if you're an AI Repair Agent.
 
         {input}
         """
