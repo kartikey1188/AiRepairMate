@@ -42,9 +42,9 @@ llm_general = ChatGoogleGenerativeAI(model="gemini-2.0-flash")
 tools = [find_closest_match, get_chat_history]
 
 custom_prompt = ChatPromptTemplate.from_messages([
-    SystemMessagePromptTemplate.from_template(system_text44),
+    SystemMessagePromptTemplate.from_template(system_text55),
     HumanMessagePromptTemplate.from_template(
-        "User ID: {user_id}, Query: {input}, Image Description: {image}, Audio Description: {audio}"
+        "User ID: {user_id}, Query: {input}, Image Description: {image}, Audio Description: {audio}, Video Description: {video}"
     )
 ])
 
@@ -74,9 +74,11 @@ class MainAgent(Resource):
             query = request.form.get("query", "")
             image_file = request.files.get("image")
             audio_file = request.files.get("audio")
+            video_file = request.files.get("video")
 
             image_description = "No Image Provided"
             audio_description = "No Audio Provided"
+            video_description = "No Video Provided"
 
             if image_file:
                 image_bytes = convert_to_base64(image_file)
@@ -89,6 +91,12 @@ class MainAgent(Resource):
                 audio_description = describe_audio(audio_bytes) if audio_bytes else "Couldn't convert to base64 successfully."
             
             print("Audio description:", audio_description)
+
+            if video_file:
+                video_bytes = convert_to_base64(video_file)
+                video_description = describe_video(video_bytes) if video_bytes else "Couldn't convert to base64 successfully."
+            
+            print("Video description:", video_description)
 
             # Firestore chat history setup
             chat_history = FirestoreChatMessageHistory(
@@ -103,7 +111,8 @@ class MainAgent(Resource):
                 "user_id": user_id,
                 "input": query if query else "No Query Provided",
                 "image": image_description,
-                "audio": audio_description
+                "audio": audio_description,
+                "video": video_description
             }
 
             # Calling agent

@@ -13,6 +13,6 @@ def get_chat_history(user_id):
     if not chat_history.messages:
         return "No chat history found."
     
-    last_7_messages = chat_history.messages[-7:]
+    last_5_messages = chat_history.messages[-5:]
 
-    return last_7_messages
+    return last_5_messages
