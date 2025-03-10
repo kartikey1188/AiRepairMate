@@ -6,6 +6,7 @@ from flask import request, jsonify, current_app as app
 from flask_restful import Resource
 from dotenv import load_dotenv
 from . import *
+import google.generativeai as genai
 
 from backend.app.api.agent_tools import *
 from backend.app.utils.strings import *
@@ -21,6 +22,8 @@ from google.cloud import firestore
 
 # Loading environment variables
 load_dotenv()
+GOOGLE_API_KEY = os.getenv("GOOGLE_API_KEY")
+genai.configure(api_key=GOOGLE_API_KEY)
 
 # Firestore setup
 COLLECTION_NAME = "ai_repair_chat_history"
@@ -54,6 +57,15 @@ def convert_to_base64(file):
     """Converts uploaded file to a base64 string."""
     return base64.b64encode(file.read()).decode("utf-8") if file else None
 
+def google_ai_python_sdk_for_gemini_api(input):
+    model = genai.GenerativeModel("gemini-2.0-flash")
+    response = model.generate_content(
+        f"""From the following code, give me every step and any sort of title and description related to that step, and any image links related to that step too. Also, give me the embed code, and the tools required as well.
+
+        {input}
+        """
+    )
+    return clean_text(response.text) if response and hasattr(response, "text") else "Could not generate description."
 
 class MainAgent(Resource):
     def post(self):
@@ -108,7 +120,7 @@ class MainAgent(Resource):
                 check_dict = output_text  
 
             if isinstance(check_dict, dict) and "filename" in check_dict:
-                final_response = extract_final_data(check_dict)
+                final_response = google_ai_python_sdk_for_gemini_api(extract_final_data(check_dict))
             else:
                 final_response = clean_text(output_text) if output_text else "No response from AI."
 
